@@ -1,0 +1,4 @@
+*.json
+*.ini
+*.txt
+__pycache__/

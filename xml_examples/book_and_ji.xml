@@ -1,0 +1,448 @@
+<pbl>
+    <files>
+        <!-- ... -->
+    </files>
+
+    <records>
+        <books>
+			<!-- event.status = published|draft|prepared -->
+
+            <book id="authors-book-id-11" type="authorsBook" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="B-src-id-01" flags="123">
+
+                <record-types>
+                    <record-type code="poem"/>
+                    <record-type code="novel"/>
+                </record-types>
+
+                <general-materials value="true" />
+
+                <authors anonymous="false" author-company="false">
+                    <author id="a0000001758844" juvenile="false" co-creator="true" principal="true"/>
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                </authors>
+
+                <titles>
+                    <title code="base" transliteration="false" newest="true">Książka 1</title>
+                    <title code="original" transliteration="true">K1</title>
+                </titles>
+
+                <languages>
+                    <language code="pl"/>
+                </languages>
+
+                <co-creators>
+                    <co-creator>
+                        <type code="translation" />
+                        <type code="adaptation" />
+                        <person id="person-id-01" />
+                    </co-creator>
+
+                    <co-creator>
+                        <type code="adaptation" />
+                        <person id="a0000001758844" />
+                    </co-creator>
+                </co-creators>
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#ji-nike</tag>
+                    <tag>#ji-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+<!-- types: -->
+<!-- authorsBook, collectiveBook, letters, anthology -->
+<!-- authorsBookContent, collectiveBookContent, lettersContent, anthologyContent -->
+<!-- journalItem, movie, rtv, spectacle -->
+
+                <linked-objects>
+                    <record-ref type="authorsBook" id="authors-book-id-12"/>
+                    <record-ref type="journalItem" id="journal-item-id-11"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+                    <series-ref id="s-id-01"/>
+                    <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="e-id-01"/>
+                    <event-series-ref id="es-id-01"/>
+                    <!-- ... -->
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+
+                <trigger-institutions>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                </trigger-institutions>
+
+				<publishing-houses by-author="false">
+				    <publishing-house id="ph-01">
+                        <institution id="institution-id-01"/>
+				        <places>
+					        <place id="http://www.wikidata.org/entity/Q10690" period="❦" lang="pl"/>
+					        <place id="http://www.wikidata.org/entity/Q104720" lang="pl"/>
+				        </places>
+                    </publishing-house>
+
+					<publishing-house id="ph-02">
+				        <places>
+					        <place id="http://www.wikidata.org/entity/Q102317" period="2005-10-01❦" />
+				        </places>
+                    </publishing-house>
+
+
+					<publishing-house id="ph-03">
+                        <institution id="https://viaf.org/viaf/000000000/"/>
+                    </publishing-house>
+
+					<publishing-house id="ph-04">
+                        <institution id="https://viaf.org/viaf/000000001/"/>
+				        <places>
+					        <place id="http://www.wikidata.org/entity/Q102317" period="2005-10-01❦" />
+				        </places>
+                    </publishing-house>
+				</publishing-houses>
+
+                <mailings>
+                    <mailing>
+                        <sender>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                        </sender>
+
+                        <addressee>
+                            <institution id="institution-id-15" />
+                        </addressee>
+                        <description>Opis pierwszego mailingu</description>
+                    </mailing>
+                </mailings>
+
+                <interviews>
+                    <interview>
+                        <interviewer>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                        </interviewer>
+                        <interlocutor>
+                            <institution id="institution-id-15" />
+                        </interlocutor>
+                        <description>Opis pierwszego mailingu</description>
+                    </interview>
+                </interviews>
+
+                <publication-year year="1994" uncertain="false" explanation="Wyjasnienie" type="publishing-years" /> <!-- publishing-years | copyright-years | different-years -->
+
+                <belonging-to-series series-number="23" sub-series-number="2323" publishing-series="pub-series-id-01" />
+
+                <!-- PhysicalDescription -->
+
+
+                <co-edited-books>
+                    <book-ref id="b-id-01" />
+                    <book-ref id="b-id-02" />
+                </co-edited-books>
+
+            </book>
+
+
+            <book id="authors-book-id-12" type="authorsBook" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="B-src-id-01" flags="123">
+
+                <record-types>
+                    <record-type code="poem"/>
+                    <record-type code="novel"/>
+                </record-types>
+
+                <general-materials value="true" />
+
+                <authors anonymous="false" author-company="false">
+                    <author id="a0000001758844" juvenile="false" co-creator="true" principal="true"/>
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                </authors>
+
+                <titles>
+                    <title code="base" transliteration="false" newest="true">Książka 2</title>
+                    <title code="dedication" transliteration="true">K2</title>
+                </titles>
+
+                <languages>
+                    <language code="pl"/>
+                </languages>
+
+                <co-creators>
+                    <co-creator>
+                        <type code="translation" />
+                        <type code="adaptation" />
+                        <person id="person-id-01" />
+                    </co-creator>
+
+                    <co-creator>
+                        <type code="adaptation" />
+                        <person id="a0000001758844" />
+                    </co-creator>
+                </co-creators>
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#ji-nike</tag>
+                    <tag>#ji-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref type="authorsBook" id="authors-book-id-11"/>
+                    <record-ref type="journalItem" id="journal-item-id-11"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+                    <series-ref id="s-id-01"/>
+                    <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="e-id-01"/>
+                    <event-series-ref id="es-id-01"/>
+                    <!-- ... -->
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+
+                <trigger-institutions>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                </trigger-institutions>
+
+				<publishing-houses by-author="false">
+				    <publishing-house id="ph-01">
+                        <institution id="institution-id-01"/>
+				        <places>
+					        <place id="http://www.wikidata.org/entity/Q10690" period="❦" lang="pl"/>
+					        <place id="http://www.wikidata.org/entity/Q104720" lang="pl"/>
+				        </places>
+                    </publishing-house>
+
+					<publishing-house id="ph-02">
+				        <places>
+					        <place id="http://www.wikidata.org/entity/Q102317" period="2005-10-01❦" />
+				        </places>
+                    </publishing-house>
+
+
+					<publishing-house id="ph-03">
+                        <institution id="https://viaf.org/viaf/000000000/"/>
+                    </publishing-house>
+
+					<publishing-house id="ph-04">
+                        <institution id="https://viaf.org/viaf/000000001/"/>
+				        <places>
+					        <place id="http://www.wikidata.org/entity/Q102317" period="2005-10-01❦" />
+				        </places>
+                    </publishing-house>
+				</publishing-houses>
+
+
+                <publication-year year="1994" uncertain="false" explanation="Wyjasnienie" type="publishing-years" /> <!-- publishing-years | copyright-years | different-years -->
+
+                <belonging-to-series series-number="23" sub-series-number="2323" publishing-series="pub-series-id-01" />
+
+                <!-- PhysicalDescription -->
+
+
+                <co-edited-books>
+                    <book-ref id="b-id-01" />
+                    <book-ref id="b-id-02" />
+                </co-edited-books>
+
+            </book>
+
+        </books>
+
+        <journal-items>
+			<!-- event.status = published|draft|prepared -->
+
+            <journal-item id="journal-item-id-11" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="CW-src-id-01" flags="123">
+
+                <record-types>
+                    <record-type code="poem"/>
+                    <record-type code="novel"/>
+                </record-types>
+
+                <general-materials value="true" />
+
+                <authors anonymous="false" author-company="false">
+                    <author id="a0000001758844" juvenile="false" co-creator="true" principal="true"/>
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                    <author id="person-id-03" juvenile="true" co-creator="false" />
+                </authors>
+
+                <titles>
+                    <title code="base" transliteration="false" newest="true">Pozycja w czasopiśmie @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"}</title>
+                    <title code="incipit" transliteration="true">PC</title>
+                </titles>
+
+                <languages>
+                    <language code="pl"/>
+                </languages>
+
+                <anthology-description>Opis antologii</anthology-description>
+
+                <!--
+                <anthology-descriptions>
+
+                </anthology-descriptions>
+                -->
+
+
+
+                <mailings>
+                    <mailing>
+                        <sender>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                            <author id="person-id-12" juvenile="false" co-creator="true" />
+                            <author id="person-id-13" juvenile="true" co-creator="false" />
+
+                            <institution id="institution-id-11" />
+                            <institution id="institution-id-12" />
+                        </sender>
+
+                        <addressee>
+                            <author id="person-id-14" juvenile="false" co-creator="true" />
+
+                            <institution id="institution-id-13" />
+                            <institution id="institution-id-14" />
+                            <institution id="institution-id-15" />
+                        </addressee>
+                        <description>Opis pierwszego mailingu</description>
+                    </mailing>
+
+                    <mailing>
+                        <sender>
+                            <author id="person-id-21" juvenile="false" co-creator="true" />
+                        </sender>
+                        <addressee>
+                            <institution id="institution-id-22" />
+                        </addressee>
+                        <description>Opis drugiego mailingu</description>
+                    </mailing>
+                </mailings>
+
+                <interviews>
+                    <interview>
+                        <interviewer>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                        </interviewer>
+                        <interlocutor>
+                            <institution id="institution-id-15" />
+                        </interlocutor>
+                        <description>Opis pierwszego mailingu</description>
+                    </interview>
+                </interviews>
+
+                <co-creators>
+                    <co-creator>
+                        <type code="translation" />
+                        <type code="adaptation" />
+                        <person id="person-id-01" />
+                    </co-creator>
+
+                    <co-creator>
+                        <type code="adaptation" />
+                        <person id="person-id-02" />
+                    </co-creator>
+                </co-creators>
+
+
+
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#ji-nike</tag>
+                    <tag>#ji-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref type="authorsBook" id="authors-book-id-11"/>
+                    <record-ref type="authorsBook" id="authors-book-id-12"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+                    <series-ref id="s-id-01"/>
+                    <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="e-id-01"/>
+                    <!-- ... -->
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+
+
+            </journal-item>
+
+
+        </journal-items>
+
+
+    </records>
+</pbl>

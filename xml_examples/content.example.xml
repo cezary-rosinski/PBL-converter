@@ -1,0 +1,156 @@
+<pbl>
+    <files>
+        <!-- ... -->
+    </files>
+
+    <records>
+        <contents>
+			<!-- event.status = published|draft|prepared -->
+            <!-- type = {authorsBookContent, anthologyContent, collectiveBookContent, lettersContent} -->
+
+            <content id="authors-book-content-id-01" type="authorsBookContent" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="B-src-id-01" flags="123">
+
+                <parent id="authors-book-id-11" />
+
+               <record-types>
+                    <record-type code="poem"/>
+                    <record-type code="novel"/>
+                </record-types>
+
+                <general-materials value="true" />
+
+                <authors anonymous="false" author-company="false">
+                    <author id="a0000001758844" juvenile="false" co-creator="true" principal="true"/>
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                    <author id="person-id-03" juvenile="true" co-creator="false" />
+                </authors>
+
+               <titles>
+                    <title code="base" transliteration="false" newest="true">Pozycja w czasopiśmie @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"}</title>
+                    <title code="original" transliteration="true">PC</title>
+                </titles>
+
+               <chapter-titles>
+                    <chapter-title code="part" transliteration="false">Tytuł rozdziału (part)</chapter-title>
+                    <chapter-title code="chapter" transliteration="true">Tytuł rozdziału (chapter)</chapter-title>
+                    <chapter-title code="dedication" transliteration="false">Tytuł rozdziału (dedication)</chapter-title>
+                </chapter-titles>
+
+                 <pages-range>10-20</pages-range>
+
+                 <anthology-description>Opis antologii</anthology-description>
+
+                 <anthology-descriptors>
+                     <anthology-descriptor id="ad-id-01" author-company="no">
+                        <anthology-types>
+                            <anthology-type code="poem" />
+                            <anthology-type code="novel" />
+                            <!-- ... -->
+                        </anthology-types>
+
+                        <authors>
+                            <person id="person-01-id" />
+                            <person id="person-02-id" />
+                        </authors>
+
+                        <translators>
+                            <person id="person-03-id" />
+                            <person id="person-04-id" />
+                        </translators>
+
+                     </anthology-descriptor>
+                     <!-- ... -->
+                 </anthology-descriptors>
+
+                <languages>
+                    <language code="pl"/>
+                </languages>
+
+                <co-creators>
+                    <co-creator>
+                        <type code="translation" />
+                        <type code="adaptation" />
+                        <person id="a0000002353982" />
+                    </co-creator>
+
+                    <co-creator>
+                        <type code="adaptation" />
+                        <person id="a0000001853500" />
+                    </co-creator>
+                </co-creators>
+
+               <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#ji-nike</tag>
+                    <tag>#ji-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref type="authorsBook" id="authors-book-id-11"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+                    <series-ref id="s-id-01"/>
+                   <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="e-id-01"/>
+                    <event-series-ref id="es-id-01"/>
+                    <!-- ... -->
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id" year="y-id-01" number="n-id-01"/>
+                    <!-- ... -->
+                    <publishing-series-ref id="ps-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+
+                <mailings>
+                    <mailing>
+                        <sender>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                        </sender>
+
+                        <addressee>
+                            <institution id="institution-id-15" />
+                        </addressee>
+                        <description>Opis pierwszego mailingu</description>
+                    </mailing>
+                </mailings>
+
+                <interviews>
+                    <interview>
+                        <interviewer>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                        </interviewer>
+                        <interlocutor>
+                            <institution id="institution-id-15" />
+                        </interlocutor>
+                        <description>Opis pierwszego mailingu</description>
+                    </interview>
+                </interviews>
+
+            </content>
+        </contents>
+    </records>
+</pbl>

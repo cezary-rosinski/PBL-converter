@@ -1,0 +1,2405 @@
+<pbl>
+	<files>
+		<journals>
+			<journal removed="false" id="nasz-dziennik" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Nasz Dziennik</title>
+				</titles>
+				<years>
+					<year id="nasz-dziennik_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="nasz-dziennik_2000_4" />
+			</journal>
+			<journal removed="false" id="glos-ludu" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Głos Ludu</title>
+				</titles>
+				<years>
+					<year id="glos-ludu_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="glos-ludu_2000_112" />
+			</journal>
+			<journal removed="false" id="przekroj" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Przekrój</title>
+				</titles>
+				<years>
+					<year id="przekroj_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0033-2488</issn>
+				<status id="source" />
+				<newest-journal-number id="przekroj_2000_39" />
+			</journal>
+			<journal removed="false" id="antena" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Antena</title>
+				</titles>
+				<years>
+					<year id="antena_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="antena_2000_47" />
+			</journal>
+			<journal removed="false" id="zycie" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Życie</title>
+				</titles>
+				<years>
+					<year id="zycie_2000" />
+					<year id="zycie_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="zycie_2001_12" />
+			</journal>
+			<journal removed="false" id="dziennik-kijowski" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Dziennik Kijowski</title>
+				</titles>
+				<years>
+					<year id="dziennik-kijowski_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="dziennik-kijowski_2000_24" />
+			</journal>
+			<journal removed="false" id="aneks-trybuny" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Aneks Trybuny</title>
+				</titles>
+				<years>
+					<year id="aneks-trybuny_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1429-1193</issn>
+				<status id="source" />
+				<newest-journal-number id="aneks-trybuny_2000_95" />
+			</journal>
+			<journal removed="false" id="gazeta-wyborcza" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Gazeta Wyborcza</title>
+				</titles>
+				<years>
+					<year id="gazeta-wyborcza_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0860-908X</issn>
+				<status id="source" />
+				<newest-journal-number id="gazeta-wyborcza_2001_210" />
+			</journal>
+			<journal removed="false" id="trybuna" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Trybuna</title>
+				</titles>
+				<years>
+					<year id="trybuna_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="trybuna_2001_8" />
+			</journal>
+			<journal removed="false" id="promocje-kujawskopomorskie" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Promocje Kujawsko-Pomorskie</title>
+				</titles>
+				<years>
+					<year id="promocje-kujawskopomorskie_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1640-9612</issn>
+				<status id="source" />
+				<newest-journal-number id="promocje-kujawskopomorskie_2001_1" />
+			</journal>
+			<journal removed="false" id="kwartalnik-wrzesinski" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Kwartalnik Wrzesiński</title>
+				</titles>
+				<years>
+					<year id="kwartalnik-wrzesinski_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1505-6155</issn>
+				<status id="source" />
+				<newest-journal-number id="kwartalnik-wrzesinski_2000_3" />
+			</journal>
+			<journal removed="false" id="powsciagliwosc-i-praca" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Powściągliwość i Praca</title>
+				</titles>
+				<years>
+					<year id="powsciagliwosc-i-praca_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0239-5207</issn>
+				<status id="source" />
+				<newest-journal-number id="powsciagliwosc-i-praca_2000_7" />
+			</journal>
+			<journal removed="false" id="rzeczpospolita" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Rzeczpospolita</title>
+				</titles>
+				<years>
+					<year id="rzeczpospolita_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="rzeczpospolita_2001_94" />
+			</journal>
+			<journal removed="false" id="poradnik-bibliotekarza" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Poradnik Bibliotekarza</title>
+				</titles>
+				<years>
+					<year id="poradnik-bibliotekarza_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0032-4752</issn>
+				<status id="source" />
+				<newest-journal-number id="poradnik-bibliotekarza_2001_3" />
+			</journal>
+			<journal removed="false" id="ojczyzna-polszczyzna" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Ojczyzna Polszczyzna</title>
+				</titles>
+				<years>
+					<year id="ojczyzna-polszczyzna_1996" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="ojczyzna-polszczyzna_1996_4" />
+			</journal>
+			<journal removed="false" id="siodma-prowincja" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Siódma Prowincja</title>
+				</titles>
+				<years>
+					<year id="siodma-prowincja_1998" />
+					<year id="siodma-prowincja_1995" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0867-4469</issn>
+				<status id="source" />
+				<newest-journal-number id="siodma-prowincja_1998_1" />
+			</journal>
+			<journal removed="false" id="film" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Film</title>
+				</titles>
+				<years>
+					<year id="film_1999" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="film_1999_3" />
+			</journal>
+			<journal removed="false" id="przeglad-polski--polish-review" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Przegląd Polski = Polish Review</title>
+				</titles>
+				<years>
+					<year id="przeglad-polski--polish-review_1991" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="przeglad-polski--polish-review_1991_z-30-V" />
+			</journal>
+			<journal removed="false" id="kwartalnik-filmowy" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Kwartalnik Filmowy</title>
+				</titles>
+				<years>
+					<year id="kwartalnik-filmowy_2003" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0452-9502</issn>
+				<status id="source" />
+				<newest-journal-number id="kwartalnik-filmowy_2003_43" />
+			</journal>
+			<journal removed="false" id="ludzie" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Ludzie</title>
+				</titles>
+				<years>
+					<year id="ludzie_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="ludzie_2000_50" />
+			</journal>
+			<journal removed="false" id="wprost" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Wprost</title>
+				</titles>
+				<years>
+					<year id="wprost_1996" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0209-1747</issn>
+				<status id="source" />
+				<newest-journal-number id="wprost_1996_19" />
+			</journal>
+			<journal removed="false" id="opcje-katowice-druk" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Opcje (Katowice. Druk)</title>
+				</titles>
+				<years>
+					<year id="opcje-katowice-druk_2017" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1230-9982.</issn>
+				<status id="source" />
+				<newest-journal-number id="opcje-katowice-druk_2017_1" />
+			</journal>
+			<journal removed="false" id="zwiazkowiec--the-alliancer" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Związkowiec = The Alliancer</title>
+				</titles>
+				<years>
+					<year id="zwiazkowiec--the-alliancer_1989" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="zwiazkowiec--the-alliancer_1989_22" />
+			</journal>
+			<journal removed="false" id="arcana" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Arcana</title>
+				</titles>
+				<years>
+					<year id="arcana_1995" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="arcana_1995_5" />
+			</journal>
+			<journal removed="false" id="nauka-i-przyszlosc" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Nauka i Przyszłość</title>
+				</titles>
+				<years>
+					<year id="nauka-i-przyszlosc_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0867-2687</issn>
+				<status id="source" />
+				<newest-journal-number id="nauka-i-przyszlosc_2001_1" />
+			</journal>
+			<journal removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Słupskie Prace Filologiczne. Seria Filologia Polska</title>
+				</titles>
+				<years>
+					<year id="slupskie-prace-filologiczne-seria-filologia-polska_2002" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1643-4668</issn>
+				<status id="source" />
+				<newest-journal-number id="slupskie-prace-filologiczne-seria-filologia-polska_2002_1" />
+			</journal>
+			<journal removed="false" id="regiony" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Regiony</title>
+				</titles>
+				<years>
+					<year id="regiony_1997" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="regiony_1997_4" />
+			</journal>
+			<journal removed="false" id="gazeta-magazyn" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Gazeta. Magazyn</title>
+				</titles>
+				<years>
+					<year id="gazeta-magazyn_1998" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="gazeta-magazyn_1998_7" />
+			</journal>
+			<journal removed="false" id="plus-minus" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Plus Minus</title>
+				</titles>
+				<years>
+					<year id="plus-minus_1995" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="plus-minus_1995_41" />
+			</journal>
+			<journal removed="false" id="przeglad-tygodniowy" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Przegląd Tygodniowy</title>
+				</titles>
+				<years>
+					<year id="przeglad-tygodniowy_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="przeglad-tygodniowy_2000_16" />
+			</journal>
+			<journal removed="false" id="rota" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Rota</title>
+				</titles>
+				<years>
+					<year id="rota_1996" />
+					<year id="rota_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="rota_2001_1" />
+			</journal>
+			<journal removed="false" id="tygodnik-solidarnosc" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Tygodnik Solidarność</title>
+				</titles>
+				<years>
+					<year id="tygodnik-solidarnosc_2015" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0208-8045.</issn>
+				<status id="source" />
+				<newest-journal-number id="tygodnik-solidarnosc_2015_22" />
+			</journal>
+			<journal removed="false" id="topos-sopot" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Topos (Sopot)</title>
+				</titles>
+				<years>
+					<year id="topos-sopot_2016" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1230-8943.</issn>
+				<status id="source" />
+				<newest-journal-number id="topos-sopot_2016_3" />
+			</journal>
+			<journal removed="false" id="polish-culture" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Polish Culture</title>
+				</titles>
+				<years>
+					<year id="polish-culture_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1428-8842</issn>
+				<status id="source" />
+				<newest-journal-number id="polish-culture_2000_1" />
+			</journal>
+			<journal removed="false" id="slowo-powszechne" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Słowo Powszechne</title>
+				</titles>
+				<years>
+					<year id="slowo-powszechne_1991" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0137-9283</issn>
+				<status id="source" />
+				<newest-journal-number id="slowo-powszechne_1991_3" />
+			</journal>
+			<journal removed="false" id="ruch-literacki" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Ruch Literacki</title>
+				</titles>
+				<years>
+					<year id="ruch-literacki_1997" />
+					<year id="ruch-literacki_2002" />
+					<year id="ruch-literacki_1994" />
+					<year id="ruch-literacki_1995" />
+					<year id="ruch-literacki_1999" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0035-9602</issn>
+				<status id="source" />
+				<newest-journal-number id="ruch-literacki_2002_z.-2" />
+			</journal>
+			<journal removed="false" id="gazeta-niedzielna" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Gazeta Niedzielna</title>
+				</titles>
+				<years>
+					<year id="gazeta-niedzielna_1992" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1358-832X</issn>
+				<status id="source" />
+				<newest-journal-number id="gazeta-niedzielna_1992_35" />
+			</journal>
+			<journal removed="false" id="wiek-xix" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Wiek XIX</title>
+				</titles>
+				<years>
+					<year id="wiek-xix_2019" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>2080-0851.</issn>
+				<status id="source" />
+				<newest-journal-number id="wiek-xix_2019_R.-12" />
+			</journal>
+			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Annales Academiae Paedagogicae Cracoviensis. Studia Historicolitteraria</title>
+				</titles>
+				<years>
+					<year id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1644-1885.</issn>
+				<status id="source" />
+				<newest-journal-number id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005_5" />
+			</journal>
+			<journal removed="false" id="studia-norwidiana" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Studia Norwidiana</title>
+				</titles>
+				<years>
+					<year id="studia-norwidiana_2002" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0860-0562</issn>
+				<status id="source" />
+				<newest-journal-number id="studia-norwidiana_2002_t.-19-(2001)" />
+			</journal>
+			<journal removed="false" id="ogrod" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Ogród</title>
+				</titles>
+				<years>
+					<year id="ogrod_2003" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="ogrod_2003_1" />
+			</journal>
+			<journal removed="false" id="niepodleglosc-i-pamiec" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Niepodległość i Pamięć</title>
+				</titles>
+				<years>
+					<year id="niepodleglosc-i-pamiec_2014" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1427-1443.</issn>
+				<status id="source" />
+				<newest-journal-number id="niepodleglosc-i-pamiec_2014_3" />
+			</journal>
+			<journal removed="false" id="rzeczpospolita-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Rzeczpospolita (Warszawa)</title>
+				</titles>
+				<years>
+					<year id="rzeczpospolita-warszawa_2004" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0208-9130.</issn>
+				<status id="source" />
+				<newest-journal-number id="rzeczpospolita-warszawa_2004_102" />
+			</journal>
+			<journal removed="false" id="gwiazda-polarna" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Gwiazda Polarna</title>
+				</titles>
+				<years>
+					<year id="gwiazda-polarna_1993" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="gwiazda-polarna_1993_52" />
+			</journal>
+			<journal removed="false" id="zwrot" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Zwrot</title>
+				</titles>
+				<years>
+					<year id="zwrot_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="zwrot_2000_11" />
+			</journal>
+			<journal removed="false" id="parnasik" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Parnasik</title>
+				</titles>
+				<years>
+					<year id="parnasik_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="parnasik_2000_2" />
+			</journal>
+			<journal removed="false" id="bibliotekarz-plocki" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Bibliotekarz Płocki</title>
+				</titles>
+				<years>
+					<year id="bibliotekarz-plocki_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1234-1215</issn>
+				<status id="source" />
+				<newest-journal-number id="bibliotekarz-plocki_2001_1" />
+			</journal>
+			<journal removed="false" id="fantastyka" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Fantastyka</title>
+				</titles>
+				<years>
+					<year id="fantastyka_1988" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1165-7871</issn>
+				<status id="source" />
+				<newest-journal-number id="fantastyka_1988_11" />
+			</journal>
+			<journal removed="false" id="orzel-bialy" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Orzeł Biały</title>
+				</titles>
+				<years>
+					<year id="orzel-bialy_1989" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="orzel-bialy_1989_1439" />
+			</journal>
+			<journal removed="false" id="szpilki" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Szpilki</title>
+				</titles>
+				<years>
+					<year id="szpilki_1990" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="szpilki_1990_29" />
+			</journal>
+			<journal removed="false" id="kamena" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Kamena</title>
+				</titles>
+				<years>
+					<year id="kamena_1990" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="kamena_1990_2" />
+			</journal>
+			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-romanica" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Annales Academiae Paedagogicae Cracoviensis. Studia Romanica</title>
+				</titles>
+				<years>
+					<year id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1643-6520</issn>
+				<status id="source" />
+				<newest-journal-number id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001_z.-1" />
+			</journal>
+			<journal removed="false" id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Sprawozdania z Czynności i Posiedzeń Naukowych [Łódzkie Towarzystwo Naukowe]</title>
+				</titles>
+				<years>
+					<year id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996_t.-50" />
+			</journal>
+			<journal removed="false" id="biuletyn-polonistyczny" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Biuletyn Polonistyczny</title>
+				</titles>
+				<years>
+					<year id="biuletyn-polonistyczny_1991" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0067-902X</issn>
+				<status id="source" />
+				<newest-journal-number id="biuletyn-polonistyczny_1991_z.-3/4" />
+			</journal>
+			<journal removed="false" id="glos-polski-toronto" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Głos Polski [Toronto]</title>
+				</titles>
+				<years>
+					<year id="glos-polski-toronto_1990" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="glos-polski-toronto_1990_15" />
+			</journal>
+			<journal removed="false" id="wiadomosci-kulturalne" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Wiadomości Kulturalne</title>
+				</titles>
+				<years>
+					<year id="wiadomosci-kulturalne_1996" />
+					<year id="wiadomosci-kulturalne_1995" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1231-840X</issn>
+				<status id="source" />
+				<newest-journal-number id="wiadomosci-kulturalne_1996_4" />
+			</journal>
+			<journal removed="false" id="mysl-polska-o-kulturze" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Myśl Polska o Kulturze</title>
+				</titles>
+				<years>
+					<year id="mysl-polska-o-kulturze_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="mysl-polska-o-kulturze_2000_1" />
+			</journal>
+			<journal removed="false" id="literatura-ludowa" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Literatura Ludowa</title>
+				</titles>
+				<years>
+					<year id="literatura-ludowa_2010" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0024-4708.</issn>
+				<status id="source" />
+				<newest-journal-number id="literatura-ludowa_2010_6" />
+			</journal>
+			<journal removed="false" id="orbis-linguarum" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Orbis Linguarum</title>
+				</titles>
+				<years>
+					<year id="orbis-linguarum_1996" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1426-7241</issn>
+				<status id="source" />
+				<newest-journal-number id="orbis-linguarum_1996_t.-4" />
+			</journal>
+			<journal removed="false" id="bibliotekarz" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Bibliotekarz</title>
+				</titles>
+				<years>
+					<year id="bibliotekarz_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0208-4333</issn>
+				<status id="source" />
+				<newest-journal-number id="bibliotekarz_2000_11" />
+			</journal>
+			<journal removed="false" id="pamietnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Pamiętnik Literacki</title>
+				</titles>
+				<years>
+					<year id="pamietnik-literacki_2018" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0031-0514.</issn>
+				<status id="source" />
+				<newest-journal-number id="pamietnik-literacki_2018_z.-3-(2018)" />
+			</journal>
+			<journal removed="false" id="echo-dnia" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Echo Dnia</title>
+				</titles>
+				<years>
+					<year id="echo-dnia_1989" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="echo-dnia_1989_249" />
+			</journal>
+			<journal removed="false" id="slowo-zydowskie--dos-jidisze-wort" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Słowo Żydowskie = Dos Jidisze Wort</title>
+				</titles>
+				<years>
+					<year id="slowo-zydowskie--dos-jidisze-wort_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="slowo-zydowskie--dos-jidisze-wort_2000_18" />
+			</journal>
+			<journal removed="false" id="roczniki-dziejow-ruchu-ludowego" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Roczniki Dziejów Ruchu Ludowego</title>
+				</titles>
+				<years>
+					<year id="roczniki-dziejow-ruchu-ludowego_2018" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0557-2207.</issn>
+				<status id="source" />
+				<newest-journal-number id="roczniki-dziejow-ruchu-ludowego_2018_37" />
+			</journal>
+			<journal removed="false" id="ciechanowskie-zeszyty-literackie" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Ciechanowskie Zeszyty Literackie</title>
+				</titles>
+				<years>
+					<year id="ciechanowskie-zeszyty-literackie_2003" />
+					<year id="ciechanowskie-zeszyty-literackie_2002" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1733-0483</issn>
+				<status id="source" />
+				<newest-journal-number id="ciechanowskie-zeszyty-literackie_2003_5" />
+			</journal>
+			<journal removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Dziennik Polski i Dziennik Żołnierza = The Polish Daily and Soldiers Daily</title>
+				</titles>
+				<years>
+					<year id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989_303" />
+			</journal>
+			<journal removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Acta Universitatis Lodziensis. Folia Litteraria Polonica</title>
+				</titles>
+				<years>
+					<year id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>1505-9057</issn>
+				<status id="source" />
+				<newest-journal-number id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002_z.-5" />
+			</journal>
+			<journal removed="false" id="przeglad-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Przegląd Humanistyczny</title>
+				</titles>
+				<years>
+					<year id="przeglad-humanistyczny_1997" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0033-2194</issn>
+				<status id="source" />
+				<newest-journal-number id="przeglad-humanistyczny_1997_2" />
+			</journal>
+			<journal removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Akta Towarzystwa Historyczno-Literackiego w Paryżu = Actes de la Societe Historique et Litteraire Polonaise</title>
+				</titles>
+				<years>
+					<year id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_1996" />
+					<year id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000_t.-5" />
+			</journal>
+			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-literackie" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Acta Universitatis Wratislaviensis. Prace Literackie</title>
+				</titles>
+				<years>
+					<year id="acta-universitatis-wratislaviensis-prace-literackie_1995" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0079-4767</issn>
+				<status id="source" />
+				<newest-journal-number id="acta-universitatis-wratislaviensis-prace-literackie_1995_34" />
+			</journal>
+			<journal removed="false" id="slavia-occidentalis" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Slavia Occidentalis</title>
+				</titles>
+				<years>
+					<year id="slavia-occidentalis_2014" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0081-0002.</issn>
+				<status id="source" />
+				<newest-journal-number id="slavia-occidentalis_2014_[z.]-2-(2014)" />
+			</journal>
+			<journal removed="false" id="glos-nauczyciela" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Głos Nauczyciela</title>
+				</titles>
+				<years>
+					<year id="glos-nauczyciela_1993" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="glos-nauczyciela_1993_4" />
+			</journal>
+			<journal removed="false" id="kieleckie-studia-filologiczne" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Kieleckie Studia Filologiczne</title>
+				</titles>
+				<years>
+					<year id="kieleckie-studia-filologiczne_2000" />
+					<year id="kieleckie-studia-filologiczne_1997" />
+					<year id="kieleckie-studia-filologiczne_1998" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0208-5976</issn>
+				<status id="source" />
+				<newest-journal-number id="kieleckie-studia-filologiczne_2000_t.-14" />
+			</journal>
+			<journal removed="false" id="biblioteka" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Biblioteka</title>
+				</titles>
+				<years>
+					<year id="biblioteka_2000" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn />
+				<status id="source" />
+				<newest-journal-number id="biblioteka_2000_4" />
+			</journal>
+			<journal removed="false" id="neerlandica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" origin="">
+				<titles without-title="false">
+					<title type="base" lang="pl" principal="true" transliteration="false">Neerlandica Wratislaviensia</title>
+				</titles>
+				<years>
+					<year id="neerlandica-wratislaviensia_2017" />
+				</years>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<issn>0860-0716.</issn>
+				<status id="source" />
+				<newest-journal-number id="neerlandica-wratislaviensia_2017_27" />
+			</journal>
+		</journals>
+		<journal-years>
+			<journal-year removed="false" id="nasz-dziennik_2000">
+				<journal id="nasz-dziennik" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="glos-ludu_2000">
+				<journal id="glos-ludu" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="przekroj_2000">
+				<journal id="przekroj" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="antena_2000">
+				<journal id="antena" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="zycie_2000">
+				<journal id="zycie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="zycie_2001">
+				<journal id="zycie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="dziennik-kijowski_2000">
+				<journal id="dziennik-kijowski" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="aneks-trybuny_2000">
+				<journal id="aneks-trybuny" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="gazeta-wyborcza_2001">
+				<journal id="gazeta-wyborcza" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="trybuna_2001">
+				<journal id="trybuna" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="promocje-kujawskopomorskie_2001">
+				<journal id="promocje-kujawskopomorskie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="kwartalnik-wrzesinski_2000">
+				<journal id="kwartalnik-wrzesinski" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="powsciagliwosc-i-praca_2000">
+				<journal id="powsciagliwosc-i-praca" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="rzeczpospolita_2001">
+				<journal id="rzeczpospolita" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="poradnik-bibliotekarza_2001">
+				<journal id="poradnik-bibliotekarza" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ojczyzna-polszczyzna_1996">
+				<journal id="ojczyzna-polszczyzna" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="siodma-prowincja_1998">
+				<journal id="siodma-prowincja" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1998</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="siodma-prowincja_1995">
+				<journal id="siodma-prowincja" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1995</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="film_1999">
+				<journal id="film" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1999</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="przeglad-polski--polish-review_1991">
+				<journal id="przeglad-polski--polish-review" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1991</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="kwartalnik-filmowy_2003">
+				<journal id="kwartalnik-filmowy" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2003</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ludzie_2000">
+				<journal id="ludzie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="wprost_1996">
+				<journal id="wprost" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="opcje-katowice-druk_2017">
+				<journal id="opcje-katowice-druk" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2017</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="zwiazkowiec--the-alliancer_1989">
+				<journal id="zwiazkowiec--the-alliancer" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1989</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="arcana_1995">
+				<journal id="arcana" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1995</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="nauka-i-przyszlosc_2001">
+				<journal id="nauka-i-przyszlosc" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska_2002">
+				<journal id="slupskie-prace-filologiczne-seria-filologia-polska" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2002</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="regiony_1997">
+				<journal id="regiony" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1997</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="gazeta-magazyn_1998">
+				<journal id="gazeta-magazyn" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1998</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="plus-minus_1995">
+				<journal id="plus-minus" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1995</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="przeglad-tygodniowy_2000">
+				<journal id="przeglad-tygodniowy" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="rota_1996">
+				<journal id="rota" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="rota_2001">
+				<journal id="rota" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="tygodnik-solidarnosc_2015">
+				<journal id="tygodnik-solidarnosc" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2015</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="topos-sopot_2016">
+				<journal id="topos-sopot" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2016</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="polish-culture_2000">
+				<journal id="polish-culture" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="slowo-powszechne_1991">
+				<journal id="slowo-powszechne" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1991</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ruch-literacki_1997">
+				<journal id="ruch-literacki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1997</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ruch-literacki_2002">
+				<journal id="ruch-literacki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2002</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ruch-literacki_1994">
+				<journal id="ruch-literacki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1994</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ruch-literacki_1995">
+				<journal id="ruch-literacki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1995</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ruch-literacki_1999">
+				<journal id="ruch-literacki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1999</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="gazeta-niedzielna_1992">
+				<journal id="gazeta-niedzielna" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1992</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="wiek-xix_2019">
+				<journal id="wiek-xix" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2019</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005">
+				<journal id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2005</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="studia-norwidiana_2002">
+				<journal id="studia-norwidiana" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2002</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ogrod_2003">
+				<journal id="ogrod" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2003</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="niepodleglosc-i-pamiec_2014">
+				<journal id="niepodleglosc-i-pamiec" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2014</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="rzeczpospolita-warszawa_2004">
+				<journal id="rzeczpospolita-warszawa" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2004</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="gwiazda-polarna_1993">
+				<journal id="gwiazda-polarna" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1993</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="zwrot_2000">
+				<journal id="zwrot" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="parnasik_2000">
+				<journal id="parnasik" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="bibliotekarz-plocki_2001">
+				<journal id="bibliotekarz-plocki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="fantastyka_1988">
+				<journal id="fantastyka" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1988</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="orzel-bialy_1989">
+				<journal id="orzel-bialy" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1989</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="szpilki_1990">
+				<journal id="szpilki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1990</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="kamena_1990">
+				<journal id="kamena" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1990</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001">
+				<journal id="annales-academiae-paedagogicae-cracoviensis-studia-romanica" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2001</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996">
+				<journal id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="biuletyn-polonistyczny_1991">
+				<journal id="biuletyn-polonistyczny" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1991</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="glos-polski-toronto_1990">
+				<journal id="glos-polski-toronto" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1990</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="wiadomosci-kulturalne_1996">
+				<journal id="wiadomosci-kulturalne" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="wiadomosci-kulturalne_1995">
+				<journal id="wiadomosci-kulturalne" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1995</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="mysl-polska-o-kulturze_2000">
+				<journal id="mysl-polska-o-kulturze" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="literatura-ludowa_2010">
+				<journal id="literatura-ludowa" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2010</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="orbis-linguarum_1996">
+				<journal id="orbis-linguarum" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="bibliotekarz_2000">
+				<journal id="bibliotekarz" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="pamietnik-literacki_2018">
+				<journal id="pamietnik-literacki" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2018</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="echo-dnia_1989">
+				<journal id="echo-dnia" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1989</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="slowo-zydowskie--dos-jidisze-wort_2000">
+				<journal id="slowo-zydowskie--dos-jidisze-wort" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="roczniki-dziejow-ruchu-ludowego_2018">
+				<journal id="roczniki-dziejow-ruchu-ludowego" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2018</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ciechanowskie-zeszyty-literackie_2003">
+				<journal id="ciechanowskie-zeszyty-literackie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2003</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="ciechanowskie-zeszyty-literackie_2002">
+				<journal id="ciechanowskie-zeszyty-literackie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2002</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989">
+				<journal id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1989</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002">
+				<journal id="acta-universitatis-lodziensis-folia-litteraria-polonica" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2002</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="przeglad-humanistyczny_1997">
+				<journal id="przeglad-humanistyczny" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1997</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_1996">
+				<journal id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1996</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000">
+				<journal id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="acta-universitatis-wratislaviensis-prace-literackie_1995">
+				<journal id="acta-universitatis-wratislaviensis-prace-literackie" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1995</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="slavia-occidentalis_2014">
+				<journal id="slavia-occidentalis" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2014</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="glos-nauczyciela_1993">
+				<journal id="glos-nauczyciela" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1993</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="kieleckie-studia-filologiczne_2000">
+				<journal id="kieleckie-studia-filologiczne" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="kieleckie-studia-filologiczne_1997">
+				<journal id="kieleckie-studia-filologiczne" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1997</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="kieleckie-studia-filologiczne_1998">
+				<journal id="kieleckie-studia-filologiczne" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>1998</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="biblioteka_2000">
+				<journal id="biblioteka" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2000</year>
+				<closed value="false" />
+			</journal-year>
+			<journal-year removed="false" id="neerlandica-wratislaviensia_2017">
+				<journal id="neerlandica-wratislaviensia" />
+				<characters>
+					<character code="literary" />
+				</characters>
+				<year>2017</year>
+				<closed value="false" />
+			</journal-year>
+		</journal-years>
+		<journal-numbers>
+			<journal-number removed="false" id="nasz-dziennik_2000_240">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="nasz-dziennik_2000" />
+				<number>240</number>
+			</journal-number>
+			<journal-number removed="false" id="nasz-dziennik_2000_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="nasz-dziennik_2000" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="glos-ludu_2000_112">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="glos-ludu_2000" />
+				<number>112</number>
+			</journal-number>
+			<journal-number removed="false" id="przekroj_2000_39">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="przekroj_2000" />
+				<number>39</number>
+			</journal-number>
+			<journal-number removed="false" id="antena_2000_47">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="antena_2000" />
+				<number>47</number>
+			</journal-number>
+			<journal-number removed="false" id="zycie_2000_283">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="zycie_2000" />
+				<number>283</number>
+			</journal-number>
+			<journal-number removed="false" id="zycie_2001_12">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="zycie_2001" />
+				<number>12</number>
+			</journal-number>
+			<journal-number removed="false" id="dziennik-kijowski_2000_24">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="dziennik-kijowski_2000" />
+				<number>24</number>
+			</journal-number>
+			<journal-number removed="false" id="aneks-trybuny_2000_98">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="aneks-trybuny_2000" />
+				<number>98</number>
+			</journal-number>
+			<journal-number removed="false" id="aneks-trybuny_2000_95">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="aneks-trybuny_2000" />
+				<number>95</number>
+			</journal-number>
+			<journal-number removed="false" id="gazeta-wyborcza_2001_210">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="gazeta-wyborcza_2001" />
+				<number>210</number>
+			</journal-number>
+			<journal-number removed="false" id="trybuna_2001_8">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="trybuna_2001" />
+				<number>8</number>
+			</journal-number>
+			<journal-number removed="false" id="promocje-kujawskopomorskie_2001_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="promocje-kujawskopomorskie_2001" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="kwartalnik-wrzesinski_2000_3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="kwartalnik-wrzesinski_2000" />
+				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="powsciagliwosc-i-praca_2000_7">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="powsciagliwosc-i-praca_2000" />
+				<number>7</number>
+			</journal-number>
+			<journal-number removed="false" id="rzeczpospolita_2001_94">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="rzeczpospolita_2001" />
+				<number>94</number>
+			</journal-number>
+			<journal-number removed="false" id="poradnik-bibliotekarza_2001_3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="poradnik-bibliotekarza_2001" />
+				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="ojczyzna-polszczyzna_1996_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ojczyzna-polszczyzna_1996" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="siodma-prowincja_1998_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="siodma-prowincja_1998" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="siodma-prowincja_1995_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="siodma-prowincja_1995" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="film_1999_3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="film_1999" />
+				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="przeglad-polski--polish-review_1991_z-30-V">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="przeglad-polski--polish-review_1991" />
+				<number>z 30 V</number>
+			</journal-number>
+			<journal-number removed="false" id="kwartalnik-filmowy_2003_43">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="kwartalnik-filmowy_2003" />
+				<number>43</number>
+			</journal-number>
+			<journal-number removed="false" id="ludzie_2000_50">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ludzie_2000" />
+				<number>50</number>
+			</journal-number>
+			<journal-number removed="false" id="wprost_1996_19">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="wprost_1996" />
+				<number>19</number>
+			</journal-number>
+			<journal-number removed="false" id="opcje-katowice-druk_2017_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="opcje-katowice-druk_2017" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="zwiazkowiec--the-alliancer_1989_28">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="zwiazkowiec--the-alliancer_1989" />
+				<number>28</number>
+			</journal-number>
+			<journal-number removed="false" id="zwiazkowiec--the-alliancer_1989_22">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="zwiazkowiec--the-alliancer_1989" />
+				<number>22</number>
+			</journal-number>
+			<journal-number removed="false" id="arcana_1995_5">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="arcana_1995" />
+				<number>5</number>
+			</journal-number>
+			<journal-number removed="false" id="nauka-i-przyszlosc_2001_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="nauka-i-przyszlosc_2001" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska_2002_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="slupskie-prace-filologiczne-seria-filologia-polska_2002" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="regiony_1997_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="regiony_1997" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="gazeta-magazyn_1998_7">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="gazeta-magazyn_1998" />
+				<number>7</number>
+			</journal-number>
+			<journal-number removed="false" id="plus-minus_1995_41">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="plus-minus_1995" />
+				<number>41</number>
+			</journal-number>
+			<journal-number removed="false" id="przeglad-tygodniowy_2000_16">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="przeglad-tygodniowy_2000" />
+				<number>16</number>
+			</journal-number>
+			<journal-number removed="false" id="rota_1996_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="rota_1996" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="rota_2001_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="rota_2001" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="tygodnik-solidarnosc_2015_22">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="tygodnik-solidarnosc_2015" />
+				<number>22</number>
+			</journal-number>
+			<journal-number removed="false" id="topos-sopot_2016_3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="topos-sopot_2016" />
+				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="polish-culture_2000_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="polish-culture_2000" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="slowo-powszechne_1991_3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="slowo-powszechne_1991" />
+				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="ruch-literacki_1997_z.-3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ruch-literacki_1997" />
+				<number>z. 3</number>
+			</journal-number>
+			<journal-number removed="false" id="ruch-literacki_2002_z.-2">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ruch-literacki_2002" />
+				<number>z. 2</number>
+			</journal-number>
+			<journal-number removed="false" id="ruch-literacki_1994_z.-5/6">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ruch-literacki_1994" />
+				<number>z. 5/6</number>
+			</journal-number>
+			<journal-number removed="false" id="ruch-literacki_1995_z.-4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ruch-literacki_1995" />
+				<number>z. 4</number>
+			</journal-number>
+			<journal-number removed="false" id="ruch-literacki_1999_z.-3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ruch-literacki_1999" />
+				<number>z. 3</number>
+			</journal-number>
+			<journal-number removed="false" id="gazeta-niedzielna_1992_35">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="gazeta-niedzielna_1992" />
+				<number>35</number>
+			</journal-number>
+			<journal-number removed="false" id="wiek-xix_2019_R.-12">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="wiek-xix_2019" />
+				<number>R. 12</number>
+			</journal-number>
+			<journal-number removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005_5">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005" />
+				<number>5</number>
+			</journal-number>
+			<journal-number removed="false" id="studia-norwidiana_2002_t.-19-(2001)">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="studia-norwidiana_2002" />
+				<number>t. 19 (2001)</number>
+			</journal-number>
+			<journal-number removed="false" id="ogrod_2003_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ogrod_2003" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="niepodleglosc-i-pamiec_2014_3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="niepodleglosc-i-pamiec_2014" />
+				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="rzeczpospolita-warszawa_2004_102">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="rzeczpospolita-warszawa_2004" />
+				<number>102</number>
+			</journal-number>
+			<journal-number removed="false" id="gwiazda-polarna_1993_52">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="gwiazda-polarna_1993" />
+				<number>52</number>
+			</journal-number>
+			<journal-number removed="false" id="zwrot_2000_9">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="zwrot_2000" />
+				<number>9</number>
+			</journal-number>
+			<journal-number removed="false" id="zwrot_2000_11">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="zwrot_2000" />
+				<number>11</number>
+			</journal-number>
+			<journal-number removed="false" id="parnasik_2000_2">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="parnasik_2000" />
+				<number>2</number>
+			</journal-number>
+			<journal-number removed="false" id="bibliotekarz-plocki_2001_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="bibliotekarz-plocki_2001" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="fantastyka_1988_11">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="fantastyka_1988" />
+				<number>11</number>
+			</journal-number>
+			<journal-number removed="false" id="orzel-bialy_1989_1439">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="orzel-bialy_1989" />
+				<number>1439</number>
+			</journal-number>
+			<journal-number removed="false" id="szpilki_1990_29">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="szpilki_1990" />
+				<number>29</number>
+			</journal-number>
+			<journal-number removed="false" id="kamena_1990_2">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="kamena_1990" />
+				<number>2</number>
+			</journal-number>
+			<journal-number removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001_z.-1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001" />
+				<number>z. 1</number>
+			</journal-number>
+			<journal-number removed="false" id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996_t.-50">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996" />
+				<number>t. 50</number>
+			</journal-number>
+			<journal-number removed="false" id="biuletyn-polonistyczny_1991_z.-3/4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="biuletyn-polonistyczny_1991" />
+				<number>z. 3/4</number>
+			</journal-number>
+			<journal-number removed="false" id="glos-polski-toronto_1990_15">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="glos-polski-toronto_1990" />
+				<number>15</number>
+			</journal-number>
+			<journal-number removed="false" id="wiadomosci-kulturalne_1996_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="wiadomosci-kulturalne_1996" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="wiadomosci-kulturalne_1995_31">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="wiadomosci-kulturalne_1995" />
+				<number>31</number>
+			</journal-number>
+			<journal-number removed="false" id="mysl-polska-o-kulturze_2000_1">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="mysl-polska-o-kulturze_2000" />
+				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="literatura-ludowa_2010_6">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="literatura-ludowa_2010" />
+				<number>6</number>
+			</journal-number>
+			<journal-number removed="false" id="orbis-linguarum_1996_t.-4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="orbis-linguarum_1996" />
+				<number>t. 4</number>
+			</journal-number>
+			<journal-number removed="false" id="bibliotekarz_2000_11">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="bibliotekarz_2000" />
+				<number>11</number>
+			</journal-number>
+			<journal-number removed="false" id="pamietnik-literacki_2018_z.-3-(2018)">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="pamietnik-literacki_2018" />
+				<number>z. 3 (2018)</number>
+			</journal-number>
+			<journal-number removed="false" id="echo-dnia_1989_249">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="echo-dnia_1989" />
+				<number>249</number>
+			</journal-number>
+			<journal-number removed="false" id="slowo-zydowskie--dos-jidisze-wort_2000_18">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="slowo-zydowskie--dos-jidisze-wort_2000" />
+				<number>18</number>
+			</journal-number>
+			<journal-number removed="false" id="roczniki-dziejow-ruchu-ludowego_2018_37">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="roczniki-dziejow-ruchu-ludowego_2018" />
+				<number>37</number>
+			</journal-number>
+			<journal-number removed="false" id="ciechanowskie-zeszyty-literackie_2003_5">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ciechanowskie-zeszyty-literackie_2003" />
+				<number>5</number>
+			</journal-number>
+			<journal-number removed="false" id="ciechanowskie-zeszyty-literackie_2002_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="ciechanowskie-zeszyty-literackie_2002" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989_303">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989" />
+				<number>303</number>
+			</journal-number>
+			<journal-number removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002_z.-5">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002" />
+				<number>z. 5</number>
+			</journal-number>
+			<journal-number removed="false" id="przeglad-humanistyczny_1997_2">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="przeglad-humanistyczny_1997" />
+				<number>2</number>
+			</journal-number>
+			<journal-number removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_1996_t.-3">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_1996" />
+				<number>t. 3</number>
+			</journal-number>
+			<journal-number removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000_t.-5">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000" />
+				<number>t. 5</number>
+			</journal-number>
+			<journal-number removed="false" id="acta-universitatis-wratislaviensis-prace-literackie_1995_34">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="acta-universitatis-wratislaviensis-prace-literackie_1995" />
+				<number>34</number>
+			</journal-number>
+			<journal-number removed="false" id="slavia-occidentalis_2014_[z.]-2-(2014)">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="slavia-occidentalis_2014" />
+				<number>[z.] 2 (2014)</number>
+			</journal-number>
+			<journal-number removed="false" id="glos-nauczyciela_1993_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="glos-nauczyciela_1993" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="kieleckie-studia-filologiczne_2000_t.-14">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="kieleckie-studia-filologiczne_2000" />
+				<number>t. 14</number>
+			</journal-number>
+			<journal-number removed="false" id="kieleckie-studia-filologiczne_1997_t.-11">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="kieleckie-studia-filologiczne_1997" />
+				<number>t. 11</number>
+			</journal-number>
+			<journal-number removed="false" id="kieleckie-studia-filologiczne_1998_t.-12">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="kieleckie-studia-filologiczne_1998" />
+				<number>t. 12</number>
+			</journal-number>
+			<journal-number removed="false" id="biblioteka_2000_4">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="biblioteka_2000" />
+				<number>4</number>
+			</journal-number>
+			<journal-number removed="false" id="neerlandica-wratislaviensia_2017_27">
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<journal-year id="neerlandica-wratislaviensia_2017" />
+				<number>27</number>
+			</journal-number>
+		</journal-numbers>
+	</files>
+</pbl>

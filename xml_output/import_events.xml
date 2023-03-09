@@ -1,0 +1,57 @@
+<pbl>
+	<files>
+		<events>
+			<event id="http://www.wikidata.org/entity/fake0" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+				<type code="prize" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Literacka Nagroda Nobla</name>
+				</names>
+				<date-and-place>
+					<date from="" from-bc="" date-uncertain="" />
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="http://www.wikidata.org/entity/fake1" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+				<type code="conference" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Konferencja Naukowa pt. "Władysław Stanisław Reymont - pierwszy noblista Niepodległej"</name>
+				</names>
+				<date-and-place>
+					<date from="2014" from-bc="false" date-uncertain="false" />
+					<places>
+						<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
+					</places>
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="http://www.wikidata.org/entity/fake2" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+				<type code="prize" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Nagroda Literacka im. W. Reymonta</name>
+				</names>
+				<date-and-place>
+					<date from="" from-bc="" date-uncertain="" />
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="http://www.wikidata.org/entity/fake3" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+				<type code="festival" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Rok Reymontowski</name>
+				</names>
+				<date-and-place>
+					<date from="" from-bc="" date-uncertain="" />
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+		</events>
+	</files>
+</pbl>

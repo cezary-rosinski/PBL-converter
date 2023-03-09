@@ -1,0 +1,1 @@
+# po zakończeniu prac wszystkie klasy kartotek zgromadzić w tym pliku
