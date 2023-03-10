@@ -1,0 +1,863 @@
+- !!pl.psnc.pbl.models.records.RecordType
+        code:       anthology
+        ord:        1
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       anthology
+                      language:   pl
+        value:      antologia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       anthology
+                      language:   en
+        value:      anthology    
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       poem
+        ord:        2
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       poem
+                      language:   pl
+        value:      wiersz
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       poem
+                      language:   en
+        value:      poem
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       poem2
+        ord:        3
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       poem2
+                      language:   pl
+        value:      poemat
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       poem2
+                      language:   en
+        value:      poem 2
+  
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       prose
+        ord:        4
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       prose
+                      language:   pl
+        value:      proza
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       prose
+                      language:   en
+        value:      prose 
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       novel
+        ord:        5
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       novel
+                      language:   pl
+        value:      powieść
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       novel
+                      language:   en
+        value:      novel
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       story
+        ord:        6
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       story
+                      language:   pl
+        value:      opowiadanie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       story
+                      language:   en
+        value:      story
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       prose-miniature
+        ord:        7
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       prose-miniature
+                      language:   pl
+        value:      miniatura prozą
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       prose-miniature
+                      language:   en
+        value:      prose miniature
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       poetic-prose
+        ord:        8
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       poetic-prose
+                      language:   pl
+        value:      proza poetycka
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       poetic-prose
+                      language:   en
+        value:      poetic prose
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       aphorism
+        ord:        9
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       aphorism
+                      language:   pl
+        value:      aforyzm
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       aphorism
+                      language:   en
+        value:      aphorism
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       essay
+        ord:        10
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       essay
+                      language:   pl
+        value:      esej
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       essay
+                      language:   en
+        value:      essay
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       draft
+        ord:        11
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       draft
+                      language:   pl
+        value:      szkic
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       draft
+                      language:   en
+        value:      draft
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       feuilleton
+        ord:        12
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       feuilleton
+                      language:   pl
+        value:      felieton
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       feuilleton
+                      language:   en
+        value:      feuilleton
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       reportage
+        ord:        13
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       reportage
+                      language:   pl
+        value:      reportaż
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       reportage
+                      language:   en
+        value:      reportage
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       journal
+        ord:        14
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       journal
+                      language:   pl
+        value:      dziennik
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       journal
+                      language:   en
+        value:      journal
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       memory
+        ord:        15
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       memory
+                      language:   pl
+        value:      wspomnienie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       memory
+                      language:   en
+        value:      memory
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       autobiography
+        ord:        16
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       autobiography
+                      language:   pl
+        value:      autobiografia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       autobiography
+                      language:   en
+        value:      autobiography
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       sermon
+        ord:        17
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       sermon
+                      language:   pl
+        value:      kazanie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       sermon
+                      language:   en
+        value:      sermon
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       religious-thought
+        ord:        18
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       religious-thought
+                      language:   pl
+        value:      rozmyślanie religijne
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       religious-thought
+                      language:   en
+        value:      religious thought
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       scenario
+        ord:        19
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       scenario
+                      language:   pl
+        value:      scenariusz
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       scenario
+                      language:   en
+        value:      scenario
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       dramatic-texts
+        ord:        20
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       dramatic-texts
+                      language:   pl
+        value:      teksty dramatyczne
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       dramatic-texts
+                      language:   en
+        value:      dramatic texts
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       letter
+        ord:        21
+    
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       letter
+                      language:   pl
+        value:      list
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       letter
+                      language:   en
+        value:      letter
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       statement
+        ord:        22
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       statement
+                      language:   pl
+        value:      wypowiedź
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       statement
+                      language:   en
+        value:      statement
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       album
+        ord:        23
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       album
+                      language:   pl
+        value:      album
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       album
+                      language:   en
+        value:      album
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       picture-image
+        ord:        24
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       picture-image
+                      language:   pl
+        value:      rysunek, obraz
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       picture-image
+                      language:   en
+        value:      picture, image
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       bible-text
+        ord:        25
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       bible-text
+                      language:   pl
+        value:      tekst biblijny
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       bible-text
+                      language:   en
+        value:      bible text
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       monography
+        ord:        26
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       monography
+                      language:   pl
+        value:      monografia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       monography
+                      language:   en
+        value:      monography
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       biography
+        ord:        27
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       biography
+                      language:   pl
+        value:      biografia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       biography
+                      language:   en
+        value:      biography
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       dictionary
+        ord:        28
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       dictionary
+                      language:   pl
+        value:      słownik
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       dictionary
+                      language:   en
+        value:      dictionary
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       encyclopedia
+        ord:        29
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       encyclopedia
+                      language:   pl
+        value:      encyklopedia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       encyclopedia
+                      language:   en
+        value:      encyclopedia  
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       bibliography
+        ord:        30
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       bibliography
+                      language:   pl
+        value:      bibliografia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       bibliography
+                      language:   en
+        value:      bibliography
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       catalog
+        ord:        31
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       catalog
+                      language:   pl
+        value:      katalog
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       catalog
+                      language:   en
+        value:      catalog
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       calendar
+        ord:        32
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       calendar
+                      language:   pl
+        value:      kalendarium
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       calendar
+                      language:   en
+        value:      calendar  
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       manual
+        ord:        33
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       manual
+                      language:   pl
+        value:      podręcznik
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       manual
+                      language:   en
+        value:      manual  
+  
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       article
+        ord:        34
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       article
+                      language:   pl
+        value:      artykuł
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       article
+                      language:   en
+        value:      article 
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       review
+        ord:        35
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       review
+                      language:   pl
+        value:      recenzja
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       review
+                      language:   en
+        value:      review  
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       interview
+        ord:        36
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       interview
+                      language:   pl
+        value:      wywiad
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       interview
+                      language:   en
+        value:      interview
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       reference
+        ord:        37
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       reference
+                      language:   pl
+        value:      nawiązanie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       reference
+                      language:   en
+        value:      reference
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       polemic
+        ord:        38
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       polemic
+                      language:   pl
+        value:      polemika
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       polemic
+                      language:   en
+        value:      polemic
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       corrigendum
+        ord:        39
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       corrigendum
+                      language:   pl
+        value:      sprostowanie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       corrigendum
+                      language:   en
+        value:      corrigendum
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       introduction
+        ord:        40
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       introduction
+                      language:   pl
+        value:      wstęp
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       introduction
+                      language:   en
+        value:      introduction
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       epilog
+        ord:        41
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       epilog
+                      language:   pl
+        value:      posłowie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       epilog
+                      language:   en
+        value:      epilog  
+    
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       death
+        ord:        42
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       death
+                      language:   pl
+        value:      zgon
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       death
+                      language:   en
+        value:      death
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       cult
+        ord:        43
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       cult
+                      language:   pl
+        value:      kult
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       cult
+                      language:   en
+        value:      cult
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       iconography
+        ord:        44
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       iconography
+                      language:   pl
+        value:      ikonografia
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       iconography
+                      language:   en
+        value:      iconography
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       note
+        ord:        45
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       note
+                      language:   pl
+        value:      nota
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       note
+                      language:   en
+        value:      note
+
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       other
+        ord:        46
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       other
+                      language:   pl
+        value:      inne
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       other
+                      language:   en
+        value:      other    
+        
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       authors-monography
+        ord:        47
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       authors-monography
+                      language:   pl
+        value:      monografia autorska
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       authors-monography
+                      language:   en
+        value:      authors monography
+        
+    - !!pl.psnc.pbl.models.records.RecordType
+        code:       collective-monography
+        ord:        48
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       collective-monography
+                      language:   pl
+        value:      monografia zbiorowa
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   record-type
+                      code:       collective-monography
+                      language:   en
+        value:      collective monography

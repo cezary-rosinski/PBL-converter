@@ -186,7 +186,7 @@ def preprocess_journal_items(path):
     records_types = {k:[java_record_types.get(e) for e in java_record_types if any(e in el.lower() for el in v)] if not isinstance(v[0], type(None)) else [java_record_types.get('inne')] for k,v in records_types.items()}
     records_types = {k:v if v else ['other'] for k,v in records_types.items()}
     
-    languages = {e.get('id'): [language_codes.get(el) for el in e.get('language')] for e in origin_data}
+    languages = {e.get('id'): [language_codes.get(el) for el in e.get('language') if language_codes.get(el)] for e in origin_data}
     
     linked_objects = {e.get('id'): [ele for sub in [el.get('856') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('856') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('856') for el in parse_mrk(e.get('fullrecord'))] for e in origin_data}
     #tutaj wydobyć linki do libri
@@ -240,7 +240,7 @@ def preprocess_books(path, pub_places_path):
     records_types = {k:[java_record_types.get(e) for e in java_record_types if any(e in el.lower() for el in v)] if not isinstance(v[0], type(None)) else [java_record_types.get('inne')] for k,v in records_types.items()}
     records_types = {k:v if v else ['other'] for k,v in records_types.items()}
     
-    languages = {e.get('id'): [language_codes.get(el) for el in e.get('language')] for e in origin_data}
+    languages = {e.get('id'): [language_codes.get(el) for el in e.get('language') if language_codes.get(el)] for e in origin_data}
     
     linked_objects = {e.get('id'): [ele for sub in [el.get('856') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('856') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('856') for el in parse_mrk(e.get('fullrecord'))] for e in origin_data}
     #tutaj wydobyć linki do libri

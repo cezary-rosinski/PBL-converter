@@ -12,6 +12,7 @@ class JournalNumber:
         self.id = f'{self.journal_year_id}_{self.number}'.replace(' ', '-')
         self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
         self.links = []
+        self.status = 'published'
         
     class XmlRepresentation:
         
@@ -53,6 +54,8 @@ class JournalNumber:
         for heading in self.headings:
             headings_xml.append(ET.Element('heading', {'id': heading}))
         journal_number_xml.append(headings_xml)
+        
+        journal_number_xml.append(ET.Element('journal-number-status', {'value': self.status}))
         
         journal_number_xml.append(ET.Element('journal-year', {'id': self.journal_year_id}))
         

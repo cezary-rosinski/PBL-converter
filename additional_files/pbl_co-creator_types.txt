@@ -1,0 +1,341 @@
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       editorial-staff
+        ord:        1
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       editorial-staff
+                      language:   pl
+        value:      redakcja
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       editorial-staff
+                      language:   en
+        value:      editorial staff
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       selection
+        ord:        2
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       selection
+                      language:   pl
+        value:      wybór
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       selection
+                      language:   en
+        value:      selection
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       translation
+        ord:        3
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       translation
+                      language:   pl
+        value:      tłumaczenie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       translation
+                      language:   en
+        value:      translation
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       adaptation
+        ord:        4
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       adaptation
+                      language:   pl
+        value:      adaptacja
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       adaptation
+                      language:   en
+        value:      adaptation
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       introduction
+        ord:        5
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       introduction
+                      language:   pl
+        value:      wstęp
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       introduction
+                      language:   en
+        value:      introduction
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       afterword
+        ord:        6
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       afterword
+                      language:   pl
+        value:      posłowie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       afterword
+                      language:   en
+        value:      afterword   
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       notes-comments
+        ord:        7
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       notes-comments
+                      language:   pl
+        value:      noty i komentarze
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       notes-comments
+                      language:   en
+        value:      notes and comments
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       graphic-design
+        ord:        8
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       graphic-design
+                      language:   pl
+        value:      opracowanie graficzne
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       graphic-design
+                      language:   en
+        value:      graphic design
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       illustrations
+        ord:        9
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       illustrations
+                      language:   pl
+        value:      ilustracje
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       illustrations
+                      language:   en
+        value:      illustrations
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       direction
+        ord:        10
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       direction
+                      language:   pl
+        value:      reżyseria
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       direction
+                      language:   en
+        value:      direction
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       scenario
+        ord:        11
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       scenario
+                      language:   pl
+        value:      scenariusz
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       scenario
+                      language:   en
+        value:      scenario
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       music
+        ord:        12
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       music
+                      language:   pl
+        value:      muzyka
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       music
+                      language:   en
+        value:      music
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       lyrics
+        ord:        13
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       lyrics
+                      language:   pl
+        value:      słowa piosenki
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       lyrics
+                      language:   en
+        value:      lyrics
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       cooperation
+        ord:        14
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       cooperation
+                      language:   pl
+        value:      współpraca
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       cooperation
+                      language:   en
+        value:      cooperation
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       development
+        ord:        15
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       development
+                      language:   pl
+        value:      opracowanie
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       development
+                      language:   en
+        value:      development
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       implementation
+        ord:        16
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       implementation
+                      language:   pl
+        value:      realizacja
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       implementation
+                      language:   en
+        value:      implementation
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       outside-title-card
+        ord:        17
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       outside-title-card
+                      language:   pl
+        value:      spoza karty tytułowej
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       outside-title-card
+                      language:   en
+        value:      outside the title card
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       based-on-works
+        ord:        18
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       based-on-works
+                      language:   pl
+        value:      na podstawie utworów
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       based-on-works
+                      language:   en
+        value:      based on works
+
+    - !!pl.psnc.pbl.models.common.CoCreationType
+        code:       others
+        ord:        19
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       others
+                      language:   pl
+        value:      inni
+
+    - !!pl.psnc.pbl.models.Dictionary
+        id:         !!pl.psnc.pbl.models.DictEntryId
+                      dictType:   co-creation-type
+                      code:       others
+                      language:   en
+        value:      others

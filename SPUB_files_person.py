@@ -36,7 +36,7 @@ class Person:
                     name_xml.text = self.value
                     return name_xml
                 case 'PersonDateAndPlace':
-                    date_xml = ET.Element('date', {'from': self.date_from, 'from-bc': self.date_from_bc, 'date-uncertain': self.date_uncertain})
+                    date_xml = ET.Element('date', {'from': self.date_from, 'from-bc': self.date_from_bc, 'uncertain': self.date_uncertain})
                     place_dict = {'id': self.place_id, 'period': self.place_period, 'lang': self.place_lang}
                     place_dict = {k:v for k,v in place_dict.items() if v}
                     place_xml = ET.Element('place', place_dict)

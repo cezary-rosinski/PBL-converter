@@ -26,7 +26,7 @@ class Place:
             return "PlacePeriod('{}', '{}', '{}', '{}', '{}')".format(self.date_from, self.date_to, self.name, self.country, self.lang)
         
         def to_xml(self):
-            period_xml = ET.Element('period', {'date_from': self.date_from, 'date_to': self.date_to})
+            period_xml = ET.Element('period', {'date-from': self.date_from, 'date-to': self.date_to})
             for attr_tag, value in zip(['name', 'country'], [self.name, self.country]):
                 if value:
                     ET.SubElement(period_xml, attr_tag, {'lang': self.lang}).text = value

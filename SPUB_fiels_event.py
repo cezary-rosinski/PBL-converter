@@ -34,7 +34,7 @@ class Event:
                     return link_xml
                 case 'EventDateAndPlace':
                     date_and_place_xml = ET.Element('date-and-place')
-                    date_and_place_xml.append(ET.Element('date', {'from': self.date_from, 'from-bc': self.date_from_bc, 'date-uncertain': self.date_uncertain}))
+                    date_and_place_xml.append(ET.Element('date', {'from': self.date_from, 'from-bc': self.date_from_bc, 'uncertain': self.date_uncertain}))
                     if self.places:
                         places_xml = ET.SubElement(date_and_place_xml, 'places')
                         for place in self.places:

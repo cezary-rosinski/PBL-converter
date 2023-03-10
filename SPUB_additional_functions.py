@@ -17,12 +17,14 @@ from gspread_dataframe import set_with_dataframe, get_as_dataframe
 
 #%%
 
-def give_fake_id(entities):
-    fake_id = 0
+def give_fake_id(entities, last_number=0):
+    fake_id = last_number
     for entity in entities:
         if not entity.id or entity.id.endswith(('Q', 'QNone')):
-            entity.id = f"http://www.wikidata.org/entity/fake{fake_id}"
+            # entity.id = f"http://www.wikidata.org/entity/fake{fake_id}"
+            entity.id = f"fake_id_{fake_id}"
             fake_id += 1
+    return fake_id
 
 def marc_parser_for_field(string, subfield_code):
     subfield_list = re.findall(f'{subfield_code}.', string)

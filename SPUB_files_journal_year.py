@@ -15,6 +15,7 @@ class JournalYear:
         self.closed = 'false'
         if numbers_set:
             self.numbers = [JournalNumber(number=e, journal_year_id=self.id) for e in numbers_set]
+        self.status = 'published'
         
     class XmlRepresentation:
         
@@ -48,6 +49,8 @@ class JournalYear:
         year_xml = ET.Element('year')
         year_xml.text = self.year
         journal_year_xml.append(year_xml)
+        
+        journal_year_xml.append(ET.Element('journal-year-status', {'value': self.status}))
         
         journal_year_xml.append(ET.Element('closed', {'value': self.closed}))
         

@@ -33,7 +33,7 @@ class Institution:
         def to_xml(self):
             match self.__class__.__name__:
                 case 'InstitutionName':
-                    name_xml = ET.Element('name', {'type': self.type, 'newest': self.newest})
+                    name_xml = ET.Element('name', {'code': self.code, 'newest': self.newest})
                     name_xml.text = self.value
                     return name_xml
                 case 'InstitutionLink':
@@ -45,7 +45,7 @@ class Institution:
         
         def __init__(self, value):
             self.value = value
-            self.type = 'base'
+            self.code = 'base'
             self.newest = 'true'
             
         def __repr__(self):
@@ -93,9 +93,7 @@ class Institution:
         for heading in self.headings:
             headings_xml.append(ET.Element('heading', {'id': heading}))
         institution_xml.append(headings_xml)
-        newest_name_xml = ET.Element('newest_name')
-        newest_name_xml.text = self.newest_name
-        institution_xml.append(newest_name_xml)
+        
         return institution_xml
         
 # institutions = [Institution.from_dict(e) for e in data]

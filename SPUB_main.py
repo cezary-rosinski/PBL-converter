@@ -10,7 +10,7 @@ from SPUB_preprocessing import preprocess_places, preprocess_people, preprocess_
 from SPUB_additional_functions import give_fake_id
 
 # from SPUB_kartoteki_klasy import Place, Person, Event, PublishingSeries
-from SPUB_files_palce import Place
+from SPUB_files_place import Place
 from SPUB_files_person import Person
 from SPUB_files_institutions import Institution
 from SPUB_fiels_event import Event
@@ -42,40 +42,40 @@ books_data = preprocess_books(r".\elb_input\biblio.json", r".\elb_input\pub_plac
 #%% create class
 
 places = [Place.from_dict(e) for e in places_data]
-give_fake_id(places)
+last_number = give_fake_id(places)
 
 persons = [Person.from_dict(e) for e in person_data]
-give_fake_id(persons)
+last_number = give_fake_id(persons, last_number)
 for person in persons:
     person.connect_with_places(places)
     
 institutions = [Institution.from_dict(e) for e in institutions_data]
-give_fake_id(institutions)
+last_number = give_fake_id(institutions, last_number)
 
 events = [Event.from_dict(e) for e in events_data]
-give_fake_id(events)
+last_number = give_fake_id(events, last_number)
 for event in events:
     event.connect_with_places(places) 
 
 publishing_series_list = [PublishingSeries.from_dict(e) for e in series_data]
-give_fake_id(publishing_series_list)
+last_number = give_fake_id(publishing_series_list, last_number)
 
 creative_works = [CreativeWork.from_dict(e) for e in creative_works_data]
-give_fake_id(creative_works)
+last_number = give_fake_id(creative_works, last_number)
 for creative_work in creative_works:
     creative_work.connect_with_persons(persons)
     
 journals = [Journal.from_dict(e) for e in journals_data]
-give_fake_id(journals)
+last_number = give_fake_id(journals, last_number)
     
 journal_items = [JournalItem.from_dict(e) for e in journal_items_data]
-give_fake_id(journal_items)
+last_number = give_fake_id(journal_items, last_number)
 for journal_item in journal_items:
     journal_item.connect_with_persons(persons)
     journal_item.connect_with_journals(journals)
     
 books = [Book.from_dict(e) for e in books_data]
-give_fake_id(books)
+last_number = give_fake_id(books, last_number)
 for book in books:
     book.connect_with_persons(persons)
     book.connect_publisher(places, institutions)
@@ -172,8 +172,8 @@ ET.indent(tree, space="\t", level=0)
 tree.write('./xml_output/import_journals.xml', encoding='UTF-8')
 
 #journal items & books
-journal_items_xml = ET.Element('pbl')
-files_node = ET.SubElement(journal_items_xml, 'records')
+records_xml = ET.Element('pbl')
+files_node = ET.SubElement(records_xml, 'records')
 journal_items_node = ET.SubElement(files_node, 'journal-items')
 for journal_item in journal_items:
     journal_items_node.append(journal_item.to_xml())
@@ -181,13 +181,19 @@ books_node = ET.SubElement(files_node, 'books')
 for book in books:
     books_node.append(book.to_xml())
 
-tree = ET.ElementTree(journal_items_xml)
+tree = ET.ElementTree(records_xml)
 ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_journal_items_books.xml', encoding='UTF-8')
+tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
 
 
+# for book in books:
+#     x = book.to_xml()
+#     tree = ET.ElementTree(x)
+#     ET.indent(tree, space="\t", level=0)
+#     tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
 
 
+# [e for e in books_data if e.get('elb_id') == 'b1000000941897']
 
 
 

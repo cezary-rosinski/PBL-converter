@@ -1,47 +1,47 @@
 <pbl>
 	<files>
 		<people>
-			<person id="http://www.wikidata.org/entity/Q121180" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/4935777">
+			<person id="http://www.wikidata.org/entity/Q121180" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/4935777">
 				<names>
 					<name transliteration="no" code="main-name">Reymont, Władysław Stanisław</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q121180</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/4935777</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q121180</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/4935777</link>
 				</links>
 				<birth>
-					<date from="1867-05-07" from-bc="false" date-uncertain="false" />
+					<date from="1867-05-07" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q2248969" />
 				</birth>
 				<death>
-					<date from="1925-12-05" from-bc="false" date-uncertain="false" />
+					<date from="1925-12-05" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q15980962" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/311422935">
+			<person id="http://www.wikidata.org/entity/Q15980962" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/311422935">
 				<names>
 					<name transliteration="no" code="main-name">Richter, Leon</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q15980962</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/311422935</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q15980962</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/311422935</link>
 				</links>
 				<birth>
-					<date from="1885-07-12" from-bc="false" date-uncertain="false" />
+					<date from="1885-07-12" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<death>
-					<date from="1933" from-bc="false" date-uncertain="false" />
+					<date from="1933" from-bc="false" uncertain="false" />
 					<place />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake0" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_8" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Guth, Karl-Maria</name>
 				</names>
@@ -49,7 +49,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake1" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_9" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Koc, Barbara</name>
 				</names>
@@ -57,47 +57,47 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11725446" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/268602457">
+			<person id="http://www.wikidata.org/entity/Q11725446" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/268602457">
 				<names>
 					<name transliteration="no" code="main-name">Starnawski, Jerzy</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11725446</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/268602457</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11725446</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/268602457</link>
 				</links>
 				<birth>
-					<date from="1922-02-27" from-bc="false" date-uncertain="false" />
+					<date from="1922-02-27" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q5623114" />
 				</birth>
 				<death>
-					<date from="2012-11-09" from-bc="false" date-uncertain="false" />
+					<date from="2012-11-09" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q580" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q28154677" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/88125274">
+			<person id="http://www.wikidata.org/entity/Q28154677" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/88125274">
 				<names>
 					<name transliteration="no" code="main-name">Ardeschah, Jean Paul von</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q28154677</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/88125274</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q28154677</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/88125274</link>
 				</links>
 				<birth>
-					<date from="1874-06-26" from-bc="false" date-uncertain="false" />
+					<date from="1874-06-26" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<death>
-					<date from="1942" from-bc="false" date-uncertain="false" />
+					<date from="1942" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake2" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_10" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Bjørn, Agnethe</name>
 				</names>
@@ -105,7 +105,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake3" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_11" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Czajkowski, Stanisław</name>
 				</names>
@@ -113,27 +113,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q9359376" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/27085907">
+			<person id="http://www.wikidata.org/entity/Q9359376" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/27085907">
 				<names>
 					<name transliteration="no" code="main-name">Jodełka-Burzecki, Tomasz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q9359376</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/27085907</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9359376</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/27085907</link>
 				</links>
 				<birth>
-					<date from="1919-12-30" from-bc="false" date-uncertain="false" />
+					<date from="1919-12-30" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<death>
-					<date from="1989-09-20" from-bc="false" date-uncertain="false" />
+					<date from="1989-09-20" from-bc="false" uncertain="false" />
 					<place />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake4" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_12" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Ludwikowska, Jolanta</name>
 				</names>
@@ -141,7 +141,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake5" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_13" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Orlewiczowa, Irena</name>
 				</names>
@@ -149,7 +149,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake6" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_14" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Popławska, Anna</name>
 				</names>
@@ -157,27 +157,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q4994383" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/67547146">
+			<person id="http://www.wikidata.org/entity/Q4994383" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/67547146">
 				<names>
 					<name transliteration="no" code="main-name">Rørdam, Valdemar</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q4994383</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/67547146</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q4994383</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/67547146</link>
 				</links>
 				<birth>
-					<date from="1872-09-23" from-bc="false" date-uncertain="false" />
+					<date from="1872-09-23" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q1157819" />
 				</birth>
 				<death>
-					<date from="1946-07-13" from-bc="false" date-uncertain="false" />
+					<date from="1946-07-13" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q28042" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake7" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_15" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Velea, Stan</name>
 				</names>
@@ -185,7 +185,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake8" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_16" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Zagnińska, Maria</name>
 				</names>
@@ -193,27 +193,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q9263108" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/32015774">
+			<person id="http://www.wikidata.org/entity/Q9263108" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/32015774">
 				<names>
 					<name transliteration="no" code="main-name">Ziejka, Franciszek</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q9263108</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/32015774</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9263108</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/32015774</link>
 				</links>
 				<birth>
-					<date from="1940-10-03" from-bc="false" date-uncertain="false" />
+					<date from="1940-10-03" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q1280983" />
 				</birth>
 				<death>
-					<date from="2020-07-19" from-bc="false" date-uncertain="false" />
+					<date from="2020-07-19" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake9" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_17" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kaščák, Anton</name>
 				</names>
@@ -221,7 +221,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake10" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_18" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Li, Si</name>
 				</names>
@@ -229,22 +229,22 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake11" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/34867675">
+			<person id="fake_id_19" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/34867675">
 				<names>
 					<name transliteration="no" code="main-name">Lisowski, Zbigniew</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/34867675</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/34867675</link>
 				</links>
 				<birth>
-					<date from="1931" from-bc="false" date-uncertain="false" />
+					<date from="1931" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake12" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_20" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Canovas, Pilar Gil</name>
 				</names>
@@ -252,7 +252,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake13" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_21" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Chruściński, Kazimierz</name>
 				</names>
@@ -260,7 +260,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake14" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_22" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Demidowicz, Krzysztof</name>
 				</names>
@@ -268,42 +268,42 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake15" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/166854057">
+			<person id="fake_id_23" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/166854057">
 				<names>
 					<name transliteration="no" code="main-name">Dimoski, Zvonko</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/166854057</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/166854057</link>
 				</links>
 				<birth>
-					<date from="1980" from-bc="false" date-uncertain="false" />
+					<date from="1980" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q9354265" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/101718137">
+			<person id="http://www.wikidata.org/entity/Q9354265" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/101718137">
 				<names>
 					<name transliteration="no" code="main-name">Gicgier, Tadeusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q9354265</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/101718137</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9354265</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/101718137</link>
 				</links>
 				<birth>
-					<date from="1927-09-19" from-bc="false" date-uncertain="false" />
+					<date from="1927-09-19" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q580" period="❦" lang="pl" />
 				</birth>
 				<death>
-					<date from="2005-05-04" from-bc="false" date-uncertain="false" />
+					<date from="2005-05-04" from-bc="false" uncertain="false" />
 					<place />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake16" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_24" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Hendrykowski, Marek</name>
 				</names>
@@ -311,7 +311,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake17" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_25" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kostrzyńska-Walczak, Maria</name>
 				</names>
@@ -319,63 +319,63 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q245355" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/64038850">
+			<person id="http://www.wikidata.org/entity/Q245355" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/64038850">
 				<names>
 					<name transliteration="no" code="main-name">Krasiński, Zygmunt</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q245355</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/64038850</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q245355</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/64038850</link>
 				</links>
 				<birth>
-					<date from="1812-02-19" from-bc="false" date-uncertain="false" />
+					<date from="1812-02-19" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q90" />
 				</birth>
 				<death>
-					<date from="1859-02-23" from-bc="false" date-uncertain="false" />
+					<date from="1859-02-23" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q90" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11767664" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/109994630">
+			<person id="http://www.wikidata.org/entity/Q11767664" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/109994630">
 				<names>
 					<name transliteration="no" code="main-name">Kula, Marcin</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11767664</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/109994630</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11767664</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/109994630</link>
 				</links>
 				<birth>
-					<date from="1943-03-24" from-bc="false" date-uncertain="false" />
+					<date from="1943-03-24" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q4780440" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/163806880">
+			<person id="http://www.wikidata.org/entity/Q4780440" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/163806880">
 				<names>
 					<name transliteration="no" code="main-name">Kędzierski, Apoloniusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q4780440</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/163806880</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q4780440</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/163806880</link>
 				</links>
 				<birth>
-					<date from="1861-01-01" from-bc="false" date-uncertain="false" />
+					<date from="1861-01-01" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q1946041" />
 				</birth>
 				<death>
-					<date from="1939-01-01" from-bc="false" date-uncertain="false" />
+					<date from="1939-01-01" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake18" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_26" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Macios, Tomasz</name>
 				</names>
@@ -383,7 +383,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake19" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_27" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Matoni, Juergen</name>
 				</names>
@@ -391,7 +391,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake20" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_28" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Obecny, Edmund</name>
 				</names>
@@ -399,7 +399,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake21" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_29" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Olszewska, Maria Jolanta</name>
 				</names>
@@ -407,39 +407,39 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q9354684" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/79047066">
+			<person id="http://www.wikidata.org/entity/Q9354684" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/79047066">
 				<names>
 					<name transliteration="no" code="main-name">Oracki, Tadeusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q9354684</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/79047066</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9354684</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/79047066</link>
 				</links>
 				<birth>
-					<date from="1930-12-23" from-bc="false" date-uncertain="false" />
+					<date from="1930-12-23" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q327734" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/51706641">
+			<person id="http://www.wikidata.org/entity/Q327734" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/51706641">
 				<names>
 					<name transliteration="no" code="main-name">Pollack, Martin</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q327734</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/51706641</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q327734</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/51706641</link>
 				</links>
 				<birth>
-					<date from="1944-05-23" from-bc="false" date-uncertain="false" />
+					<date from="1944-05-23" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q259086" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake22" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_30" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Reymont, Władysław Stanisław (1867-1925).</name>
 				</names>
@@ -447,7 +447,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake23" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_31" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Rurawski, Józef</name>
 				</names>
@@ -455,7 +455,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake24" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_32" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Rychlowska, Marianna</name>
 				</names>
@@ -463,7 +463,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake25" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_33" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Schoell, Franck Louis</name>
 				</names>
@@ -471,7 +471,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake26" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_34" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Tianjierunyu</name>
 				</names>
@@ -479,7 +479,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake27" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_35" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Willman, Anna</name>
 				</names>
@@ -487,7 +487,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake28" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_36" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Zybura, Marek</name>
 				</names>
@@ -495,7 +495,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake29" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_37" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Ścibek, Lidia</name>
 				</names>
@@ -503,27 +503,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q366040" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/189239633">
+			<person id="http://www.wikidata.org/entity/Q366040" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/189239633">
 				<names>
 					<name transliteration="no" code="main-name">Žeromski, Stefan</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q366040</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/189239633</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q366040</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/189239633</link>
 				</links>
 				<birth>
-					<date from="1864-10-14" from-bc="false" date-uncertain="false" />
+					<date from="1864-10-14" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q102317" />
 				</birth>
 				<death>
-					<date from="1925-11-20" from-bc="false" date-uncertain="false" />
+					<date from="1925-11-20" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake30" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_38" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">(BZ)</name>
 				</names>
@@ -531,7 +531,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake31" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_39" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">(J.Ch.)</name>
 				</names>
@@ -539,7 +539,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake32" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_40" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">(kz)</name>
 				</names>
@@ -547,7 +547,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake33" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_41" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Bachórz, Józef</name>
 				</names>
@@ -555,7 +555,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake34" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_42" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Balicka, Maria</name>
 				</names>
@@ -563,7 +563,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake35" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_43" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Balowski, Mieczysław</name>
 				</names>
@@ -571,7 +571,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake36" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_44" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Banko-Sitek, Elżbieta</name>
 				</names>
@@ -579,7 +579,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake37" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_45" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Beliniak, Katarzyna</name>
 				</names>
@@ -587,7 +587,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake38" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_46" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Beniamino, A.</name>
 				</names>
@@ -595,7 +595,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake39" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_47" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Biernaczyk, Jarosław</name>
 				</names>
@@ -603,7 +603,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake40" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_48" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Bobecki, Ryszard</name>
 				</names>
@@ -611,7 +611,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake41" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_49" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Boronowski, Peter M.</name>
 				</names>
@@ -619,7 +619,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake42" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_50" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Bursztyńska, Halina</name>
 				</names>
@@ -627,27 +627,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q3370831" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/29531592">
+			<person id="http://www.wikidata.org/entity/Q3370831" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/29531592">
 				<names>
 					<name transliteration="no" code="main-name">Cazin, Paul</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q3370831</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/29531592</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q3370831</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/29531592</link>
 				</links>
 				<birth>
-					<date from="1881-04-28" from-bc="false" date-uncertain="false" />
+					<date from="1881-04-28" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q6441" />
 				</birth>
 				<death>
-					<date from="1963-04-12" from-bc="false" date-uncertain="false" />
+					<date from="1963-04-12" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q47465" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake43" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_51" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Cho, Han-jung</name>
 				</names>
@@ -655,7 +655,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake44" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_52" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Cieślak, Stanisław</name>
 				</names>
@@ -663,7 +663,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake45" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_53" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Cvitanović, Adrian</name>
 				</names>
@@ -671,7 +671,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake46" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_54" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Dasa, Cittaranjana</name>
 				</names>
@@ -679,7 +679,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake47" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_55" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Diez de Tejada, Vicente</name>
 				</names>
@@ -687,7 +687,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake48" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_56" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Dimevski, Filip</name>
 				</names>
@@ -695,43 +695,43 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11749185" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/89690281">
+			<person id="http://www.wikidata.org/entity/Q11749185" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/89690281">
 				<names>
 					<name transliteration="no" code="main-name">Dybciak, Krzysztof</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11749185</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/89690281</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11749185</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/89690281</link>
 				</links>
 				<birth>
-					<date from="1948-02-12" from-bc="false" date-uncertain="false" />
+					<date from="1948-02-12" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11837792" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/102055303">
+			<person id="http://www.wikidata.org/entity/Q11837792" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/102055303">
 				<names>
 					<name transliteration="no" code="main-name">Dłużniewski, Wiktor ca</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11837792</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/102055303</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11837792</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/102055303</link>
 				</links>
 				<birth>
-					<date from="1817" from-bc="false" date-uncertain="false" />
+					<date from="1817" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q129794" />
 				</birth>
 				<death>
-					<date from="1873" from-bc="false" date-uncertain="false" />
+					<date from="1873" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake49" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_57" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Fert, Beata</name>
 				</names>
@@ -739,7 +739,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake50" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_58" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Filipińska, Jadwiga</name>
 				</names>
@@ -747,7 +747,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake51" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_59" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Gancheva, Anastasija</name>
 				</names>
@@ -755,23 +755,23 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q16569750" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/4953151778221818130007">
+			<person id="http://www.wikidata.org/entity/Q16569750" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/4953151778221818130007">
 				<names>
 					<name transliteration="no" code="main-name">Garbaczewski, Krzysztof</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q16569750</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/4953151778221818130007</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q16569750</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/4953151778221818130007</link>
 				</links>
 				<birth>
-					<date from="1983-02-24" from-bc="false" date-uncertain="false" />
+					<date from="1983-02-24" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q761" period="❦" lang="pl" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake52" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_60" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Gatto, E.</name>
 				</names>
@@ -779,7 +779,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake53" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_61" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Gautreau, Olivier</name>
 				</names>
@@ -787,54 +787,54 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q9202001" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/15013376">
+			<person id="http://www.wikidata.org/entity/Q9202001" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/15013376">
 				<names>
 					<name transliteration="no" code="main-name">Gawin, Dariusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q9202001</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/15013376</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9202001</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/15013376</link>
 				</links>
 				<birth>
-					<date from="1964-02-02" from-bc="false" date-uncertain="false" />
+					<date from="1964-02-02" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q112506155" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/64178728">
+			<person id="http://www.wikidata.org/entity/Q112506155" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/64178728">
 				<names>
 					<name transliteration="no" code="main-name">Gmitruk, Janusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q112506155</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/64178728</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q112506155</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/64178728</link>
 				</links>
 				<birth>
-					<date from="1948" from-bc="false" date-uncertain="false" />
+					<date from="1948" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake54" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/30162115816202110708">
+			<person id="fake_id_62" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/30162115816202110708">
 				<names>
 					<name transliteration="no" code="main-name">Gojković, Branislav</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/30162115816202110708</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/30162115816202110708</link>
 				</links>
 				<birth>
-					<date from="1956" from-bc="false" date-uncertain="false" />
+					<date from="1956" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake55" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_63" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Gralewski, Zbigniew</name>
 				</names>
@@ -842,26 +842,26 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake56" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/161299470">
+			<person id="fake_id_64" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/161299470">
 				<names>
 					<name transliteration="no" code="main-name">Gromska, Janina</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/161299470</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/161299470</link>
 				</links>
 				<birth>
-					<date from="1877" from-bc="false" date-uncertain="false" />
+					<date from="1877" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<death>
-					<date from="1966" from-bc="false" date-uncertain="false" />
+					<date from="1966" from-bc="false" uncertain="false" />
 					<place />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake57" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_65" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Głodek, Piotr</name>
 				</names>
@@ -869,7 +869,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake58" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_66" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Głogowska, Monika</name>
 				</names>
@@ -877,27 +877,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q77485" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/29662650">
+			<person id="http://www.wikidata.org/entity/Q77485" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/29662650">
 				<names>
 					<name transliteration="no" code="main-name">Hauptmann, Carl</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q77485</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/29662650</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q77485</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/29662650</link>
 				</links>
 				<birth>
-					<date from="1858-05-11" from-bc="false" date-uncertain="false" />
+					<date from="1858-05-11" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q1001231" />
 				</birth>
 				<death>
-					<date from="1921-02-04" from-bc="false" date-uncertain="false" />
+					<date from="1921-02-04" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q186495" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake59" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_67" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Janik, Zdzisław</name>
 				</names>
@@ -905,7 +905,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake60" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_68" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kaczmarek, Antoni</name>
 				</names>
@@ -913,7 +913,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake61" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_69" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kadziński, Roman</name>
 				</names>
@@ -921,7 +921,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake62" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_70" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kamiński, Zygmunt</name>
 				</names>
@@ -929,7 +929,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake63" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_71" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kardyni-Pelikanowa, Krystyna</name>
 				</names>
@@ -937,43 +937,43 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q112364338" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/233207327">
+			<person id="http://www.wikidata.org/entity/Q112364338" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/233207327">
 				<names>
 					<name transliteration="no" code="main-name">Kardyni-Pelikánová, Krystyna</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q112364338</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/233207327</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q112364338</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/233207327</link>
 				</links>
 				<birth>
-					<date from="1930" from-bc="false" date-uncertain="false" />
+					<date from="1930" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q580" period="❦" lang="pl" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q9152431" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/92947277">
+			<person id="http://www.wikidata.org/entity/Q9152431" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/92947277">
 				<names>
 					<name transliteration="no" code="main-name">Kempa, Andrzej</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q9152431</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/92947277</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9152431</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/92947277</link>
 				</links>
 				<birth>
-					<date from="1936-06-27" from-bc="false" date-uncertain="false" />
+					<date from="1936-06-27" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q103217" />
 				</birth>
 				<death>
-					<date from="2009-10-01" from-bc="false" date-uncertain="false" />
+					<date from="2009-10-01" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q580" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake64" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_72" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kiss, Gy. Csaba</name>
 				</names>
@@ -981,27 +981,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q21020241" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/93566115">
+			<person id="http://www.wikidata.org/entity/Q21020241" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/93566115">
 				<names>
 					<name transliteration="no" code="main-name">Koc, Barbara</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q21020241</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/93566115</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q21020241</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/93566115</link>
 				</links>
 				<birth>
-					<date from="1925" from-bc="false" date-uncertain="false" />
+					<date from="1925" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</birth>
 				<death>
-					<date from="2013-08-09" from-bc="false" date-uncertain="false" />
+					<date from="2013-08-09" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake65" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_73" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Konarska-Pabiniak, Barbara</name>
 				</names>
@@ -1009,7 +1009,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake66" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_74" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Koralewska, Ewa</name>
 				</names>
@@ -1017,7 +1017,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake67" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_75" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kordys-Tomaszewska, Marta</name>
 				</names>
@@ -1025,7 +1025,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake68" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_76" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kovacs, Endre</name>
 				</names>
@@ -1033,22 +1033,22 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake69" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/55322756">
+			<person id="fake_id_77" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/55322756">
 				<names>
 					<name transliteration="no" code="main-name">Kozłowski, Janusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/55322756</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/55322756</link>
 				</links>
 				<birth>
-					<date from="1952" from-bc="false" date-uncertain="false" />
+					<date from="1952" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake70" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_78" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kraskowski, Leszek</name>
 				</names>
@@ -1056,7 +1056,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake71" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_79" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Książek-Bryłowa, Władysława</name>
 				</names>
@@ -1064,7 +1064,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake72" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_80" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kuehl, Olaf</name>
 				</names>
@@ -1072,7 +1072,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake73" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_81" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kuźmińska, Aleksandra</name>
 				</names>
@@ -1080,7 +1080,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake74" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_82" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Kędzierski, Apoloniusz</name>
 				</names>
@@ -1088,7 +1088,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake75" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_83" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Lahdo, Gabro</name>
 				</names>
@@ -1096,7 +1096,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake76" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_84" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Laḥdū, Kabrū</name>
 				</names>
@@ -1104,7 +1104,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake77" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_85" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Lichański, Stefan</name>
 				</names>
@@ -1112,7 +1112,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake78" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_86" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Litwinowicz-Droździel, Małgorzata.</name>
 				</names>
@@ -1120,7 +1120,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake79" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_87" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Lysenko, E.</name>
 				</names>
@@ -1128,7 +1128,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake80" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_88" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Lüning, Inga</name>
 				</names>
@@ -1136,7 +1136,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake81" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_89" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">MC</name>
 				</names>
@@ -1144,23 +1144,23 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q715116" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/64207105">
+			<person id="http://www.wikidata.org/entity/Q715116" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/64207105">
 				<names>
 					<name transliteration="no" code="main-name">Majewski, Lech</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q715116</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/64207105</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q715116</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/64207105</link>
 				</links>
 				<birth>
-					<date from="1953-08-30" from-bc="false" date-uncertain="false" />
+					<date from="1953-08-30" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q588" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake82" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_90" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Malmström, Ulla</name>
 				</names>
@@ -1168,7 +1168,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake83" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_91" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Manturzewski, Stanisław</name>
 				</names>
@@ -1176,27 +1176,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q259723" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/2769242">
+			<person id="http://www.wikidata.org/entity/Q259723" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/2769242">
 				<names>
 					<name transliteration="no" code="main-name">Martínek, Vojtěch</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q259723</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/2769242</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q259723</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/2769242</link>
 				</links>
 				<birth>
-					<date from="1887-04-11" from-bc="false" date-uncertain="false" />
+					<date from="1887-04-11" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q994946" />
 				</birth>
 				<death>
-					<date from="1960-04-25" from-bc="false" date-uncertain="false" />
+					<date from="1960-04-25" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q8385" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake84" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_92" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Mazan, Bogdan</name>
 				</names>
@@ -1204,7 +1204,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake85" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_93" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Medvedevoj, O.</name>
 				</names>
@@ -1212,7 +1212,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake86" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_94" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Michalski, Henryk</name>
 				</names>
@@ -1220,7 +1220,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake87" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_95" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Milewska, Hanna</name>
 				</names>
@@ -1228,7 +1228,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake88" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_96" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Miszczak, Jolanta</name>
 				</names>
@@ -1236,34 +1236,34 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake89" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/101642290">
+			<person id="fake_id_97" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/101642290">
 				<names>
 					<name transliteration="no" code="main-name">Moczulski, Marek</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/101642290</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/101642290</link>
 				</links>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q12290321" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/58170789">
+			<person id="http://www.wikidata.org/entity/Q12290321" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/58170789">
 				<names>
 					<name transliteration="no" code="main-name">Nakovski, Petre</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q12290321</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/58170789</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q12290321</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/58170789</link>
 				</links>
 				<birth>
-					<date from="1937-07-17" from-bc="false" date-uncertain="false" />
+					<date from="1937-07-17" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q3301607" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake90" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_98" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Nakovski, Petre</name>
 				</names>
@@ -1271,7 +1271,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake91" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_99" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Neveravicius, Fabijonas</name>
 				</names>
@@ -1279,7 +1279,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake92" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_100" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Nguyen, Văn Thái</name>
 				</names>
@@ -1287,27 +1287,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q240174" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/44349228">
+			<person id="http://www.wikidata.org/entity/Q240174" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/44349228">
 				<names>
 					<name transliteration="no" code="main-name">Orzeszkowa, Eliza</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q240174</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/44349228</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q240174</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/44349228</link>
 				</links>
 				<birth>
-					<date from="1841-06-06" from-bc="false" date-uncertain="false" />
+					<date from="1841-06-06" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q653342" />
 				</birth>
 				<death>
-					<date from="1910-05-18" from-bc="false" date-uncertain="false" />
+					<date from="1910-05-18" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q181376" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake93" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_101" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Pachocki, Dariusz</name>
 				</names>
@@ -1315,7 +1315,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake94" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_102" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Palfalvi, Lajos</name>
 				</names>
@@ -1323,7 +1323,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake95" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_103" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Pieczara, Marek</name>
 				</names>
@@ -1331,22 +1331,22 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake96" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/53156009831349580340">
+			<person id="fake_id_104" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/53156009831349580340">
 				<names>
 					<name transliteration="no" code="main-name">Pillon, Laura</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/53156009831349580340</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/53156009831349580340</link>
 				</links>
 				<birth>
-					<date from="1994" from-bc="false" date-uncertain="false" />
+					<date from="1994" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake97" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_105" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Podol'skoj, N.</name>
 				</names>
@@ -1354,27 +1354,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q59528521" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/27079647">
+			<person id="http://www.wikidata.org/entity/Q59528521" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/27079647">
 				<names>
 					<name transliteration="no" code="main-name">Polanowski, Tadeusz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q59528521</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/27079647</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q59528521</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/27079647</link>
 				</links>
 				<birth>
-					<date from="1922-01-01" from-bc="false" date-uncertain="false" />
+					<date from="1922-01-01" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<death>
-					<date from="1995-01-01" from-bc="false" date-uncertain="false" />
+					<date from="1995-01-01" from-bc="false" uncertain="false" />
 					<place />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake98" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_106" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Polit, Mariusz</name>
 				</names>
@@ -1382,23 +1382,23 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11766089" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/17272828">
+			<person id="http://www.wikidata.org/entity/Q11766089" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/17272828">
 				<names>
 					<name transliteration="no" code="main-name">Popiel, Magdalena</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11766089</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/17272828</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11766089</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/17272828</link>
 				</links>
 				<birth>
-					<date from="1953-01-01" from-bc="false" date-uncertain="false" />
+					<date from="1953-01-01" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake99" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_107" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Popiel, Magdalena</name>
 				</names>
@@ -1406,7 +1406,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake100" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_108" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Pulnar, Janusz</name>
 				</names>
@@ -1414,7 +1414,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake101" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_109" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Pálfalvi, Lajos</name>
 				</names>
@@ -1422,7 +1422,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake102" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_110" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Płonka, Grażyna</name>
 				</names>
@@ -1430,7 +1430,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake103" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_111" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Raclavska, Jana</name>
 				</names>
@@ -1438,27 +1438,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q47293" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/61551298">
+			<person id="http://www.wikidata.org/entity/Q47293" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/61551298">
 				<names>
 					<name transliteration="no" code="main-name">Remarque, Erich Maria</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q47293</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/61551298</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q47293</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/61551298</link>
 				</links>
 				<birth>
-					<date from="1898-06-22" from-bc="false" date-uncertain="false" />
+					<date from="1898-06-22" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q2916" />
 				</birth>
 				<death>
-					<date from="1970-09-25" from-bc="false" date-uncertain="false" />
+					<date from="1970-09-25" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q11935" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake104" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_112" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Reymont Kręgielewski, Edward</name>
 				</names>
@@ -1466,7 +1466,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake105" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_113" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Rohoziński, Janusz</name>
 				</names>
@@ -1474,7 +1474,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake106" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_114" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Rozwadowski, Stanisław</name>
 				</names>
@@ -1482,27 +1482,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q582704" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/27189121">
+			<person id="http://www.wikidata.org/entity/Q582704" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/27189121">
 				<names>
 					<name transliteration="no" code="main-name">Rydel, Lucjan</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q582704</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/27189121</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q582704</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/27189121</link>
 				</links>
 				<birth>
-					<date from="1870-05-17" from-bc="false" date-uncertain="false" />
+					<date from="1870-05-17" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 				</birth>
 				<death>
-					<date from="1918-04-08" from-bc="false" date-uncertain="false" />
+					<date from="1918-04-08" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q9180026" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake107" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_115" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Sasin, Magdalena</name>
 				</names>
@@ -1510,7 +1510,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake108" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_116" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Schmidgall, Renate</name>
 				</names>
@@ -1518,7 +1518,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake109" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_117" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Slaby, Rudolf J.</name>
 				</names>
@@ -1526,7 +1526,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake110" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_118" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Sobaś-Mikołajczyk, Pola</name>
 				</names>
@@ -1534,7 +1534,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake111" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_119" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Sobczak, Jerzy</name>
 				</names>
@@ -1542,7 +1542,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake112" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_120" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Sobolewska, Katarzyna</name>
 				</names>
@@ -1550,7 +1550,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake113" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_121" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Socha, Natasza</name>
 				</names>
@@ -1558,43 +1558,43 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q19269768" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/61972665">
+			<person id="http://www.wikidata.org/entity/Q19269768" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/61972665">
 				<names>
 					<name transliteration="no" code="main-name">Stanik, Stanisław</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q19269768</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/61972665</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q19269768</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/61972665</link>
 				</links>
 				<birth>
-					<date from="1949" from-bc="false" date-uncertain="false" />
+					<date from="1949" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<death>
-					<date from="2020" from-bc="false" date-uncertain="false" />
+					<date from="2020" from-bc="false" uncertain="false" />
 					<place />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q126797" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/34510394">
+			<person id="http://www.wikidata.org/entity/Q126797" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/34510394">
 				<names>
 					<name transliteration="no" code="main-name">Stoǰčevski, Sande</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q126797</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/34510394</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q126797</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/34510394</link>
 				</links>
 				<birth>
-					<date from="1948-09-16" from-bc="false" date-uncertain="false" />
+					<date from="1948-09-16" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q3071381" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake114" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_122" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Straszewska, Anna</name>
 				</names>
@@ -1602,27 +1602,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q175669" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/24708474">
+			<person id="http://www.wikidata.org/entity/Q175669" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/24708474">
 				<names>
 					<name transliteration="no" code="main-name">Streuvels, Stijn</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q175669</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/24708474</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q175669</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/24708474</link>
 				</links>
 				<birth>
-					<date from="1871-10-03" from-bc="false" date-uncertain="false" />
+					<date from="1871-10-03" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q3110823" />
 				</birth>
 				<death>
-					<date from="1969-08-15" from-bc="false" date-uncertain="false" />
+					<date from="1969-08-15" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q1012352" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake115" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_123" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Suchożebrska, Wanda</name>
 				</names>
@@ -1630,7 +1630,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake116" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_124" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Sułek, Henryk</name>
 				</names>
@@ -1638,7 +1638,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake117" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_125" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Swat-Pawlicka, Magdalena</name>
 				</names>
@@ -1646,7 +1646,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake118" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_126" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Sztachelska, Jolanta</name>
 				</names>
@@ -1654,7 +1654,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake119" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_127" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Szymczak, Iwonna</name>
 				</names>
@@ -1662,7 +1662,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake120" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_128" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Tabencki, Jan</name>
 				</names>
@@ -1670,7 +1670,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake121" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_129" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Talaga, Andrzej</name>
 				</names>
@@ -1678,42 +1678,42 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake122" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/144149841865302840086">
+			<person id="fake_id_130" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/144149841865302840086">
 				<names>
 					<name transliteration="no" code="main-name">Taperek, Marta</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/144149841865302840086</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/144149841865302840086</link>
 				</links>
 				<birth>
-					<date from="1990" from-bc="false" date-uncertain="false" />
+					<date from="1990" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11729814" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/28106164">
+			<person id="http://www.wikidata.org/entity/Q11729814" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/28106164">
 				<names>
 					<name transliteration="no" code="main-name">Tomcsányi, János</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11729814</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/28106164</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11729814</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/28106164</link>
 				</links>
 				<birth>
-					<date from="1873-09-07" from-bc="false" date-uncertain="false" />
+					<date from="1873-09-07" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q831183" />
 				</birth>
 				<death>
-					<date from="1935-12-30" from-bc="false" date-uncertain="false" />
+					<date from="1935-12-30" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q1781" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake123" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_131" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Tomcsányi, János</name>
 				</names>
@@ -1721,7 +1721,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake124" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_132" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Tomczyk-Maryon, Marta</name>
 				</names>
@@ -1729,7 +1729,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake125" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_133" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Tomkowski, Jan</name>
 				</names>
@@ -1737,7 +1737,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake126" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_134" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Tropovskij, Evgenij</name>
 				</names>
@@ -1745,18 +1745,18 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake127" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/101875141">
+			<person id="fake_id_135" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/101875141">
 				<names>
 					<name transliteration="no" code="main-name">Trznadel-Szczepanek, Anna</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/101875141</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/101875141</link>
 				</links>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake128" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_136" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Utkowska, Beata</name>
 				</names>
@@ -1764,7 +1764,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake129" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_137" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Walaszczyk, Maciej</name>
 				</names>
@@ -1772,7 +1772,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake130" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_138" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Walczyna, Barbara</name>
 				</names>
@@ -1780,7 +1780,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake131" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_139" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wester, Ellen Sofia</name>
 				</names>
@@ -1788,7 +1788,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake132" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_140" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wideryński, Mariusz</name>
 				</names>
@@ -1796,7 +1796,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake133" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_141" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wielgosz, Wanda</name>
 				</names>
@@ -1804,7 +1804,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake134" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_142" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wilmański, Jerzy</name>
 				</names>
@@ -1812,7 +1812,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake135" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_143" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Winiecki, Marian</name>
 				</names>
@@ -1820,7 +1820,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake136" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_144" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wiśniewska, Monika</name>
 				</names>
@@ -1828,7 +1828,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake137" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_145" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wróblewski, Maciej</name>
 				</names>
@@ -1836,27 +1836,27 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q4704499" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/56625079">
+			<person id="http://www.wikidata.org/entity/Q4704499" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/56625079">
 				<names>
 					<name transliteration="no" code="main-name">Wyka, Kazimierz</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q4704499</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/56625079</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q4704499</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/56625079</link>
 				</links>
 				<birth>
-					<date from="1910-03-19" from-bc="false" date-uncertain="false" />
+					<date from="1910-03-19" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q146509" />
 				</birth>
 				<death>
-					<date from="1975-01-19" from-bc="false" date-uncertain="false" />
+					<date from="1975-01-19" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 				</death>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake138" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_146" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Wójcik, Włodzimierz</name>
 				</names>
@@ -1864,7 +1864,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake139" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_147" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Włodarczyk-Kaziród, Joanna</name>
 				</names>
@@ -1872,7 +1872,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake140" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_148" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Xigu, Jin</name>
 				</names>
@@ -1880,7 +1880,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake141" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_149" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Yang, Deyon yi</name>
 				</names>
@@ -1888,7 +1888,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake142" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_150" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Zacharska, Jadwiga</name>
 				</names>
@@ -1896,23 +1896,23 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q111282975" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/311139510">
+			<person id="http://www.wikidata.org/entity/Q111282975" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/311139510">
 				<names>
 					<name transliteration="no" code="main-name">Załęczny, Jolanta</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q111282975</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/311139510</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q111282975</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/311139510</link>
 				</links>
 				<birth>
-					<date from="1959-11-13" from-bc="false" date-uncertain="false" />
+					<date from="1959-11-13" from-bc="false" uncertain="false" />
 					<place />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake143" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_151" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Zhang, Zhenhui</name>
 				</names>
@@ -1920,23 +1920,23 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11719541" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/61561411">
+			<person id="http://www.wikidata.org/entity/Q11719541" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/61561411">
 				<names>
 					<name transliteration="no" code="main-name">Zieliński, Jan</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11719541</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/61561411</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11719541</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/61561411</link>
 				</links>
 				<birth>
-					<date from="1952-06-19" from-bc="false" date-uncertain="false" />
+					<date from="1952-06-19" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q385" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake144" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_152" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Zieliński, Jan</name>
 				</names>
@@ -1944,7 +1944,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake145" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_153" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Ziren, Shi</name>
 				</names>
@@ -1952,23 +1952,23 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/Q11818336" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09" viaf="https://viaf.org/viaf/2691944">
+			<person id="http://www.wikidata.org/entity/Q11818336" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/2691944">
 				<names>
 					<name transliteration="no" code="main-name">Łopuszański, Piotr</name>
 				</names>
 				<links>
-					<link access-date="2023-03-09" type="external-identifier">http://www.wikidata.org/entity/Q11818336</link>
-					<link access-date="2023-03-09" type="external-identifier">https://viaf.org/viaf/2691944</link>
+					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q11818336</link>
+					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/2691944</link>
 				</links>
 				<birth>
-					<date from="1966-05-24" from-bc="false" date-uncertain="false" />
+					<date from="1966-05-24" from-bc="false" uncertain="false" />
 					<place id="http://www.wikidata.org/entity/Q648" />
 				</birth>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</person>
-			<person id="http://www.wikidata.org/entity/fake146" status="published" creator="cezary_rosinski" creation-date="2023-03-09" publishing-date="2023-03-09">
+			<person id="fake_id_154" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10">
 				<names>
 					<name transliteration="no" code="main-name">Żadziłko-Sztachelska, Jolanta</name>
 				</names>

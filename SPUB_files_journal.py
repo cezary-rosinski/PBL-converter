@@ -41,7 +41,7 @@ class Journal:
         def to_xml(self):
             match self.__class__.__name__:
                 case 'JournalTitle':
-                    title_xml = ET.Element('title', {'type': self.type, 'lang': self.lang, 'principal': self.principal, 'transliteration': self.transliteration})
+                    title_xml = ET.Element('title', {'code': self.code, 'lang': self.lang, 'newest': self.newest, 'transliteration': self.transliteration})
                     title_xml.text = self.value
                     return title_xml
                 case 'JournalLink':
@@ -53,9 +53,9 @@ class Journal:
         
         def __init__(self, value):
             self.value = value
-            self.type = 'base'
+            self.code = 'base'
             self.lang = 'pl'
-            self.principal = 'true'
+            self.newest = 'true'
             self.transliteration = 'false'
             
         def __repr__(self):
@@ -129,7 +129,7 @@ class Journal:
         issn_xml.text = self.issn
         journal_xml.append(issn_xml)
         
-        journal_xml.append(ET.Element('status', {'id': self.status}))
+        journal_xml.append(ET.Element('journal-status', {'value': self.status}))
         
         journal_xml.append(ET.Element('newest-journal-number', {'id': self.newest_journal_number_id}))
         

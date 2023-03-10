@@ -23,7 +23,7 @@ class PublishingSeries:
         def to_xml(self):
             match self.__class__.__name__:
                 case 'PublishingSeriesTitle':
-                    title_xml = ET.Element('title', {'type': self.type, 'newest': self.newest, 'transliteration': self.transliteration})
+                    title_xml = ET.Element('title', {'code': self.code, 'newest': self.newest, 'transliteration': self.transliteration})
                     title_xml.text = self.value
                     return title_xml
     
@@ -31,7 +31,7 @@ class PublishingSeries:
         
         def __init__(self, value):
             self.value = value
-            self.type = 'base'
+            self.code = 'base'
             self.newest = 'true'
             self.transliteration = 'false'
             
