@@ -272,7 +272,7 @@ def preprocess_books(path, pub_places_path):
             'year': elem.get('datesort_str_mv')[0],
             'elb_id': elem_id,
             'publishers': publishers_data.get(elem_id),
-            'phisical_description': physical_description_data.get(elem_id)
+            'physical_description': physical_description_data.get(elem_id)
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data

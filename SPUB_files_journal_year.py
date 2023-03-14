@@ -15,7 +15,7 @@ class JournalYear:
         self.closed = 'false'
         if numbers_set:
             self.numbers = [JournalNumber(number=e, journal_year_id=self.id) for e in numbers_set]
-        self.status = 'published'
+        self.status = 'under-development'
         
     class XmlRepresentation:
         

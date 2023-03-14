@@ -21,11 +21,13 @@ class Person:
         self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
         
         self.names = [self.PersonName(value=name)]
-        self.links = []
-        for el in [self.id, self.viaf]:
-            self.add_person_link(el)
+        
         self.birth_date_and_place = self.PersonDateAndPlace(date_from=birth_date, place_id=birth_place) if birth_date else None
         self.death_date_and_place = self.PersonDateAndPlace(date_from=death_date, place_id=death_place) if death_date else None
+        
+        self.links = []
+        for el in [self.id, self.viaf]:
+            self.add_person_link(el, 'external-identifier')
     
     class XmlRepresentation:
         
@@ -75,9 +77,9 @@ class Person:
         
     class PersonLink(XmlRepresentation):
         
-        def __init__(self, person_instance, link):
+        def __init__(self, person_instance, link, type_):
             self.access_date = person_instance.date
-            self.type = 'external-identifier'
+            self.type = type_
             self.link = link
             
         def __repr__(self):
@@ -94,9 +96,9 @@ class Person:
         death_place = person_dict.get('placeD')
         return cls(id_, viaf, name, birth_date, death_date, birth_place, death_place)
     
-    def add_person_link(self, person_link):
+    def add_person_link(self, person_link, type_):
         if person_link:
-            self.links.append(self.PersonLink(person_instance=self, link=person_link))
+            self.links.append(self.PersonLink(person_instance=self, link=person_link, type_=type_))
             
     def connect_with_places(self, list_of_places_class):
         for place in [self.birth_date_and_place, self.death_date_and_place]:
@@ -105,6 +107,9 @@ class Person:
                 if match_place:
                     place.place_period = f'{match_place[0].periods[0].date_from}❦{match_place[0].periods[0].date_to}'
                     place.place_lang = match_place[0].periods[0].lang
+                    #skonsultować z Nikodemem, czemu tu nie wchodzi tylko druga miejscowość
+                    if 'fake' not in place.place_id:
+                        self.add_person_link(place.place_id, 'other')
             
     def to_xml(self):
         person_dict = {k:v for k,v in {'id': self.id, 'status': self.status, 'creator': self.creator, 'creation-date': self.date, 'publishing-date': self.publishing_date, 'viaf': self.viaf}.items() if v}

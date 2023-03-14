@@ -1,7 +1,7 @@
 <pbl>
 	<files>
 		<journals>
-			<journal removed="false" id="przekroj" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="przekroj" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przekrój</title>
 				</titles>
@@ -15,7 +15,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przekroj_2000_39" />
 			</journal>
-			<journal removed="false" id="glos-ludu" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="glos-ludu" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Głos Ludu</title>
 				</titles>
@@ -29,7 +29,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="glos-ludu_2000_112" />
 			</journal>
-			<journal removed="false" id="antena" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="antena" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Antena</title>
 				</titles>
@@ -43,7 +43,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="antena_2000_47" />
 			</journal>
-			<journal removed="false" id="zycie" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="zycie" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Życie</title>
 				</titles>
@@ -58,7 +58,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zycie_2001_12" />
 			</journal>
-			<journal removed="false" id="nasz-dziennik" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="nasz-dziennik" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nasz Dziennik</title>
 				</titles>
@@ -72,7 +72,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nasz-dziennik_2000_4" />
 			</journal>
-			<journal removed="false" id="gazeta-wyborcza" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="gazeta-wyborcza" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gazeta Wyborcza</title>
 				</titles>
@@ -86,7 +86,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gazeta-wyborcza_2001_210" />
 			</journal>
-			<journal removed="false" id="trybuna" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="trybuna" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Trybuna</title>
 				</titles>
@@ -100,7 +100,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="trybuna_2001_8" />
 			</journal>
-			<journal removed="false" id="aneks-trybuny" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="aneks-trybuny" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Aneks Trybuny</title>
 				</titles>
@@ -114,7 +114,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="aneks-trybuny_2000_98" />
 			</journal>
-			<journal removed="false" id="film" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="film" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Film</title>
 				</titles>
@@ -128,7 +128,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="film_1999_3" />
 			</journal>
-			<journal removed="false" id="siodma-prowincja" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="siodma-prowincja" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Siódma Prowincja</title>
 				</titles>
@@ -143,7 +143,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="siodma-prowincja_1998_1" />
 			</journal>
-			<journal removed="false" id="dziennik-kijowski" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="dziennik-kijowski" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dziennik Kijowski</title>
 				</titles>
@@ -157,7 +157,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dziennik-kijowski_2000_24" />
 			</journal>
-			<journal removed="false" id="rzeczpospolita" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="rzeczpospolita" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rzeczpospolita</title>
 				</titles>
@@ -171,7 +171,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rzeczpospolita_2001_94" />
 			</journal>
-			<journal removed="false" id="poradnik-bibliotekarza" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="poradnik-bibliotekarza" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Poradnik Bibliotekarza</title>
 				</titles>
@@ -185,7 +185,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="poradnik-bibliotekarza_2001_3" />
 			</journal>
-			<journal removed="false" id="ojczyzna-polszczyzna" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="ojczyzna-polszczyzna" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ojczyzna Polszczyzna</title>
 				</titles>
@@ -199,7 +199,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ojczyzna-polszczyzna_1996_4" />
 			</journal>
-			<journal removed="false" id="przeglad-polski--polish-review" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="przeglad-polski--polish-review" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Polski = Polish Review</title>
 				</titles>
@@ -213,7 +213,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-polski--polish-review_1991_z-30-V" />
 			</journal>
-			<journal removed="false" id="powsciagliwosc-i-praca" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="powsciagliwosc-i-praca" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Powściągliwość i Praca</title>
 				</titles>
@@ -227,7 +227,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="powsciagliwosc-i-praca_2000_7" />
 			</journal>
-			<journal removed="false" id="promocje-kujawskopomorskie" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="promocje-kujawskopomorskie" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Promocje Kujawsko-Pomorskie</title>
 				</titles>
@@ -241,7 +241,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="promocje-kujawskopomorskie_2001_1" />
 			</journal>
-			<journal removed="false" id="kwartalnik-wrzesinski" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="kwartalnik-wrzesinski" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kwartalnik Wrzesiński</title>
 				</titles>
@@ -255,7 +255,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kwartalnik-wrzesinski_2000_3" />
 			</journal>
-			<journal removed="false" id="kwartalnik-filmowy" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="kwartalnik-filmowy" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kwartalnik Filmowy</title>
 				</titles>
@@ -269,7 +269,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kwartalnik-filmowy_2003_43" />
 			</journal>
-			<journal removed="false" id="wprost" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="wprost" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wprost</title>
 				</titles>
@@ -283,7 +283,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wprost_1996_19" />
 			</journal>
-			<journal removed="false" id="ludzie" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="ludzie" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ludzie</title>
 				</titles>
@@ -297,7 +297,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ludzie_2000_50" />
 			</journal>
-			<journal removed="false" id="gazeta-magazyn" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="gazeta-magazyn" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gazeta. Magazyn</title>
 				</titles>
@@ -311,7 +311,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gazeta-magazyn_1998_7" />
 			</journal>
-			<journal removed="false" id="opcje-katowice-druk" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="opcje-katowice-druk" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Opcje (Katowice. Druk)</title>
 				</titles>
@@ -325,7 +325,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="opcje-katowice-druk_2017_1" />
 			</journal>
-			<journal removed="false" id="nauka-i-przyszlosc" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="nauka-i-przyszlosc" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nauka i Przyszłość</title>
 				</titles>
@@ -339,7 +339,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nauka-i-przyszlosc_2001_1" />
 			</journal>
-			<journal removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słupskie Prace Filologiczne. Seria Filologia Polska</title>
 				</titles>
@@ -353,7 +353,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slupskie-prace-filologiczne-seria-filologia-polska_2002_1" />
 			</journal>
-			<journal removed="false" id="arcana" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="arcana" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Arcana</title>
 				</titles>
@@ -367,7 +367,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="arcana_1995_5" />
 			</journal>
-			<journal removed="false" id="regiony" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="regiony" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Regiony</title>
 				</titles>
@@ -381,7 +381,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="regiony_1997_4" />
 			</journal>
-			<journal removed="false" id="zwiazkowiec--the-alliancer" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="zwiazkowiec--the-alliancer" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Związkowiec = The Alliancer</title>
 				</titles>
@@ -395,7 +395,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zwiazkowiec--the-alliancer_1989_28" />
 			</journal>
-			<journal removed="false" id="plus-minus" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="plus-minus" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Plus Minus</title>
 				</titles>
@@ -409,7 +409,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="plus-minus_1995_41" />
 			</journal>
-			<journal removed="false" id="rota" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="rota" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rota</title>
 				</titles>
@@ -424,7 +424,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rota_2001_1" />
 			</journal>
-			<journal removed="false" id="przeglad-tygodniowy" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="przeglad-tygodniowy" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Tygodniowy</title>
 				</titles>
@@ -438,7 +438,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-tygodniowy_2000_16" />
 			</journal>
-			<journal removed="false" id="polish-culture" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="polish-culture" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Polish Culture</title>
 				</titles>
@@ -452,7 +452,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="polish-culture_2000_1" />
 			</journal>
-			<journal removed="false" id="topos-sopot" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="topos-sopot" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Topos (Sopot)</title>
 				</titles>
@@ -466,7 +466,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="topos-sopot_2016_3" />
 			</journal>
-			<journal removed="false" id="tygodnik-solidarnosc" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="tygodnik-solidarnosc" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tygodnik Solidarność</title>
 				</titles>
@@ -480,7 +480,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tygodnik-solidarnosc_2015_22" />
 			</journal>
-			<journal removed="false" id="ruch-literacki" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="ruch-literacki" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ruch Literacki</title>
 				</titles>
@@ -498,7 +498,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ruch-literacki_2002_z.-2" />
 			</journal>
-			<journal removed="false" id="slowo-powszechne" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="slowo-powszechne" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słowo Powszechne</title>
 				</titles>
@@ -512,7 +512,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slowo-powszechne_1991_3" />
 			</journal>
-			<journal removed="false" id="wiek-xix" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="wiek-xix" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wiek XIX</title>
 				</titles>
@@ -526,7 +526,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wiek-xix_2019_R.-12" />
 			</journal>
-			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Academiae Paedagogicae Cracoviensis. Studia Historicolitteraria</title>
 				</titles>
@@ -540,7 +540,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005_5" />
 			</journal>
-			<journal removed="false" id="studia-norwidiana" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="studia-norwidiana" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Norwidiana</title>
 				</titles>
@@ -554,7 +554,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-norwidiana_2002_t.-19-(2001)" />
 			</journal>
-			<journal removed="false" id="ogrod" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="ogrod" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ogród</title>
 				</titles>
@@ -568,7 +568,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ogrod_2003_1" />
 			</journal>
-			<journal removed="false" id="gazeta-niedzielna" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="gazeta-niedzielna" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gazeta Niedzielna</title>
 				</titles>
@@ -582,7 +582,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gazeta-niedzielna_1992_35" />
 			</journal>
-			<journal removed="false" id="niepodleglosc-i-pamiec" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="niepodleglosc-i-pamiec" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Niepodległość i Pamięć</title>
 				</titles>
@@ -596,7 +596,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="niepodleglosc-i-pamiec_2014_3" />
 			</journal>
-			<journal removed="false" id="rzeczpospolita-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="rzeczpospolita-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rzeczpospolita (Warszawa)</title>
 				</titles>
@@ -610,7 +610,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rzeczpospolita-warszawa_2004_102" />
 			</journal>
-			<journal removed="false" id="bibliotekarz-plocki" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="bibliotekarz-plocki" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Bibliotekarz Płocki</title>
 				</titles>
@@ -624,7 +624,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="bibliotekarz-plocki_2001_1" />
 			</journal>
-			<journal removed="false" id="gwiazda-polarna" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="gwiazda-polarna" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gwiazda Polarna</title>
 				</titles>
@@ -638,7 +638,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gwiazda-polarna_1993_52" />
 			</journal>
-			<journal removed="false" id="zwrot" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="zwrot" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zwrot</title>
 				</titles>
@@ -652,7 +652,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zwrot_2000_11" />
 			</journal>
-			<journal removed="false" id="parnasik" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="parnasik" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Parnasik</title>
 				</titles>
@@ -666,7 +666,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="parnasik_2000_2" />
 			</journal>
-			<journal removed="false" id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Sprawozdania z Czynności i Posiedzeń Naukowych [Łódzkie Towarzystwo Naukowe]</title>
 				</titles>
@@ -680,7 +680,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996_t.-50" />
 			</journal>
-			<journal removed="false" id="szpilki" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="szpilki" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Szpilki</title>
 				</titles>
@@ -694,7 +694,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="szpilki_1990_29" />
 			</journal>
-			<journal removed="false" id="biuletyn-polonistyczny" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="biuletyn-polonistyczny" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Biuletyn Polonistyczny</title>
 				</titles>
@@ -708,7 +708,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="biuletyn-polonistyczny_1991_z.-3/4" />
 			</journal>
-			<journal removed="false" id="kamena" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="kamena" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kamena</title>
 				</titles>
@@ -722,7 +722,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kamena_1990_2" />
 			</journal>
-			<journal removed="false" id="glos-polski-toronto" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="glos-polski-toronto" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Głos Polski [Toronto]</title>
 				</titles>
@@ -736,7 +736,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="glos-polski-toronto_1990_15" />
 			</journal>
-			<journal removed="false" id="orzel-bialy" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="orzel-bialy" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Orzeł Biały</title>
 				</titles>
@@ -750,7 +750,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="orzel-bialy_1989_1439" />
 			</journal>
-			<journal removed="false" id="fantastyka" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="fantastyka" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Fantastyka</title>
 				</titles>
@@ -764,7 +764,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="fantastyka_1988_11" />
 			</journal>
-			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-romanica" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-romanica" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Academiae Paedagogicae Cracoviensis. Studia Romanica</title>
 				</titles>
@@ -778,7 +778,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001_z.-1" />
 			</journal>
-			<journal removed="false" id="wiadomosci-kulturalne" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="wiadomosci-kulturalne" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wiadomości Kulturalne</title>
 				</titles>
@@ -793,7 +793,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wiadomosci-kulturalne_1996_4" />
 			</journal>
-			<journal removed="false" id="mysl-polska-o-kulturze" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="mysl-polska-o-kulturze" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Myśl Polska o Kulturze</title>
 				</titles>
@@ -807,7 +807,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="mysl-polska-o-kulturze_2000_1" />
 			</journal>
-			<journal removed="false" id="literatura-ludowa" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="literatura-ludowa" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Literatura Ludowa</title>
 				</titles>
@@ -821,7 +821,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="literatura-ludowa_2010_6" />
 			</journal>
-			<journal removed="false" id="orbis-linguarum" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="orbis-linguarum" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Orbis Linguarum</title>
 				</titles>
@@ -835,7 +835,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="orbis-linguarum_1996_t.-4" />
 			</journal>
-			<journal removed="false" id="bibliotekarz" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="bibliotekarz" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Bibliotekarz</title>
 				</titles>
@@ -849,7 +849,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="bibliotekarz_2000_11" />
 			</journal>
-			<journal removed="false" id="slowo-zydowskie--dos-jidisze-wort" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="slowo-zydowskie--dos-jidisze-wort" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słowo Żydowskie = Dos Jidisze Wort</title>
 				</titles>
@@ -863,7 +863,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slowo-zydowskie--dos-jidisze-wort_2000_18" />
 			</journal>
-			<journal removed="false" id="echo-dnia" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="echo-dnia" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Echo Dnia</title>
 				</titles>
@@ -877,7 +877,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="echo-dnia_1989_249" />
 			</journal>
-			<journal removed="false" id="pamietnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="pamietnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pamiętnik Literacki</title>
 				</titles>
@@ -891,7 +891,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pamietnik-literacki_2018_z.-3-(2018)" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-literackie" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-literackie" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Prace Literackie</title>
 				</titles>
@@ -905,7 +905,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-prace-literackie_1995_34" />
 			</journal>
-			<journal removed="false" id="roczniki-dziejow-ruchu-ludowego" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="roczniki-dziejow-ruchu-ludowego" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Roczniki Dziejów Ruchu Ludowego</title>
 				</titles>
@@ -919,7 +919,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="roczniki-dziejow-ruchu-ludowego_2018_37" />
 			</journal>
-			<journal removed="false" id="ciechanowskie-zeszyty-literackie" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="ciechanowskie-zeszyty-literackie" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ciechanowskie Zeszyty Literackie</title>
 				</titles>
@@ -934,7 +934,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ciechanowskie-zeszyty-literackie_2003_5" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Lodziensis. Folia Litteraria Polonica</title>
 				</titles>
@@ -948,7 +948,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002_z.-5" />
 			</journal>
-			<journal removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Akta Towarzystwa Historyczno-Literackiego w Paryżu = Actes de la Societe Historique et Litteraire Polonaise</title>
 				</titles>
@@ -963,7 +963,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000_t.-5" />
 			</journal>
-			<journal removed="false" id="przeglad-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="przeglad-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Humanistyczny</title>
 				</titles>
@@ -977,7 +977,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-humanistyczny_1997_2" />
 			</journal>
-			<journal removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dziennik Polski i Dziennik Żołnierza = The Polish Daily and Soldiers Daily</title>
 				</titles>
@@ -991,7 +991,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989_303" />
 			</journal>
-			<journal removed="false" id="slavia-occidentalis" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="slavia-occidentalis" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Slavia Occidentalis</title>
 				</titles>
@@ -1005,7 +1005,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slavia-occidentalis_2014_[z.]-2-(2014)" />
 			</journal>
-			<journal removed="false" id="glos-nauczyciela" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="glos-nauczyciela" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Głos Nauczyciela</title>
 				</titles>
@@ -1019,7 +1019,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="glos-nauczyciela_1993_4" />
 			</journal>
-			<journal removed="false" id="kieleckie-studia-filologiczne" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="kieleckie-studia-filologiczne" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kieleckie Studia Filologiczne</title>
 				</titles>
@@ -1035,7 +1035,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kieleckie-studia-filologiczne_2000_t.-14" />
 			</journal>
-			<journal removed="false" id="biblioteka" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="biblioteka" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Biblioteka</title>
 				</titles>
@@ -1049,7 +1049,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="biblioteka_2000_4" />
 			</journal>
-			<journal removed="false" id="neerlandica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" origin="">
+			<journal removed="false" id="neerlandica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Neerlandica Wratislaviensia</title>
 				</titles>
@@ -1071,7 +1071,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="glos-ludu_2000">
@@ -1080,7 +1080,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="antena_2000">
@@ -1089,7 +1089,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="zycie_2000">
@@ -1098,7 +1098,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="zycie_2001">
@@ -1107,7 +1107,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="nasz-dziennik_2000">
@@ -1116,7 +1116,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="gazeta-wyborcza_2001">
@@ -1125,7 +1125,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="trybuna_2001">
@@ -1134,7 +1134,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="aneks-trybuny_2000">
@@ -1143,7 +1143,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="film_1999">
@@ -1152,7 +1152,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1999</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="siodma-prowincja_1998">
@@ -1161,7 +1161,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1998</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="siodma-prowincja_1995">
@@ -1170,7 +1170,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1995</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="dziennik-kijowski_2000">
@@ -1179,7 +1179,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="rzeczpospolita_2001">
@@ -1188,7 +1188,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="poradnik-bibliotekarza_2001">
@@ -1197,7 +1197,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ojczyzna-polszczyzna_1996">
@@ -1206,7 +1206,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="przeglad-polski--polish-review_1991">
@@ -1215,7 +1215,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1991</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="powsciagliwosc-i-praca_2000">
@@ -1224,7 +1224,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="promocje-kujawskopomorskie_2001">
@@ -1233,7 +1233,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="kwartalnik-wrzesinski_2000">
@@ -1242,7 +1242,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="kwartalnik-filmowy_2003">
@@ -1251,7 +1251,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2003</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="wprost_1996">
@@ -1260,7 +1260,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ludzie_2000">
@@ -1269,7 +1269,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="gazeta-magazyn_1998">
@@ -1278,7 +1278,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1998</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="opcje-katowice-druk_2017">
@@ -1287,7 +1287,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2017</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="nauka-i-przyszlosc_2001">
@@ -1296,7 +1296,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska_2002">
@@ -1305,7 +1305,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2002</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="arcana_1995">
@@ -1314,7 +1314,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1995</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="regiony_1997">
@@ -1323,7 +1323,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1997</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="zwiazkowiec--the-alliancer_1989">
@@ -1332,7 +1332,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1989</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="plus-minus_1995">
@@ -1341,7 +1341,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1995</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="rota_1996">
@@ -1350,7 +1350,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="rota_2001">
@@ -1359,7 +1359,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="przeglad-tygodniowy_2000">
@@ -1368,7 +1368,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="polish-culture_2000">
@@ -1377,7 +1377,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="topos-sopot_2016">
@@ -1386,7 +1386,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2016</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="tygodnik-solidarnosc_2015">
@@ -1395,7 +1395,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2015</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ruch-literacki_1997">
@@ -1404,7 +1404,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1997</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ruch-literacki_2002">
@@ -1413,7 +1413,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2002</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ruch-literacki_1994">
@@ -1422,7 +1422,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1994</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ruch-literacki_1995">
@@ -1431,7 +1431,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1995</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ruch-literacki_1999">
@@ -1440,7 +1440,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1999</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="slowo-powszechne_1991">
@@ -1449,7 +1449,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1991</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="wiek-xix_2019">
@@ -1458,7 +1458,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2019</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005">
@@ -1467,7 +1467,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2005</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="studia-norwidiana_2002">
@@ -1476,7 +1476,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2002</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ogrod_2003">
@@ -1485,7 +1485,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2003</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="gazeta-niedzielna_1992">
@@ -1494,7 +1494,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1992</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="niepodleglosc-i-pamiec_2014">
@@ -1503,7 +1503,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2014</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="rzeczpospolita-warszawa_2004">
@@ -1512,7 +1512,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2004</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="bibliotekarz-plocki_2001">
@@ -1521,7 +1521,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="gwiazda-polarna_1993">
@@ -1530,7 +1530,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1993</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="zwrot_2000">
@@ -1539,7 +1539,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="parnasik_2000">
@@ -1548,7 +1548,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996">
@@ -1557,7 +1557,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="szpilki_1990">
@@ -1566,7 +1566,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1990</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="biuletyn-polonistyczny_1991">
@@ -1575,7 +1575,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1991</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="kamena_1990">
@@ -1584,7 +1584,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1990</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="glos-polski-toronto_1990">
@@ -1593,7 +1593,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1990</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="orzel-bialy_1989">
@@ -1602,7 +1602,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1989</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="fantastyka_1988">
@@ -1611,7 +1611,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1988</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001">
@@ -1620,7 +1620,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2001</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="wiadomosci-kulturalne_1995">
@@ -1629,7 +1629,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1995</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="wiadomosci-kulturalne_1996">
@@ -1638,7 +1638,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="mysl-polska-o-kulturze_2000">
@@ -1647,7 +1647,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="literatura-ludowa_2010">
@@ -1656,7 +1656,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2010</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="orbis-linguarum_1996">
@@ -1665,7 +1665,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="bibliotekarz_2000">
@@ -1674,7 +1674,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="slowo-zydowskie--dos-jidisze-wort_2000">
@@ -1683,7 +1683,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="echo-dnia_1989">
@@ -1692,7 +1692,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1989</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="pamietnik-literacki_2018">
@@ -1701,7 +1701,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2018</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="acta-universitatis-wratislaviensis-prace-literackie_1995">
@@ -1710,7 +1710,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1995</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="roczniki-dziejow-ruchu-ludowego_2018">
@@ -1719,7 +1719,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2018</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ciechanowskie-zeszyty-literackie_2002">
@@ -1728,7 +1728,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2002</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="ciechanowskie-zeszyty-literackie_2003">
@@ -1737,7 +1737,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2003</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002">
@@ -1746,7 +1746,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2002</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_1996">
@@ -1755,7 +1755,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1996</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000">
@@ -1764,7 +1764,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="przeglad-humanistyczny_1997">
@@ -1773,7 +1773,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1997</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989">
@@ -1782,7 +1782,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1989</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="slavia-occidentalis_2014">
@@ -1791,7 +1791,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2014</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="glos-nauczyciela_1993">
@@ -1800,7 +1800,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1993</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="kieleckie-studia-filologiczne_1998">
@@ -1809,7 +1809,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1998</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="kieleckie-studia-filologiczne_1997">
@@ -1818,7 +1818,7 @@
 					<character code="literary" />
 				</characters>
 				<year>1997</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="kieleckie-studia-filologiczne_2000">
@@ -1827,7 +1827,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="biblioteka_2000">
@@ -1836,7 +1836,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2000</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 			<journal-year removed="false" id="neerlandica-wratislaviensia_2017">
@@ -1845,7 +1845,7 @@
 					<character code="literary" />
 				</characters>
 				<year>2017</year>
-				<journal-year-status value="published" />
+				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
 		</journal-years>
@@ -1854,7 +1854,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="przekroj_2000" />
 				<number>39</number>
 			</journal-number>
@@ -1862,7 +1862,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="glos-ludu_2000" />
 				<number>112</number>
 			</journal-number>
@@ -1870,7 +1870,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="antena_2000" />
 				<number>47</number>
 			</journal-number>
@@ -1878,7 +1878,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="zycie_2000" />
 				<number>283</number>
 			</journal-number>
@@ -1886,7 +1886,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="zycie_2001" />
 				<number>12</number>
 			</journal-number>
@@ -1894,7 +1894,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="nasz-dziennik_2000" />
 				<number>240</number>
 			</journal-number>
@@ -1902,7 +1902,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="nasz-dziennik_2000" />
 				<number>4</number>
 			</journal-number>
@@ -1910,7 +1910,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="gazeta-wyborcza_2001" />
 				<number>210</number>
 			</journal-number>
@@ -1918,7 +1918,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="trybuna_2001" />
 				<number>8</number>
 			</journal-number>
@@ -1926,7 +1926,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="aneks-trybuny_2000" />
 				<number>95</number>
 			</journal-number>
@@ -1934,7 +1934,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="aneks-trybuny_2000" />
 				<number>98</number>
 			</journal-number>
@@ -1942,7 +1942,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="film_1999" />
 				<number>3</number>
 			</journal-number>
@@ -1950,7 +1950,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="siodma-prowincja_1998" />
 				<number>1</number>
 			</journal-number>
@@ -1958,7 +1958,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="siodma-prowincja_1995" />
 				<number>1</number>
 			</journal-number>
@@ -1966,7 +1966,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="dziennik-kijowski_2000" />
 				<number>24</number>
 			</journal-number>
@@ -1974,7 +1974,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="rzeczpospolita_2001" />
 				<number>94</number>
 			</journal-number>
@@ -1982,7 +1982,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="poradnik-bibliotekarza_2001" />
 				<number>3</number>
 			</journal-number>
@@ -1990,7 +1990,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ojczyzna-polszczyzna_1996" />
 				<number>4</number>
 			</journal-number>
@@ -1998,7 +1998,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="przeglad-polski--polish-review_1991" />
 				<number>z 30 V</number>
 			</journal-number>
@@ -2006,7 +2006,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="powsciagliwosc-i-praca_2000" />
 				<number>7</number>
 			</journal-number>
@@ -2014,7 +2014,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="promocje-kujawskopomorskie_2001" />
 				<number>1</number>
 			</journal-number>
@@ -2022,7 +2022,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="kwartalnik-wrzesinski_2000" />
 				<number>3</number>
 			</journal-number>
@@ -2030,7 +2030,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="kwartalnik-filmowy_2003" />
 				<number>43</number>
 			</journal-number>
@@ -2038,7 +2038,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="wprost_1996" />
 				<number>19</number>
 			</journal-number>
@@ -2046,7 +2046,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ludzie_2000" />
 				<number>50</number>
 			</journal-number>
@@ -2054,7 +2054,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="gazeta-magazyn_1998" />
 				<number>7</number>
 			</journal-number>
@@ -2062,7 +2062,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="opcje-katowice-druk_2017" />
 				<number>1</number>
 			</journal-number>
@@ -2070,7 +2070,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="nauka-i-przyszlosc_2001" />
 				<number>1</number>
 			</journal-number>
@@ -2078,7 +2078,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="slupskie-prace-filologiczne-seria-filologia-polska_2002" />
 				<number>1</number>
 			</journal-number>
@@ -2086,7 +2086,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="arcana_1995" />
 				<number>5</number>
 			</journal-number>
@@ -2094,7 +2094,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="regiony_1997" />
 				<number>4</number>
 			</journal-number>
@@ -2102,7 +2102,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="zwiazkowiec--the-alliancer_1989" />
 				<number>22</number>
 			</journal-number>
@@ -2110,7 +2110,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="zwiazkowiec--the-alliancer_1989" />
 				<number>28</number>
 			</journal-number>
@@ -2118,7 +2118,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="plus-minus_1995" />
 				<number>41</number>
 			</journal-number>
@@ -2126,7 +2126,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="rota_1996" />
 				<number>1</number>
 			</journal-number>
@@ -2134,7 +2134,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="rota_2001" />
 				<number>1</number>
 			</journal-number>
@@ -2142,7 +2142,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="przeglad-tygodniowy_2000" />
 				<number>16</number>
 			</journal-number>
@@ -2150,7 +2150,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="polish-culture_2000" />
 				<number>1</number>
 			</journal-number>
@@ -2158,7 +2158,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="topos-sopot_2016" />
 				<number>3</number>
 			</journal-number>
@@ -2166,7 +2166,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="tygodnik-solidarnosc_2015" />
 				<number>22</number>
 			</journal-number>
@@ -2174,7 +2174,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ruch-literacki_1997" />
 				<number>z. 3</number>
 			</journal-number>
@@ -2182,7 +2182,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ruch-literacki_2002" />
 				<number>z. 2</number>
 			</journal-number>
@@ -2190,7 +2190,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ruch-literacki_1994" />
 				<number>z. 5/6</number>
 			</journal-number>
@@ -2198,7 +2198,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ruch-literacki_1995" />
 				<number>z. 4</number>
 			</journal-number>
@@ -2206,7 +2206,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ruch-literacki_1999" />
 				<number>z. 3</number>
 			</journal-number>
@@ -2214,7 +2214,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="slowo-powszechne_1991" />
 				<number>3</number>
 			</journal-number>
@@ -2222,7 +2222,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="wiek-xix_2019" />
 				<number>R. 12</number>
 			</journal-number>
@@ -2230,7 +2230,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005" />
 				<number>5</number>
 			</journal-number>
@@ -2238,7 +2238,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="studia-norwidiana_2002" />
 				<number>t. 19 (2001)</number>
 			</journal-number>
@@ -2246,7 +2246,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ogrod_2003" />
 				<number>1</number>
 			</journal-number>
@@ -2254,7 +2254,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="gazeta-niedzielna_1992" />
 				<number>35</number>
 			</journal-number>
@@ -2262,7 +2262,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="niepodleglosc-i-pamiec_2014" />
 				<number>3</number>
 			</journal-number>
@@ -2270,7 +2270,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="rzeczpospolita-warszawa_2004" />
 				<number>102</number>
 			</journal-number>
@@ -2278,7 +2278,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="bibliotekarz-plocki_2001" />
 				<number>1</number>
 			</journal-number>
@@ -2286,7 +2286,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="gwiazda-polarna_1993" />
 				<number>52</number>
 			</journal-number>
@@ -2294,7 +2294,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="zwrot_2000" />
 				<number>9</number>
 			</journal-number>
@@ -2302,7 +2302,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="zwrot_2000" />
 				<number>11</number>
 			</journal-number>
@@ -2310,7 +2310,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="parnasik_2000" />
 				<number>2</number>
 			</journal-number>
@@ -2318,7 +2318,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="sprawozdania-z-czynnosci-i-posiedzen-naukowych-lodzkie-towarzystwo-naukowe_1996" />
 				<number>t. 50</number>
 			</journal-number>
@@ -2326,7 +2326,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="szpilki_1990" />
 				<number>29</number>
 			</journal-number>
@@ -2334,7 +2334,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="biuletyn-polonistyczny_1991" />
 				<number>z. 3/4</number>
 			</journal-number>
@@ -2342,7 +2342,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="kamena_1990" />
 				<number>2</number>
 			</journal-number>
@@ -2350,7 +2350,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="glos-polski-toronto_1990" />
 				<number>15</number>
 			</journal-number>
@@ -2358,7 +2358,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="orzel-bialy_1989" />
 				<number>1439</number>
 			</journal-number>
@@ -2366,7 +2366,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="fantastyka_1988" />
 				<number>11</number>
 			</journal-number>
@@ -2374,7 +2374,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="annales-academiae-paedagogicae-cracoviensis-studia-romanica_2001" />
 				<number>z. 1</number>
 			</journal-number>
@@ -2382,7 +2382,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="wiadomosci-kulturalne_1995" />
 				<number>31</number>
 			</journal-number>
@@ -2390,7 +2390,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="wiadomosci-kulturalne_1996" />
 				<number>4</number>
 			</journal-number>
@@ -2398,7 +2398,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="mysl-polska-o-kulturze_2000" />
 				<number>1</number>
 			</journal-number>
@@ -2406,7 +2406,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="literatura-ludowa_2010" />
 				<number>6</number>
 			</journal-number>
@@ -2414,7 +2414,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="orbis-linguarum_1996" />
 				<number>t. 4</number>
 			</journal-number>
@@ -2422,7 +2422,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="bibliotekarz_2000" />
 				<number>11</number>
 			</journal-number>
@@ -2430,7 +2430,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="slowo-zydowskie--dos-jidisze-wort_2000" />
 				<number>18</number>
 			</journal-number>
@@ -2438,7 +2438,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="echo-dnia_1989" />
 				<number>249</number>
 			</journal-number>
@@ -2446,7 +2446,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="pamietnik-literacki_2018" />
 				<number>z. 3 (2018)</number>
 			</journal-number>
@@ -2454,7 +2454,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="acta-universitatis-wratislaviensis-prace-literackie_1995" />
 				<number>34</number>
 			</journal-number>
@@ -2462,7 +2462,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="roczniki-dziejow-ruchu-ludowego_2018" />
 				<number>37</number>
 			</journal-number>
@@ -2470,7 +2470,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ciechanowskie-zeszyty-literackie_2002" />
 				<number>4</number>
 			</journal-number>
@@ -2478,7 +2478,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="ciechanowskie-zeszyty-literackie_2003" />
 				<number>5</number>
 			</journal-number>
@@ -2486,7 +2486,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="acta-universitatis-lodziensis-folia-litteraria-polonica_2002" />
 				<number>z. 5</number>
 			</journal-number>
@@ -2494,7 +2494,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_1996" />
 				<number>t. 3</number>
 			</journal-number>
@@ -2502,7 +2502,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="akta-towarzystwa-historycznoliterackiego-w-paryzu--actes-de-la-societe-historique-et-litteraire-polonaise_2000" />
 				<number>t. 5</number>
 			</journal-number>
@@ -2510,7 +2510,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="przeglad-humanistyczny_1997" />
 				<number>2</number>
 			</journal-number>
@@ -2518,7 +2518,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1989" />
 				<number>303</number>
 			</journal-number>
@@ -2526,7 +2526,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="slavia-occidentalis_2014" />
 				<number>[z.] 2 (2014)</number>
 			</journal-number>
@@ -2534,7 +2534,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="glos-nauczyciela_1993" />
 				<number>4</number>
 			</journal-number>
@@ -2542,7 +2542,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="kieleckie-studia-filologiczne_1998" />
 				<number>t. 12</number>
 			</journal-number>
@@ -2550,7 +2550,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="kieleckie-studia-filologiczne_1997" />
 				<number>t. 11</number>
 			</journal-number>
@@ -2558,7 +2558,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="kieleckie-studia-filologiczne_2000" />
 				<number>t. 14</number>
 			</journal-number>
@@ -2566,7 +2566,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="biblioteka_2000" />
 				<number>4</number>
 			</journal-number>
@@ -2574,7 +2574,7 @@
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
-				<journal-number-status value="published" />
+				<journal-number-status value="development-of-sources" />
 				<journal-year id="neerlandica-wratislaviensia_2017" />
 				<number>27</number>
 			</journal-number>

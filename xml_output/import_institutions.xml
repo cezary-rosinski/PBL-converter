@@ -1,7 +1,7 @@
 <pbl>
 	<files>
 		<institutions>
-			<institution id="fake_id_155" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_155" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -13,7 +13,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_156" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_156" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -25,10 +25,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9264442" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/165326787" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q9264442" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/165326787" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9264442</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/165326787</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q9264442</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/165326787</link>
 				</links>
 				<history>
 					<period>
@@ -41,7 +41,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_157" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_157" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -53,7 +53,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_158" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_158" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -65,9 +65,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_159" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/74151776732218010439" removed="false">
+			<institution id="fake_id_159" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/74151776732218010439" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/74151776732218010439</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/74151776732218010439</link>
 				</links>
 				<history>
 					<period>
@@ -80,7 +80,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_160" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_160" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -92,10 +92,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q7603485" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/137180659" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q7603485" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/137180659" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q7603485</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/137180659</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q7603485</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/137180659</link>
 				</links>
 				<history>
 					<period>
@@ -108,9 +108,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_161" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/130579677" removed="false">
+			<institution id="fake_id_161" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/130579677" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/130579677</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/130579677</link>
 				</links>
 				<history>
 					<period>
@@ -123,9 +123,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_162" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/163494307" removed="false">
+			<institution id="fake_id_162" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/163494307" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/163494307</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/163494307</link>
 				</links>
 				<history>
 					<period>
@@ -138,9 +138,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_163" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/99151776778718011572" removed="false">
+			<institution id="fake_id_163" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/99151776778718011572" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/99151776778718011572</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/99151776778718011572</link>
 				</links>
 				<history>
 					<period>
@@ -153,10 +153,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q12324541" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/288332108" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q12324541" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/288332108" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q12324541</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/288332108</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q12324541</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/288332108</link>
 				</links>
 				<history>
 					<period>
@@ -169,10 +169,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9336412" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296732158" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q9336412" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296732158" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9336412</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296732158</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q9336412</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296732158</link>
 				</links>
 				<history>
 					<period>
@@ -185,7 +185,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_164" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_164" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -197,7 +197,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_165" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_165" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -209,10 +209,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q2153892" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296159722" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q2153892" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296159722" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q2153892</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296159722</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q2153892</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296159722</link>
 				</links>
 				<history>
 					<period>
@@ -225,7 +225,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_166" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_166" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -237,9 +237,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_167" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/107145304389278571148" removed="false">
+			<institution id="fake_id_167" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/107145304389278571148" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/107145304389278571148</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/107145304389278571148</link>
 				</links>
 				<history>
 					<period>
@@ -252,7 +252,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_168" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_168" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -264,7 +264,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_169" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_169" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -276,7 +276,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_170" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_170" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -288,7 +288,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_171" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_171" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -300,7 +300,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_172" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_172" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -312,7 +312,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_173" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_173" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -324,7 +324,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_174" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_174" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -336,9 +336,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_175" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/11163994650601831984" removed="false">
+			<institution id="fake_id_175" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/11163994650601831984" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/11163994650601831984</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/11163994650601831984</link>
 				</links>
 				<history>
 					<period>
@@ -351,9 +351,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_176" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/122386136" removed="false">
+			<institution id="fake_id_176" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/122386136" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/122386136</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/122386136</link>
 				</links>
 				<history>
 					<period>
@@ -366,10 +366,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q1590554" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/134506451" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q1590554" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/134506451" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q1590554</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/134506451</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q1590554</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/134506451</link>
 				</links>
 				<history>
 					<period>
@@ -382,9 +382,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_177" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/147936799" removed="false">
+			<institution id="fake_id_177" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/147936799" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/147936799</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/147936799</link>
 				</links>
 				<history>
 					<period>
@@ -397,9 +397,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_178" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/311329750" removed="false">
+			<institution id="fake_id_178" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/311329750" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/311329750</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/311329750</link>
 				</links>
 				<history>
 					<period>
@@ -412,7 +412,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_179" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_179" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -424,9 +424,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_180" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/139873054" removed="false">
+			<institution id="fake_id_180" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/139873054" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/139873054</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/139873054</link>
 				</links>
 				<history>
 					<period>
@@ -439,7 +439,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_181" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_181" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -451,9 +451,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_182" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/313276484" removed="false">
+			<institution id="fake_id_182" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/313276484" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/313276484</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/313276484</link>
 				</links>
 				<history>
 					<period>
@@ -466,10 +466,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9379197" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/148542598" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q9379197" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/148542598" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9379197</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/148542598</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q9379197</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/148542598</link>
 				</links>
 				<history>
 					<period>
@@ -482,9 +482,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_183" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/305132467" removed="false">
+			<institution id="fake_id_183" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/305132467" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/305132467</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/305132467</link>
 				</links>
 				<history>
 					<period>
@@ -497,9 +497,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_184" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/300041991" removed="false">
+			<institution id="fake_id_184" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/300041991" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/300041991</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/300041991</link>
 				</links>
 				<history>
 					<period>
@@ -512,10 +512,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q108857005" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296789171" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q108857005" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296789171" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q108857005</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296789171</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q108857005</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296789171</link>
 				</links>
 				<history>
 					<period>
@@ -528,7 +528,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_185" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_185" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -540,10 +540,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q6967797" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/147390924" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q6967797" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/147390924" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q6967797</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/147390924</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q6967797</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/147390924</link>
 				</links>
 				<history>
 					<period>
@@ -556,7 +556,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_186" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_186" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -568,9 +568,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_187" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/313434110" removed="false">
+			<institution id="fake_id_187" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/313434110" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/313434110</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/313434110</link>
 				</links>
 				<history>
 					<period>
@@ -583,9 +583,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_188" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296706613" removed="false">
+			<institution id="fake_id_188" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296706613" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296706613</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296706613</link>
 				</links>
 				<history>
 					<period>
@@ -598,9 +598,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_189" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296550762" removed="false">
+			<institution id="fake_id_189" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296550762" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296550762</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296550762</link>
 				</links>
 				<history>
 					<period>
@@ -613,7 +613,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_190" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_190" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -625,9 +625,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_191" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/311337987" removed="false">
+			<institution id="fake_id_191" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/311337987" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/311337987</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/311337987</link>
 				</links>
 				<history>
 					<period>
@@ -640,7 +640,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_192" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_192" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -652,9 +652,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_193" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/261267757" removed="false">
+			<institution id="fake_id_193" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/261267757" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/261267757</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/261267757</link>
 				</links>
 				<history>
 					<period>
@@ -667,7 +667,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_194" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_194" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -679,7 +679,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_195" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_195" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -691,7 +691,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_196" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_196" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -703,10 +703,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q3758172" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/313430723" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q3758172" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/313430723" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q3758172</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/313430723</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q3758172</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/313430723</link>
 				</links>
 				<history>
 					<period>
@@ -719,7 +719,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_197" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_197" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -731,9 +731,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_198" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/776154381044130291949" removed="false">
+			<institution id="fake_id_198" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/776154381044130291949" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/776154381044130291949</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/776154381044130291949</link>
 				</links>
 				<history>
 					<period>
@@ -746,7 +746,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_199" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_199" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -758,7 +758,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_200" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_200" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -770,7 +770,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_201" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_201" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -782,9 +782,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_202" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/313436404" removed="false">
+			<institution id="fake_id_202" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/313436404" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/313436404</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/313436404</link>
 				</links>
 				<history>
 					<period>
@@ -797,7 +797,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_203" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_203" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -809,7 +809,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_204" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_204" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -821,7 +821,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_205" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_205" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -833,7 +833,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_206" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_206" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -845,7 +845,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_207" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_207" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -857,7 +857,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_208" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_208" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -869,10 +869,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q1590554" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/134506451" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q1590554" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/134506451" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q1590554</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/134506451</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q1590554</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/134506451</link>
 				</links>
 				<history>
 					<period>
@@ -885,7 +885,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_209" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_209" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -897,10 +897,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q1378874" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/7464149108491768780002" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q1378874" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/7464149108491768780002" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q1378874</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/7464149108491768780002</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q1378874</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/7464149108491768780002</link>
 				</links>
 				<history>
 					<period>
@@ -913,9 +913,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_210" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/313424232" removed="false">
+			<institution id="fake_id_210" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/313424232" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/313424232</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/313424232</link>
 				</links>
 				<history>
 					<period>
@@ -928,7 +928,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_211" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_211" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -940,9 +940,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_212" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/302566835" removed="false">
+			<institution id="fake_id_212" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/302566835" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/302566835</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/302566835</link>
 				</links>
 				<history>
 					<period>
@@ -955,7 +955,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_213" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_213" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -967,10 +967,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q5965916" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/137220888" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q5965916" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/137220888" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q5965916</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/137220888</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q5965916</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/137220888</link>
 				</links>
 				<history>
 					<period>
@@ -983,7 +983,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_214" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_214" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -995,9 +995,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_215" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/307484999" removed="false">
+			<institution id="fake_id_215" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/307484999" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/307484999</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/307484999</link>
 				</links>
 				<history>
 					<period>
@@ -1010,9 +1010,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_216" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/299928980" removed="false">
+			<institution id="fake_id_216" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/299928980" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/299928980</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/299928980</link>
 				</links>
 				<history>
 					<period>
@@ -1025,9 +1025,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_217" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/307484892" removed="false">
+			<institution id="fake_id_217" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/307484892" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/307484892</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/307484892</link>
 				</links>
 				<history>
 					<period>
@@ -1040,7 +1040,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_218" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_218" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -1052,7 +1052,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_219" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_219" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -1064,7 +1064,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_220" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_220" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -1076,9 +1076,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_221" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/268416102" removed="false">
+			<institution id="fake_id_221" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/268416102" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/268416102</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/268416102</link>
 				</links>
 				<history>
 					<period>
@@ -1091,9 +1091,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_222" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/1294145856942522920163" removed="false">
+			<institution id="fake_id_222" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/1294145856942522920163" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/1294145856942522920163</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/1294145856942522920163</link>
 				</links>
 				<history>
 					<period>
@@ -1106,9 +1106,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_223" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/159463050" removed="false">
+			<institution id="fake_id_223" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/159463050" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/159463050</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/159463050</link>
 				</links>
 				<history>
 					<period>
@@ -1121,10 +1121,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9379176" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/127849922" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q9379176" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/127849922" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9379176</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/127849922</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q9379176</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/127849922</link>
 				</links>
 				<history>
 					<period>
@@ -1137,9 +1137,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_224" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296901067" removed="false">
+			<institution id="fake_id_224" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296901067" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296901067</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296901067</link>
 				</links>
 				<history>
 					<period>
@@ -1152,9 +1152,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_225" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296633004" removed="false">
+			<institution id="fake_id_225" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296633004" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296633004</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296633004</link>
 				</links>
 				<history>
 					<period>
@@ -1167,7 +1167,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_226" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_226" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -1179,9 +1179,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_227" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296103736" removed="false">
+			<institution id="fake_id_227" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296103736" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296103736</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296103736</link>
 				</links>
 				<history>
 					<period>
@@ -1194,9 +1194,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_228" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/156568657" removed="false">
+			<institution id="fake_id_228" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/156568657" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/156568657</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/156568657</link>
 				</links>
 				<history>
 					<period>
@@ -1209,9 +1209,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_229" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/306409496" removed="false">
+			<institution id="fake_id_229" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/306409496" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/306409496</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/306409496</link>
 				</links>
 				<history>
 					<period>
@@ -1224,9 +1224,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_230" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296786815" removed="false">
+			<institution id="fake_id_230" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296786815" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296786815</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296786815</link>
 				</links>
 				<history>
 					<period>
@@ -1239,10 +1239,10 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9379265" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/296942759" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q9379265" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/296942759" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">http://www.wikidata.org/entity/Q9379265</link>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/296942759</link>
+					<link access-date="2023-03-14" type="external-identifier">http://www.wikidata.org/entity/Q9379265</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/296942759</link>
 				</links>
 				<history>
 					<period>
@@ -1255,9 +1255,9 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_231" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" viaf="https://viaf.org/viaf/146813884" removed="false">
+			<institution id="fake_id_231" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" viaf="https://viaf.org/viaf/146813884" removed="false">
 				<links>
-					<link access-date="2023-03-10" type="external-identifier">https://viaf.org/viaf/146813884</link>
+					<link access-date="2023-03-14" type="external-identifier">https://viaf.org/viaf/146813884</link>
 				</links>
 				<history>
 					<period>
@@ -1270,451 +1270,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_232" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Lijiang Chubansche</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_233" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo "Zielona Sowa"</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_234" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Nasza Księgarnia</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_235" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">La Otra Orilla</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_236" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Ktoczyta.pl - Ventigo Media</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_237" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Towarzystwo Autorów i Wydawców Prac Naukowych "Universitas"</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_238" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Kurpisz</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_239" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Siedmioróg</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_240" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo "Kama"</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_241" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Muzeum Miasta i Rzeki Warty przy oddz. PTTK w Warcie, Regionalna Pracownia Krajoznawcza Zarząd Wojewódzki PTTK w Sieradzu</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_242" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Les Éditions Zoé</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_243" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Kozmosz Kvk</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_244" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wyższa Szkoła Humanistyczna w Pułtusku</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_245" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Diecezjalne i Drukarnia</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_246" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Świat Książki</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_247" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Edizioni della Sera di Giovinazzo Stefano</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_248" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Orbis</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_249" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Apebook Verlag</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_250" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Mea</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_251" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Fronda</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_252" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">ARS-HIT</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_253" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Magart</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_254" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Edition Geheimes Wissen</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_255" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Dār al-Ḥaṣṣād li-n-Našr wa-t-Tawzīʿ</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_256" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Resovia</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_257" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Avia Artis</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_258" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Zakład Narodowy im. Ossolińskich. Oddział</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_259" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wiedza Powszechna</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_260" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">l'Âge d'Homme</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_261" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Zakład Narodowy im. Ossolińskich</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_262" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Polskie Media Amer. Com</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_263" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">K. u K.K.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_264" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Panorama</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_265" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Zakład Narodowy im. Ossolińskich - Wydawnictwo</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_266" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Studio Grafiki i Technik Internetowych Marcin Bieniecki [etc.]</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_267" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">BEL Studio</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_268" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Zhanet-45</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_269" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_232" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -1726,11 +1282,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_270" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_233" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wydawnictwo "86 Press"</name>
+							<name code="base" newest="true">K. u K.K.</name>
 						</names>
 					</period>
 				</history>
@@ -1738,11 +1294,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_271" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_234" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Shidai Wenyi Chubanshe</name>
+							<name code="base" newest="true">ARS-HIT</name>
 						</names>
 					</period>
 				</history>
@@ -1750,11 +1306,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_272" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_235" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Mikena</name>
+							<name code="base" newest="true">Wydawnictwo Avia Artis</name>
 						</names>
 					</period>
 				</history>
@@ -1762,11 +1318,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_273" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_236" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">DAS</name>
+							<name code="base" newest="true">Zakład Narodowy im. Ossolińskich - Wydawnictwo</name>
 						</names>
 					</period>
 				</history>
@@ -1774,139 +1330,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_274" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Kongresen Servisen Centar</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_275" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Wimana</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_276" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Palatinus</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_277" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Miejska Biblioteka Publiczna Łódź-Górna im. W. S. Reymonta</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_278" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Fundacja Festina Lente</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_279" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Plato izdavaštvo</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_280" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Belacqva</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_281" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Grupa Wydawnicza "Słowo"</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_282" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Towarzystwo Oświatowo-Naukowe</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_283" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Zysk i S-ka. Wydawnictwo</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_284" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_285" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_237" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -1918,11 +1342,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_286" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_238" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Greifenverl.</name>
+							<name code="base" newest="true">Zhanet-45</name>
 						</names>
 					</period>
 				</history>
@@ -1930,115 +1354,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_287" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Mediasat Group</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_288" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Fundacja Edukacji i Kultury Narodowej "Siejba" im. Tadeusza Kościuszki</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_289" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Taejong</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_290" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Vostok</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_291" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Jota</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_292" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Renmin Wenxue Chubanshe</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_293" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Hofenberg - Contumax</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_294" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Polskie Media Amer.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_295" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Germes</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_296" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_239" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -2050,103 +1366,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_297" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Minerva</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_298" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Biblioteka Narodowa</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_299" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Fundacji Kultury i Biznesu</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_300" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Tyrai</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_301" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Club degli Editori</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_302" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Phrends Pabalisarsa</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_303" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Imagaenaria Edizioni Ischia</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_304" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Nha Xuát Bán Lao Đông</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_305" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_240" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -2158,11 +1378,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_306" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_241" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Šareni dućan</name>
+							<name code="base" newest="true">Fronda</name>
 						</names>
 					</period>
 				</history>
@@ -2170,11 +1390,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_307" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_242" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Romcart</name>
+							<name code="base" newest="true">Kongresen Servisen Centar</name>
 						</names>
 					</period>
 				</history>
@@ -2182,11 +1402,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_308" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_243" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Belarus'</name>
+							<name code="base" newest="true">Towarzystwo Autorów i Wydawców Prac Naukowych "Universitas"</name>
 						</names>
 					</period>
 				</history>
@@ -2194,11 +1414,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_309" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_244" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Rozsa BT K</name>
+							<name code="base" newest="true">Belacqva</name>
 						</names>
 					</period>
 				</history>
@@ -2206,11 +1426,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_310" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_245" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Slovenská knižnica pre nevidiacich Mateja Hrebendu</name>
+							<name code="base" newest="true">Palatinus</name>
 						</names>
 					</period>
 				</history>
@@ -2218,115 +1438,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_311" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">TBP</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_312" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">ZP Poligrafia Pęciło Zofia</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_313" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Dom Książki</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_314" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Ostravska Univerzita Ostrava. Filozoficka Fakulta</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_315" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Beijing Lianhe Chuban Gongsi</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_316" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wydawnictwo Filii Uniwersytetu Warszawskiego</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_317" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Begemot</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_318" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Elipsa 2</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_319" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">[DBPŁG] Dzielnicowa Biblioteka Publiczna Łódź-Górna im. Władysława Stanisława Reymonta</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_320" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_246" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -2338,7 +1450,223 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_321" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_247" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Elipsa 2</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_248" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">DAS</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_249" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Zielona Sowa"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_250" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Kama"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_251" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Orbis</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_252" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Siedmioróg</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_253" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Taejong</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_254" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Tyrai</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_255" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">ZP Poligrafia Pęciło Zofia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_256" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Jota</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_257" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Edizioni della Sera di Giovinazzo Stefano</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_258" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Świat Książki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_259" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dom Książki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_260" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Studio Grafiki i Technik Internetowych Marcin Bieniecki [etc.]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_261" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Edition Geheimes Wissen</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_262" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Ktoczyta.pl - Ventigo Media</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_263" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Grupa Wydawnicza "Słowo"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_264" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Wimana</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_265" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
@@ -2350,11 +1678,683 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_322" status="published" creator="cezary_rosinski" creation-date="2023-03-10" publishing-date="2023-03-10" removed="false">
+			<institution id="fake_id_266" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Panorama</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_267" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zakład Narodowy im. Ossolińskich. Oddział</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_268" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Mediasat Group</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_269" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">TBP</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_270" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Resovia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_271" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Polskie Media Amer. Com</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_272" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Rozsa BT K</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_273" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Plato izdavaštvo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_274" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[DBPŁG] Dzielnicowa Biblioteka Publiczna Łódź-Górna im. Władysława Stanisława Reymonta</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_275" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Miejska Biblioteka Publiczna Łódź-Górna im. W. S. Reymonta</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_276" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Mea</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_277" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Oświatowo-Naukowe</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_278" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Imagaenaria Edizioni Ischia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_279" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Minerva</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_280" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Begemot</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_281" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyższa Szkoła Humanistyczna w Pułtusku</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_282" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Polskie Media Amer.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_283" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Kozmosz Kvk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_284" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Renmin Wenxue Chubanshe</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_285" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Greifenverl.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_286" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wiedza Powszechna</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_287" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Magart</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_288" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Kurpisz</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_289" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Mikena</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_290" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Hofenberg - Contumax</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_291" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">l'Âge d'Homme</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_292" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
 				<history>
 					<period>
 						<names>
 							<name code="base" newest="true">Onesuch Press</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_293" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Beijing Lianhe Chuban Gongsi</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_294" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">La Otra Orilla</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_295" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Nha Xuát Bán Lao Đông</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_296" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Biblioteka Narodowa</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_297" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Germes</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_298" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Miasta i Rzeki Warty przy oddz. PTTK w Warcie, Regionalna Pracownia Krajoznawcza Zarząd Wojewódzki PTTK w Sieradzu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_299" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Slovenská knižnica pre nevidiacich Mateja Hrebendu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_300" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zysk i S-ka. Wydawnictwo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_301" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">BEL Studio</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_302" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Shidai Wenyi Chubanshe</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_303" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Fundacji Kultury i Biznesu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_304" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Phrends Pabalisarsa</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_305" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Club degli Editori</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_306" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Ostravska Univerzita Ostrava. Filozoficka Fakulta</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_307" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "86 Press"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_308" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Šareni dućan</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_309" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Diecezjalne i Drukarnia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_310" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fundacja Festina Lente</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_311" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Nasza Księgarnia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_312" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_313" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Lijiang Chubansche</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_314" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Filii Uniwersytetu Warszawskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_315" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Apebook Verlag</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_316" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Romcart</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_317" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Belarus'</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_318" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Les Éditions Zoé</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_319" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zakład Narodowy im. Ossolińskich</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_320" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dār al-Ḥaṣṣād li-n-Našr wa-t-Tawzīʿ</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_321" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fundacja Edukacji i Kultury Narodowej "Siejba" im. Tadeusza Kościuszki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_322" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Vostok</name>
 						</names>
 					</period>
 				</history>
