@@ -1,0 +1,85 @@
+<pbl>
+    <files>
+		<journals>
+			<journal removed="false"  id="journal-id-01" status="prepared" creator="a_margraf" creation-date="16.11.2022" publishing-date="30.11.2022" origin="IdentyfikatorŹródłaUAM" flags="123" >
+			
+                <titles>
+                    <title code="base" transliteration="false" newest="true">Przegląd Literacki</title>
+                    <title code="other" transliteration="false">PL</title>
+                </titles>
+                
+                <years>
+					<year id="journal-year-id-01"/>
+					<year id="journal-year-id-01"/>
+				</years>
+				
+				<newest-journal-number id="journal-number-id-01"/>
+				
+				<pub-series id="pub-series-id-01"/>
+				
+				<abbreviation>PrzLit</abbreviation>
+				
+                <date from="1945-10-01" from-bc="false" uncertain="false" in-words="" name="from"/>
+                <date from="1989-09-30" from-bc="false" uncertain="false" in-words="" name="to"/>
+				
+				<places>
+					<place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+					<place id="https://www.wikidata.org/wiki/Q52842" lang="pl"/>  <!-- Kalisz -->
+					<place id="https://www.wikidata.org/wiki/Q1475264" period="2005-10-01❦" />  <!-- Obra -->
+				</places>
+
+				<issn>1234-abcd</issn>
+				
+				
+                <parent id="journal-id-01" />
+                <next id="journal-id-02" />
+
+				<subject-department value="false"/>
+			
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="41c0870f6ba544db8e353b0b4d51876b"/>
+                    <heading id="639fd86bddd0f685ef252cbe0852ea11"/>
+                    <heading id="a35085756f205b365ada4c6907763e87"/>
+                    <heading id="ae7ca28642408ac6485e61fc7ad93a5c"/>
+                    <heading id="67127af726e088fdf1d28b52c9f3043f"/>
+                </headings>
+                
+                <characters>
+					<character code="literary" />
+					<character code="film" />
+					<character code="theater" />
+				</characters>
+                
+
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WazneCzasopismo</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+				<availability>
+					<library id="https://viaf.org/viaf/000000001/" signature="123/45"/> <!-- BU -->
+					<library id="institution-id-01" signature="124/56"/>					
+				</availability>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+			
+			
+				<available-in-national-library value="true"/>
+				
+				<journal-status value="source"/> <!-- source, potential_source, indirect_information, other -->
+			</journal>
+		</journals>
+    </files>
+</pbl>
+		

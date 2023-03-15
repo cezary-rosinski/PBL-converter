@@ -1,0 +1,315 @@
+<pbl>
+    <files>
+		
+<!-- Miejsca wykorzystywane na potrzeby wydarzeń -->		
+<!--        <places>
+            <place geonames="3088171" lon="16.92993" lat="52.40692" id="https://www.wikidata.org/wiki/Q268">
+                <period date-from="" date-to="">
+                    <name lang="pl">Poznań</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+            <place geonames="7530863" lat="51.74725" lon="18.07606" id="https://www.wikidata.org/wiki/Q52842">
+                <period date-from="" date-to="">
+                    <name lang="pl">Kalisz</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+            <place geonames="3090388" lat="52.07497" lon="16.04485" id="https://www.wikidata.org/wiki/Q1475264">
+                <period date-from="" date-to="">
+                    <name lang="pl">Obra</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+            <place geonames="3091293" lat="52.57463" lon="17.00933" id="https://www.wikidata.org/wiki/Q51003">
+                <period date-from="" date-to="">
+                    <name lang="pl">Murowana Goślina</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+        </places>
+-->
+<!-- Koniec miejs wykorzystywanych na potrzeby wydarzeń -->		
+
+        <events>
+			<!-- event.status = published|draft|prepared -->
+			
+            <event id="https://www.wikidata.org/wiki/XXXXXXX" status="published" creator="c_rosinski" creation-date="2022-06-21" publishing-date="2022-06-23" origin="IdentyfikatorŹródła">
+
+                <!-- honorary-doctorate | festival | conference | competition | prize | decoration | plebiscite | authors-meeting | exhibition-->
+                <type code="authors-meeting"/>
+
+                <names>
+                    <name code="base" transliteration="true" newest="true">Literacka Nagroda Gazety Wyborczej "Nike"</name>
+                    <name code="other" transliteration="true">Nike</name>
+                    <name code="other" transliteration="true">DEF</name>
+                </names>
+
+				<date-for-period>
+					<edition>XXI</edition>
+					<date from="2021-05-25" from-bc="False" uncertain="False" in-words=""/>
+                </date-for-period>
+                
+                
+                <date-and-place>
+					<date from="2021-05-25" from-bc="False" to="" to-bc="False" uncertain="False" in-words=""/>
+					<places>
+						<place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+						<place id="https://www.wikidata.org/wiki/Q52842" lang="pl"/>  <!-- Kalisz -->
+						<place id="https://www.wikidata.org/wiki/Q1475264" period="2005-10-01❦" />  <!-- Obra -->
+					</places>
+				</date-and-place>
+
+                
+                <event-series-list>
+                    <event-series id="id_serii_wydarzeń_1"/>
+                    <event-series id="id_serii_wydarzeń_2"/>
+                </event-series-list>
+                
+
+                <parent id="https://viaf.org/viaf/000000000/">
+                    <date from="1925-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </parent>
+
+
+                <subordinates>
+                    <subordinate-event id="https://viaf.org/viaf/000000001/"/>
+                    <subordinate-event id="https://viaf.org/viaf/000000002/"/>
+                    <!-- etc -->
+                </subordinates>
+
+
+                <previous id="https://viaf.org/viaf/000000000/"/>
+
+                <next id="https://viaf.org/viaf/000000000/">
+                    <date from="1919-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </next>
+                
+
+                <organizers>
+                    <person id="a0000002977579"/>
+                    <person id="a0000001090958"/>
+                    <person id="a0000001180340"/>
+                    <!-- ... -->
+
+                    <institution id="https://viaf.org/viaf/000000000/"/>
+                    <institution id="https://viaf.org/viaf/000000001/"/>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <!-- ... -->
+                </organizers>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>Tutaj należy wpisać widoczny tekst adnotacji</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#nike</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="other">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="12.05.2021" type="broader-description-access">http://pbl.poznan.pl/</link>
+                    <link access-date="12.05.2021" type="online-access">http://pbl.poznan.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref type="authorsBook" id="authors-book-id-12"/>
+                    <record-ref type="journalItem" id="journal-item-id-11"/>
+                    <!-- ... -->
+                    <creative-work-ref id="id"/>
+                    <!-- ... -->
+                    <series-ref id="id"/>
+                    <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="id"/>
+                    <!-- ... -->
+                    <place-ref id="" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+                <awards>
+                    <award id="" description="dfsfd @{ID_MICKIEWICZA|Adam Mickiewicz}">
+                        <record-ref type="authorsBook" id="authors-book-id-12"/>
+                        <!-- ... -->
+                        <creative-work-ref id=""/>
+                        <!-- ... -->
+                    </award>
+
+                    <!-- ... -->
+                </awards>
+
+
+
+            </event>
+            <event id="https://www.wikidata.org/wiki/XXXXXXX01" status="published" creator="c_rosinski" creation-date="2022-06-21" publishing-date="2022-06-23" origin="IdentyfikatorŹródła">
+
+                <!-- honorary-doctorate | festival | conference | competition | prize | decoration | plebiscite | authors-meeting | exhibition-->
+                <type code="authors-meeting"/>
+
+                <names>
+                    <name code="base" transliteration="true" newest="true">Literacka Nagroda Gazety Innej "Wiktoria"</name>
+                </names>
+
+				<date-for-period>
+					<edition>XXI</edition>
+					<date from="2021-05-25" from-bc="False" uncertain="False" in-words=""/>
+                </date-for-period>
+
+
+                <date-and-place>
+					<date from="2021-05-25" from-bc="False" to="" to-bc="False" uncertain="False" in-words=""/>
+					<places>
+						<place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+						<place id="https://www.wikidata.org/wiki/Q52842" lang="pl"/>  <!-- Kalisz -->
+						<place id="https://www.wikidata.org/wiki/Q1475264" period="2005-10-01❦" />  <!-- Obra -->
+					</places>
+				</date-and-place>
+
+
+                <event-series-list>
+                    <event-series id="id_serii_wydarzeń_1"/>
+                    <event-series id="id_serii_wydarzeń_2"/>
+                </event-series-list>
+
+
+                <parent id="https://viaf.org/viaf/000000000/">
+                    <date from="1925-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </parent>
+
+
+                <subordinates>
+                    <subordinate-event id="https://viaf.org/viaf/000000001/"/>
+                    <subordinate-event id="https://viaf.org/viaf/000000002/"/>
+                    <!-- etc -->
+                </subordinates>
+
+
+                <previous id="https://viaf.org/viaf/000000000/"/>
+
+                <next id="https://viaf.org/viaf/000000000/">
+                    <date from="1919-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </next>
+
+
+                <organizers>
+                    <person id="a0000002977579"/>
+                    <person id="a0000001090958"/>
+                    <person id="a0000001180340"/>
+                    <!-- ... -->
+
+                    <institution id="https://viaf.org/viaf/000000000/"/>
+                    <institution id="https://viaf.org/viaf/000000001/"/>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <!-- ... -->
+                </organizers>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze" | person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim" | person_id="franciszek_kowalski_id"}.Pewnie można by tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#nike</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="other">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="12.05.2021" type="broader-description-access">http://pbl.poznan.pl/</link>
+                    <link access-date="12.05.2021" type="online-access">http://pbl.poznan.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref type="journalItem" id="journal-item-id-11"/>
+                    <!-- ... -->
+
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+
+                    <series-ref id="s-id-01"/>
+                    <!-- ... -->
+
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+
+                    <event-ref id="e-id-01"/>
+                    <!-- ... -->
+
+                    <event-series-ref id="e-id-01"/>
+                    <!-- ... -->
+
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+
+                    <publishing-series-ref id="ps-id"/>
+                    <!-- ... -->
+
+                </linked-objects>
+
+                <awards>
+                    <award id="" description="dfsfd @{ID_MICKIEWICZA|Adam Mickiewicz}">
+                    <record-ref type="journalItem" id="journal-item-id-11"/>
+                        <!-- ... -->
+                        <creative-work-ref id=""/>
+                        <!-- ... -->
+                    </award>
+
+                    <!-- ... -->
+                </awards>
+
+
+
+            </event>
+        </events>
+    </files>
+
+    <records>
+        <!-- ... -->
+    </records>
+</pbl>

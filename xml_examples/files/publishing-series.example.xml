@@ -1,0 +1,72 @@
+<pbl>
+    <files>
+
+        <publishing-series-list>
+			<!-- event.status = published|draft|prepared -->
+
+            <publishing-series id="creative-work-id-01" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="CW-src-id-01" flags="123">
+
+                <titles>
+                    <title code="base" transliteration="false" newest="true">Utwór</title>
+                    <title code="other" transliteration="false">UTW</title>
+                    <title code="other" transliteration="false">U</title>
+                </titles>
+
+
+                <subtitles>
+                    <subtitle code="base" transliteration="false" newest="true">Podtytuł Utworu</subtitle>
+                </subtitles>
+
+				<publishing-houses by-author="false">
+				    <publishing-house id="ph-01">
+                        <institution id="institution-id-01"/>
+				        <places>
+					        <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+					        <place id="https://www.wikidata.org/wiki/Q52842" lang="pl"/>  <!-- Kalisz -->
+				        </places>
+                    </publishing-house>
+
+					<publishing-house id="ph-02">
+				        <places>
+					        <place id="https://www.wikidata.org/wiki/Q1475264" period="2005-10-01❦" />  <!-- Obra -->
+				        </places>
+                    </publishing-house>
+
+
+					<publishing-house id="ph-03">
+                        <institution id="https://viaf.org/viaf/000000000/"/>
+                    </publishing-house>
+				</publishing-houses>
+
+
+                <editors>
+                    <person id="person-id-01" />
+                    <person id="person-id-01" />
+                </editors>
+
+                <annotation>Tutaj należy wpisać widoczny teks adnotacji dla Creative works</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#cw-nike</tag>
+                    <tag>#cw-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+            </publishing-series>
+
+
+        </publishing-series-list>
+    </files>
+
+    <records>
+        <!-- ... -->
+    </records>
+</pbl>

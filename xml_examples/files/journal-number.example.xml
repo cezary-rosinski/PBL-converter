@@ -1,0 +1,104 @@
+<pbl>
+    <files>
+		<journal-numbers>
+			<journal-number removed="false"  id="journal-number-id-01" origin="IdentyfikatorŹródłaUAM">
+				<journal-year id="journal-year-id-01" />
+					
+				<series-number>12345</series-number>
+				<sub-series-number>67890</sub-series-number>
+				
+				<number>XIV</number>
+
+                <titles>
+                    <title code="base" transliteration="true" newest="true">Wszystko o Azji</title>
+                    <title code="dedication" transliteration="true">Azja</title>
+                </titles>
+
+                <sub-titles>
+                    <sub-title code="base" transliteration="true" newest="true">Przegląd Literacki</sub-title>
+                    <sub-title code="other" transliteration="true">PL</sub-title>
+                </sub-titles>
+					
+					
+				<as-a-book value="true"/>
+				<book id="book-id-01"/>
+				
+				
+				<edition>Edycja numeru czasopisma - pewnie jakiś numer</edition>
+				
+				<trigger-institutions>
+					<institution id="institution-id-01"/>
+					<institution id="https://viaf.org/viaf/000000000/"/> <!-- UP -->
+				</trigger-institutions>
+				
+				
+				<publishing-houses by-author="false">
+				    <publishing-house id="ph-01">
+                        <institution id="institution-id-01"/>
+				        <places>
+					        <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+					        <place id="https://www.wikidata.org/wiki/Q52842" lang="pl"/>  <!-- Kalisz -->
+				        </places>
+                    </publishing-house>
+
+					<publishing-house id="ph-02">
+				        <places>
+					        <place id="https://www.wikidata.org/wiki/Q1475264" period="2005-10-01❦" />  <!-- Obra -->
+				        </places>
+                    </publishing-house>
+
+
+					<publishing-house id="ph-03">
+                        <institution id="https://viaf.org/viaf/000000000/"/>
+                    </publishing-house>
+				</publishing-houses>
+			
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="41c0870f6ba544db8e353b0b4d51876b"/>
+                    <heading id="639fd86bddd0f685ef252cbe0852ea11"/>
+                    <heading id="a35085756f205b365ada4c6907763e87"/>
+                    <heading id="ae7ca28642408ac6485e61fc7ad93a5c"/>
+                    <heading id="67127af726e088fdf1d28b52c9f3043f"/>
+                </headings>
+				
+
+
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WaznyRocznikCzasopisma</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+				<availability>
+					<library id="https://viaf.org/viaf/000000001/" signature="123/45"/> <!-- BU -->
+					<library id="institution-id-01" signature="124/56"/>					
+				</availability>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+                
+				<publication-frequency code="daily" />
+				
+				<physical-deficiencies>Deficyty fizyczne</physical-deficiencies>
+				
+				
+				<journal-number-status value="development-of-sources"/> <!-- inability-to-develop, outside-order-development, development-on-delegation, development-of-sources -->
+				
+				<resignation-reason-public>Ble ble ble ale publiczne</resignation-reason-public>
+				<resignation-reason-private>Pismo jest do dudy nie ma co opracowywać</resignation-reason-private>
+				
+			
+			</journal-number>
+		</journal-numbers>
+    </files>
+</pbl>

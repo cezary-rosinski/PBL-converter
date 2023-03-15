@@ -1,0 +1,124 @@
+<pbl>
+    <files>
+
+        <series-list>
+			<!-- event.status = published|draft|prepared -->
+
+            <series id="series-id-01" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="SER-src-id-01" flags="123">
+
+                <material-types>
+                    <material-type code="dict_entry_1" />
+                    <material-type code="dict_entry_2" />
+                </material-types>
+
+                <series-form code="code" />
+                <movie-type code="code" />
+                <spectacle-type code="code" />
+                <radio-type code="code" />
+                <television-type code="code" />
+
+                <authors principal="text" anonymous="false" author-company="false">
+                    <author id="person-id-01" juvenile="false" co-creator="true" />
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                    <author id="person-id-03" juvenile="true" co-creator="false" />
+                </authors>
+
+
+                <mailings>
+                    <mailing>
+                        <sender>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                            <author id="person-id-12" juvenile="false" co-creator="true" />
+                            <author id="person-id-13" juvenile="true" co-creator="false" />
+
+                            <institution id="institution-id-11" />
+                            <institution id="institution-id-12" />
+                        </sender>
+
+                        <addressee>
+                            <author id="person-id-14" juvenile="false" co-creator="true" />
+
+                            <institution id="institution-id-13" />
+                            <institution id="institution-id-14" />
+                            <institution id="institution-id-15" />
+                        </addressee>
+                        <description>Opis pierwszego mailingu</description>
+                    </mailing>
+
+                    <mailing>
+                        <sender>
+                            <author id="person-id-21" juvenile="false" co-creator="true" />
+                        </sender>
+                            <institution id="institution-id-22" />
+                        </addressee>
+                        <description>Opis drugiego mailingu</description>
+                    </mailing>
+                </mailings>
+
+
+                <interviews>
+                    <interview>
+                        <interviewer>
+                            <author id="person-id-11" juvenile="false" co-creator="true" />
+                        </interviewer>
+                        <interlocutor>
+                            <institution id="institution-id-15" />
+                        </interlocutor>
+                        <description>Opis pierwszego mailingu</description>
+                    </interview>
+                </interviews>
+
+                <sources>
+                    <source>
+                        <journal id="journal-id-01" />
+                        <periods>
+                            <period begin-number="journal-number-id-01" end-number="journal-number-id-02"/>
+                            <period begin-number="journal-number-id-03" end-number="journal-number-id-04"/>
+                        </periods>
+                    </source>
+
+                    <source>
+                        <journal id="journal-id-02" />
+                        <periods>
+                            <period begin-number="journal-number-id-21" end-number="journal-number-id-22"/>
+                        </periods>
+                    </source>
+                </sources>
+
+
+                <other-sources>
+                    <other-source name="Inne źródło 1" pages="10-12" />
+                    <other-source name="Inne źródło 2" pages="110-112" />
+                </other-sources>
+
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>Tutaj należy wpisać widoczny teks adnotacji dla Creative works</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#cw-nike</tag>
+                    <tag>#cw-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+            </series>
+        </series-list>
+    </files>
+
+    <records>
+        <!-- ... -->
+    </records>
+</pbl>

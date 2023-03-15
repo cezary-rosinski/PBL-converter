@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pbl>
+	<files>
+		<people>
+			<person id="a0000001758844" status="published" creator="cezary_rosinski" creation-date="2021-12-08" publishing-date="2021-12-08" viaf="31430453">
+				<names>
+					<name transliteration="no" code="main-name">Samojlik, Tomasz (1978- )</name>
+					<name transliteration="no" code="other-last-name-or-first-name">Tomasz Samojlik</name>
+				</names>
+				<sex code="male"/>
+				<birth>
+					<date from="1978-01-01" from-bc="false" uncertain="false"/>
+					<place id="http://www.wikidata.org/entity/Q276859" period="❦" lang="pl"/>
+				</birth>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85"/>
+					<heading id="f772a45dec434efadc06b6465aee918f"/>
+					<heading id="f358518ae1091a2228faea358ea3f331"/>
+				</headings>
+				<remark>biolog</remark>
+				<links>
+					<link access-date="2021-12-08" type="external-identifier">http://data.bn.org.pl/api/authorities.xml?id=a0000001758844</link>
+					<link access-date="2021-12-08" type="external-identifier">https://viaf.org/viaf/31430453/</link>
+					<link access-date="2021-12-08" type="external-identifier">http://www.wikidata.org/entity/Q30077418</link>
+				</links>
+			</person>
+			<person id="a0000001268445" status="published" creator="cezary_rosinski" creation-date="2021-12-08" publishing-date="2021-12-08" viaf="84598173">
+				<names>
+					<name transliteration="no" code="main-name">Dobosz, Zbigniew</name>
+				</names>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85"/>
+					<heading id="bf8a54abb2ff601479c82e9c8d307910"/>
+					<heading id="25a5b6d01e175edc867a8124820c2513"/>
+				</headings>
+				<links>
+					<link access-date="2021-12-08" type="external-identifier">http://data.bn.org.pl/api/authorities.xml?id=a0000001268445</link>
+					<link access-date="2021-12-08" type="external-identifier">https://viaf.org/viaf/84598173/</link>
+				</links>
+			</person>
+		</people>
+	</files>
+</pbl>

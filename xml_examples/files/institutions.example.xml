@@ -1,0 +1,381 @@
+<pbl>
+    <files>
+        <institutions>
+        <!-- status: published|draft|prepared -->
+            <institution removed="false" id="https://viaf.org/viaf/000000000/" viaf="https://viaf.org/viaf/000000000/" status="prepared" creator="c_rosinski" creation-date="01.01.2021" publishing-date="01.01.2021" origin="IdentyfikatorŹródłaUAM">
+                <types>
+                    <!-- main-codes: polish, polish-abroad, foreign -->
+                    <!-- codes:
+                        library, foundation, literary-group, cultural-institution, non-university-institute, institute,
+                        public-administration-unit, museum, theatre, university, publishing-house, film-company,
+                        creative-association, no-data
+                     -->
+                    <type main-code="polish" code="library"/>
+                    <type main-code="polish" code="literary-group"/>
+                    <type main-code="polish-abroad" code="foundation"/>
+                    <type main-code="foreign" code="literary-group"/>
+                </types>
+
+                <history>
+                    <period>
+                        <date from="1918-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <date from="1955-09-30" from-bc="false" uncertain="false" in-words="" name="end"/>
+                        <names>
+                            <name code="base">Uniwersytet Poznański</name>
+                            <name code="other">UP</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                    <period>
+                        <date from="1955-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <name code="base" newest="true">Uniwersytet im. Adama Mickiewicza</name>
+                            <name code="other">UAM</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+                            <place id="https://www.wikidata.org/wiki/Q52842" lang="pl"/>  <!-- Kalisz -->
+                            <place id="https://www.wikidata.org/wiki/Q1475264" period="2005-10-01❦" />  <!-- Obra -->
+                        </places>
+                    </period>
+                </history>
+
+                <subordinates>
+                    <subordinate-institution id="https://viaf.org/viaf/000000001/"/>
+                    <subordinate-institution id="https://viaf.org/viaf/000000002/"/>
+                    <!-- ... -->
+                </subordinates>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="41c0870f6ba544db8e353b0b4d51876b"/>
+                    <heading id="639fd86bddd0f685ef252cbe0852ea11"/>
+                    <heading id="a35085756f205b365ada4c6907763e87"/>
+                    <heading id="ae7ca28642408ac6485e61fc7ad93a5c"/>
+                    <heading id="67127af726e088fdf1d28b52c9f3043f"/>
+                </headings>
+
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WaznyInstytut</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+
+            </institution>
+
+
+            <institution removed="false" id="https://viaf.org/viaf/000000001/" viaf="https://viaf.org/viaf/000000001/" status="prepared" creator="c_rosinski" creation-date="01.01.2021" publishing-date="01.01.2021" origin="IdentyfikatorŹródłaUAM">
+                <types>
+                    <!-- main-codes: polish, polish-abroad, foreign -->
+                    <!-- codes:
+                        library, foundation, literary-group, cultural-institution, non-university-institute, institute,
+                        public-administration-unit, museum, theatre, university, publishing-house, film-company,
+                        creative-association, no-data
+                     -->
+                    <type main-code="polish" code="publishing-house"/>
+                </types>
+
+                <history>
+                    <period>
+                        <date from="1918-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <name code="base">Biblioteka Uniwersytecka</name>
+                            <name code="other">BU</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                </history>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="a74eb4bf4b89a910d6790e3c3ae40650"/>
+                    <heading id="d8749631e0328a96f136b80391cf6f3c"/>
+                </headings>
+
+                <annotation>To jest jakaś adnotacja w Bibliotece Uniwersyteckiej</annotation>
+
+                <remark>To jest jakiś komentarz w Bibliotece Uniwersyteckiej</remark>
+
+                <parent id="https://viaf.org/viaf/000000000/">
+                        <date from="1925-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                </parent>
+
+                <tags>
+                    <tag>#WaznyInstytut</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://www.wybrocza.pl/</link>
+                </links>
+
+            </institution>
+
+
+            <institution removed="false" id="https://viaf.org/viaf/000000002/" viaf="https://viaf.org/viaf/000000002/" status="prepared" creator="c_rosinski" creation-date="01.01.2021" publishing-date="01.01.2021" origin="IdentyfikatorŹródłaUAM">
+                <types>
+                    <!-- main-codes: polish, polish-abroad, foreign -->
+                    <!-- codes:
+                        library, foundation, literary-group, cultural-institution, non-university-institute, institute,
+                        public-administration-unit, museum, theatre, university, publishing-house, film-company,
+                        creative-association, no-data
+                     -->
+                    <type main-code="polish" code="library"/>
+                </types>
+
+                <history>
+                    <period>
+                        <date from="1918-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <name code="base">Wydawnictwo Uniwersyteckie</name>
+                            <name code="other">WU</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                </history>
+
+                <parent id="https://viaf.org/viaf/000000000/" />
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="9bf5d57ff1d1c5192e6e105be9bdd9b7"/>
+                    <heading id="a40d44bf594ae55fef8fb0d0963609d5"/>
+                </headings>
+
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WaznyInstytut</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+
+            </institution>
+
+            <institution removed="false" id="https://viaf.org/viaf/000000010/" viaf="https://viaf.org/viaf/000000010/" status="prepared" creator="c_rosinski" creation-date="01.01.2021" publishing-date="01.01.2021" origin="IdentyfikatorŹródła">
+                <types>
+                    <!-- main-codes: polish, polish-abroad, foreign -->
+                    <!-- codes:
+                        library, foundation, literary-group, cultural-institution, non-university-institute, institute,
+                        public-administration-unit, museum, theatre, university, publishing-house, film-company,
+                        creative-association, no-data
+                     -->
+                    <type main-code="polish" code="library"/>
+                    <type main-code="polish" code="literary-group"/>
+                    <type main-code="polish-abroad" code="foundation"/>
+                    <type main-code="foreign" code="literary-group"/>
+                </types>
+
+                <history>
+                    <period>
+                        <date from="1955-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <date from="1980-09-30" from-bc="false" uncertain="false" in-words="" name="end"/>
+                        <names>
+                            <!-- types: base, other,  -->
+                            <name code="base">Wyższa Szkoła Rolnicza</name>
+                            <name code="other">WySRol</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                    <period>
+                        <date from="1980-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <date from="2010-09-30" from-bc="false" uncertain="false" in-words="" name="end"/>
+                        <names>
+                            <!-- types: base, other,  -->
+                            <name code="base">Akademia Rolnicza</name>
+                            <name code="other">AR</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                    <period>
+                        <date from="2010-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <name code="base" newest="true">Uniwersytet Przyrodniczy</name>
+                            <name code="other">UP</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>  <!-- Poznań -->
+                            <place id="https://www.wikidata.org/wiki/Q51003" period="❦" lang="pl"/>  <!-- Murowana Goślina -->
+                        </places>
+                    </period>
+                </history>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="563d642f23054e3054aa941e4d9451d9"/>
+                    <heading id="08383f9f57145fbdd540357d26932cbd"/>
+                </headings>
+
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WaznyInstytut</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+
+            </institution>
+
+
+            <institution removed="false" id="https://viaf.org/viaf/000000011/" viaf="https://viaf.org/viaf/000000011/" status="prepared" creator="c_rosinski" creation-date="01.01.2021" publishing-date="01.01.2021" origin="IdentyfikatorŹródła">
+                <types>
+                    <!-- main-codes: polish, polish-abroad, foreign -->
+                    <!-- codes:
+                        library, foundation, literary-group, cultural-institution, non-university-institute, institute,
+                        public-administration-unit, museum, theatre, university, publishing-house, film-company,
+                        creative-association, no-data
+                     -->
+                    <type main-code="polish" code="foundation"/>
+                </types>
+
+                <history>
+                    <period>
+                        <date from="1918-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <!-- types: base, other,  -->
+                            <name code="base">Ogród Botaniczny</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                </history>
+
+                <parent id="https://viaf.org/viaf/000000010/" />
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="lit-pol"/>
+                    <heading id="teor-lit"/>
+                </headings>
+
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WaznyInstytut</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+
+            </institution>
+
+
+            <institution removed="false" id="https://viaf.org/viaf/000000012/" viaf="https://viaf.org/viaf/000000012/" status="prepared" creator="c_rosinski" creation-date="01.01.2021" publishing-date="01.01.2021" origin="IdentyfikatorŹródła">
+                <types>
+                    <!-- main-codes: polish, polish-abroad, foreign -->
+                    <!-- codes:
+                        library, foundation, literary-group, cultural-institution, non-university-institute, institute,
+                        public-administration-unit, museum, theatre, university, publishing-house, film-company,
+                        creative-association, no-data
+                     -->
+                    <type main-code="polish" code="foundation"/>
+                </types>
+
+                <history>
+                    <period>
+                        <date from="1870-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <date from="1919-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <!-- types: base, other,  -->
+                            <name code="base">Szkoła rolnicza Augusta Cieszkowskiego</name>
+                        </names>
+
+                        <places>
+                            <place id="https://www.wikidata.org/wiki/Q268" period="❦" lang="pl"/>    <!-- Poznań -->
+                        </places>
+                    </period>
+                </history>
+
+
+                <next id="https://viaf.org/viaf/000000010/"> <!--AkademiaRolnicza -->
+                        <date from="1919-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                </next>
+
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="lit-pol"/>
+                    <heading id="teor-lit"/>
+                </headings>
+
+                <annotation>To jest jakaś adnotacja w Szkole rolniczej Augusta Cieszkowskiego</annotation>
+
+                <remark>To jest jakiś komentarz w Szkole rolniczej Augusta Cieszkowskiego</remark>
+
+
+                <tags>
+                    <tag>#Konie</tag>
+                    <tag>#Krowy</tag>
+                    <tag>#DrogaNaOstrołękę</tag>
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                </links>
+
+            </institution>
+
+        </institutions>
+    </files>
+</pbl>
