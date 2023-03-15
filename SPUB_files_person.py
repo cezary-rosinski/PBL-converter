@@ -107,7 +107,7 @@ class Person:
                 if match_place:
                     place.place_period = f'{match_place[0].periods[0].date_from}❦{match_place[0].periods[0].date_to}'
                     place.place_lang = match_place[0].periods[0].lang
-                    #skonsultować z Nikodemem, czemu tu nie wchodzi tylko druga miejscowość
+                    #skonsultować z Nikodemem, czemu tu wchodzi tylko druga miejscowość
                     if 'fake' not in place.place_id:
                         self.add_person_link(place.place_id, 'other')
             
