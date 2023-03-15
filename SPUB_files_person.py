@@ -73,7 +73,7 @@ class Person:
             #place zależy od rozwoju kartoteki miejsc – dodanie miejsc wiki
             
         def __repr__(self):
-            return "PersonDate(date_from='{}', place_id='{}')".format(self.date_from, self.place_id)
+            return "PersonDate(date_from='{}', place_id='{}', place_period='{}')".format(self.date_from, self.place_id, self.place_period)
         
     class PersonLink(XmlRepresentation):
         
@@ -107,7 +107,6 @@ class Person:
                 if match_place:
                     place.place_period = f'{match_place[0].periods[0].date_from}❦{match_place[0].periods[0].date_to}'
                     place.place_lang = match_place[0].periods[0].lang
-                    #skonsultować z Nikodemem, czemu tu wchodzi tylko druga miejscowość
                     if 'fake' not in place.place_id:
                         self.add_person_link(place.place_id, 'other')
             
