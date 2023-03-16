@@ -1070,7 +1070,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1079,7 +1079,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1088,7 +1088,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1097,7 +1097,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1106,7 +1106,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1115,7 +1115,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1124,7 +1124,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1133,7 +1133,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1142,7 +1142,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1151,7 +1151,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1999</year>
+				<year value="1999" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1160,7 +1160,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1998</year>
+				<year value="1998" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1169,7 +1169,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1995</year>
+				<year value="1995" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1178,7 +1178,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1187,7 +1187,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1196,7 +1196,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1205,7 +1205,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1214,7 +1214,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1991</year>
+				<year value="1991" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1223,7 +1223,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1232,7 +1232,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1241,7 +1241,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1250,7 +1250,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2003</year>
+				<year value="2003" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1259,7 +1259,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1268,7 +1268,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1277,7 +1277,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1998</year>
+				<year value="1998" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1286,7 +1286,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2017</year>
+				<year value="2017" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1295,7 +1295,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1304,7 +1304,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2002</year>
+				<year value="2002" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1313,7 +1313,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1995</year>
+				<year value="1995" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1322,7 +1322,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1997</year>
+				<year value="1997" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1331,7 +1331,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1989</year>
+				<year value="1989" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1340,7 +1340,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1995</year>
+				<year value="1995" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1349,7 +1349,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1358,7 +1358,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1367,7 +1367,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1376,7 +1376,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1385,7 +1385,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2016</year>
+				<year value="2016" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1394,7 +1394,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2015</year>
+				<year value="2015" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1403,7 +1403,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1997</year>
+				<year value="1997" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1412,7 +1412,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2002</year>
+				<year value="2002" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1421,7 +1421,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1994</year>
+				<year value="1994" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1430,7 +1430,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1995</year>
+				<year value="1995" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1439,7 +1439,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1999</year>
+				<year value="1999" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1448,7 +1448,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1991</year>
+				<year value="1991" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1457,7 +1457,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2019</year>
+				<year value="2019" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1466,7 +1466,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2005</year>
+				<year value="2005" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1475,7 +1475,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2002</year>
+				<year value="2002" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1484,7 +1484,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2003</year>
+				<year value="2003" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1493,7 +1493,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1992</year>
+				<year value="1992" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1502,7 +1502,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2014</year>
+				<year value="2014" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1511,7 +1511,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2004</year>
+				<year value="2004" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1520,7 +1520,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1529,7 +1529,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1993</year>
+				<year value="1993" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1538,7 +1538,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1547,7 +1547,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1556,7 +1556,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1565,7 +1565,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1990</year>
+				<year value="1990" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1574,7 +1574,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1991</year>
+				<year value="1991" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1583,7 +1583,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1990</year>
+				<year value="1990" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1592,7 +1592,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1990</year>
+				<year value="1990" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1601,7 +1601,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1989</year>
+				<year value="1989" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1610,7 +1610,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1988</year>
+				<year value="1988" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1619,7 +1619,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2001</year>
+				<year value="2001" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1628,7 +1628,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1995</year>
+				<year value="1995" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1637,7 +1637,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1646,7 +1646,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1655,7 +1655,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2010</year>
+				<year value="2010" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1664,7 +1664,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1673,7 +1673,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1682,7 +1682,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1691,7 +1691,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1989</year>
+				<year value="1989" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1700,7 +1700,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2018</year>
+				<year value="2018" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1709,7 +1709,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1995</year>
+				<year value="1995" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1718,7 +1718,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2018</year>
+				<year value="2018" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1727,7 +1727,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2002</year>
+				<year value="2002" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1736,7 +1736,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2003</year>
+				<year value="2003" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1745,7 +1745,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2002</year>
+				<year value="2002" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1754,7 +1754,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1996</year>
+				<year value="1996" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1763,7 +1763,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1772,7 +1772,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1997</year>
+				<year value="1997" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1781,7 +1781,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1989</year>
+				<year value="1989" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1790,7 +1790,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2014</year>
+				<year value="2014" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1799,7 +1799,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1993</year>
+				<year value="1993" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1808,7 +1808,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1998</year>
+				<year value="1998" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1817,7 +1817,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>1997</year>
+				<year value="1997" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1826,7 +1826,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1835,7 +1835,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2000</year>
+				<year value="2000" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>
@@ -1844,7 +1844,7 @@
 				<characters>
 					<character code="literary" />
 				</characters>
-				<year>2017</year>
+				<year value="2017" />
 				<journal-year-status value="under-development" />
 				<closed value="false" />
 			</journal-year>

@@ -46,9 +46,7 @@ class JournalYear:
             characters_xml.append(character.to_xml())
         journal_year_xml.append(characters_xml)
         
-        year_xml = ET.Element('year')
-        year_xml.text = self.year
-        journal_year_xml.append(year_xml)
+        journal_year_xml.append(ET.Element('year', {'value': self.year}))
         
         journal_year_xml.append(ET.Element('journal-year-status', {'value': self.status}))
         
