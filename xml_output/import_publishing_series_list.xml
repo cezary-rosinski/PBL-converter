@@ -1,309 +1,309 @@
 <pbl>
 	<files>
 		<publishing-series-list>
-			<publishing-series id="fake_id_326" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Wielcy Polacy</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_327" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Nuobei'er Wenxue Jiang Wenji = Collections of the Noble Prize for Literature</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_328" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Klasyka Mniej Znana</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_329" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Instytutu Franciszkańskiego</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_330" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Klasyki Polskiej</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_331" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Opere da tre soldi per quattro gatti</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_332" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Szkoła Twórczego Czytania</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_333" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Dzieła wybrane/ Reymont</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_334" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Opracowań Lektur Szkolnych</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_335" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Nobei'er Wenxue Jiang Wenji</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_336" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Klasyka Literatury</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_337" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Laureaci Nagrody Nobla</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_338" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Tradycji</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_339" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">I grandi inediti</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_340" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Niezapomniane Lektury</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_341" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Lektura z Opracowaniem</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_342" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Narodowa. Seria 1</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_343" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">GreifenFundstücke</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_344" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Klasyka Polska / "Prószyński i S-ka"</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_345" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Złoty Liść</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_346" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Kolorowa Klasyka</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_347" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Au Coeur du Monde. Classiques Slaves</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_348" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Nuobei'er Wenxue Jiang Zuopin Diancang Shuxi</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_349" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Lektury Szkolne z Opracowaniem</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_350" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Lektur z Opracowaniem</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_351" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Złota Seria - Zielona Sowa</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_352" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Profile</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_353" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Klasyki</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_354" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Narodowa. Seria 1, nr 286</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_355" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Magna Carta</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_356" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Dupin Lianhe</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_357" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Prevod na Literaturni Dela od Avtori koi Dobile Nobelova Nagrada</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_358" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_326" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Biblioteka "Za sva vremena"</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_359" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Laimengte juan / W. Laimengte</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_360" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Atlas</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_361" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Kolekcja Prozy Polskiej XX Wieku</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_362" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Frondy</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_363" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_327" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Biblioteka Literatury Pięknej</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_364" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_328" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Lektury dla Zapracowanych</title>
+					<title code="base" newest="true" transliteration="false">Opere da tre soldi per quattro gatti</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_365" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_329" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Narodowa Biblioteka Arcydzieł</title>
+					<title code="base" newest="true" transliteration="false">Kolorowa Klasyka</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_366" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_330" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Perły Literatury</title>
+					<title code="base" newest="true" transliteration="false">Lektury Szkolne z Opracowaniem</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_367" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_331" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Nuobei'er Wenxue Jiang Zuopin Diancang Shuxi</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_332" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Laimengte juan / W. Laimengte</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_333" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Kolekcja Prozy Polskiej XX Wieku</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_334" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">ABC Klasyka Polska. Lektury</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_368" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">BN I</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_369" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Lektury Grega</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_370" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Gazety Wyborczej</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_371" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_335" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Dzvezdi na svetskata kniževnost</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_372" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_336" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Dzieła Najwybitniejszych Noblistów</title>
+					<title code="base" newest="true" transliteration="false">Złota Seria - Zielona Sowa</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_373" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Kanon Lektur : kanon literatury polskiej</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_374" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Nobel-Díjasok Könyvtára</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_375" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Arcydzieła Literatury Polskiej</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_376" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Les Classiques du Monde</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_377" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Ziemia Łódzka Ziemia Obiecana</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_378" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">ABC Klasyka polska. Lektury</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_379" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
-				<titles>
-					<title code="base" newest="true" transliteration="false">ApeBook Classics</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_380" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_337" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Narodowa Biblioteka Lektur Szkolnych</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_381" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_338" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Klasyka Polska</title>
+					<title code="base" newest="true" transliteration="false">Dzieła Najwybitniejszych Noblistów</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_382" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_339" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Klasyka Literatury</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_340" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Biblioteka &lt;i&gt;Polonistyki&lt;/i&gt;</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_383" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_341" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Złoty Liść</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_342" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Stranci u Noći</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_384" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_343" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Dupin Lianhe</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_344" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">I grandi inediti</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_345" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">ABC Klasyka polska. Lektury</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_346" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Instytutu Franciszkańskiego</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_347" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Przewodnik po Lekturach</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_385" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_348" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Atlas</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_349" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Nuobei'er Wenxue Jiang Wenji = Collections of the Noble Prize for Literature</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_350" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Ziemia Łódzka Ziemia Obiecana</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_351" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Klasyki Polskiej</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_352" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Szkoła Twórczego Czytania</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_353" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Wielcy Polacy</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_354" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Profile</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_355" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">GreifenFundstücke</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_356" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Kanon Lektur : kanon literatury polskiej</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_357" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Klasyki</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_358" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">ApeBook Classics</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_359" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Les Classiques du Monde</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_360" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Frondy</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_361" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Narodowa Biblioteka Arcydzieł</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_362" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Gazety Wyborczej</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_363" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Lektur z Opracowaniem</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_364" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Tradycji</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_365" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Klasyka Mniej Znana</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_366" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Laureaci Nagrody Nobla</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_367" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Nobel-Díjasok Könyvtára</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_368" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Lektury Grega</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_369" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Magna Carta</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_370" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Laureatów Literackiej Nagrody Nobla</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_371" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Lektury dla Zapracowanych</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_372" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">BN I</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_373" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Prevod na Literaturni Dela od Avtori koi Dobile Nobelova Nagrada</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_374" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Niezapomniane Lektury</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_375" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Perły Literatury</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_376" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Nobei'er Wenxue Jiang Wenji</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_377" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Au Coeur du Monde. Classiques Slaves</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_378" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Klasyka Polska / "Prószyński i S-ka"</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_379" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Ediciǰa Vostok proza</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_386" status="published" creator="cezary_rosinski" creation-date="2023-03-14" publishing-date="2023-03-14">
+			<publishing-series id="fake_id_380" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Laureatów Literackiej Nagrody Nobla</title>
+					<title code="base" newest="true" transliteration="false">Lektura z Opracowaniem</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_381" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Klasyka Polska</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_382" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Arcydzieła Literatury Polskiej</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_383" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Narodowa. Seria 1, nr 286</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_384" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Opracowań Lektur Szkolnych</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_385" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Dzieła wybrane/ Reymont</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_386" status="published" creator="cezary_rosinski" creation-date="2023-03-16" publishing-date="2023-03-16">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Narodowa. Seria 1</title>
 				</titles>
 			</publishing-series>
 		</publishing-series-list>

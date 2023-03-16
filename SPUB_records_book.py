@@ -207,7 +207,7 @@ class Book:
             book_xml.append(self.year.to_xml())
             
         if self.physical_description:
-            book_xml.append(ET.Element('physical-description', {'coCreated': 'no', 'description': self.physical_description}))
+            book_xml.append(ET.Element('physical-description', {'co-created': 'no', 'description': self.physical_description}))
             
         return book_xml
 
