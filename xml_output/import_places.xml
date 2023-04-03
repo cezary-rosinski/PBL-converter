@@ -1,19 +1,179 @@
 <pbl>
 	<files>
 		<places>
+			<place id="http://www.wikidata.org/entity/Q25319" lat="56.1564" lon="10.2097">
+				<period date-from="" date-to="">
+					<name lang="pl">Aarhus</name>
+				</period>
+			</place>
+			<place id="fake_id_0">
+				<period date-from="" date-to="">
+					<name lang="pl">Rudolstadt, Berlin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q52895" lat="51.65" lon="17.7">
+				<period date-from="" date-to="">
+					<name lang="pl">Ostrów Wielkopolski</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q2807" lat="40.4167" lon="-3.7025">
+				<period date-from="" date-to="">
+					<name lang="pl">Madryt</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q8684" lat="37.56" lon="126.99">
+				<period date-from="" date-to="">
+					<name lang="pl">Seul</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q204234" lat="52.0333" lon="-0.766667">
+				<period date-from="" date-to="">
+					<name lang="pl">Milton Keynes</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q221" lat="41.65" lon="21.7167">
+				<period date-from="" date-to="">
+					<name lang="pl">Macedonia Północna</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q598" lat="50.05" lon="22">
+				<period date-from="" date-to="">
+					<name lang="pl">Rzeszów</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q761" lat="53.1167" lon="23.1667">
+				<period date-from="" date-to="">
+					<name lang="pl">Białystok</name>
+				</period>
+			</place>
 			<place id="http://www.wikidata.org/entity/Q1858" lat="21.0245" lon="105.841">
 				<period date-from="" date-to="">
 					<name lang="pl">Hanoi</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q2948" lat="51.2003" lon="6.69389">
+			<place id="fake_id_1">
 				<period date-from="" date-to="">
-					<name lang="pl">Neuss</name>
+					<name lang="pl">Mihnsk</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q745059" lat="52.1167" lon="21.2667">
+			<place id="http://www.wikidata.org/entity/Q157246" lat="41.0319" lon="21.3347">
 				<period date-from="" date-to="">
-					<name lang="pl">Otwock</name>
+					<name lang="pl">Bitola</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q580" lat="51.7769" lon="19.4547">
+				<period date-from="" date-to="">
+					<name lang="pl">Łódź</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q956" lat="39.904" lon="116.408">
+				<period date-from="" date-to="">
+					<name lang="pl">Pekin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q71" lat="46.2" lon="6.15">
+				<period date-from="" date-to="">
+					<name lang="pl">Genewa</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q64" lat="52.5167" lon="13.3833">
+				<period date-from="" date-to="">
+					<name lang="pl">Berlin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q490" lat="45.4669" lon="9.19">
+				<period date-from="" date-to="">
+					<name lang="pl">Mediolan</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q232399" lat="33.45" lon="37.03">
+				<period date-from="" date-to="">
+					<name lang="pl">Damaszek</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1799" lat="51.11" lon="17.0325">
+				<period date-from="" date-to="">
+					<name lang="pl">Wrocław</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1199" lat="50.608" lon="9.02847">
+				<period date-from="" date-to="">
+					<name lang="pl">Hesja</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1792" lat="54.35" lon="18.6667">
+				<period date-from="" date-to="">
+					<name lang="pl">Gdańsk</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q37333" lat="51.25" lon="22.5667">
+				<period date-from="" date-to="">
+					<name lang="pl">Lublin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q745074" lat="51.6" lon="18.75">
+				<period date-from="" date-to="">
+					<name lang="pl">Sieradz</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q189633" lat="25.2667" lon="110.283">
+				<period date-from="" date-to="">
+					<name lang="pl">Guilin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q3939" lat="51.5667" lon="6.73333">
+				<period date-from="" date-to="">
+					<name lang="pl">Dinslaken</name>
+				</period>
+			</place>
+			<place id="fake_id_2">
+				<period date-from="" date-to="">
+					<name lang="pl">Ischia Ponte</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q393228" lat="52.2453" lon="19.6236">
+				<period date-from="" date-to="">
+					<name lang="pl">Żychlin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q268" lat="52.4083" lon="16.9336">
+				<period date-from="" date-to="">
+					<name lang="pl">Poznań</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q270" lat="52.23" lon="21.0111">
+				<period date-from="" date-to="">
+					<name lang="pl">Warszawa</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1726" lat="48.1375" lon="11.575">
+				<period date-from="" date-to="">
+					<name lang="pl">Monachium</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q2995340" lat="50.067" lon="19.95">
+				<period date-from="" date-to="">
+					<name lang="pl">Konsulat Generalny Francji w Krakowie</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q3438599" lat="59.2846" lon="18.0814">
+				<period date-from="" date-to="">
+					<name lang="pl">Enskede-Årsta parish</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q92161" lat="43.9" lon="125.2">
+				<period date-from="" date-to="">
+					<name lang="pl">Changchun</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q649" lat="55.7558" lon="37.6178">
+				<period date-from="" date-to="">
+					<name lang="pl">Moskwa</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q41252" lat="53.1167" lon="18">
+				<period date-from="" date-to="">
+					<name lang="pl">Bydgoszcz</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q1492" lat="41.3825" lon="2.17694">
@@ -26,84 +186,19 @@
 					<name lang="pl">Debreczyn</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q1781" lat="47.4983" lon="19.0408">
+			<place id="http://www.wikidata.org/entity/Q2288283" lat="52.2" lon="20.4167">
 				<period date-from="" date-to="">
-					<name lang="pl">Budapeszt</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q220" lat="41.8931" lon="12.4828">
-				<period date-from="" date-to="">
-					<name lang="pl">Rzym</name>
-				</period>
-			</place>
-			<place id="fake_id_0">
-				<period date-from="" date-to="">
-					<name lang="pl">Bielsko-Biała</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q2995340" lat="50.067" lon="19.95">
-				<period date-from="" date-to="">
-					<name lang="pl">Konsulat Generalny Francji w Krakowie</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q207324" lat="20.45" lon="85.8667">
-				<period date-from="" date-to="">
-					<name lang="pl">Cuttack</name>
-				</period>
-			</place>
-			<place id="fake_id_1">
-				<period date-from="" date-to="">
-					<name lang="pl">Black Hill Vic.</name>
-				</period>
-			</place>
-			<place id="fake_id_2">
-				<period date-from="" date-to="">
-					<name lang="pl">Mihnsk</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1726" lat="48.1375" lon="11.575">
-				<period date-from="" date-to="">
-					<name lang="pl">Monachium</name>
+					<name lang="pl">Teresin</name>
 				</period>
 			</place>
 			<place id="fake_id_3">
 				<period date-from="" date-to="">
+					<name lang="pl">Wrocław, Kraków, Warszawa</name>
+				</period>
+			</place>
+			<place id="fake_id_4">
+				<period date-from="" date-to="">
 					<name lang="pl">Lausanne, Paris</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q875989" lat="50.6766" lon="21.7496">
-				<period date-from="" date-to="">
-					<name lang="pl">Diecezja sandomierska</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q649" lat="55.7558" lon="37.6178">
-				<period date-from="" date-to="">
-					<name lang="pl">Moskwa</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1199" lat="50.608" lon="9.02847">
-				<period date-from="" date-to="">
-					<name lang="pl">Hesja</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q157246" lat="41.0319" lon="21.3347">
-				<period date-from="" date-to="">
-					<name lang="pl">Bitola</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q92161" lat="43.9" lon="125.2">
-				<period date-from="" date-to="">
-					<name lang="pl">Changchun</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q204234" lat="52.0333" lon="-0.766667">
-				<period date-from="" date-to="">
-					<name lang="pl">Milton Keynes</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q64" lat="52.5167" lon="13.3833">
-				<period date-from="" date-to="">
-					<name lang="pl">Berlin</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q908" lat="47.2333" lon="39.7167">
@@ -111,119 +206,9 @@
 					<name lang="pl">Rostów nad Donem</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q268" lat="52.4083" lon="16.9336">
+			<place id="http://www.wikidata.org/entity/Q242478" lat="49.0228" lon="20.5906">
 				<period date-from="" date-to="">
-					<name lang="pl">Poznań</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q4115712" lat="54.9" lon="23.9333">
-				<period date-from="" date-to="">
-					<name lang="pl">Kowno</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q31487" lat="50.0614" lon="19.9372">
-				<period date-from="" date-to="">
-					<name lang="pl">Kraków</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q2288283" lat="52.2" lon="20.4167">
-				<period date-from="" date-to="">
-					<name lang="pl">Teresin</name>
-				</period>
-			</place>
-			<place id="fake_id_4">
-				<period date-from="" date-to="">
-					<name lang="pl">Rudolstadt, Berlin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1794" lat="50.1106" lon="8.68222">
-				<period date-from="" date-to="">
-					<name lang="pl">Frankfurt nad Menem</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q580" lat="51.7769" lon="19.4547">
-				<period date-from="" date-to="">
-					<name lang="pl">Łódź</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q62937" lat="52.7167" lon="21.1">
-				<period date-from="" date-to="">
-					<name lang="pl">Pułtusk</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q5640" lat="46.17" lon="16.909">
-				<period date-from="" date-to="">
-					<name lang="pl">Koprivnica</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q52895" lat="51.65" lon="17.7">
-				<period date-from="" date-to="">
-					<name lang="pl">Ostrów Wielkopolski</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q761" lat="53.1167" lon="23.1667">
-				<period date-from="" date-to="">
-					<name lang="pl">Białystok</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q598" lat="50.05" lon="22">
-				<period date-from="" date-to="">
-					<name lang="pl">Rzeszów</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q25319" lat="56.1564" lon="10.2097">
-				<period date-from="" date-to="">
-					<name lang="pl">Aarhus</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q13298" lat="47.0708" lon="15.4386">
-				<period date-from="" date-to="">
-					<name lang="pl">Graz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q19660" lat="44.4" lon="26.0833">
-				<period date-from="" date-to="">
-					<name lang="pl">Bukareszt</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q232399" lat="33.45" lon="37.03">
-				<period date-from="" date-to="">
-					<name lang="pl">Damaszek</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q270" lat="52.23" lon="21.0111">
-				<period date-from="" date-to="">
-					<name lang="pl">Warszawa</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1792" lat="54.35" lon="18.6667">
-				<period date-from="" date-to="">
-					<name lang="pl">Gdańsk</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q52845" lat="52.2275" lon="18.2614">
-				<period date-from="" date-to="">
-					<name lang="pl">Konin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q37333" lat="51.25" lon="22.5667">
-				<period date-from="" date-to="">
-					<name lang="pl">Lublin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q3438599" lat="59.2846" lon="18.0814">
-				<period date-from="" date-to="">
-					<name lang="pl">Enskede-Årsta parish</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q8385" lat="49.8356" lon="18.2925">
-				<period date-from="" date-to="">
-					<name lang="pl">Ostrawa</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q2807" lat="40.4167" lon="-3.7025">
-				<period date-from="" date-to="">
-					<name lang="pl">Madryt</name>
+					<name lang="pl">Lewocza</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q800" lat="10" lon="-84">
@@ -231,34 +216,34 @@
 					<name lang="pl">Kostaryka</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q3711" lat="44.8178" lon="20.4569">
+			<place id="http://www.wikidata.org/entity/Q1794" lat="50.1106" lon="8.68222">
 				<period date-from="" date-to="">
-					<name lang="pl">Belgrad</name>
+					<name lang="pl">Frankfurt nad Menem</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q41252" lat="53.1167" lon="18">
+			<place id="http://www.wikidata.org/entity/Q4115712" lat="54.9" lon="23.9333">
 				<period date-from="" date-to="">
-					<name lang="pl">Bydgoszcz</name>
+					<name lang="pl">Kowno</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q52845" lat="52.2275" lon="18.2614">
+				<period date-from="" date-to="">
+					<name lang="pl">Konin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q875989" lat="50.6766" lon="21.7496">
+				<period date-from="" date-to="">
+					<name lang="pl">Diecezja sandomierska</name>
 				</period>
 			</place>
 			<place id="fake_id_5">
 				<period date-from="" date-to="">
-					<name lang="pl">Wrocław, Kraków, Warszawa</name>
+					<name lang="pl">Bielsko-Biała</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q1799" lat="51.11" lon="17.0325">
+			<place id="fake_id_6">
 				<period date-from="" date-to="">
-					<name lang="pl">Wrocław</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q71" lat="46.2" lon="6.15">
-				<period date-from="" date-to="">
-					<name lang="pl">Genewa</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q490" lat="45.4669" lon="9.19">
-				<period date-from="" date-to="">
-					<name lang="pl">Mediolan</name>
+					<name lang="pl">Black Hill Vic.</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q459" lat="42.1421" lon="24.7415">
@@ -266,44 +251,39 @@
 					<name lang="pl">Płowdiw</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q242478" lat="49.0228" lon="20.5906">
+			<place id="http://www.wikidata.org/entity/Q2948" lat="51.2003" lon="6.69389">
 				<period date-from="" date-to="">
-					<name lang="pl">Lewocza</name>
+					<name lang="pl">Neuss</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q956" lat="39.904" lon="116.408">
+			<place id="http://www.wikidata.org/entity/Q207324" lat="20.45" lon="85.8667">
 				<period date-from="" date-to="">
-					<name lang="pl">Pekin</name>
+					<name lang="pl">Cuttack</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q3939" lat="51.5667" lon="6.73333">
+			<place id="http://www.wikidata.org/entity/Q31487" lat="50.0614" lon="19.9372">
 				<period date-from="" date-to="">
-					<name lang="pl">Dinslaken</name>
+					<name lang="pl">Kraków</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q437465" lat="48.4667" lon="10.6">
+			<place id="http://www.wikidata.org/entity/Q13298" lat="47.0708" lon="15.4386">
 				<period date-from="" date-to="">
-					<name lang="pl">Altenmünster</name>
+					<name lang="pl">Graz</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q8684" lat="37.56" lon="126.99">
+			<place id="http://www.wikidata.org/entity/Q1781" lat="47.4983" lon="19.0408">
 				<period date-from="" date-to="">
-					<name lang="pl">Seul</name>
+					<name lang="pl">Budapeszt</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q393228" lat="52.2453" lon="19.6236">
+			<place id="http://www.wikidata.org/entity/Q19660" lat="44.4" lon="26.0833">
 				<period date-from="" date-to="">
-					<name lang="pl">Żychlin</name>
+					<name lang="pl">Bukareszt</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q745074" lat="51.6" lon="18.75">
+			<place id="http://www.wikidata.org/entity/Q5640" lat="46.17" lon="16.909">
 				<period date-from="" date-to="">
-					<name lang="pl">Sieradz</name>
-				</period>
-			</place>
-			<place id="fake_id_6">
-				<period date-from="" date-to="">
-					<name lang="pl">Ischia Ponte</name>
+					<name lang="pl">Koprivnica</name>
 				</period>
 			</place>
 			<place id="fake_id_7">
@@ -311,14 +291,34 @@
 					<name lang="pl">London etc.</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q221" lat="41.65" lon="21.7167">
+			<place id="http://www.wikidata.org/entity/Q8385" lat="49.8356" lon="18.2925">
 				<period date-from="" date-to="">
-					<name lang="pl">Macedonia Północna</name>
+					<name lang="pl">Ostrawa</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q189633" lat="25.2667" lon="110.283">
+			<place id="http://www.wikidata.org/entity/Q3711" lat="44.8178" lon="20.4569">
 				<period date-from="" date-to="">
-					<name lang="pl">Guilin</name>
+					<name lang="pl">Belgrad</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q437465" lat="48.4667" lon="10.6">
+				<period date-from="" date-to="">
+					<name lang="pl">Altenmünster</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q220" lat="41.8931" lon="12.4828">
+				<period date-from="" date-to="">
+					<name lang="pl">Rzym</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q745059" lat="52.1167" lon="21.2667">
+				<period date-from="" date-to="">
+					<name lang="pl">Otwock</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q62937" lat="52.7167" lon="21.1">
+				<period date-from="" date-to="">
+					<name lang="pl">Pułtusk</name>
 				</period>
 			</place>
 		</places>
