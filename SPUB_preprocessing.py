@@ -273,7 +273,7 @@ def preprocess_books(origin_data, pub_places_data):
     physical_description_data = {k:''.join([list(e.values())[0] for e in marc_parser_for_field(v, '\\$')]) for k,v in physical_description_data.items()}
     
     preprocessed_data = []
-    for elem in tqdm(origin_data):
+    for elem in origin_data:
         elem_id = elem.get('id')
         try:
             year = elem.get('datesort_str_mv')[0]

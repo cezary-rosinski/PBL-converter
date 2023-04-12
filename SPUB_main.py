@@ -6,6 +6,7 @@
 import xml.etree.cElementTree as ET
 from datetime import datetime
 import json
+from tqdm import tqdm
 
 from SPUB_preprocessing import preprocess_places, preprocess_people, preprocess_institutions, preprocess_events, preprocess_publishing_series, preprocess_creative_works, preprocess_journal_items, preprocess_journals, preprocess_books
 from SPUB_additional_functions import give_fake_id
@@ -57,42 +58,42 @@ books_data = preprocess_books(import_biblio, import_pub_places)
 
 #%% create class
 
-places = [Place.from_dict(e) for e in places_data]
+places = [Place.from_dict(e) for e in tqdm(places_data)]
 last_number = give_fake_id(places)
 
-persons = [Person.from_dict(e) for e in person_data]
+persons = [Person.from_dict(e) for e in tqdm(person_data)]
 last_number = give_fake_id(persons, last_number)
-for person in persons:
+for person in tqdm(persons):
     person.connect_with_places(places)
     
-institutions = [Institution.from_dict(e) for e in institutions_data]
+institutions = [Institution.from_dict(e) for e in tqdm(institutions_data)]
 last_number = give_fake_id(institutions, last_number)
 
-events = [Event.from_dict(e) for e in events_data]
+events = [Event.from_dict(e) for e in tqdm(events_data)]
 last_number = give_fake_id(events, last_number)
-for event in events:
+for event in tqdm(events):
     event.connect_with_places(places) 
 
-publishing_series_list = [PublishingSeries.from_dict(e) for e in series_data]
+publishing_series_list = [PublishingSeries.from_dict(e) for e in tqdm(series_data)]
 last_number = give_fake_id(publishing_series_list, last_number)
 
-creative_works = [CreativeWork.from_dict(e) for e in creative_works_data]
+creative_works = [CreativeWork.from_dict(e) for e in tqdm(creative_works_data)]
 last_number = give_fake_id(creative_works, last_number)
-for creative_work in creative_works:
+for creative_work in tqdm(creative_works):
     creative_work.connect_with_persons(persons)
     
-journals = [Journal.from_dict(e) for e in journals_data]
+journals = [Journal.from_dict(e) for e in tqdm(journals_data)]
 last_number = give_fake_id(journals, last_number)
     
-journal_items = [JournalItem.from_dict(e) for e in journal_items_data]
+journal_items = [JournalItem.from_dict(e) for e in tqdm(journal_items_data)]
 last_number = give_fake_id(journal_items, last_number)
-for journal_item in journal_items:
+for journal_item in tqdm(journal_items):
     journal_item.connect_with_persons(persons)
     journal_item.connect_with_journals(journals)
     
-books = [Book.from_dict(e) for e in books_data]
+books = [Book.from_dict(e) for e in tqdm(books_data)]
 last_number = give_fake_id(books, last_number)
-for book in books:
+for book in tqdm(books):
     book.connect_with_persons(persons)
     book.connect_publisher(places, institutions)
 
