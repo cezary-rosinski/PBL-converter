@@ -5,6 +5,7 @@
 #%% import
 import xml.etree.cElementTree as ET
 from datetime import datetime
+import json
 
 from SPUB_preprocessing import preprocess_places, preprocess_people, preprocess_institutions, preprocess_events, preprocess_publishing_series, preprocess_creative_works, preprocess_journal_items, preprocess_journals, preprocess_books
 from SPUB_additional_functions import give_fake_id
@@ -21,23 +22,38 @@ from SPUB_records_journal_item import JournalItem
 from SPUB_records_book import Book
 
 #%% import data
-places_data = preprocess_places(r".\elb_input\pub_places.json", r".\elb_input\event_places.json")
+with open(r".\elb_input\pub_places.json", encoding='utf8') as f:
+    import_pub_places = json.load(f)
+with open(r".\elb_input\event_places.json", encoding='utf8') as f:
+    import_event_places = json.load(f)
+with open(r".\elb_input\persons.json", encoding='utf8') as f:
+    import_persons = json.load(f)
+with open(r".\elb_input\corporates.json", encoding='utf8') as f:
+    import_corporates = json.load(f)
+with open(r".\elb_input\events.json", encoding='utf8') as f:
+    import_events = json.load(f)
+with open(r".\elb_input\biblio.json", encoding='utf8') as f:
+    import_biblio = json.load(f)
+    
+#%% preprocess data
 
-person_data = preprocess_people(r".\elb_input\persons.json")
+places_data = preprocess_places(import_pub_places, import_event_places)
 
-institutions_data = preprocess_institutions(r".\elb_input\corporates.json", r".\elb_input\biblio.json")
+person_data = preprocess_people(import_persons)
 
-events_data = preprocess_events(r".\elb_input\events.json")
+institutions_data = preprocess_institutions(import_corporates, import_biblio)
 
-series_data = preprocess_publishing_series(r".\elb_input\biblio.json")
+events_data = preprocess_events(import_events)
 
-creative_works_data = preprocess_creative_works(r".\elb_input\biblio.json")
+series_data = preprocess_publishing_series(import_biblio)
 
-journals_data = preprocess_journals(r".\elb_input\biblio.json")
+creative_works_data = preprocess_creative_works(import_biblio)
 
-journal_items_data = preprocess_journal_items(r".\elb_input\biblio.json")
+journals_data = preprocess_journals(import_biblio)
 
-books_data = preprocess_books(r".\elb_input\biblio.json", r".\elb_input\pub_places.json")
+journal_items_data = preprocess_journal_items(import_biblio)
+
+books_data = preprocess_books(import_biblio, import_pub_places)
 
 #%% create class
 
