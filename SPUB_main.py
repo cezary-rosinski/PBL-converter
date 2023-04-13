@@ -79,23 +79,43 @@ last_number = give_fake_id(publishing_series_list, last_number)
 
 creative_works = [CreativeWork.from_dict(e) for e in tqdm(creative_works_data)]
 last_number = give_fake_id(creative_works, last_number)
+
+persons_to_connect = {}
+for p in persons:
+    for name in p.names:
+        persons_to_connect.update({name.value: p.id})
+#UWAGA --> jeśli jest to samo nazewnictwo dla różnych id, to zachowujemy ostatnią parę
+#NA PRZYSZŁOŚĆ --> zebrać wszystkie duplikaty nazewnictwa, zbierać w odrębnej zmiennej i rozwiązać ten problem inaczej
 for creative_work in tqdm(creative_works):
-    creative_work.connect_with_persons(persons)
+    creative_work.connect_with_persons(persons_to_connect)
     
 journals = [Journal.from_dict(e) for e in tqdm(journals_data)]
+#UWAGA --> z powodu błędów w danych czasem year == 0
 last_number = give_fake_id(journals, last_number)
     
 journal_items = [JournalItem.from_dict(e) for e in tqdm(journal_items_data)]
 last_number = give_fake_id(journal_items, last_number)
+
+journals_to_connect = {}
+for j in journals:
+    for title in j.titles:
+        journals_to_connect.update({title.value: j})
+
 for journal_item in tqdm(journal_items):
-    journal_item.connect_with_persons(persons)
-    journal_item.connect_with_journals(journals)
+    journal_item.connect_with_persons(persons_to_connect)
+    journal_item.connect_with_journals(journals_to_connect)
     
 books = [Book.from_dict(e) for e in tqdm(books_data)]
 last_number = give_fake_id(books, last_number)
+
+institutions_to_connect = {}
+for i in institutions:
+    for name in i.names:
+        institutions_to_connect.update({name.value: i.id})
+
 for book in tqdm(books):
-    book.connect_with_persons(persons)
-    book.connect_publisher(places, institutions)
+    book.connect_with_persons(persons_to_connect)
+    book.connect_publisher(places, institutions_to_connect)
 
 #%% enrich classes
 
@@ -109,7 +129,7 @@ for book in tqdm(books):
 places_xml = ET.Element('pbl')
 files_node = ET.SubElement(places_xml, 'files')
 places_node = ET.SubElement(files_node, 'places')
-for place in places:
+for place in tqdm(places):
     places_node.append(place.to_xml())
 
 tree = ET.ElementTree(places_xml)
@@ -120,7 +140,7 @@ tree.write('./xml_output/import_places.xml', encoding='UTF-8')
 persons_xml = ET.Element('pbl')
 files_node = ET.SubElement(persons_xml, 'files')
 people_node = ET.SubElement(files_node, 'people')
-for person in persons:
+for person in tqdm(persons):
     people_node.append(person.to_xml())
 
 tree = ET.ElementTree(persons_xml)
@@ -131,7 +151,7 @@ tree.write('./xml_output/import_people.xml', encoding='UTF-8')
 institutions_xml = ET.Element('pbl')
 files_node = ET.SubElement(institutions_xml, 'files')
 institutions_node = ET.SubElement(files_node, 'institutions')
-for institution in institutions:
+for institution in tqdm(institutions):
     institutions_node.append(institution.to_xml())
 
 tree = ET.ElementTree(institutions_xml)
@@ -142,7 +162,7 @@ tree.write('./xml_output/import_institutions.xml', encoding='UTF-8')
 events_xml = ET.Element('pbl')
 files_node = ET.SubElement(events_xml, 'files')
 events_node = ET.SubElement(files_node, 'events')
-for event in events:
+for event in tqdm(events):
     events_node.append(event.to_xml())
 
 tree = ET.ElementTree(events_xml)
@@ -153,7 +173,7 @@ tree.write('./xml_output/import_events.xml', encoding='UTF-8')
 publishing_series_list_xml = ET.Element('pbl')
 files_node = ET.SubElement(publishing_series_list_xml, 'files')
 publishing_series_list_node = ET.SubElement(files_node, 'publishing-series-list')
-for publishing_series in publishing_series_list:
+for publishing_series in tqdm(publishing_series_list):
     publishing_series_list_node.append(publishing_series.to_xml())
     
 tree = ET.ElementTree(publishing_series_list_xml)
@@ -164,7 +184,7 @@ tree.write('./xml_output/import_publishing_series_list.xml', encoding='UTF-8')
 creative_works_xml = ET.Element('pbl')
 files_node = ET.SubElement(creative_works_xml, 'files')
 creative_works_node = ET.SubElement(files_node, 'creative_works')
-for creative_work in creative_works:
+for creative_work in tqdm(creative_works):
     creative_works_node.append(creative_work.to_xml())
 
 tree = ET.ElementTree(creative_works_xml)
@@ -177,7 +197,7 @@ files_node = ET.SubElement(journals_xml, 'files')
 journals_node = ET.SubElement(files_node, 'journals')
 journals_years_node = ET.SubElement(files_node, 'journal-years')
 journals_numbers_node = ET.SubElement(files_node, 'journal-numbers')
-for journal in journals:
+for journal in tqdm(journals):
     journals_node.append(journal.to_xml())
     for year_xml in journal.years_to_xml():
         journals_years_node.append(year_xml)
@@ -192,10 +212,10 @@ tree.write('./xml_output/import_journals.xml', encoding='UTF-8')
 records_xml = ET.Element('pbl')
 files_node = ET.SubElement(records_xml, 'records')
 journal_items_node = ET.SubElement(files_node, 'journal-items')
-for journal_item in journal_items:
+for journal_item in tqdm(journal_items):
     journal_items_node.append(journal_item.to_xml())
 books_node = ET.SubElement(files_node, 'books')
-for book in books:
+for book in tqdm(books):
     books_node.append(book.to_xml())
 
 tree = ET.ElementTree(records_xml)

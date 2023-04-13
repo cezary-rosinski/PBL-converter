@@ -81,7 +81,7 @@ def preprocess_events(data):
         'Zjazdy, festiwale, sesje w Polsce': 'festival',
         'Zjazdy, festiwale, sesje za granicą': 'festival'
     }
-    [e.update({'type': [el for el in event_dict if el in e.get('name')][0] if [el for el in event_dict if el in e.get('name')] else None}) for e in data]
+    [e.update({'type': [el for el in event_dict if el in e.get('name')][0] if [el for el in event_dict if el in e.get('name')] else ''}) for e in data]
     data = [{k:v.replace(e.get('type')+', ','') if k=='name' and e.get('type') else v for k,v in e.items()} for e in data]
     data = [{k:event_dict.get(v) if k == 'type' and v else v for k,v in e.items()} for e in data]
     event_dict2 = {
@@ -134,7 +134,7 @@ def preprocess_journals(biblio_data):
                 try:
                     year = re.findall('\d{4}', el.get('article_resource_related_str_mv')[0])[0]
                 except IndexError:
-                    year = ''
+                    year = '0'
             try:
                 number = get_number(el.get('article_resource_related_str_mv')[0])
             except TypeError:
@@ -148,7 +148,7 @@ def preprocess_journals(biblio_data):
                 try:
                     year = re.findall('\d{4}', el.get('article_resource_related_str_mv')[0])[0]
                 except IndexError:
-                    year = ''
+                    year = '0'
             try:
                 number = get_number(el.get('article_resource_related_str_mv')[0])
             except TypeError:
@@ -211,8 +211,8 @@ def preprocess_journal_items(origin_data):
                 year = re.findall('\d{4}', elem.get('article_resource_related_str_mv')[0])[0]
                 journal_year_str = re.findall('\d{4}', sources_data[elem_id].get('article_resource_related_str_mv')[0])[0]
             except IndexError:
-                year = ''
-                journal_year_str = ''
+                year = '0'
+                journal_year_str = '0'
         try:
             journal_number_str = get_number(elem.get('article_resource_related_str_mv')[0])
         except TypeError:
@@ -281,7 +281,7 @@ def preprocess_books(origin_data, pub_places_data):
             try:
                 year = re.findall('\d{4}', elem.get('article_resource_related_str_mv')[0])[0]
             except IndexError:
-                year = ''
+                year = '0'
         temp_dict = {
             'id_': '',
             'types': records_types.get(elem_id),

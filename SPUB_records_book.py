@@ -143,22 +143,22 @@ class Book:
                                                 'period': f'{correct_place[0].periods[0].date_from}❦{correct_place[0].periods[0].date_to}',
                                                 'lang': correct_place[0].periods[0].lang}
     
-    def connect_with_institutions(self, publisher_instance, list_of_institutions):
-        correct_institution = [e for e in list_of_institutions if [el for el in e.names if el.value == publisher_instance.institution_name]]
+    def connect_with_institutions(self, publisher_instance, institutions_to_connect):
+        correct_institution = institutions_to_connect.get(publisher_instance.institution_name)
         if correct_institution:
-            publisher_instance.institution_id = correct_institution[0].id
+            publisher_instance.institution_id = correct_institution
             
-    def connect_publisher(self, list_of_places_class, list_of_institutions_class):
+    def connect_publisher(self, list_of_places_class, institutions_to_connect):
         for publisher in self.publishers:
             self.connect_with_places(publisher, list_of_places_class)
-            self.connect_with_institutions(publisher, list_of_institutions_class)
-    
-    def connect_with_persons(self, list_of_persons):
+            self.connect_with_institutions(publisher, institutions_to_connect)
+                    
+    def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
             if not author.author_id:
-                match_person = [e for e in list_of_persons if author.author_name in [el.value for el in e.names]]
+                match_person = persons_to_connect.get(author.author_name)
                 if match_person:
-                    author.author_id = match_person[0].id
+                    author.author_id = match_person
     
     def to_xml(self):
         book_dict = {k:v for k,v in {'id': self.id, 'type': self.type, 'status': self.status, 'creator': self.creator, 'creation-date': self.date, 'publishing-date': self.publishing_date, 'origin': self.origin, 'flags': self.flags}.items() if v}

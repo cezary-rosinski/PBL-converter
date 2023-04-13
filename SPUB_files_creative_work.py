@@ -64,12 +64,12 @@ class CreativeWork:
         title = creative_work_dict.get('title')
         return cls(author_id=author_id, author_name=author_name, title=title)
     
-    def connect_with_persons(self, list_of_persons_class):
+    def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
             if not author.author_id:
-                match_person = [e for e in list_of_persons_class if author.author_name in [el.value for el in e.names]]
+                match_person = persons_to_connect.get(author.author_name)
                 if match_person:
-                    author.author_id = match_person[0].id    
+                    author.author_id = match_person
                     
     def to_xml(self):
         creative_work_dict = {k:v for k,v in {'id': self.id, 'status': self.status, 'creator': self.creator, 'creation-date': self.date, 'publishing-date': self.publishing_date, 'origin': self.origin, 'flags': self.flags}.items() if v}

@@ -112,21 +112,21 @@ class JournalItem:
     @classmethod
     def from_dict(cls, journal_items_dict):
         return cls(**journal_items_dict)
-    
-    def connect_with_persons(self, list_of_persons):
+                    
+    def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
             if not author.author_id:
-                match_person = [e for e in list_of_persons if author.author_name in [el.value for el in e.names]]
+                match_person = persons_to_connect.get(author.author_name)
                 if match_person:
-                    author.author_id = match_person[0].id
+                    author.author_id = match_person
     
-    def connect_with_journals(self, list_of_journals):
+    def connect_with_journals(self, journals_to_connect):
         for source in self.sources:
             if not source.journal_id:
-                match_journal = [e for e in list_of_journals if source.journal_str in [el.value for el in e.titles]]
+                match_journal = journals_to_connect.get(source.journal_str)
                 if match_journal:
-                    source.journal_id = match_journal[0].id
-                    match_year = [e for e in match_journal[0].years if e.year == source.journal_year_str]
+                    source.journal_id = match_journal.id
+                    match_year = [e for e in match_journal.years if e.year == source.journal_year_str]
                     if match_year:
                        source.journal_year_id = match_year[0].id
                        match_number = [e for e in match_year[0].numbers if e.number == source.journal_number_str]
