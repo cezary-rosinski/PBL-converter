@@ -2,6 +2,9 @@
 # 2. łączymy elementy tak, by skorzystać z wcześniej powołanych klas, np. miejsca wydarzeń początkowo są str, ale później stają się obiektem Place
 # 3. generujemy XML z wzbogaconych klas
 
+
+#UWAGA --> kartoteka miejsc -- fake id 1434 nie ma nazwy miejsca --> czemu?
+
 #%% import
 import xml.etree.cElementTree as ET
 from datetime import datetime
