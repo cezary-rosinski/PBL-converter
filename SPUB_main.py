@@ -4,6 +4,7 @@
 
 
 #UWAGA --> kartoteka miejsc -- fake id 1434 nie ma nazwy miejsca --> czemu?
+#UWAGA2 --> pliki XML trzeba dzielić na pliki po 10000 rekordów każdy
 
 #%% import
 import xml.etree.cElementTree as ET
