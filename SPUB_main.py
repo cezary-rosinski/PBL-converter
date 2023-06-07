@@ -237,10 +237,39 @@ tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
 # [e for e in books_data if e.get('elb_id') == 'b1000000941897']
 
 
+#%% RETRO
+from SPUB_preprocessing import preprocess_retro
+
+#%%% load input
+with open(r".\retro_input\1968.json", encoding='utf8') as f:
+    retro_1968_data = json.load(f)
+
+#%%% preprocess retro
+annotation_bib_rec = 'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {original_rec}.'
+annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.'
 
 
+retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = preprocess_retro(retro_1968_data)
+
+retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
+last_number = give_fake_id(retro_places)
+
+retro_persons = [Person(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_persons)]
+last_number = give_fake_id(retro_persons, last_number)
+
+retro_institutions = [Institution(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_institutions)]
+last_number = give_fake_id(retro_institutions, last_number)
+
+retro_journals = [Journal(title=e[0], years_with_numbers_set=(('1968', e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
+last_number = give_fake_id(retro_journals, last_number)
 
 
+retro_persons[0].__dict__
 
+out = []
+for k,v in retro_1968_data.items():
+    if v:
+        out.append((k, v[0].get('Heading')))
+# start 866
 
 

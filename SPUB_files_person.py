@@ -10,7 +10,7 @@ from SPUB_additional_functions import give_fake_id, get_wikidata_label
 
 class Person:
     
-    def __init__(self, id_, viaf, name='', birth_date='', death_date='', birth_place='', death_place=''):
+    def __init__(self, id_, viaf, name='', birth_date='', death_date='', birth_place='', death_place='', annotation=''):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'
@@ -28,6 +28,8 @@ class Person:
         self.links = []
         for el in [self.id, self.viaf]:
             self.add_person_link(el, 'external-identifier')
+            
+        self.annotation = annotation
     
     class XmlRepresentation:
         

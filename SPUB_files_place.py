@@ -5,13 +5,15 @@ from datetime import datetime
     
 class Place:
     
-    def __init__(self, id_, lat, lon, geonames='', name=''):
+    def __init__(self, id_, lat, lon, geonames='', name='', annotation=''):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"
         self.lat = lat
         self.lon = lon
         self.geonames = geonames
         
         self.periods = [self.PlacePeriod(name=name)]
+        
+        self.annotation = annotation
         
     class PlacePeriod:
         

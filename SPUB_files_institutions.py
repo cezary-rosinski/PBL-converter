@@ -13,7 +13,7 @@ from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinat
 
 class Institution:
     
-    def __init__(self, id_, viaf, name=''):
+    def __init__(self, id_, viaf, name='', annotation=''):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'
@@ -27,7 +27,8 @@ class Institution:
             self.add_institution_link(el)
         self.newest_name = [e for e in self.names if e.newest == 'true'][0].value
         self.removed = 'false'
-    
+        self.annotation = annotation
+        
     class XmlRepresentation:
         
         def to_xml(self):

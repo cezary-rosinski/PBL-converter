@@ -298,6 +298,42 @@ def preprocess_books(origin_data, pub_places_data):
         preprocessed_data.append(temp_dict)
     return preprocessed_data
 
+
+#%% retro preprocessing
+
+def preprocess_retro(data):
+    output_persons = set()
+    output_places = set()
+    output_journals = dict()
+    output_institutions = set()
+    for group, records in data.items():
+        for idx,record in enumerate(records):
+            
+            if idx==0 and not record.get('AUTOR'):
+                if (heading_author := record.get('Heading')):
+                    output_persons.add(heading_author)
+                
+            authors = record.get('AUTOR', [])
+            coauthors = record.get('WSPÓŁAUTOR', [])
+            output_persons.update(authors + coauthors)
+            
+            places = record.get('MIEJSCE_WYDANIA', [])
+            output_places.update(places)
+            
+            journals = record.get('CZASOPISMO', [])
+            journals_nmbers = record.get('NUMER_CZASOPISMA', [])
+            if journals:
+                output_journals.setdefault(journals[0], set()).update(journals_nmbers)
+            
+            institutions = record.get('WYDAWNICTWO', [])
+            output_institutions.update(institutions)
+    
+    output_journals = {k:set(['Brak informacji o numerze.']) if len(v)==0 else v for k,v in output_journals.items()}
+    output_journals = tuple(output_journals.items())       
+    return output_persons, output_places, output_journals, output_institutions
+
+
+
 # def preprocess_chapters(path):
 #     path = r".\elb_input\biblio.json"
 #     java_record_types = parse_java(r".\additional_files\pbl_record_types.txt")

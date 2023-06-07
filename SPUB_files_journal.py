@@ -12,7 +12,7 @@ import sys
 
 class Journal:
     
-    def __init__(self, id_='', viaf='', title='', issn='', years_with_numbers_set=None, character=''):
+    def __init__(self, id_='', viaf='', title='', issn='', years_with_numbers_set=None, character='', annotation=''):
         # self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'
@@ -35,6 +35,8 @@ class Journal:
         
         self.newest_journal_number_id = max(self.years, key=lambda x: int(x.year)).numbers[-1].id
         # <newest-journal-number id="journal-number-id-01"/>
+        
+        self.annotation = annotation
     
     class XmlRepresentation:
         
