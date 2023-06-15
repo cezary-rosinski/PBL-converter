@@ -23,6 +23,7 @@ class Book:
         self.elb_id = elb_id
         self.title = self.BookTitle(title.strip())
         
+        # authorsBook, collectiveBook, letters, anthology
         self.type = 'authorsBook'
         
         if types:

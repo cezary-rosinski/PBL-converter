@@ -341,43 +341,52 @@ def preprocess_retro(data):
     preprocessed_retro_data = []
     headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
     headings = dict(zip(headings_df['idx'].to_list(), headings_df['hasła osobowe'].to_list()))
-    for group, records in data.items():
+    retro_forms_df = pd.read_excel('./additional_files/rodzaje_zapisow_retro.xlsx').fillna('')
+    retro_forms = dict(zip(retro_forms_df['RODZAJ_DZIEŁA_ZALEŻNEGO'].to_list(), retro_forms_df['pbl_form'].to_list()))
+    for group, records in tqdm(data.items()):
         for idx,record in enumerate(records):
+            rec_identifier = f'retro_{group}_{idx}'
             if 'DATA_WYDANIA' in record:
                 rec_type = 'KS'
             else: rec_type = 'ART'
             
+            if idx != 0:
+                rec_reference = f'retro_{group}_0'
+            else: 
+                rec_reference = ''
+                
             # authors and coauthors
-            authors = record.get('AUTOR', [])
-            coauthors = record.get('WSPÓŁAUTOR', [])
-            authors_full = authors + coauthors
-            if not authors:
+            rec_authors = record.get('AUTOR', [])
+            rec_coauthors = record.get('WSPÓŁAUTOR', [])
+            if not rec_authors:
                 if idx==0:
                     if headings[int(group)] == 'x':
-                        authors_full.insert(0, record.get('Heading'))
-            match len(authors_full):
-                case 0:
-                    rec_author = []
-                    rec_coauthors = []
-                case 1:
-                    rec_author = [authors_full[0]]
-                    rec_coauthors = []
-                case _:
-                    rec_author = [authors_full[0]]
-                    rec_coauthors = authors_full[1:]
+                        rec_authors.insert(0, record.get('Heading'))
             
-            # title
+            # title 
+            # TYTUŁ lub TITLE_EXTRACTED jeśli TYTUŁ pusty lub go nie ma i RODZAJ_DZIEŁA_ZALEŻNEGO jest puste lub go nie ma
             if rec_type == 'KS':
                 if not (rec_title := record.get('TYTUŁ')):
                     if not record.get('RODZAJ_DZIEŁA_ZALEŻNEGO'):
-                        rec_title = record.get('TITLE_EXTRACTED')
+                        if record.get('TITLE_EXTRACTED'):
+                            rec_title = record.get('TITLE_EXTRACTED')
+                        elif record.get('new_title_from_rec_without_title'):
+                            rec_title = record.get('new_title_from_rec_without_title')
+                        else:
+                            rec_title = '[bez tytułu]'
+                    else:
+                        rec_title = '[bez tytułu]'
             elif rec_type == 'ART':
                 if record.get('RODZAJ_DZIEŁA_ZALEŻNEGO'):
                     rec_title = '[bez tytułu]'
                 elif record.get('TYTUŁ'):
                     rec_title = record.get('TYTUŁ')
-                else:
+                elif record.get('TITLE_EXTRACTED'):
                     rec_title = record.get('TITLE_EXTRACTED')
+                else:
+                    rec_title = '[bez tytułu]'
+            if isinstance(rec_title, list):
+                rec_title = ' '.join(rec_title)
                     
             rec_pub_year = record.get('DATA_WYDANIA')
             rec_pub_place = record.get('MIEJSCE_WYDANIA')
@@ -387,15 +396,29 @@ def preprocess_retro(data):
             rec_journal = record.get('CZASOPISMO')
             rec_journal_issue = record.get('NUMER_CZASOPISMA')
             
-            # dodac rodzaj zapisu z bazy pbl
-            
-            rec_heading = record.get('Heading', '') # mapowanie na hashe dzialow
-            rec_annotation = f'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {record.get("original_rec")}.'
+            if rec_type == 'KS':
+                if rec_authors: rec_form = 'authorsBook'
+                else: rec_form = 'collectiveBook'
+            elif rec_type == 'ART':
+                if (eval_poem_novel := record.get('eval_is_wiersz_proza')):
+                    if eval_poem_novel == 'Wiersz':
+                        rec_form = 'poem'
+                    elif eval_poem_novel == 'Proza':
+                        rec_form = 'prose'
+                else:
+                    if (rec_form := record.get('RODZAJ_DZIEŁA_ZALEŻNEGO')):
+                        rec_form = retro_forms.get(rec_form[0], 'other')
+                    else:
+                        rec_form = 'other'
+                         
+            rec_heading = record.get('Heading', '')
+            rec_annotation = f'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {record.get("original_rec")}'
             
             if rec_type == 'KS':
                 record_dict = {
+                    'rec_identifier': rec_identifier,
                     'rec_type': rec_type,
-                    'rec_author': rec_author,
+                    'rec_authors': rec_authors,
                     'rec_coauthors': rec_coauthors,
                     'rec_title': rec_title,
                     'rec_pub_year': rec_pub_year,
@@ -404,18 +427,26 @@ def preprocess_retro(data):
                     'rec_physical_desc': rec_physical_desc,
                     'rec_heading': rec_heading,
                     'rec_annotation': rec_annotation,
+                    'rec_form': rec_form,
+                    'rec_reference': rec_reference,
                     }
             elif rec_type == 'ART':
                 record_dict = {
+                    'rec_identifier': rec_identifier,
                     'rec_type': rec_type,
-                    'rec_author': rec_author,
+                    'rec_authors': rec_authors,
                     'rec_title': rec_title,
                     'rec_journal': rec_journal,
                     'rec_journal_issue': rec_journal_issue,
+                    'rec_journal_year': '1968', # rocznik pbl
                     'rec_physical_desc': rec_physical_desc,
                     'rec_heading': rec_heading,
                     'rec_annotation': rec_annotation,
+                    'rec_form': rec_form,
+                    'rec_reference': rec_reference,
                     }
+                
+            record_dict = {k:v for k,v in record_dict.items() if v}
             preprocessed_retro_data.append(record_dict)
     return preprocessed_retro_data
             

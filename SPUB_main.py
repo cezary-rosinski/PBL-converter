@@ -259,6 +259,14 @@ annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowa
 
 headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
 
+# preparing retro forms
+# out_forms = set()
+# for k,v in retro_1968_data.items():
+#     for rec in v:
+#         if (form := rec.get('RODZAJ_DZIEŁA_ZALEŻNEGO')):
+#             out_forms.update(form)
+
+
 # authorities lists
 retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_1968_data)
 
@@ -275,9 +283,15 @@ retro_journals = [Journal(title=e[0], years_with_numbers_set=(('1968', e[1]),), 
 last_number = give_fake_id(retro_journals, last_number)
 
 # --------------------------------------
+
 # prep biblio records
-test = {'4': retro_1968_data['4']}
-test_prep = preprocess_retro(test)
+test_prep = preprocess_retro(retro_1968_data)
+temp = [e for e in test_prep if not 'rec_title' in e]
+
+# len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals)
+# rocznik 1968
+# elementy kartoteczne 19119
+# rekordy 37103
 
 # ----------------------------------
 retro_persons_to_connect = {}
