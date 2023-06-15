@@ -11,6 +11,7 @@ import xml.etree.cElementTree as ET
 from datetime import datetime
 import json
 from tqdm import tqdm
+import pandas as pd
 
 from SPUB_preprocessing import preprocess_places, preprocess_people, preprocess_institutions, preprocess_events, preprocess_publishing_series, preprocess_creative_works, preprocess_journal_items, preprocess_journals, preprocess_books
 from SPUB_additional_functions import give_fake_id
@@ -238,7 +239,7 @@ tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
 
 
 #%% RETRO
-from SPUB_preprocessing import preprocess_retro
+from SPUB_preprocessing import preprocess_retro, get_retro_authorities_sets
 
 #%%% load input
 with open(r".\retro_input\1968.json", encoding='utf8') as f:
@@ -248,8 +249,18 @@ with open(r".\retro_input\1968.json", encoding='utf8') as f:
 annotation_bib_rec = 'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {original_rec}.'
 annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.'
 
+# # preparing headings
+# out = []
+# for k,v in retro_1968_data.items():
+#     if v:
+#         out.append((k, v[0].get('Heading')))
+# df = pd.DataFrame(out)
+# df.to_excel('.\additional_files\headings_test.xlsx', index=False)
 
-retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = preprocess_retro(retro_1968_data)
+headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
+
+# authorities lists
+retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_1968_data)
 
 retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
 last_number = give_fake_id(retro_places)
@@ -263,13 +274,48 @@ last_number = give_fake_id(retro_institutions, last_number)
 retro_journals = [Journal(title=e[0], years_with_numbers_set=(('1968', e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
 last_number = give_fake_id(retro_journals, last_number)
 
+# --------------------------------------
+# prep biblio records
+test = {'4': retro_1968_data['4']}
+test_prep = preprocess_retro(test)
 
-retro_persons[0].__dict__
+# ----------------------------------
+retro_persons_to_connect = {}
+for p in retro_persons:
+    for name in p.names:
+        retro_persons_to_connect.update({name.value: p.id})
 
-out = []
-for k,v in retro_1968_data.items():
-    if v:
-        out.append((k, v[0].get('Heading')))
-# start 866
+retro_journals_to_connect = {}
+for j in retro_journals:
+    for title in j.titles:
+        retro_journals_to_connect.update({title.value: j})
+
+
+retro_books = [Book.from_dict(e) for e in tqdm(retro_1968_data)]
+last_number = give_fake_id(retro_books, last_number)
+
+institutions_to_connect = {}
+for i in institutions:
+    for name in i.names:
+        institutions_to_connect.update({name.value: i.id})
+
+for book in tqdm(books):
+    book.connect_with_persons(persons_to_connect)
+    book.connect_publisher(places, institutions_to_connect)
+
+
+
+
+
+
+
+###
+retro_journal_items = [JournalItem.from_dict(e) for e in tqdm(journal_items_data)] # zrobic alt constructor retro
+last_number = give_fake_id(retro_journal_items, last_number)
+   
+for journal_item in tqdm(retro_journal_items):
+    journal_item.connect_with_persons(retro_persons_to_connect)
+    journal_item.connect_with_journals(retro_journals_to_connect)
+
 
 

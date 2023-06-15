@@ -130,7 +130,7 @@ class Book:
     
     @classmethod
     def from_dict(cls, journal_items_dict):
-        return cls(**journal_items_dict)
+        return cls(**journal_items_dict)    
     
     def connect_with_places(self, publisher_instance, list_of_places_class):
         for i, place in enumerate(publisher_instance.places):

@@ -10,6 +10,7 @@ import regex as re
 from collections import ChainMap
 import Levenshtein as lev
 import hashlib
+import pandas as pd
 
 #%% def
 
@@ -301,7 +302,9 @@ def preprocess_books(origin_data, pub_places_data):
 
 #%% retro preprocessing
 
-def preprocess_retro(data):
+def get_retro_authorities_sets(data):
+    headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
+    headings = dict(zip(headings_df['idx'].to_list(), headings_df['hasła osobowe'].to_list()))
     output_persons = set()
     output_places = set()
     output_journals = dict()
@@ -309,13 +312,14 @@ def preprocess_retro(data):
     for group, records in data.items():
         for idx,record in enumerate(records):
             
-            if idx==0 and not record.get('AUTOR'):
-                if (heading_author := record.get('Heading')):
+            if (heading_author := record.get('Heading')):
+                if headings[int(group)] == 'x':
                     output_persons.add(heading_author)
-                
+            
             authors = record.get('AUTOR', [])
             coauthors = record.get('WSPÓŁAUTOR', [])
-            output_persons.update(authors + coauthors)
+            authors_full = authors + coauthors
+            output_persons.update(authors_full)
             
             places = record.get('MIEJSCE_WYDANIA', [])
             output_places.update(places)
@@ -327,12 +331,95 @@ def preprocess_retro(data):
             
             institutions = record.get('WYDAWNICTWO', [])
             output_institutions.update(institutions)
-    
+        
     output_journals = {k:set(['Brak informacji o numerze.']) if len(v)==0 else v for k,v in output_journals.items()}
-    output_journals = tuple(output_journals.items())       
+    output_journals = tuple(output_journals.items())
+    
     return output_persons, output_places, output_journals, output_institutions
 
-
+def preprocess_retro(data):
+    preprocessed_retro_data = []
+    headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
+    headings = dict(zip(headings_df['idx'].to_list(), headings_df['hasła osobowe'].to_list()))
+    for group, records in data.items():
+        for idx,record in enumerate(records):
+            if 'DATA_WYDANIA' in record:
+                rec_type = 'KS'
+            else: rec_type = 'ART'
+            
+            # authors and coauthors
+            authors = record.get('AUTOR', [])
+            coauthors = record.get('WSPÓŁAUTOR', [])
+            authors_full = authors + coauthors
+            if not authors:
+                if idx==0:
+                    if headings[int(group)] == 'x':
+                        authors_full.insert(0, record.get('Heading'))
+            match len(authors_full):
+                case 0:
+                    rec_author = []
+                    rec_coauthors = []
+                case 1:
+                    rec_author = [authors_full[0]]
+                    rec_coauthors = []
+                case _:
+                    rec_author = [authors_full[0]]
+                    rec_coauthors = authors_full[1:]
+            
+            # title
+            if rec_type == 'KS':
+                if not (rec_title := record.get('TYTUŁ')):
+                    if not record.get('RODZAJ_DZIEŁA_ZALEŻNEGO'):
+                        rec_title = record.get('TITLE_EXTRACTED')
+            elif rec_type == 'ART':
+                if record.get('RODZAJ_DZIEŁA_ZALEŻNEGO'):
+                    rec_title = '[bez tytułu]'
+                elif record.get('TYTUŁ'):
+                    rec_title = record.get('TYTUŁ')
+                else:
+                    rec_title = record.get('TITLE_EXTRACTED')
+                    
+            rec_pub_year = record.get('DATA_WYDANIA')
+            rec_pub_place = record.get('MIEJSCE_WYDANIA')
+            rec_book_issue = record.get('WYDANIE')
+            rec_physical_desc = record.get('STRONY')
+            
+            rec_journal = record.get('CZASOPISMO')
+            rec_journal_issue = record.get('NUMER_CZASOPISMA')
+            
+            # dodac rodzaj zapisu z bazy pbl
+            
+            rec_heading = record.get('Heading', '') # mapowanie na hashe dzialow
+            rec_annotation = f'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {record.get("original_rec")}.'
+            
+            if rec_type == 'KS':
+                record_dict = {
+                    'rec_type': rec_type,
+                    'rec_author': rec_author,
+                    'rec_coauthors': rec_coauthors,
+                    'rec_title': rec_title,
+                    'rec_pub_year': rec_pub_year,
+                    'rec_pub_place': rec_pub_place,
+                    'rec_book_issue': rec_book_issue,
+                    'rec_physical_desc': rec_physical_desc,
+                    'rec_heading': rec_heading,
+                    'rec_annotation': rec_annotation,
+                    }
+            elif rec_type == 'ART':
+                record_dict = {
+                    'rec_type': rec_type,
+                    'rec_author': rec_author,
+                    'rec_title': rec_title,
+                    'rec_journal': rec_journal,
+                    'rec_journal_issue': rec_journal_issue,
+                    'rec_physical_desc': rec_physical_desc,
+                    'rec_heading': rec_heading,
+                    'rec_annotation': rec_annotation,
+                    }
+            preprocessed_retro_data.append(record_dict)
+    return preprocessed_retro_data
+            
+    
 
 # def preprocess_chapters(path):
 #     path = r".\elb_input\biblio.json"
