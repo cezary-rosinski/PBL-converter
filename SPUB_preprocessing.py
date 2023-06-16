@@ -302,8 +302,8 @@ def preprocess_books(origin_data, pub_places_data):
 
 #%% retro preprocessing
 
-def get_retro_authorities_sets(data):
-    headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
+def get_retro_authorities_sets(data, filename):
+    headings_df = pd.read_excel(f'./retro_input/retro_headings/{filename}_headings.xlsx').rename(columns={'0': 'idx', '1': 'heading'})
     headings = dict(zip(headings_df['idx'].to_list(), headings_df['hasła osobowe'].to_list()))
     output_persons = set()
     output_places = set()
@@ -313,7 +313,7 @@ def get_retro_authorities_sets(data):
         for idx,record in enumerate(records):
             
             if (heading_author := record.get('Heading')):
-                if headings[int(group)] == 'x':
+                if headings.get(int(group)) == 'x':
                     output_persons.add(heading_author)
             
             authors = record.get('AUTOR', [])
@@ -337,11 +337,11 @@ def get_retro_authorities_sets(data):
     
     return output_persons, output_places, output_journals, output_institutions
 
-def preprocess_retro(data):
+def preprocess_retro(data, filename, year):
     preprocessed_retro_data = []
-    headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
+    headings_df = pd.read_excel(f'./retro_input/retro_headings/{filename}_headings.xlsx').rename(columns={'0': 'idx', '1': 'heading'})
     headings = dict(zip(headings_df['idx'].to_list(), headings_df['hasła osobowe'].to_list()))
-    retro_forms_df = pd.read_excel('./additional_files/rodzaje_zapisow_retro.xlsx').fillna('')
+    retro_forms_df = pd.read_excel(f'./retro_input/retro_forms/{filename}_forms.xlsx').fillna('')
     retro_forms = dict(zip(retro_forms_df['RODZAJ_DZIEŁA_ZALEŻNEGO'].to_list(), retro_forms_df['pbl_form'].to_list()))
     for group, records in tqdm(data.items()):
         for idx,record in enumerate(records):
@@ -360,7 +360,7 @@ def preprocess_retro(data):
             rec_coauthors = record.get('WSPÓŁAUTOR', [])
             if not rec_authors:
                 if idx==0:
-                    if headings[int(group)] == 'x':
+                    if headings.get(int(group)) == 'x':
                         rec_authors.insert(0, record.get('Heading'))
             
             # title 

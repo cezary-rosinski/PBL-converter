@@ -240,35 +240,92 @@ tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
 
 #%% RETRO
 from SPUB_preprocessing import preprocess_retro, get_retro_authorities_sets
+import os
 
-#%%% load input
-with open(r".\retro_input\1968.json", encoding='utf8') as f:
-    retro_1968_data = json.load(f)
+#%%
+# preparing headings
+for filename in tqdm(os.listdir('retro_input')[::-1]):
+    if filename.startswith('1'):
+        retro_year = filename[:4]
+        fname = filename[:-5]
+        
+        with open(f"./retro_input/{filename}", encoding='utf8') as f:
+            retro_data = json.load(f)
+            
+        out = []
+        for k,v in retro_data.items():
+            if v:
+                out.append((k, v[0].get('Heading')))
+        df = pd.DataFrame(out)
+        df.to_excel(f'./additional_files/retro_headings/{fname}_headings.xlsx', index=False)
+    
+        # preparing retro forms
+        out_forms = set()
+        for k,v in retro_data.items():
+            for rec in v:
+                if (form := rec.get('RODZAJ_DZIEŁA_ZALEŻNEGO')):
+                    out_forms.update(form)
+        df = pd.DataFrame(out_forms)
+        df.to_excel(f'./additional_files/retro_forms/{fname}_forms.xlsx', index=False)
+        
+#%%% 
+annotation_bib_rec = 'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {original_rec}.'
+annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.'
+
+auth_len = 0
+recs_len = 0
+full_len = 0
+
+for filename in tqdm(os.listdir('retro_input')[::-1]):
+    if filename.startswith('1'):
+        retro_year = filename[:4]
+        
+        with open(f"./retro_input/{filename}", encoding='utf8') as f:
+            retro_data = json.load(f)
+    
+        retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_data)
+
+        retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
+        last_number = give_fake_id(retro_places)
+
+        retro_persons = [Person(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_persons)]
+        last_number = give_fake_id(retro_persons, last_number)
+
+        retro_institutions = [Institution(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_institutions)]
+        last_number = give_fake_id(retro_institutions, last_number)
+
+        retro_journals = [Journal(title=e[0], years_with_numbers_set=((retro_year, e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
+        last_number = give_fake_id(retro_journals, last_number)
+        
+        test_prep = preprocess_retro(retro_data)
+        
+        out = []
+        for k,v in retro_data.items():
+            if v:
+                out.append((k, v[0].get('Heading')))
+        head_len = int(len(out)*0.7)
+        
+        auth_len += len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals) + head_len
+        recs_len += len(test_prep)
+        full_len = auth_len + recs_len
+        
+        if full_len > 600000:
+            print('\n\n',retro_year)
+            break
+        
+    
+#%% load input
+filename = '1981_t1'
+year = '1981'
+with open(f"./retro_input/{filename}.json", encoding='utf8') as f:
+    retro_data = json.load(f)
 
 #%%% preprocess retro
 annotation_bib_rec = 'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {original_rec}.'
 annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.'
 
-# # preparing headings
-# out = []
-# for k,v in retro_1968_data.items():
-#     if v:
-#         out.append((k, v[0].get('Heading')))
-# df = pd.DataFrame(out)
-# df.to_excel('.\additional_files\headings_test.xlsx', index=False)
-
-headings_df = pd.read_excel(r".\additional_files\retro_headings_1968.xlsx")
-
-# preparing retro forms
-# out_forms = set()
-# for k,v in retro_1968_data.items():
-#     for rec in v:
-#         if (form := rec.get('RODZAJ_DZIEŁA_ZALEŻNEGO')):
-#             out_forms.update(form)
-
-
 # authorities lists
-retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_1968_data)
+retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_data, filename)
 
 retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
 last_number = give_fake_id(retro_places)
@@ -279,14 +336,27 @@ last_number = give_fake_id(retro_persons, last_number)
 retro_institutions = [Institution(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_institutions)]
 last_number = give_fake_id(retro_institutions, last_number)
 
-retro_journals = [Journal(title=e[0], years_with_numbers_set=(('1968', e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
+retro_journals = [Journal(title=e[0], years_with_numbers_set=((year, e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
 last_number = give_fake_id(retro_journals, last_number)
 
 # --------------------------------------
 
 # prep biblio records
-test_prep = preprocess_retro(retro_1968_data)
-temp = [e for e in test_prep if not 'rec_title' in e]
+records_prep = preprocess_retro(retro_data, filename, year)
+without_title = [e for e in records_prep if not 'rec_title' in e]
+
+#counting
+auth_len = len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals)
+recs_len = len(records_prep)
+full_len = auth_len + recs_len
+
+count_df = pd.read_excel("./additional_files/retro_count.xlsx")
+count_df.loc[len(count_df)] = [filename, auth_len, recs_len, full_len]
+count_df.to_excel("./additional_files/retro_count.xlsx", index=False)
+
+count_df['auth_len'].sum()
+count_df['recs_len'].sum()
+count_df['full_len'].sum()
 
 # len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals)
 # rocznik 1968
