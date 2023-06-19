@@ -246,6 +246,7 @@ import os
 # preparing headings
 for filename in tqdm(os.listdir('retro_input')[::-1]):
     if filename.startswith('1'):
+        # filename = '1984_t2.json'
         retro_year = filename[:4]
         fname = filename[:-5]
         
@@ -279,6 +280,7 @@ full_len = 0
 for filename in tqdm(os.listdir('retro_input')[::-1]):
     if filename.startswith('1'):
         retro_year = filename[:4]
+        fname = filename[:-5]
         
         with open(f"./retro_input/{filename}", encoding='utf8') as f:
             retro_data = json.load(f)
@@ -315,8 +317,8 @@ for filename in tqdm(os.listdir('retro_input')[::-1]):
         
     
 #%% load input
-filename = '1981_t1'
-year = '1981'
+filename = '1984_t2'
+year = '1984'
 with open(f"./retro_input/{filename}.json", encoding='utf8') as f:
     retro_data = json.load(f)
 
