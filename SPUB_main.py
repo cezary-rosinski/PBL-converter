@@ -317,49 +317,36 @@ print('\nauth_len: ', count_df['auth_len'].sum(), '\nrecs_len: ',count_df['recs_
    
 #%%
     
-# #%% load input
-# filename = '1984_t2'
-# year = '1984'
-# with open(f"./retro_input/{filename}.json", encoding='utf8') as f:
-#     retro_data = json.load(f)
+#%% load input
+filename = '1988_t1'
+year = '1988'
+with open(f"./retro_input/{filename}.json", encoding='utf8') as f:
+    retro_data = json.load(f)
 
-# #%%% preprocess retro
-# annotation_bib_rec = 'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {original_rec}.'
-# annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.'
+#%%% preprocess retro
+annotation_bib_rec = 'Rekord pochodzi z automatycznego parsowania drukowanego tomu PBL. Oryginalna postać rekordu w druku: {original_rec}.'
+annotation_auth_files = 'Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.'
 
-# # authorities lists
-# retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_data, filename)
+# authorities lists
+retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_data, filename)
 
-# retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
-# last_number = give_fake_id(retro_places)
+retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
+last_number = give_fake_id(retro_places)
 
-# retro_persons = [Person(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_persons)]
-# last_number = give_fake_id(retro_persons, last_number)
+retro_persons = [Person(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_persons)]
+last_number = give_fake_id(retro_persons, last_number)
 
-# retro_institutions = [Institution(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_institutions)]
-# last_number = give_fake_id(retro_institutions, last_number)
+retro_institutions = [Institution(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_institutions)]
+last_number = give_fake_id(retro_institutions, last_number)
 
-# retro_journals = [Journal(title=e[0], years_with_numbers_set=((year, e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
-# last_number = give_fake_id(retro_journals, last_number)
+retro_journals = [Journal(title=e[0], years_with_numbers_set=((year, e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
+last_number = give_fake_id(retro_journals, last_number)
 
 # # --------------------------------------
 
-# # prep biblio records
-# records_prep = preprocess_retro(retro_data, filename, year)
-# without_title = [e for e in records_prep if not 'rec_title' in e]
-
-# #counting
-# auth_len = len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals)
-# recs_len = len(records_prep)
-# full_len = auth_len + recs_len
-
-# count_df = pd.read_excel("./additional_files/retro_count.xlsx")
-# count_df.loc[len(count_df)] = [filename, auth_len, recs_len, full_len]
-# count_df.to_excel("./additional_files/retro_count.xlsx", index=False)
-
-# count_df['auth_len'].sum()
-# count_df['recs_len'].sum()
-# count_df['full_len'].sum()
+# prep biblio records
+records_prep = preprocess_retro(retro_data, filename, year)
+without_title = [e for e in records_prep if not 'rec_title' in e]
 
 # # len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals)
 # # rocznik 1968
@@ -367,32 +354,67 @@ print('\nauth_len: ', count_df['auth_len'].sum(), '\nrecs_len: ',count_df['recs_
 # # rekordy 37103
 
 # ----------------------------------
-# retro_persons_to_connect = {}
-# for p in retro_persons:
-#     for name in p.names:
-#         retro_persons_to_connect.update({name.value: p.id})
+retro_persons_to_connect = {}
+for p in retro_persons:
+    for name in p.names:
+        retro_persons_to_connect.update({name.value: p.id})
 
-# retro_journals_to_connect = {}
-# for j in retro_journals:
-#     for title in j.titles:
-#         retro_journals_to_connect.update({title.value: j})
+retro_journals_to_connect = {}
+for j in retro_journals:
+    for title in j.titles:
+        retro_journals_to_connect.update({title.value: j})
+
+retro_institutions_to_connect = {}
+for i in retro_institutions:
+    for name in i.names:
+        retro_institutions_to_connect.update({name.value: i.id})
+
+retro_books = [Book.from_retro(e) for e in tqdm(records_prep) if e['rec_type']=='KS']
+# retro_books[0].__dict__
+last_number = give_fake_id(retro_books, last_number)
+
+for book in tqdm(retro_books):
+    book.connect_with_persons(retro_persons_to_connect)
+    book.connect_publisher(retro_places, retro_institutions_to_connect)
+
+retro_journal_items = [JournalItem.from_retro(e) for e in tqdm(records_prep) if e['rec_type']=='ART']
+last_number = give_fake_id(retro_journal_items, last_number)
+
+for journal_item in tqdm(retro_journal_items):
+    journal_item.connect_with_persons(retro_persons_to_connect)
+    journal_item.connect_with_journals(retro_journals_to_connect)
+
+[e for e in retro_journal_items if e.__dict__.get('sources')][0].__dict__
+retro_journal_items[0].__dict__
+
+# zrobiono baze from_retro w klasach book i journal_item
+
+# records_xml = ET.Element('pbl')
+# files_node = ET.SubElement(records_xml, 'records')
+# journal_items_node = ET.SubElement(files_node, 'journal-items')
+# for journal_item in tqdm(retro_journal_items):
+#     journal_items_node.append(journal_item.to_xml())
+# books_node = ET.SubElement(files_node, 'books')
+# for book in tqdm(retro_books):
+#     books_node.append(book.to_xml())
+
+# tree = ET.ElementTree(records_xml)
+# ET.indent(tree, space="\t", level=0)
+# tree.write(f'./xml_output/import_retro_journal_items_and_books_{filename}.xml', encoding='UTF-8')
+
+temp = []
+for k,v in retro_data.items():
+    for rec in v:
+        year = rec.get('CZASOPISMO', 'brak')
+        if year != 'brak':
+            temp.append(year)
 
 
-# retro_books = [Book.from_dict(e) for e in tqdm(retro_1968_data)]
-# last_number = give_fake_id(retro_books, last_number)
-
-# institutions_to_connect = {}
-# for i in institutions:
-#     for name in i.names:
-#         institutions_to_connect.update({name.value: i.id})
-
-# for book in tqdm(books):
-#     book.connect_with_persons(persons_to_connect)
-#     book.connect_publisher(places, institutions_to_connect)
-
-
-
-
+# for book in retro_books[:1]:
+#     x = book.to_xml()
+#     tree = ET.ElementTree(x)
+#     ET.indent(tree, space="\t", level=0)
+#     tree.write(f'./xml_output/retro_books_{filename}.xml', encoding='UTF-8')
 
 
 

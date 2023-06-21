@@ -7,7 +7,7 @@ import xml.etree.cElementTree as ET
 #%%
 class JournalItem:
     
-    def __init__(self, id_, title='', types=None, author_id='', author_name='', languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', **kwargs):
+    def __init__(self, id_, title='', types=None, author_id='', authors='', languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -22,8 +22,10 @@ class JournalItem:
             self.record_types = types
         else: self.record_types = []
             
-        if author_name:
-            self.authors = [self.JournalItemAuthor(author_id=author_id, author_name=author_name)]
+        if authors:
+            if isinstance(authors, str):
+                authors = [author_name]
+            self.authors = [self.JournalItemAuthor(author_id=author_id, author_name=author_name) for author_name in authors]
         else: self.authors = []
         
         self.general_materials = 'false'
@@ -38,7 +40,10 @@ class JournalItem:
             self.linked_objects = linked_ids
         else: self.linked_objects = []
         
-        self.sources = [self.JournalItemSource(journal_str, journal_year_str, journal_number_str, pages=pages)]
+        if journal_str and journal_number_str and journal_year_str:
+            self.sources = [self.JournalItemSource(journal_str, journal_year_str, journal_number_str, pages=pages)]
+        else:
+           self.sources = [] 
         
     class XmlRepresentation:
         
@@ -112,6 +117,10 @@ class JournalItem:
     @classmethod
     def from_dict(cls, journal_items_dict):
         return cls(**journal_items_dict)
+    
+    @classmethod
+    def from_retro(cls, retro_journal_items_dict):
+        return cls(**retro_journal_items_dict)
                     
     def connect_with_persons(self, persons_to_connect):
         for author in self.authors:

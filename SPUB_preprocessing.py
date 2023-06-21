@@ -223,7 +223,7 @@ def preprocess_journal_items(origin_data):
             'types': records_types.get(elem_id),
             'languages': languages.get(elem_id),
             'linked_ids': linked_objects.get(elem_id),
-            'author_name': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
+            'authors': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
             'author_id': elem.get('author')[0].split('|')[4] if elem.get('author') else '',
             'title': elem.get('title'),
             'year': year,
@@ -288,7 +288,7 @@ def preprocess_books(origin_data, pub_places_data):
             'types': records_types.get(elem_id),
             'languages': languages.get(elem_id),
             'linked_ids': linked_objects.get(elem_id),
-            'author_name': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
+            'authors': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
             'author_id': elem.get('author')[0].split('|')[4] if elem.get('author') else '',
             'title': elem.get('title'),
             'year': year,
@@ -389,13 +389,25 @@ def preprocess_retro(data, filename, year):
                 rec_title = ' '.join(rec_title)
                     
             rec_pub_year = record.get('DATA_WYDANIA')
+            if rec_pub_year:
+                rec_pub_year = [int(re.search('\d{4}', year).group(0)) for year in rec_pub_year if re.search('\d{4}', year)]
+                if rec_pub_year:
+                    rec_pub_year = str(max(rec_pub_year))
+                else:
+                    rec_pub_year = year
+            
             rec_pub_place = record.get('MIEJSCE_WYDANIA')
             rec_book_issue = record.get('WYDANIE')
             rec_physical_desc = record.get('STRONY')
             
-            rec_journal = record.get('CZASOPISMO')
-            rec_journal_issue = record.get('NUMER_CZASOPISMA')
+            rec_journal = record.get('CZASOPISMO', '')
+            if rec_journal:
+                rec_journal = rec_journal[0]
             
+            rec_journal_issue = record.get('NUMER_CZASOPISMA', '')
+            if rec_journal_issue:
+                rec_journal_issue = rec_journal_issue[0]
+                
             if rec_type == 'KS':
                 if rec_authors: rec_form = 'authorsBook'
                 else: rec_form = 'collectiveBook'
@@ -416,15 +428,15 @@ def preprocess_retro(data, filename, year):
             
             if rec_type == 'KS':
                 record_dict = {
-                    'rec_identifier': rec_identifier,
+                    'id_': rec_identifier,
                     'rec_type': rec_type,
-                    'rec_authors': rec_authors,
+                    'authors': rec_authors,
                     'rec_coauthors': rec_coauthors,
-                    'rec_title': rec_title,
-                    'rec_pub_year': rec_pub_year,
+                    'title': rec_title,
+                    'year': rec_pub_year,
                     'rec_pub_place': rec_pub_place,
                     'rec_book_issue': rec_book_issue,
-                    'rec_physical_desc': rec_physical_desc,
+                    'physical_description': rec_physical_desc,
                     'rec_heading': rec_heading,
                     'rec_annotation': rec_annotation,
                     'rec_form': rec_form,
@@ -432,14 +444,14 @@ def preprocess_retro(data, filename, year):
                     }
             elif rec_type == 'ART':
                 record_dict = {
-                    'rec_identifier': rec_identifier,
+                    'id_': rec_identifier,
                     'rec_type': rec_type,
-                    'rec_authors': rec_authors,
-                    'rec_title': rec_title,
-                    'rec_journal': rec_journal,
-                    'rec_journal_issue': rec_journal_issue,
-                    'rec_journal_year': '1968', # rocznik pbl
-                    'rec_physical_desc': rec_physical_desc,
+                    'authors': rec_authors,
+                    'title': rec_title,
+                    'journal_str': rec_journal,
+                    'journal_number_str': rec_journal_issue,
+                    'journal_year_str': year, # rocznik pbl
+                    'pages': rec_physical_desc,
                     'rec_heading': rec_heading,
                     'rec_annotation': rec_annotation,
                     'rec_form': rec_form,

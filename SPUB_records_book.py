@@ -12,7 +12,7 @@ from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinat
 
 class Book:
     
-    def __init__(self, id_, title='', types=None, author_id='', author_name='', languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', **kwargs):
+    def __init__(self, id_, title='', types=None, author_id='', authors='', languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -30,8 +30,10 @@ class Book:
             self.record_types = types
         else: self.record_types = []
             
-        if author_name:
-            self.authors = [self.BookAuthor(author_id=author_id, author_name=author_name)]
+        if authors:
+            if isinstance(authors, str):
+                authors = [author_name]
+            self.authors = [self.BookAuthor(author_id=author_id, author_name=auth_name) for auth_name in authors]
         else: self.authors = []
         
         self.general_materials = 'false'
@@ -50,7 +52,11 @@ class Book:
             self.publishers = [self.BookPublishingHouse(publisher_id=k, publisher_value=v) for k,v in publishers.items()]
         else: self.publishers = []
         
-        self.year = self.BookPublicationYear(year=year)
+        if year:
+            self.year = self.BookPublicationYear(year=year)
+        else:
+            self.year = ''
+            
         self.physical_description = physical_description
         
     class XmlRepresentation:
@@ -130,8 +136,12 @@ class Book:
             return "BookPublicationYear('{}')".format(self.year)
     
     @classmethod
-    def from_dict(cls, journal_items_dict):
-        return cls(**journal_items_dict)    
+    def from_dict(cls, book_dict):
+        return cls(**book_dict)
+    
+    @classmethod
+    def from_retro(cls, retro_book_dict):
+        return cls(**retro_book_dict)  
     
     def connect_with_places(self, publisher_instance, list_of_places_class):
         for i, place in enumerate(publisher_instance.places):
