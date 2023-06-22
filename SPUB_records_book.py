@@ -12,7 +12,7 @@ from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinat
 
 class Book:
     
-    def __init__(self, id_, title='', types=None, author_id='', authors='', languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', **kwargs):
+    def __init__(self, id_, title='', record_types=None, author_id='', authors='', cocreator_id='', cocreators='', languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', annotation='', tags=None, type_='authorsBook', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -24,17 +24,25 @@ class Book:
         self.title = self.BookTitle(title.strip())
         
         # authorsBook, collectiveBook, letters, anthology
-        self.type = 'authorsBook'
+        self.type = type_
         
-        if types:
-            self.record_types = types
+        if record_types:
+            if isinstance(record_types, str):
+                record_types = [record_types]
+            self.record_types = record_types
         else: self.record_types = []
             
         if authors:
             if isinstance(authors, str):
-                authors = [author_name]
+                authors = [authors]
             self.authors = [self.BookAuthor(author_id=author_id, author_name=auth_name) for auth_name in authors]
         else: self.authors = []
+        
+        if cocreators:
+            if isinstance(cocreators, str):
+                cocreators = [cocreators]
+            self.cocreators = [self.BookCoCreator(cocreator_id=cocreator_id, cocreator_name=cocreat_name) for cocreat_name in cocreators]
+        else: self.cocreators = []
         
         self.general_materials = 'false'
         
@@ -58,6 +66,12 @@ class Book:
             self.year = ''
             
         self.physical_description = physical_description
+        self.annotation = annotation
+        
+        if tags:
+            self.tags = tags
+        else:
+            self.tags = []
         
     class XmlRepresentation:
         
@@ -65,6 +79,12 @@ class Book:
             match self.__class__.__name__:
                 case 'BookAuthor':
                     return ET.Element('author', {'id': self.author_id, 'juvenile': self.juvenile, 'co-creator': self.co_creator, 'principal': self.principal})
+                case 'BookCoCreator':
+                    cocreator_xml = ET.Element('co-creator')
+                    for tp in self.types:
+                        cocreator_xml.append(ET.Element('type', {'code' : tp}))
+                    cocreator_xml.append(ET.Element('person', {'id' : self.cocreator_id}))
+                    return cocreator_xml
                 case 'BookTitle':
                     title_xml = ET.Element('title', {'code': self.code, 'transliteration': self.transliteration, 'newest': self.newest})
                     title_xml.text = self.value
@@ -97,6 +117,16 @@ class Book:
 
         def __repr__(self):
             return "BookAuthor('{}', '{}')".format(self.author_id, self.author_name)
+        
+    class BookCoCreator(XmlRepresentation):
+        # rozwiazac problem typow wspoltworstwa
+        def __init__(self, cocreator_id, cocreator_name):
+            self.cocreator_id = f"http://www.wikidata.org/entity/Q{author_id}" if cocreator_id else ''
+            self.types = []
+            self.cocreator_name = cocreator_name
+
+        def __repr__(self):
+            return "BookCoCreator('{}', '{}')".format(self.cocreator_id, self.cocreator_name)
     
     class BookTitle(XmlRepresentation):
         
@@ -141,6 +171,8 @@ class Book:
     
     @classmethod
     def from_retro(cls, retro_book_dict):
+        if retro_book_dict.get('tags'):
+            retro_book_dict['tags'] = [retro_book_dict['tags']]
         return cls(**retro_book_dict)  
     
     def connect_with_places(self, publisher_instance, list_of_places_class):
@@ -170,6 +202,12 @@ class Book:
                 match_person = persons_to_connect.get(author.author_name)
                 if match_person:
                     author.author_id = match_person
+                    
+        for cocreator in self.cocreators:
+            if not cocreator.cocreator_id:
+                match_person = persons_to_connect.get(cocreator.cocreator_name)
+                if match_person:
+                    cocreator.cocreator_id = match_person
     
     def to_xml(self):
         book_dict = {k:v for k,v in {'id': self.id, 'type': self.type, 'status': self.status, 'creator': self.creator, 'creation-date': self.date, 'publishing-date': self.publishing_date, 'origin': self.origin, 'flags': self.flags}.items() if v}
@@ -190,6 +228,12 @@ class Book:
         else:
             authors_xml = ET.Element('authors', {'anonymous': 'true', 'author-company': 'false'})
         book_xml.append(authors_xml)
+        
+        if self.cocreators:
+            cocreators_xml = ET.Element('co-creators')
+            for cocreator in self.cocreators:
+                cocreators_xml.append(cocreator.to_xml())
+            book_xml.append(cocreators_xml)
         
         if self.title:
             titles_xml = ET.Element('titles')
@@ -219,7 +263,19 @@ class Book:
             
         if self.physical_description:
             book_xml.append(ET.Element('physical-description', {'co-created': 'no', 'description': self.physical_description}))
+        
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            book_xml.append(annotation_xml)
             
+        if self.tags:
+            tags_xml = ET.Element('tags')
+            for tag in self.tags:
+                tag_xml = ET.Element('tag')
+                tag_xml.text = tag
+                tags_xml.append(tag_xml)
+             
         return book_xml
 
 #%%

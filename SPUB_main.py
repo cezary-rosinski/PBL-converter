@@ -346,6 +346,7 @@ last_number = give_fake_id(retro_journals, last_number)
 
 # prep biblio records
 records_prep = preprocess_retro(retro_data, filename, year)
+# len([e for e in records_prep if e['rec_type']=='ART' and e.get('cocreators')])
 without_title = [e for e in records_prep if not 'rec_title' in e]
 
 # # len(retro_places) + len(retro_persons) + len(retro_institutions) + len(retro_journals)
@@ -384,23 +385,42 @@ for journal_item in tqdm(retro_journal_items):
     journal_item.connect_with_persons(retro_persons_to_connect)
     journal_item.connect_with_journals(retro_journals_to_connect)
 
-[e for e in retro_journal_items if e.__dict__.get('sources')][0].__dict__
-retro_journal_items[0].__dict__
+# [e for e in retro_journal_items if e.__dict__.get('sources')][0].__dict__
+# retro_journal_items[0].__dict__
 
 # zrobiono baze from_retro w klasach book i journal_item
 
-# records_xml = ET.Element('pbl')
-# files_node = ET.SubElement(records_xml, 'records')
-# journal_items_node = ET.SubElement(files_node, 'journal-items')
-# for journal_item in tqdm(retro_journal_items):
-#     journal_items_node.append(journal_item.to_xml())
-# books_node = ET.SubElement(files_node, 'books')
-# for book in tqdm(retro_books):
-#     books_node.append(book.to_xml())
+records_xml = ET.Element('pbl')
+files_node = ET.SubElement(records_xml, 'records')
+journal_items_node = ET.SubElement(files_node, 'journal-items')
+for journal_item in tqdm(retro_journal_items):
+    journal_items_node.append(journal_item.to_xml())
+books_node = ET.SubElement(files_node, 'books')
+for book in tqdm(retro_books):
+    books_node.append(book.to_xml())
+
+tree = ET.ElementTree(records_xml)
+ET.indent(tree, space="\t", level=0)
+tree.write(f'./xml_output/import_retro_journal_items_and_books_{filename}.xml', encoding='UTF-8')
 
 # tree = ET.ElementTree(records_xml)
 # ET.indent(tree, space="\t", level=0)
 # tree.write(f'./xml_output/import_retro_journal_items_and_books_{filename}.xml', encoding='UTF-8')
+
+institutions_xml = ET.Element('pbl')
+files_node = ET.SubElement(institutions_xml, 'files')
+institutions_node = ET.SubElement(files_node, 'institutions')
+for institution in tqdm(retro_institutions):
+    institutions_node.append(institution.to_xml())
+
+tree = ET.ElementTree(institutions_xml)
+ET.indent(tree, space="\t", level=0)
+tree.write(f'./xml_output/import_retro_institutions_{filename}.xml', encoding='UTF-8')
+
+
+
+
+
 
 temp = []
 for k,v in retro_data.items():
@@ -410,13 +430,53 @@ for k,v in retro_data.items():
             temp.append(year)
 
 
-# for book in retro_books[:1]:
-#     x = book.to_xml()
-#     tree = ET.ElementTree(x)
-#     ET.indent(tree, space="\t", level=0)
-#     tree.write(f'./xml_output/retro_books_{filename}.xml', encoding='UTF-8')
+for book in retro_books:
+    x = book.to_xml()
+    tree = ET.ElementTree(x)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/retro_books_{filename}.xml', encoding='UTF-8')
+    break
+
+for journal_itm in retro_journal_items:
+    x = journal_itm.to_xml()
+    tree = ET.ElementTree(x)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/retro_books_{filename}.xml', encoding='UTF-8')
 
 
+
+temp = []
+for rec in records_prep:
+    if rec.get('rec_type') == 'KS':
+        if (test := rec.get('eval_is_wiersz_proza')):
+            temp.append(test)
+
+
+
+book.__dict__
+test_xml = journal_itm.to_xml()
+from xml.dom import minidom
+xmlstr = minidom.parseString(ET.tostring(test_xml)).toprettyxml(indent="   ")
+print(xmlstr)
+len(test_xml)
+
+import xml.etree.ElementTree as ET
+tree = ET.parse('data.xml')
+root = tree.getroot()
+
+test = journal_itm.to_xml()
+test = book.to_xml()
+for t in test:
+    print(t)
+    
+len(journal_itm.__dict__['sources'])
+journal_itm.__dict__['sources'][0].__dict__
+
+test_xml = journal_itm.to_xml()
+from xml.dom import minidom
+for node in test_xml:
+    xmlstr = minidom.parseString(ET.tostring(node)).toprettyxml(indent="   ")
+    print(xmlstr)
 
 # ###
 # retro_journal_items = [JournalItem.from_dict(e) for e in tqdm(journal_items_data)] # zrobic alt constructor retro

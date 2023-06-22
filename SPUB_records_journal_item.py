@@ -7,7 +7,7 @@ import xml.etree.cElementTree as ET
 #%%
 class JournalItem:
     
-    def __init__(self, id_, title='', types=None, author_id='', authors='', languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', **kwargs):
+    def __init__(self, id_, title='', record_types=None, author_id='', authors='', languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -18,8 +18,10 @@ class JournalItem:
         self.elb_id = elb_id
         self.title = self.JournalItemTitle(title.strip())
         
-        if types:
-            self.record_types = types
+        if record_types:
+            if isinstance(record_types, str):
+                record_types = [record_types]
+            self.record_types = record_types
         else: self.record_types = []
             
         if authors:
@@ -44,6 +46,13 @@ class JournalItem:
             self.sources = [self.JournalItemSource(journal_str, journal_year_str, journal_number_str, pages=pages)]
         else:
            self.sources = [] 
+        
+        self.annotation = annotation
+         
+        if tags:
+            self.tags = tags
+        else:
+            self.tags = []
         
     class XmlRepresentation:
         
@@ -120,6 +129,8 @@ class JournalItem:
     
     @classmethod
     def from_retro(cls, retro_journal_items_dict):
+        if retro_journal_items_dict.get('tags'):
+            retro_journal_items_dict['tags'] = [retro_journal_items_dict['tags']]
         return cls(**retro_journal_items_dict)
                     
     def connect_with_persons(self, persons_to_connect):
@@ -185,6 +196,19 @@ class JournalItem:
                 source_origin_xml.append(source.to_xml())
             journal_item_xml.append(source_origin_xml)
         
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            journal_item_xml.append(annotation_xml)
+            
+        if self.tags:
+            tags_xml = ET.Element('tags')
+            for tag in self.tags:
+                tag_xml = ET.Element('tag')
+                tag_xml.text = tag
+                tags_xml.append(tag_xml)
+            journal_item_xml.append(tags_xml)
+            
         return journal_item_xml
     
 #%%

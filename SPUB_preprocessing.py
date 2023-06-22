@@ -220,7 +220,7 @@ def preprocess_journal_items(origin_data):
             journal_number_str = get_number(elem.get('article_issn_str'))
         temp_dict = {
             'id_': '',
-            'types': records_types.get(elem_id),
+            'record_types': records_types.get(elem_id),
             'languages': languages.get(elem_id),
             'linked_ids': linked_objects.get(elem_id),
             'authors': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
@@ -285,7 +285,7 @@ def preprocess_books(origin_data, pub_places_data):
                 year = '0'
         temp_dict = {
             'id_': '',
-            'types': records_types.get(elem_id),
+            'record_types': records_types.get(elem_id),
             'languages': languages.get(elem_id),
             'linked_ids': linked_objects.get(elem_id),
             'authors': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
@@ -399,6 +399,8 @@ def preprocess_retro(data, filename, year):
             rec_pub_place = record.get('MIEJSCE_WYDANIA')
             rec_book_issue = record.get('WYDANIE')
             rec_physical_desc = record.get('STRONY')
+            if rec_physical_desc:
+                rec_physical_desc = ' '.join(rec_physical_desc)
             
             rec_journal = record.get('CZASOPISMO', '')
             if rec_journal:
@@ -407,10 +409,14 @@ def preprocess_retro(data, filename, year):
             rec_journal_issue = record.get('NUMER_CZASOPISMA', '')
             if rec_journal_issue:
                 rec_journal_issue = rec_journal_issue[0]
-                
+            
             if rec_type == 'KS':
-                if rec_authors: rec_form = 'authorsBook'
-                else: rec_form = 'collectiveBook'
+                if rec_authors: type_ = 'authorsBook'
+                else: type_ = 'collectiveBook'   
+            
+            
+            if rec_type == 'KS':
+                rec_form = 'other'
             elif rec_type == 'ART':
                 if (eval_poem_novel := record.get('eval_is_wiersz_proza')):
                     if eval_poem_novel == 'Wiersz':
@@ -431,15 +437,16 @@ def preprocess_retro(data, filename, year):
                     'id_': rec_identifier,
                     'rec_type': rec_type,
                     'authors': rec_authors,
-                    'rec_coauthors': rec_coauthors,
+                    'cocreators': rec_coauthors,
                     'title': rec_title,
                     'year': rec_pub_year,
                     'rec_pub_place': rec_pub_place,
                     'rec_book_issue': rec_book_issue,
                     'physical_description': rec_physical_desc,
-                    'rec_heading': rec_heading,
-                    'rec_annotation': rec_annotation,
-                    'rec_form': rec_form,
+                    'tags': rec_heading,
+                    'annotation': rec_annotation,
+                    'type_': type_,
+                    'record_types': rec_form,
                     'rec_reference': rec_reference,
                     }
             elif rec_type == 'ART':
@@ -447,14 +454,15 @@ def preprocess_retro(data, filename, year):
                     'id_': rec_identifier,
                     'rec_type': rec_type,
                     'authors': rec_authors,
+                    'cocreators': rec_coauthors,
                     'title': rec_title,
                     'journal_str': rec_journal,
                     'journal_number_str': rec_journal_issue,
                     'journal_year_str': year, # rocznik pbl
                     'pages': rec_physical_desc,
-                    'rec_heading': rec_heading,
-                    'rec_annotation': rec_annotation,
-                    'rec_form': rec_form,
+                    'tags': rec_heading,
+                    'annotation': rec_annotation,
+                    'record_types': rec_form,
                     'rec_reference': rec_reference,
                     }
                 
