@@ -308,7 +308,7 @@ def get_retro_authorities_sets(data, filename):
     output_persons = set()
     output_places = set()
     output_journals = dict()
-    output_institutions = set()
+    output_institutions = set(['[wydawnictwo nieznane]'])
     for group, records in data.items():
         for idx,record in enumerate(records):
             
@@ -397,6 +397,13 @@ def preprocess_retro(data, filename, year):
                     rec_pub_year = year
             
             rec_pub_place = record.get('MIEJSCE_WYDANIA')
+            if rec_pub_place:
+                places = [{'name': place} for place in rec_pub_place]
+                publisher_name = '[wydawnictwo nieznane]'
+                publisher_id = hashlib.md5(bytes(str(tuple((publisher_name,tuple(tuple(e.values()) for e in places)))),'utf-8')).hexdigest()
+                publishers = {publisher_id: (publisher_name, places)}
+            else: publishers = None
+            
             rec_book_issue = record.get('WYDANIE')
             rec_physical_desc = record.get('STRONY')
             if rec_physical_desc:
@@ -440,7 +447,7 @@ def preprocess_retro(data, filename, year):
                     'cocreators': rec_coauthors,
                     'title': rec_title,
                     'year': rec_pub_year,
-                    'rec_pub_place': rec_pub_place,
+                    'publishers': publishers,
                     'rec_book_issue': rec_book_issue,
                     'physical_description': rec_physical_desc,
                     'tags': rec_heading,

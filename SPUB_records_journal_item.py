@@ -7,7 +7,7 @@ import xml.etree.cElementTree as ET
 #%%
 class JournalItem:
     
-    def __init__(self, id_, title='', record_types=None, author_id='', authors='', languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', **kwargs):
+    def __init__(self, id_, title='', record_types=None, author_id='', authors='', cocreator_id='', cocreators='', languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -29,6 +29,12 @@ class JournalItem:
                 authors = [author_name]
             self.authors = [self.JournalItemAuthor(author_id=author_id, author_name=author_name) for author_name in authors]
         else: self.authors = []
+        
+        if cocreators:
+            if isinstance(cocreators, str):
+                cocreators = [cocreators]
+            self.cocreators = [self.JournalItemCoCreator(cocreator_id=cocreator_id, cocreator_name=cocreat_name) for cocreat_name in cocreators]
+        else: self.cocreators = []
         
         self.general_materials = 'false'
         
@@ -60,6 +66,12 @@ class JournalItem:
             match self.__class__.__name__:
                 case 'JournalItemAuthor':
                     return ET.Element('author', {'id': self.author_id, 'juvenile': self.juvenile, 'co-creator': self.co_creator, 'principal': self.principal})
+                case 'JournalItemCoCreator':
+                    cocreator_xml = ET.Element('co-creator')
+                    for tp in self.types:
+                        cocreator_xml.append(ET.Element('type', {'code' : tp}))
+                    cocreator_xml.append(ET.Element('person', {'id' : self.cocreator_id}))
+                    return cocreator_xml
                 case 'JournalItemTitle':
                     title_xml = ET.Element('title', {'code': self.code, 'transliteration': self.transliteration, 'newest': self.newest})
                     title_xml.text = self.value
@@ -91,6 +103,16 @@ class JournalItem:
 
         def __repr__(self):
             return "JournalItemAuthor('{}', '{}')".format(self.author_id, self.author_name)
+    
+    class JournalItemCoCreator(XmlRepresentation):
+        # rozwiazac problem typow wspoltworstwa
+        def __init__(self, cocreator_id, cocreator_name):
+            self.cocreator_id = f"http://www.wikidata.org/entity/Q{author_id}" if cocreator_id else ''
+            self.types = []
+            self.cocreator_name = cocreator_name
+
+        def __repr__(self):
+            return "JournalItemCoCreator('{}', '{}')".format(self.cocreator_id, self.cocreator_name)
     
     class JournalItemTitle(XmlRepresentation):
         
@@ -139,6 +161,12 @@ class JournalItem:
                 match_person = persons_to_connect.get(author.author_name)
                 if match_person:
                     author.author_id = match_person
+        
+        for cocreator in self.cocreators:
+            if not cocreator.cocreator_id:
+                match_person = persons_to_connect.get(cocreator.cocreator_name)
+                if match_person:
+                    cocreator.cocreator_id = match_person
     
     def connect_with_journals(self, journals_to_connect):
         for source in self.sources:
@@ -172,6 +200,12 @@ class JournalItem:
         else:
             authors_xml = ET.Element('authors', {'anonymous': 'true', 'author-company': 'false'})
         journal_item_xml.append(authors_xml)
+        
+        if self.cocreators:
+            cocreators_xml = ET.Element('co-creators')
+            for cocreator in self.cocreators:
+                cocreators_xml.append(cocreator.to_xml())
+            journal_item_xml.append(cocreators_xml)
         
         if self.title:
             titles_xml = ET.Element('titles')

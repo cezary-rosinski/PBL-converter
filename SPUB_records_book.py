@@ -10,6 +10,8 @@ from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinat
 
 #%%
 
+# dodac wydanie -> <edition>Jakiś tekst</edition>
+
 class Book:
     
     def __init__(self, id_, title='', record_types=None, author_id='', authors='', cocreator_id='', cocreators='', languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', annotation='', tags=None, type_='authorsBook', **kwargs):

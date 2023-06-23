@@ -395,39 +395,48 @@ files_node = ET.SubElement(records_xml, 'records')
 journal_items_node = ET.SubElement(files_node, 'journal-items')
 for journal_item in tqdm(retro_journal_items):
     journal_items_node.append(journal_item.to_xml())
-books_node = ET.SubElement(files_node, 'books')
-for book in tqdm(retro_books):
-    books_node.append(book.to_xml())
 
 tree = ET.ElementTree(records_xml)
 ET.indent(tree, space="\t", level=0)
-tree.write(f'./xml_output/import_retro_journal_items_and_books_{filename}.xml', encoding='UTF-8')
+tree.write(f'./xml_output/import_retro_journal_items_{filename}.xml', encoding='UTF-8')
+
+
+records_xml = ET.Element('pbl')
+files_node = ET.SubElement(records_xml, 'records')
+books_node = ET.SubElement(files_node, 'books')
+for book in tqdm(retro_books):
+    books_node.append(book.to_xml())
+    
+tree = ET.ElementTree(records_xml)
+ET.indent(tree, space="\t", level=0)
+tree.write(f'./xml_output/import_retro_books_{filename}.xml', encoding='UTF-8')
+
 
 # tree = ET.ElementTree(records_xml)
 # ET.indent(tree, space="\t", level=0)
 # tree.write(f'./xml_output/import_retro_journal_items_and_books_{filename}.xml', encoding='UTF-8')
 
-institutions_xml = ET.Element('pbl')
-files_node = ET.SubElement(institutions_xml, 'files')
-institutions_node = ET.SubElement(files_node, 'institutions')
-for institution in tqdm(retro_institutions):
-    institutions_node.append(institution.to_xml())
+# institutions_xml = ET.Element('pbl')
+# files_node = ET.SubElement(institutions_xml, 'files')
+# institutions_node = ET.SubElement(files_node, 'institutions')
+# for institution in tqdm(retro_institutions):
+#     institutions_node.append(institution.to_xml())
 
-tree = ET.ElementTree(institutions_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write(f'./xml_output/import_retro_institutions_{filename}.xml', encoding='UTF-8')
-
-
+# tree = ET.ElementTree(institutions_xml)
+# ET.indent(tree, space="\t", level=0)
+# tree.write(f'./xml_output/import_retro_institutions_{filename}.xml', encoding='UTF-8')
 
 
 
 
-temp = []
+
+
+temp = set()
 for k,v in retro_data.items():
     for rec in v:
-        year = rec.get('CZASOPISMO', 'brak')
+        year = rec.get('WYDAWNICTWO', 'brak')
         if year != 'brak':
-            temp.append(year)
+            temp.append(str(type(year)))
 
 
 for book in retro_books:
