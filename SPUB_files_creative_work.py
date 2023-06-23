@@ -6,7 +6,7 @@ import xml.etree.cElementTree as ET
 
 class CreativeWork:
     
-    def __init__(self, id_='', author_id='', author_name='', title=''):
+    def __init__(self, id_='', author_id='', author_name='', title='', annotation=''):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -22,6 +22,8 @@ class CreativeWork:
         self.titles = [self.CreativeWorkTitle(value=title)]
         
         self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        
+        self.annotation = annotation
         
     class XmlRepresentation:
         
@@ -92,6 +94,11 @@ class CreativeWork:
         for heading in self.headings:
             headings_xml.append(ET.Element('heading', {'id': heading}))
         creative_work_xml.append(headings_xml)
+        
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            creative_work_xml.append(annotation_xml)
         
         return creative_work_xml
 

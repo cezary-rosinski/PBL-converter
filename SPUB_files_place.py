@@ -43,8 +43,15 @@ class Place:
     
     def to_xml(self):
         place_xml = ET.Element('place', {k:v for k,v in self.__dict__.items() if k not in ('periods', 'annotation') and v})
+        
         for period in self.periods:
             place_xml.append(period.to_xml())
+            
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            place_xml.append(annotation_xml)
+            
         return place_xml
 
 # # schemat XML

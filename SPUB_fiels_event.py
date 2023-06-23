@@ -3,7 +3,7 @@ import xml.etree.cElementTree as ET
 
 class Event:
     
-    def __init__(self, id_='', viaf='', name='', year='', place='', type_=''):
+    def __init__(self, id_='', viaf='', name='', year='', place='', type_='', annotation=''):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'
@@ -19,6 +19,7 @@ class Event:
         self.year = year
         self.place = place
         self.date_and_place = self.EventDateAndPlace(date_from=year)
+        self.annotation = annotation
         
     class XmlRepresentation:
         
@@ -119,6 +120,12 @@ class Event:
         for heading in self.headings:
             headings_xml.append(ET.Element('heading', {'id': heading}))
         event_xml.append(headings_xml)
+        
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            event_xml.append(annotation_xml)
+        
         return event_xml
 
 # # schemat XML

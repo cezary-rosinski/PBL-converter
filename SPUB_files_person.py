@@ -138,6 +138,12 @@ class Person:
         for heading in self.headings:
             headings_xml.append(ET.Element('heading', {'id': heading}))
         person_xml.append(headings_xml)
+        
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            person_xml.append(annotation_xml)
+        
         return person_xml
 
 

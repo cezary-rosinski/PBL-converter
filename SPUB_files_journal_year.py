@@ -5,7 +5,7 @@ from SPUB_files_journal_number import JournalNumber
 #%% main
 class JournalYear:
     
-    def __init__(self, year, journal_id='', numbers_set=None, character='literary'):
+    def __init__(self, year, journal_id='', numbers_set=None, character='literary', annotation=''):
         self.year = year
         self.removed = 'false'
         self.origin = ''
@@ -14,8 +14,9 @@ class JournalYear:
         self.characters = [self.JournalYearCharacter(character=character)]
         self.closed = 'false'
         if numbers_set:
-            self.numbers = [JournalNumber(number=e, journal_year_id=self.id) for e in numbers_set]
+            self.numbers = [JournalNumber(number=e, journal_year_id=self.id, annotation=annotation) for e in numbers_set]
         self.status = 'under-development'
+        self.annotation = annotation
         
     class XmlRepresentation:
         
@@ -52,6 +53,11 @@ class JournalYear:
         
         journal_year_xml.append(ET.Element('closed', {'value': self.closed}))
         
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            journal_year_xml.append(annotation_xml)
+            
         return journal_year_xml
 
 

@@ -10,6 +10,8 @@ import sys
 
 #%%
 
+# na potrzeby retro anotacja z journal jest przekazywana dalej na year i number, trzeba to ograc inaczej, zeby taka sytuacja nie wystepowala, gdy nie jest potrzebna
+
 class Journal:
     
     def __init__(self, id_='', viaf='', title='', issn='', years_with_numbers_set=None, character='', annotation=''):
@@ -26,7 +28,7 @@ class Journal:
         self.origin = ''
         self.id = simplify_string(title, with_spaces=True, nodiacritics=True).replace(' ', '-')
         if years_with_numbers_set:
-            self.years = [JournalYear(year=y, journal_id=self.id, numbers_set=n) for y, n in years_with_numbers_set]
+            self.years = [JournalYear(year=y, journal_id=self.id, numbers_set=n, annotation=annotation) for y, n in years_with_numbers_set]
         
         self.titles = [self.JournalTitle(value=title)]
         self.links = []
@@ -135,6 +137,11 @@ class Journal:
         
         journal_xml.append(ET.Element('newest-journal-number', {'id': self.newest_journal_number_id}))
         
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            journal_xml.append(annotation_xml)
+            
         return journal_xml
     
 

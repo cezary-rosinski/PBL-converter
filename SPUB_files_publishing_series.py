@@ -8,7 +8,7 @@ import xml.etree.cElementTree as ET
 
 class PublishingSeries:
     
-    def __init__(self, id_='', title=''):
+    def __init__(self, id_='', title='', annotation=''):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -17,6 +17,7 @@ class PublishingSeries:
         self.origin = ''
         self.flags = ''
         self.titles = [self.PublishingSeriesTitle(value=title)]
+        self.annotation = annotation
         
     class XmlRepresentation:
         
@@ -53,6 +54,11 @@ class PublishingSeries:
             for title in self.titles:
                 titles_xml.append(title.to_xml())
         publishing_series_xml.append(titles_xml)
+        
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            publishing_series_xml.append(annotation_xml)
         
         return publishing_series_xml
     

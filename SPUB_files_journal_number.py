@@ -4,7 +4,7 @@ from datetime import datetime
 #%% main
 class JournalNumber:
     
-    def __init__(self, number, journal_year_id=''):
+    def __init__(self, number, journal_year_id='', annotation=''):
         self.number = number
         self.removed = 'false'
         self.origin = ''
@@ -13,6 +13,7 @@ class JournalNumber:
         self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
         self.links = []
         self.status = 'development-of-sources'
+        self.annotation = annotation
         
     class XmlRepresentation:
         
@@ -62,6 +63,11 @@ class JournalNumber:
         number_xml = ET.Element('number')
         number_xml.text = self.number
         journal_number_xml.append(number_xml)
+        
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            journal_number_xml.append(annotation_xml)
         
         return journal_number_xml
 

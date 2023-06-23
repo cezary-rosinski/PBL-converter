@@ -95,6 +95,12 @@ class Institution:
             headings_xml.append(ET.Element('heading', {'id': heading}))
         institution_xml.append(headings_xml)
         
+        if self.annotation:
+            annotation_xml = ET.Element('annotation')
+            annotation_xml.text = self.annotation
+            institution_xml.append(annotation_xml)
+            
+        
         return institution_xml
         
 # institutions = [Institution.from_dict(e) for e in data]
