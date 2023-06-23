@@ -42,7 +42,7 @@ class Place:
         return cls(id_, lat, lon, name=name)
     
     def to_xml(self):
-        place_xml = ET.Element('place', {k:v for k,v in self.__dict__.items() if k != 'periods' and v})
+        place_xml = ET.Element('place', {k:v for k,v in self.__dict__.items() if k not in ('periods', 'annotation') and v})
         for period in self.periods:
             place_xml.append(period.to_xml())
         return place_xml

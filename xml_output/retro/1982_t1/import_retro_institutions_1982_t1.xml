@@ -1,0 +1,858 @@
+<pbl>
+	<files>
+		<institutions>
+			<institution id="fake_id_11339" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KiW.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11340" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Turcja</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11341" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Warczyński</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11342" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">MON</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11343" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Barock. [Pszczoła]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11344" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd. 1.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11345" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd.] R. Olesch.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11346" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd.]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11347" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">WL</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11348" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">EDWARD</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11349" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Gdyby</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11350" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Deotyma</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11351" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Homér 65.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11352" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Langen-Müller</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11353" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">MARIAN</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11354" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Luksemburg.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11355" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PWM</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11356" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">MIECZYSŁAW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11357" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">NK</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11358" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">30:22</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11359" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Co.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11360" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">LSW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11361" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KRYSTYNA</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11362" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Polish-American folktales.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11363" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PWN</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11364" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Czyt.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11365" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">BIBLIOGRAFIE</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11366" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Potwora.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11367" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wwa:</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11368" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pax.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11369" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Spraw.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11370" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pieśń</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11371" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pawła II</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11372" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pycha</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11373" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">: WŁ</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11374" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Szopena.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11375" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">42:9</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11376" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wr.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11377" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Cena.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11378" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Śl.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11379" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wr. 1981.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11380" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">NJ</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11381" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">1943:2</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11382" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Święto Muz</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11383" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd. 1</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11384" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">LSW.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11385" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Ossol.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11386" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Irak</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11387" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[wydawnictwo nieznane]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11388" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">5/6</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11389" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">SAMUEL</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11390" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">WM</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11391" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wcz  </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11392" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Odrodzenie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11393" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Lipiec 1944</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11394" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">DĄBROWSKA KRYSTYNA</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11395" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">MAŁĘCZYŃSKIJAN</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11396" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">MON.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11397" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">142</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11398" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd.] K. Dedecius.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11399" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wwa,</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11400" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pozn.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11401" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Habana</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11402" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KiW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11403" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">SiT</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11404" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">POCEK</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11405" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">BOLESŁAW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11406" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">LOHMANN</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11407" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Łódź.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11408" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Sz.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_11409" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pax</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+		</institutions>
+	</files>
+</pbl>
