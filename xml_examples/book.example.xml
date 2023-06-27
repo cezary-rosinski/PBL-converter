@@ -139,6 +139,8 @@
                     </interview>
                 </interviews>
 
+                <edition>Jakiś tekst o wydaniu</edition>
+
                 <publication-year year="1994" uncertain="false" explanation="Wyjasnienie" type="publishing-years" /> <!-- publishing-years | copyright-years | different-years -->
 
                 <belonging-to-series series-number="23" sub-series-number="2323" publishing-series="pub-series-id-01" />
