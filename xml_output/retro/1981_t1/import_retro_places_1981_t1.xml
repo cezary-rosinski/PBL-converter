@@ -1,1029 +1,1029 @@
 <pbl>
 	<files>
 		<places>
-			<place id="fake_id_0">
-				<period date-from="" date-to="">
-					<name lang="pl">List</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_1">
-				<period date-from="" date-to="">
-					<name lang="pl">TV - Archiwum</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_2">
-				<period date-from="" date-to="">
-					<name lang="pl">Heidelberg</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_3">
-				<period date-from="" date-to="">
-					<name lang="pl">Mit</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_4">
-				<period date-from="" date-to="">
-					<name lang="pl">Plt</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_5">
-				<period date-from="" date-to="">
-					<name lang="pl">Brno</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_6">
-				<period date-from="" date-to="">
-					<name lang="pl">Beuthen</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_7">
-				<period date-from="" date-to="">
-					<name lang="pl">Pristina</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_8">
-				<period date-from="" date-to="">
-					<name lang="pl">Beograd</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_9">
-				<period date-from="" date-to="">
-					<name lang="pl">Nie! Dawno.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_10">
-				<period date-from="" date-to="">
-					<name lang="pl">Góttingen</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_11">
-				<period date-from="" date-to="">
-					<name lang="pl">Wien</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_12">
-				<period date-from="" date-to="">
-					<name lang="pl">Frankfurt am Main</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_13">
-				<period date-from="" date-to="">
-					<name lang="pl">Chełm</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_14">
-				<period date-from="" date-to="">
-					<name lang="pl">Ostrava</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_15">
-				<period date-from="" date-to="">
-					<name lang="pl">Góra</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_16">
-				<period date-from="" date-to="">
-					<name lang="pl">Bratislava</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_17">
-				<period date-from="" date-to="">
-					<name lang="pl">LSW</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_18">
-				<period date-from="" date-to="">
-					<name lang="pl">Warszawa</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_19">
-				<period date-from="" date-to="">
-					<name lang="pl">Gdańsk</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_20">
-				<period date-from="" date-to="">
-					<name lang="pl">Wojsko</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_21">
-				<period date-from="" date-to="">
-					<name lang="pl">Tbilisi</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_22">
-				<period date-from="" date-to="">
-					<name lang="pl">Td - Tydzień</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_23">
-				<period date-from="" date-to="">
-					<name lang="pl">Luty</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_24">
-				<period date-from="" date-to="">
-					<name lang="pl">-Łódź</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_25">
-				<period date-from="" date-to="">
-					<name lang="pl">KR 11:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_26">
-				<period date-from="" date-to="">
-					<name lang="pl">Mongolia</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_27">
-				<period date-from="" date-to="">
-					<name lang="pl">Not.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_28">
-				<period date-from="" date-to="">
-					<name lang="pl">„W Wojsku</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_29">
-				<period date-from="" date-to="">
-					<name lang="pl">Ład</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_30">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz. M. GZch 31:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_31">
-				<period date-from="" date-to="">
-					<name lang="pl">Nwn</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_32">
-				<period date-from="" date-to="">
-					<name lang="pl">Paris</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_33">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz.M. GPz 219:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_34">
-				<period date-from="" date-to="">
-					<name lang="pl">Gaiński</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_35">
-				<period date-from="" date-to="">
-					<name lang="pl">Milano</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_36">
-				<period date-from="" date-to="">
-					<name lang="pl">Riga</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_37">
-				<period date-from="" date-to="">
-					<name lang="pl">München</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_38">
-				<period date-from="" date-to="">
-					<name lang="pl">[Posł.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_39">
-				<period date-from="" date-to="">
-					<name lang="pl">Śwr</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_40">
-				<period date-from="" date-to="">
-					<name lang="pl">Dom</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_41">
-				<period date-from="" date-to="">
-					<name lang="pl">Płcz</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_42">
-				<period date-from="" date-to="">
-					<name lang="pl">New York</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_43">
-				<period date-from="" date-to="">
-					<name lang="pl">Połów</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_44">
-				<period date-from="" date-to="">
-					<name lang="pl">Zarzewie</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_45">
-				<period date-from="" date-to="">
-					<name lang="pl">Ljubljana</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_46">
-				<period date-from="" date-to="">
-					<name lang="pl">Naczelna Dyrekcja</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_47">
-				<period date-from="" date-to="">
-					<name lang="pl">Senne</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_48">
-				<period date-from="" date-to="">
-					<name lang="pl">Wrzesień</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_49">
-				<period date-from="" date-to="">
-					<name lang="pl">Kosz.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_50">
-				<period date-from="" date-to="">
-					<name lang="pl">Stuttgart</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_51">
-				<period date-from="" date-to="">
-					<name lang="pl">Kr.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_52">
-				<period date-from="" date-to="">
-					<name lang="pl">Anny.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_53">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz. M. GZch 51:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_54">
-				<period date-from="" date-to="">
-					<name lang="pl">Harmondsworth</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_55">
-				<period date-from="" date-to="">
-					<name lang="pl">Hamburg</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_56">
-				<period date-from="" date-to="">
-					<name lang="pl">Waga.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_57">
-				<period date-from="" date-to="">
-					<name lang="pl">Budapest</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_58">
-				<period date-from="" date-to="">
-					<name lang="pl">Kr</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_59">
-				<period date-from="" date-to="">
-					<name lang="pl">Tor.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_60">
-				<period date-from="" date-to="">
-					<name lang="pl">Wstęp J. Rogozińskiego.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_61">
-				<period date-from="" date-to="">
-					<name lang="pl">: WŁ</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_62">
-				<period date-from="" date-to="">
-					<name lang="pl">Wiersz II.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_63">
-				<period date-from="" date-to="">
-					<name lang="pl">T.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_64">
-				<period date-from="" date-to="">
-					<name lang="pl">Mała</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_65">
-				<period date-from="" date-to="">
-					<name lang="pl">Płock</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_66">
-				<period date-from="" date-to="">
-					<name lang="pl">Pers</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_67">
-				<period date-from="" date-to="">
-					<name lang="pl">Świnoujście</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_68">
-				<period date-from="" date-to="">
-					<name lang="pl">Gra I]</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_69">
-				<period date-from="" date-to="">
-					<name lang="pl">/D</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_70">
-				<period date-from="" date-to="">
-					<name lang="pl">Moskva</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_71">
-				<period date-from="" date-to="">
-					<name lang="pl">New-York</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_72">
-				<period date-from="" date-to="">
-					<name lang="pl">Olsztyn</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_73">
-				<period date-from="" date-to="">
-					<name lang="pl">Sosnowiec</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_74">
-				<period date-from="" date-to="">
-					<name lang="pl">Lvov</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_75">
-				<period date-from="" date-to="">
-					<name lang="pl">42</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_76">
-				<period date-from="" date-to="">
-					<name lang="pl">Zboże.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_77">
-				<period date-from="" date-to="">
-					<name lang="pl">Danysza.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_78">
-				<period date-from="" date-to="">
-					<name lang="pl">Rogala S</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_79">
-				<period date-from="" date-to="">
-					<name lang="pl">Express</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_80">
-				<period date-from="" date-to="">
-					<name lang="pl">[Łódź</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_81">
-				<period date-from="" date-to="">
-					<name lang="pl">Lausanne</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_82">
-				<period date-from="" date-to="">
-					<name lang="pl">Maribor</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_83">
-				<period date-from="" date-to="">
-					<name lang="pl">Lublin</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_84">
-				<period date-from="" date-to="">
-					<name lang="pl">Grenoble</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_85">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz. M.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_86">
-				<period date-from="" date-to="">
-					<name lang="pl">Zdn</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_87">
-				<period date-from="" date-to="">
-					<name lang="pl">Łódź.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_88">
-				<period date-from="" date-to="">
-					<name lang="pl">Belastok</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_89">
-				<period date-from="" date-to="">
-					<name lang="pl">Flp</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_90">
-				<period date-from="" date-to="">
-					<name lang="pl">Lubl.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_91">
-				<period date-from="" date-to="">
-					<name lang="pl">Tuzla</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_92">
-				<period date-from="" date-to="">
-					<name lang="pl">Strzelno</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_93">
-				<period date-from="" date-to="">
-					<name lang="pl">Glikauf! Wielki Harpunnik.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_94">
-				<period date-from="" date-to="">
-					<name lang="pl">Sieradz</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_95">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz.M.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_96">
-				<period date-from="" date-to="">
-					<name lang="pl">Verlaine</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_97">
-				<period date-from="" date-to="">
-					<name lang="pl">Słupsk</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_98">
-				<period date-from="" date-to="">
-					<name lang="pl">London</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_99">
-				<period date-from="" date-to="">
-					<name lang="pl">Frankfurt am^Main</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_100">
-				<period date-from="" date-to="">
-					<name lang="pl">Km 6:8,</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_101">
-				<period date-from="" date-to="">
-					<name lang="pl">Herbest</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_102">
-				<period date-from="" date-to="">
-					<name lang="pl">Wach-Malicka</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_103">
-				<period date-from="" date-to="">
-					<name lang="pl">Praha</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_104">
-				<period date-from="" date-to="">
-					<name lang="pl">Bilans. Rozdroże.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_105">
-				<period date-from="" date-to="">
-					<name lang="pl">Róża.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_106">
-				<period date-from="" date-to="">
-					<name lang="pl">Głupi</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_107">
-				<period date-from="" date-to="">
-					<name lang="pl">Tiinec</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_108">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz.M. GZch 36:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_109">
-				<period date-from="" date-to="">
-					<name lang="pl">Michniak Cz.] Cz.M. GZch 41:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_110">
-				<period date-from="" date-to="">
-					<name lang="pl">Paryż</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_111">
-				<period date-from="" date-to="">
-					<name lang="pl">Łódź</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_112">
-				<period date-from="" date-to="">
-					<name lang="pl">TPR - Archiwum</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_113">
-				<period date-from="" date-to="">
-					<name lang="pl">W 5:5</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_114">
-				<period date-from="" date-to="">
-					<name lang="pl">Uspokoje</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_115">
-				<period date-from="" date-to="">
-					<name lang="pl">Wź</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_116">
-				<period date-from="" date-to="">
-					<name lang="pl">Bucureşti</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_117">
-				<period date-from="" date-to="">
-					<name lang="pl">Lisse</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_118">
-				<period date-from="" date-to="">
-					<name lang="pl">8/10</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_119">
-				<period date-from="" date-to="">
-					<name lang="pl">TgChełm</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_120">
-				<period date-from="" date-to="">
-					<name lang="pl">Tw</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_121">
-				<period date-from="" date-to="">
-					<name lang="pl">Min</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_122">
-				<period date-from="" date-to="">
-					<name lang="pl">Głód.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_123">
-				<period date-from="" date-to="">
-					<name lang="pl">Pozn.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_124">
-				<period date-from="" date-to="">
-					<name lang="pl">Tel-Aviv</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_125">
-				<period date-from="" date-to="">
-					<name lang="pl">California</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_126">
-				<period date-from="" date-to="">
-					<name lang="pl">Sdb</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_127">
-				<period date-from="" date-to="">
-					<name lang="pl">Bydgoszcz</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_128">
-				<period date-from="" date-to="">
-					<name lang="pl">Sarajevo</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_129">
-				<period date-from="" date-to="">
-					<name lang="pl">Minsk</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_130">
-				<period date-from="" date-to="">
-					<name lang="pl">Okolice</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_131">
-				<period date-from="" date-to="">
-					<name lang="pl">Toronto</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_132">
-				<period date-from="" date-to="">
-					<name lang="pl">Tarnów</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_133">
-				<period date-from="" date-to="">
-					<name lang="pl">Zwk</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_134">
-				<period date-from="" date-to="">
-					<name lang="pl">KP 204:1</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_135">
-				<period date-from="" date-to="">
-					<name lang="pl">W Gąsawie</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_136">
-				<period date-from="" date-to="">
-					<name lang="pl">Kat.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_137">
-				<period date-from="" date-to="">
-					<name lang="pl">Plzeń</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_138">
-				<period date-from="" date-to="">
-					<name lang="pl">Miś</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_139">
-				<period date-from="" date-to="">
-					<name lang="pl">Plt 4:9</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_140">
-				<period date-from="" date-to="">
-					<name lang="pl">Wcz</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_141">
-				<period date-from="" date-to="">
-					<name lang="pl">wkładki</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_142">
-				<period date-from="" date-to="">
-					<name lang="pl">Kiiv</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_143">
-				<period date-from="" date-to="">
-					<name lang="pl">Itgr</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_144">
-				<period date-from="" date-to="">
-					<name lang="pl">Wwa MON</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_145">
-				<period date-from="" date-to="">
-					<name lang="pl">Woda</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_146">
-				<period date-from="" date-to="">
-					<name lang="pl">Obchód</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_147">
-				<period date-from="" date-to="">
-					<name lang="pl">Univers</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_148">
-				<period date-from="" date-to="">
-					<name lang="pl">Piła</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_149">
-				<period date-from="" date-to="">
-					<name lang="pl">Dziecko</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_150">
-				<period date-from="" date-to="">
-					<name lang="pl">Kalisz</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_151">
-				<period date-from="" date-to="">
-					<name lang="pl">Chicago</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_152">
-				<period date-from="" date-to="">
-					<name lang="pl">Sentymentalizm</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_153">
-				<period date-from="" date-to="">
-					<name lang="pl">Agnieszka</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_154">
+			<place id="retro_1981_t1_fake_id_0">
 				<period date-from="" date-to="">
 					<name lang="pl">Wstęp J. Górski.</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_155">
+			<place id="retro_1981_t1_fake_id_1">
 				<period date-from="" date-to="">
-					<name lang="pl">Vilnius</name>
+					<name lang="pl">42</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_156">
+			<place id="retro_1981_t1_fake_id_2">
 				<period date-from="" date-to="">
-					<name lang="pl">Roma</name>
+					<name lang="pl">New-York</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_157">
+			<place id="retro_1981_t1_fake_id_3">
 				<period date-from="" date-to="">
-					<name lang="pl">Wwa</name>
+					<name lang="pl">KR 11:5</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_158">
+			<place id="retro_1981_t1_fake_id_4">
 				<period date-from="" date-to="">
-					<name lang="pl">Gdynia</name>
+					<name lang="pl">Sarajevo</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_159">
+			<place id="retro_1981_t1_fake_id_5">
 				<period date-from="" date-to="">
-					<name lang="pl">Berlin</name>
+					<name lang="pl">Kr</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_160">
-				<period date-from="" date-to="">
-					<name lang="pl">Czerwiec</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_161">
-				<period date-from="" date-to="">
-					<name lang="pl">Boks.</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_162">
-				<period date-from="" date-to="">
-					<name lang="pl">Parczewska M</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_163">
-				<period date-from="" date-to="">
-					<name lang="pl">Wanda</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_164">
-				<period date-from="" date-to="">
-					<name lang="pl">Wlkp</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_165">
-				<period date-from="" date-to="">
-					<name lang="pl">Róg-Świostek</name>
-				</period>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</place>
-			<place id="fake_id_166">
+			<place id="retro_1981_t1_fake_id_6">
 				<period date-from="" date-to="">
 					<name lang="pl">Wzloty</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_167">
+			<place id="retro_1981_t1_fake_id_7">
+				<period date-from="" date-to="">
+					<name lang="pl">Ład</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_8">
+				<period date-from="" date-to="">
+					<name lang="pl">Wź</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_9">
+				<period date-from="" date-to="">
+					<name lang="pl">Glikauf! Wielki Harpunnik.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_10">
+				<period date-from="" date-to="">
+					<name lang="pl">KP 204:1</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_11">
+				<period date-from="" date-to="">
+					<name lang="pl">Praha</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_12">
+				<period date-from="" date-to="">
+					<name lang="pl">Parczewska M</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_13">
+				<period date-from="" date-to="">
+					<name lang="pl">Gra I]</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_14">
+				<period date-from="" date-to="">
+					<name lang="pl">Kosz.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_15">
+				<period date-from="" date-to="">
+					<name lang="pl">Berlin</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_16">
+				<period date-from="" date-to="">
+					<name lang="pl">Woda</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_17">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz.M. GPz 219:5</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_18">
+				<period date-from="" date-to="">
+					<name lang="pl">Herbest</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_19">
+				<period date-from="" date-to="">
+					<name lang="pl">Paryż</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_20">
+				<period date-from="" date-to="">
+					<name lang="pl">Sieradz</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_21">
+				<period date-from="" date-to="">
+					<name lang="pl">Kiiv</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_22">
+				<period date-from="" date-to="">
+					<name lang="pl">Zboże.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_23">
 				<period date-from="" date-to="">
 					<name lang="pl">Polish</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_168">
+			<place id="retro_1981_t1_fake_id_24">
+				<period date-from="" date-to="">
+					<name lang="pl">TgChełm</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_25">
+				<period date-from="" date-to="">
+					<name lang="pl">New York</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_26">
+				<period date-from="" date-to="">
+					<name lang="pl">Univers</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_27">
+				<period date-from="" date-to="">
+					<name lang="pl">TPR - Archiwum</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_28">
+				<period date-from="" date-to="">
+					<name lang="pl">Tor.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_29">
+				<period date-from="" date-to="">
+					<name lang="pl">Riga</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_30">
+				<period date-from="" date-to="">
+					<name lang="pl">Nie! Dawno.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_31">
+				<period date-from="" date-to="">
+					<name lang="pl">Beuthen</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_32">
+				<period date-from="" date-to="">
+					<name lang="pl">Bilans. Rozdroże.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_33">
+				<period date-from="" date-to="">
+					<name lang="pl">Wlkp</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_34">
+				<period date-from="" date-to="">
+					<name lang="pl">Lubl.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_35">
+				<period date-from="" date-to="">
+					<name lang="pl">Plzeń</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_36">
+				<period date-from="" date-to="">
+					<name lang="pl">Wrzesień</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_37">
+				<period date-from="" date-to="">
+					<name lang="pl">Gaiński</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_38">
+				<period date-from="" date-to="">
+					<name lang="pl">LSW</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_39">
+				<period date-from="" date-to="">
+					<name lang="pl">Bratislava</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_40">
+				<period date-from="" date-to="">
+					<name lang="pl">Naczelna Dyrekcja</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_41">
+				<period date-from="" date-to="">
+					<name lang="pl">Tiinec</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_42">
+				<period date-from="" date-to="">
+					<name lang="pl">Lisse</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_43">
+				<period date-from="" date-to="">
+					<name lang="pl">Góttingen</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_44">
+				<period date-from="" date-to="">
+					<name lang="pl">Sdb</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_45">
+				<period date-from="" date-to="">
+					<name lang="pl">Lublin</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_46">
+				<period date-from="" date-to="">
+					<name lang="pl">Harmondsworth</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_47">
+				<period date-from="" date-to="">
+					<name lang="pl">Wwa MON</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_48">
+				<period date-from="" date-to="">
+					<name lang="pl">Dom</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_49">
+				<period date-from="" date-to="">
+					<name lang="pl">Express</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_50">
+				<period date-from="" date-to="">
+					<name lang="pl">Połów</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_51">
+				<period date-from="" date-to="">
+					<name lang="pl">Obchód</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_52">
+				<period date-from="" date-to="">
+					<name lang="pl">Gdynia</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_53">
+				<period date-from="" date-to="">
+					<name lang="pl">Boks.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_54">
+				<period date-from="" date-to="">
+					<name lang="pl">Dziecko</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_55">
+				<period date-from="" date-to="">
+					<name lang="pl">Warszawa</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_56">
+				<period date-from="" date-to="">
+					<name lang="pl">Lvov</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_57">
+				<period date-from="" date-to="">
+					<name lang="pl">Miś</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_58">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz.M.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_59">
+				<period date-from="" date-to="">
+					<name lang="pl">Milano</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_60">
+				<period date-from="" date-to="">
+					<name lang="pl">Tel-Aviv</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_61">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz.M. GZch 36:5</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_62">
+				<period date-from="" date-to="">
+					<name lang="pl">Łódź.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_63">
+				<period date-from="" date-to="">
+					<name lang="pl">California</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_64">
+				<period date-from="" date-to="">
+					<name lang="pl">Słupsk</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_65">
+				<period date-from="" date-to="">
+					<name lang="pl">Stuttgart</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_66">
+				<period date-from="" date-to="">
+					<name lang="pl">Wstęp J. Rogozińskiego.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_67">
+				<period date-from="" date-to="">
+					<name lang="pl">Pristina</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_68">
+				<period date-from="" date-to="">
+					<name lang="pl">Frankfurt am Main</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_69">
+				<period date-from="" date-to="">
+					<name lang="pl">Min</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_70">
+				<period date-from="" date-to="">
+					<name lang="pl">Roma</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_71">
+				<period date-from="" date-to="">
+					<name lang="pl">Czerwiec</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_72">
+				<period date-from="" date-to="">
+					<name lang="pl">Frankfurt am^Main</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_73">
+				<period date-from="" date-to="">
+					<name lang="pl">Lausanne</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_74">
+				<period date-from="" date-to="">
+					<name lang="pl">Senne</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_75">
+				<period date-from="" date-to="">
+					<name lang="pl">Kalisz</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_76">
+				<period date-from="" date-to="">
+					<name lang="pl">Luty</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_77">
+				<period date-from="" date-to="">
+					<name lang="pl">Wwa</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_78">
+				<period date-from="" date-to="">
+					<name lang="pl">Flp</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_79">
+				<period date-from="" date-to="">
+					<name lang="pl">Kr.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_80">
+				<period date-from="" date-to="">
+					<name lang="pl">Grenoble</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_81">
+				<period date-from="" date-to="">
+					<name lang="pl">Moskva</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_82">
+				<period date-from="" date-to="">
+					<name lang="pl">/D</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_83">
+				<period date-from="" date-to="">
+					<name lang="pl">Agnieszka</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_84">
+				<period date-from="" date-to="">
+					<name lang="pl">Belastok</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_85">
+				<period date-from="" date-to="">
+					<name lang="pl">9,11</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_86">
+				<period date-from="" date-to="">
+					<name lang="pl">Śwr</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_87">
+				<period date-from="" date-to="">
+					<name lang="pl">Sosnowiec</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_88">
+				<period date-from="" date-to="">
+					<name lang="pl">Paris</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_89">
+				<period date-from="" date-to="">
+					<name lang="pl">[Posł.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_90">
+				<period date-from="" date-to="">
+					<name lang="pl">Verlaine</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_91">
+				<period date-from="" date-to="">
+					<name lang="pl">Td - Tydzień</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_92">
+				<period date-from="" date-to="">
+					<name lang="pl">wkładki</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_93">
+				<period date-from="" date-to="">
+					<name lang="pl">Świnoujście</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_94">
+				<period date-from="" date-to="">
+					<name lang="pl">Rogala S</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_95">
+				<period date-from="" date-to="">
+					<name lang="pl">Zwk</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_96">
+				<period date-from="" date-to="">
+					<name lang="pl">Vilnius</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_97">
+				<period date-from="" date-to="">
+					<name lang="pl">Łódź</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_98">
+				<period date-from="" date-to="">
+					<name lang="pl">Chełm</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_99">
+				<period date-from="" date-to="">
+					<name lang="pl">Wien</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_100">
+				<period date-from="" date-to="">
+					<name lang="pl">Gdańsk</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_101">
+				<period date-from="" date-to="">
+					<name lang="pl">London</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_102">
 				<period date-from="" date-to="">
 					<name lang="pl">Michniak Cz.] Cz.M. GPz 194:5</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_169">
+			<place id="retro_1981_t1_fake_id_103">
+				<period date-from="" date-to="">
+					<name lang="pl">Tw</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_104">
+				<period date-from="" date-to="">
+					<name lang="pl">Not.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_105">
+				<period date-from="" date-to="">
+					<name lang="pl">T.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_106">
+				<period date-from="" date-to="">
+					<name lang="pl">Wach-Malicka</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_107">
+				<period date-from="" date-to="">
+					<name lang="pl">Heidelberg</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_108">
+				<period date-from="" date-to="">
+					<name lang="pl">[Łódź</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_109">
+				<period date-from="" date-to="">
+					<name lang="pl">Wanda</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_110">
+				<period date-from="" date-to="">
+					<name lang="pl">Danysza.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_111">
+				<period date-from="" date-to="">
+					<name lang="pl">8/10</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_112">
+				<period date-from="" date-to="">
+					<name lang="pl">Tbilisi</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_113">
+				<period date-from="" date-to="">
+					<name lang="pl">TV - Archiwum</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_114">
+				<period date-from="" date-to="">
+					<name lang="pl">Zarzewie</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_115">
+				<period date-from="" date-to="">
+					<name lang="pl">Okolice</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_116">
+				<period date-from="" date-to="">
+					<name lang="pl">Głupi</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_117">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz. M. GZch 31:5</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_118">
+				<period date-from="" date-to="">
+					<name lang="pl">Wiersz II.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_119">
+				<period date-from="" date-to="">
+					<name lang="pl">Pers</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_120">
+				<period date-from="" date-to="">
+					<name lang="pl">Wcz</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_121">
+				<period date-from="" date-to="">
+					<name lang="pl">Tarnów</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_122">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz. M.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_123">
+				<period date-from="" date-to="">
+					<name lang="pl">„W Wojsku</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_124">
+				<period date-from="" date-to="">
+					<name lang="pl">Waga.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_125">
+				<period date-from="" date-to="">
+					<name lang="pl">Płock</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_126">
+				<period date-from="" date-to="">
+					<name lang="pl">Plt</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_127">
+				<period date-from="" date-to="">
+					<name lang="pl">Płcz</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_128">
+				<period date-from="" date-to="">
+					<name lang="pl">Mongolia</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_129">
+				<period date-from="" date-to="">
+					<name lang="pl">Wojsko</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_130">
+				<period date-from="" date-to="">
+					<name lang="pl">Minsk</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_131">
+				<period date-from="" date-to="">
+					<name lang="pl">Anny.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_132">
+				<period date-from="" date-to="">
+					<name lang="pl">Nwn</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_133">
+				<period date-from="" date-to="">
+					<name lang="pl">Róża.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_134">
+				<period date-from="" date-to="">
+					<name lang="pl">Góra</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_135">
+				<period date-from="" date-to="">
+					<name lang="pl">Brno</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_136">
+				<period date-from="" date-to="">
+					<name lang="pl">Róg-Świostek</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_137">
+				<period date-from="" date-to="">
+					<name lang="pl">Beograd</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_138">
+				<period date-from="" date-to="">
+					<name lang="pl">Pozn.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_139">
+				<period date-from="" date-to="">
+					<name lang="pl">Budapest</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_140">
+				<period date-from="" date-to="">
+					<name lang="pl">Zdn</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_141">
 				<period date-from="" date-to="">
 					<name lang="pl">Michniak Cz.] Cz. M. GZch 46:5</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>
-			<place id="fake_id_170">
+			<place id="retro_1981_t1_fake_id_142">
 				<period date-from="" date-to="">
-					<name lang="pl">9,11</name>
+					<name lang="pl">Głód.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_143">
+				<period date-from="" date-to="">
+					<name lang="pl">-Łódź</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_144">
+				<period date-from="" date-to="">
+					<name lang="pl">: WŁ</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_145">
+				<period date-from="" date-to="">
+					<name lang="pl">Maribor</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_146">
+				<period date-from="" date-to="">
+					<name lang="pl">Ljubljana</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_147">
+				<period date-from="" date-to="">
+					<name lang="pl">Kat.</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_148">
+				<period date-from="" date-to="">
+					<name lang="pl">Km 6:8,</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_149">
+				<period date-from="" date-to="">
+					<name lang="pl">Hamburg</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_150">
+				<period date-from="" date-to="">
+					<name lang="pl">Chicago</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_151">
+				<period date-from="" date-to="">
+					<name lang="pl">München</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_152">
+				<period date-from="" date-to="">
+					<name lang="pl">Itgr</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_153">
+				<period date-from="" date-to="">
+					<name lang="pl">Plt 4:9</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_154">
+				<period date-from="" date-to="">
+					<name lang="pl">W 5:5</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_155">
+				<period date-from="" date-to="">
+					<name lang="pl">W Gąsawie</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_156">
+				<period date-from="" date-to="">
+					<name lang="pl">Mit</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_157">
+				<period date-from="" date-to="">
+					<name lang="pl">Bydgoszcz</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_158">
+				<period date-from="" date-to="">
+					<name lang="pl">Mała</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_159">
+				<period date-from="" date-to="">
+					<name lang="pl">Tuzla</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_160">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz. M. GZch 51:5</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_161">
+				<period date-from="" date-to="">
+					<name lang="pl">Uspokoje</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_162">
+				<period date-from="" date-to="">
+					<name lang="pl">Toronto</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_163">
+				<period date-from="" date-to="">
+					<name lang="pl">Michniak Cz.] Cz.M. GZch 41:5</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_164">
+				<period date-from="" date-to="">
+					<name lang="pl">Bucureşti</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_165">
+				<period date-from="" date-to="">
+					<name lang="pl">Olsztyn</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_166">
+				<period date-from="" date-to="">
+					<name lang="pl">List</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_167">
+				<period date-from="" date-to="">
+					<name lang="pl">Strzelno</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_168">
+				<period date-from="" date-to="">
+					<name lang="pl">Ostrava</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_169">
+				<period date-from="" date-to="">
+					<name lang="pl">Piła</name>
+				</period>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</place>
+			<place id="retro_1981_t1_fake_id_170">
+				<period date-from="" date-to="">
+					<name lang="pl">Sentymentalizm</name>
 				</period>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</place>

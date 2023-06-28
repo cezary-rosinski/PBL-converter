@@ -1,176 +1,7 @@
 <pbl>
 	<files>
 		<institutions>
-			<institution id="fake_id_10953" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">KiW.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10954" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">CZASOPIŚMIENNICTWO</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10955" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wyd.]</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10956" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">KiW. 4 t. w 2 vol.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10957" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wwa, 23</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10958" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">5991,6001</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10959" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">ZOTAN</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10960" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">PWM</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10961" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">NK</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10962" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">250,321,325</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10963" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">LSW</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10964" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">PAVLO</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10965" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">PWN</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10966" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10953" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
@@ -183,345 +14,7 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_10967" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Huysmans Joris Karl</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10968" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Jürgen 10630 Fudala Jan 2826-2827, 13719 Fudala Ryszard 5740</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10969" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">München, Salzburg.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10970" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Barut</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10971" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">174</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10972" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Śl.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10973" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">PHILIPS</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10974" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Gorczyczewski Jan Onufry 1295  Gorczyńska Renata</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10975" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">KAISEKI</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10976" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">FILM  TEORIA FILMU</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10977" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Ossol.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10978" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">8:5</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10979" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">ZAGADNIENIA</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10980" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Jerzy 1131</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10981" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">[wydawnictwo nieznane]</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10982" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">MUIJAMMAD</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10983" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">ANDRADEJORGE</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10984" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Dębicka Ana</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10985" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wyd.] J. R. Döring-Smirnov.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10986" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">PTAK</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10987" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">WM</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10988" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Jantar Ana [Schmeterling-Kukulska Ana]</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10989" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">BEIREI</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10990" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Czyt..</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10991" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">46:3</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10992" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">RYUGE</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10993" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10954" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
@@ -534,11 +27,11 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_10994" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10955" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">AS  10089/10090. W:</name>
+							<name code="base" newest="true">Wyd.] J. R. Döring-Smirnov.</name>
 						</names>
 					</period>
 				</history>
@@ -547,11 +40,11 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_10995" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10956" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Bojanowicz-Litwinowicz</name>
+							<name code="base" newest="true">ZOTAN</name>
 						</names>
 					</period>
 				</history>
@@ -560,85 +53,7 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_10996" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Wyd. 1. w 1962]</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10997" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">HOWARD</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10998" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Hulka-Laskowski Paweł 1379, 3370-3371, 9513, 12614, 12757  Hull Eugeniusz 4624  Humel Aeksandra 13027  Humenski Julian 1374  Humiecka C. 6298  Humiecka L</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_10999" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Sieć.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_11000" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">KiW</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_11001" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Repert. Brecht B.</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
-			</institution>
-			<institution id="fake_id_11002" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10957" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
@@ -651,11 +66,11 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_11003" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10958" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wyd.] C. R. Proffer i E. Proffer. Ann Arbor</name>
+							<name code="base" newest="true">BEIREI</name>
 						</names>
 					</period>
 				</history>
@@ -664,7 +79,163 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_11004" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10959" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KiW. 4 t. w 2 vol.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10960" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dębicka Ana</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10961" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">München, Salzburg.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10962" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">ANDRADEJORGE</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10963" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">174</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10964" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Jantar Ana [Schmeterling-Kukulska Ana]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10965" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">ZAGADNIENIA</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10966" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">FILM  TEORIA FILMU</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10967" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Jürgen 10630 Fudala Jan 2826-2827, 13719 Fudala Ryszard 5740</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10968" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Barut</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10969" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[wydawnictwo nieznane]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10970" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">NK</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10971" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
@@ -677,11 +248,440 @@
 				</headings>
 				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
 			</institution>
-			<institution id="fake_id_11005" status="published" creator="cezary_rosinski" creation-date="2023-06-23" publishing-date="2023-06-23" removed="false">
+			<institution id="retro_1984_t2_fake_id_10972" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wwa, 23</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10973" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Bojanowicz-Litwinowicz</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10974" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">CZASOPIŚMIENNICTWO</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10975" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">46:3</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10976" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">RYUGE</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10977" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd.] C. R. Proffer i E. Proffer. Ann Arbor</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10978" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PHILIPS</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10979" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PAVLO</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10980" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Sieć.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10981" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PWN</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10982" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KiW.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10983" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
 				<history>
 					<period>
 						<names>
 							<name code="base" newest="true">KOYŠPAVEL</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10984" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">WM</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10985" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Gorczyczewski Jan Onufry 1295  Gorczyńska Renata</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10986" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">AS  10089/10090. W:</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10987" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Czyt..</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10988" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Śl.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10989" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">8:5</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10990" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Repert. Brecht B.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10991" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Ossol.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10992" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KiW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10993" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">LSW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10994" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">5991,6001</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10995" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PTAK</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10996" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Huysmans Joris Karl</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10997" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Hulka-Laskowski Paweł 1379, 3370-3371, 9513, 12614, 12757  Hull Eugeniusz 4624  Humel Aeksandra 13027  Humenski Julian 1374  Humiecka C. 6298  Humiecka L</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10998" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd. 1. w 1962]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_10999" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">KAISEKI</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_11000" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">PWM</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_11001" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">MUIJAMMAD</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_11002" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Jerzy 1131</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_11003" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyd.]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_11004" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">HOWARD</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<annotation>Rekord powstał wskutek w pełni automatycznego parsowania drukowanego tomu PBL.</annotation>
+			</institution>
+			<institution id="retro_1984_t2_fake_id_11005" status="published" creator="cezary_rosinski" creation-date="2023-06-28" publishing-date="2023-06-28" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">250,321,325</name>
 						</names>
 					</period>
 				</history>

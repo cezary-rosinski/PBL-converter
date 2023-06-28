@@ -472,16 +472,16 @@ for file in tqdm(os.listdir('retro_input')[::-1]):
             retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_data, filename)
     
             retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
-            last_number = give_fake_id(retro_places)
+            last_number = give_fake_id(retro_places, retro=True, retro_filename=filename)
     
             retro_persons = [Person(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_persons)]
-            last_number = give_fake_id(retro_persons, last_number)
+            last_number = give_fake_id(retro_persons, last_number, retro=True, retro_filename=filename)
     
             retro_institutions = [Institution(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_institutions)]
-            last_number = give_fake_id(retro_institutions, last_number)
+            last_number = give_fake_id(retro_institutions, last_number, retro=True, retro_filename=filename)
     
             retro_journals = [Journal(title=e[0], years_with_numbers_set=((retro_year, e[1]),), annotation=annotation_auth_files) for e in tqdm(retro_pre_journals)]
-            last_number = give_fake_id(retro_journals, last_number)
+            last_number = give_fake_id(retro_journals, last_number, retro=True, retro_filename=filename)
             
             # records preprocessing
             records_prep = preprocess_retro(retro_data, filename, retro_year)
@@ -506,14 +506,14 @@ for file in tqdm(os.listdir('retro_input')[::-1]):
                     retro_institutions_to_connect.update({name.value: i.id})
     
             retro_books = [Book.from_retro(e) for e in tqdm(records_prep) if e['rec_type']=='KS']
-            last_number = give_fake_id(retro_books, last_number)
+            last_number = give_fake_id(retro_books, last_number, retro=True, retro_filename=filename)
     
             for book in tqdm(retro_books):
                 book.connect_with_persons(retro_persons_to_connect)
                 book.connect_publisher(retro_places, retro_institutions_to_connect)
     
             retro_journal_items = [JournalItem.from_retro(e) for e in tqdm(records_prep) if e['rec_type']=='ART']
-            last_number = give_fake_id(retro_journal_items, last_number)
+            last_number = give_fake_id(retro_journal_items, last_number, retro=True, retro_filename=filename)
     
             for journal_item in tqdm(retro_journal_items):
                 journal_item.connect_with_persons(retro_persons_to_connect)

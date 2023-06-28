@@ -17,12 +17,15 @@ from gspread_dataframe import set_with_dataframe, get_as_dataframe
 
 #%%
 
-def give_fake_id(entities, last_number=0):
+def give_fake_id(entities, last_number=0, retro=False, retro_filename=''):
     fake_id = last_number
     for entity in entities:
         if not entity.id or entity.id.endswith(('Q', 'QNone')) or 'Qretro' in entity.id:
             # entity.id = f"http://www.wikidata.org/entity/fake{fake_id}"
-            entity.id = f"fake_id_{fake_id}"
+            if retro:
+                entity.id = f"retro_{retro_filename}_fake_id_{fake_id}"
+            else:
+                entity.id = f"fake_id_{fake_id}"
             fake_id += 1
     return fake_id
 
