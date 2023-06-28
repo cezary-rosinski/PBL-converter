@@ -30,17 +30,17 @@ from SPUB_records_book import Book
 
 
 #%% import data
-with open(r".\elb_input\pub_places.json", encoding='utf8') as f:
+with open(r".\elb_input\pub_places.json", encoding='utf-8') as f:
     import_pub_places = json.load(f)
-with open(r".\elb_input\event_places.json", encoding='utf8') as f:
+with open(r".\elb_input\event_places.json", encoding='utf-8') as f:
     import_event_places = json.load(f)
-with open(r".\elb_input\persons.json", encoding='utf8') as f:
+with open(r".\elb_input\persons.json", encoding='utf-8') as f:
     import_persons = json.load(f)
-with open(r".\elb_input\corporates.json", encoding='utf8') as f:
+with open(r".\elb_input\corporates.json", encoding='utf-8') as f:
     import_corporates = json.load(f)
-with open(r".\elb_input\events.json", encoding='utf8') as f:
+with open(r".\elb_input\events.json", encoding='utf-8') as f:
     import_events = json.load(f)
-with open(r".\elb_input\biblio.json", encoding='utf8') as f:
+with open(r".\elb_input\biblio.json", encoding='utf-8') as f:
     import_biblio = json.load(f)
     
 #%% preprocess data

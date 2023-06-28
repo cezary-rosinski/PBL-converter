@@ -239,6 +239,7 @@ def preprocess_journal_items(origin_data):
 
 def preprocess_books(origin_data, pub_places_data):
     # path, pub_places_path = r".\elb_input\biblio.json", r".\elb_input\pub_places.json"
+    # origin_data, pub_places_data = import_biblio, import_pub_places
     java_record_types = parse_java(r".\additional_files\pbl_record_types.txt")
     java_cocreators = parse_java(r".\additional_files\pbl_co-creator_types.txt")
     
