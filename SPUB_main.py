@@ -471,7 +471,7 @@ for file in tqdm(os.listdir('retro_input')[::-1]):
             # authorities preprocessing
             retro_pre_persons, retro_pre_places, retro_pre_journals, retro_pre_institutions = get_retro_authorities_sets(retro_data, filename)
     
-            retro_places = [Place(id_='', lat='', lon='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_places)]
+            retro_places = [Place(id_='', lat='', lon='', name=e) for e in tqdm(retro_pre_places)]
             last_number = give_fake_id(retro_places, retro=True, retro_filename=filename)
     
             retro_persons = [Person(id_='', viaf='', name=e, annotation=annotation_auth_files) for e in tqdm(retro_pre_persons)]
