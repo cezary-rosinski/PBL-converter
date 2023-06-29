@@ -185,7 +185,34 @@ def preprocess_journal_items(origin_data):
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
     origin_data = [e for e in origin_data if 'Journal article' in e.get('format_major') and 'fullrecord' in e]
-    
+
+    authors = {}
+    cocreators = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        if (auths := rec.get('author')):
+            auth_name = auths[0].split('|')[0]
+            auth_id = auths[0].split('|')[4]
+            authors[rec_id] = set([(auth_id, auth_name)])
+            
+        if (author2 := rec.get('author2')) and (author2_role := rec.get('author2_role')):
+            if author2_role == ['Unknown']:
+                for coauth in author2:
+                    coauth_name = coauth.split('|')[0]
+                    coauth_id = coauth.split('|')[4]
+                    authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
+            elif len(author2) == len(author2_role):
+                for idx, coauth in enumerate(author2):
+                    coauth_name = coauth.split('|')[0]
+                    coauth_id = coauth.split('|')[4]
+                    coauth_roles = (author2_role[idx],)
+                    if 'aut' in coauth_roles:
+                        authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
+                    else:
+                        cocreators.setdefault(rec_id, set()).add((coauth_id, coauth_name, coauth_roles))
+    authors = {k:list(v) for k,v in authors.items()}                                  
+    cocreators = {k:list(v) for k,v in cocreators.items()}
+     
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
     records_types = {list(e.keys())[0]:list(e.values())[0] for e in records_types}
     records_types = {k:[[el.get('$a') for el in marc_parser_for_field(e, '\\$') if '$a' in el][0] if not isinstance(e, type(None)) and '$a' in e else e for e in v] for k,v in records_types.items()}    
@@ -223,8 +250,8 @@ def preprocess_journal_items(origin_data):
             'record_types': records_types.get(elem_id),
             'languages': languages.get(elem_id),
             'linked_ids': linked_objects.get(elem_id),
-            'authors': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
-            'author_id': elem.get('author')[0].split('|')[4] if elem.get('author') else '',
+            'authors': authors.get(elem_id),
+            'cocreators': cocreators.get(elem_id),
             'title': elem.get('title'),
             'year': year,
             'elb_id': elem_id,
@@ -245,6 +272,34 @@ def preprocess_books(origin_data, pub_places_data):
     
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
+    
+    #cocreators
+    authors = {}
+    cocreators = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        if (auths := rec.get('author')):
+            auth_name = auths[0].split('|')[0]
+            auth_id = auths[0].split('|')[4]
+            authors[rec_id] = set([(auth_id, auth_name)])
+            
+        if (author2 := rec.get('author2')) and (author2_role := rec.get('author2_role')):
+            if author2_role == ['Unknown']:
+                for coauth in author2:
+                    coauth_name = coauth.split('|')[0]
+                    coauth_id = coauth.split('|')[4]
+                    authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
+            elif len(author2) == len(author2_role):
+                for idx, coauth in enumerate(author2):
+                    coauth_name = coauth.split('|')[0]
+                    coauth_id = coauth.split('|')[4]
+                    coauth_roles = (author2_role[idx],)
+                    if 'aut' in coauth_roles:
+                        authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
+                    else:
+                        cocreators.setdefault(rec_id, set()).add((coauth_id, coauth_name, coauth_roles))
+    authors = {k:list(v) for k,v in authors.items()}                                  
+    cocreators = {k:list(v) for k,v in cocreators.items()}
     
     pub_places_data = [{k:v for k,v in e.items() if k in ['name', 'wiki']} for e in pub_places_data]
     origin_data = [e for e in origin_data if 'Book' in e.get('format_major') and 'fullrecord' in e and any(el in e.get('fullrecord') for el in ['264', '260'])]
@@ -289,13 +344,13 @@ def preprocess_books(origin_data, pub_places_data):
             'record_types': records_types.get(elem_id),
             'languages': languages.get(elem_id),
             'linked_ids': linked_objects.get(elem_id),
-            'authors': elem.get('author')[0].split('|')[0] if elem.get('author') else '',
-            'author_id': elem.get('author')[0].split('|')[4] if elem.get('author') else '',
+            'authors': authors.get(elem_id),
             'title': elem.get('title'),
             'year': year,
             'elb_id': elem_id,
             'publishers': publishers_data.get(elem_id),
-            'physical_description': physical_description_data.get(elem_id)
+            'physical_description': physical_description_data.get(elem_id),
+            'cocreators': cocreators.get(elem_id)
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data
@@ -358,11 +413,14 @@ def preprocess_retro(data, filename, year):
                 
             # authors and coauthors
             rec_authors = record.get('AUTOR', [])
-            rec_coauthors = record.get('WSPÓŁAUTOR', [])
             if not rec_authors:
                 if idx==0:
                     if headings.get(int(group)) == 'x':
                         rec_authors.insert(0, record.get('Heading'))
+                        
+            rec_coauthors = record.get('WSPÓŁAUTOR')
+            if rec_coauthors:
+                rec_coauthors = [(e, tuple()) for e in rec_coauthors]
             
             # title 
             # TYTUŁ lub TITLE_EXTRACTED jeśli TYTUŁ pusty lub go nie ma i RODZAJ_DZIEŁA_ZALEŻNEGO jest puste lub go nie ma

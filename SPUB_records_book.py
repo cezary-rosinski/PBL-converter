@@ -9,13 +9,14 @@ from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinat
 # na późńiej --> książki przedmiotowe dostają typ 'other', to jest do ulepszenia
 
 #%%
+AuthorsList = list[tuple[str, str]]
+CocreatorsList = list[tuple[str, tuple[str]]]
 
 # dodac wydanie -> <edition>Jakiś tekst</edition>
 
 class Book:
-    
-    def __init__(self, id_, title='', record_types=None, author_id='', authors='', cocreator_id='', cocreators='', languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', annotation='', tags=None, type_='authorsBook', **kwargs):
-        self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
+    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', annotation='', tags=None, type_='authorsBook', **kwargs):
+        self.id = f"http://www.wikidata.org/entity/Q{id_}" if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
         self.date = str(datetime.today().date())
@@ -37,13 +38,13 @@ class Book:
         if authors:
             if isinstance(authors, str):
                 authors = [authors]
-            self.authors = [self.BookAuthor(author_id=author_id, author_name=auth_name) for auth_name in authors]
+            self.authors = [self.BookAuthor(author_id=auth_tuple[0], author_name=auth_tuple[1]) for auth_tuple in authors]
         else: self.authors = []
         
         if cocreators:
             if isinstance(cocreators, str):
                 cocreators = [cocreators]
-            self.cocreators = [self.BookCoCreator(cocreator_id=cocreator_id, cocreator_name=cocreat_name) for cocreat_name in cocreators]
+            self.cocreators = [self.BookCoCreator(cocreator_id=cocreat_tuple[0], cocreator_name=cocreat_tuple[1], cocreator_roles=cocreat_tuple[2]) for cocreat_tuple in cocreators]
         else: self.cocreators = []
         
         self.general_materials = 'false'
@@ -122,9 +123,12 @@ class Book:
         
     class BookCoCreator(XmlRepresentation):
         # rozwiazac problem typow wspoltworstwa
-        def __init__(self, cocreator_id, cocreator_name):
-            self.cocreator_id = f"http://www.wikidata.org/entity/Q{author_id}" if cocreator_id else ''
-            self.types = []
+        def __init__(self, cocreator_id, cocreator_name, cocreator_roles=None):
+            self.cocreator_id = f"http://www.wikidata.org/entity/Q{cocreator_id}" if cocreator_id else ''
+            if cocreator_roles:
+                self.types = [t for t in cocreator_roles]
+            else:
+                self.types = []
             self.cocreator_name = cocreator_name
 
         def __repr__(self):
@@ -140,7 +144,6 @@ class Book:
             
         def __repr__(self):
             return "BookTitle('{}')".format(self.value) 
-    #dodać później współautorów
         
     class BookLinkedObejct(XmlRepresentation):
         pass
