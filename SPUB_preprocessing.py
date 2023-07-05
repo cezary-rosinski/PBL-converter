@@ -27,10 +27,10 @@ def assign_places_to_publishers(x):
     return temp
 #
 
-def preprocess_places(*paths):
-    data = []
-    for path in paths:
-        data.extend(path)
+def preprocess_places(data):
+    for place in data:
+        place['coordinates'] = place['fromWiki']['coordinates'] if place['fromWiki']['coordinates'] else ''
+        del place['alterNames'], place['fromWiki'], place['roles'], place['alterLabelsInBiblioRec']
     wikidata_ids = set([e.get('wiki') for e in data if e.get('wiki')])
     with ThreadPoolExecutor() as executor:
         wikidata_response = list(tqdm(executor.map(lambda p: get_wikidata_label(p, ['pl', 'en']), wikidata_ids)))
@@ -185,31 +185,31 @@ def preprocess_journal_items(origin_data):
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
     origin_data = [e for e in origin_data if 'Journal article' in e.get('format_major') and 'fullrecord' in e]
-
+    
+    # authors and cocreators
     authors = {}
     cocreators = {}
     for rec in origin_data:
         rec_id = rec.get('id')
-        if (auths := rec.get('author')):
-            auth_name = auths[0].split('|')[0]
-            auth_id = auths[0].split('|')[4]
-            authors[rec_id] = set([(auth_id, auth_name)])
-            
-        if (author2 := rec.get('author2')) and (author2_role := rec.get('author2_role')):
-            if author2_role == ['Unknown']:
-                for coauth in author2:
-                    coauth_name = coauth.split('|')[0]
-                    coauth_id = coauth.split('|')[4]
-                    authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
-            elif len(author2) == len(author2_role):
-                for idx, coauth in enumerate(author2):
-                    coauth_name = coauth.split('|')[0]
-                    coauth_id = coauth.split('|')[4]
-                    coauth_roles = (author2_role[idx],)
-                    if 'aut' in coauth_roles:
-                        authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
+        cocreators_temp = {}
+        if (persons_with_roles := rec.get('persons_with_roles')):
+            for person in persons_with_roles:
+                person_type, person_role = person.split('|')[-1].split(':')
+                if person_type == 'author':
+                    auth_name = person.split('|')[0]
+                    auth_id = person.split('|')[4]
+                    authors.setdefault(rec_id, set()).add((auth_id, auth_name))
+                elif person_type == 'author2':
+                    if person_role in ('Unknown', 'aut'):
+                        auth_name = person.split('|')[0]
+                        auth_id = person.split('|')[4]
+                        authors.setdefault(rec_id, set()).add((auth_id, auth_name))
                     else:
-                        cocreators.setdefault(rec_id, set()).add((coauth_id, coauth_name, coauth_roles))
+                        coauth_name = person.split('|')[0]
+                        coauth_id = person.split('|')[4]
+                        cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
+        cocreators_temp = set([(*k, tuple(v)) for k,v in cocreators_temp.items()])
+        cocreators[rec_id] = cocreators_temp
     authors = {k:list(v) for k,v in authors.items()}                                  
     cocreators = {k:list(v) for k,v in cocreators.items()}
      
@@ -267,42 +267,43 @@ def preprocess_journal_items(origin_data):
 def preprocess_books(origin_data, pub_places_data):
     # path, pub_places_path = r".\elb_input\biblio.json", r".\elb_input\pub_places.json"
     # origin_data, pub_places_data = import_biblio, import_pub_places
+    # origin_data = import_biblio
     java_record_types = parse_java(r".\additional_files\pbl_record_types.txt")
     java_cocreators = parse_java(r".\additional_files\pbl_co-creator_types.txt")
     
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
-    #cocreators
+    origin_data = [e for e in origin_data if 'Book' in e.get('format_major') and 'fullrecord' in e and any(el in e.get('fullrecord') for el in ['264', '260'])]
+    
+    # authors and cocreators
     authors = {}
     cocreators = {}
     for rec in origin_data:
         rec_id = rec.get('id')
-        if (auths := rec.get('author')):
-            auth_name = auths[0].split('|')[0]
-            auth_id = auths[0].split('|')[4]
-            authors[rec_id] = set([(auth_id, auth_name)])
-            
-        if (author2 := rec.get('author2')) and (author2_role := rec.get('author2_role')):
-            if author2_role == ['Unknown']:
-                for coauth in author2:
-                    coauth_name = coauth.split('|')[0]
-                    coauth_id = coauth.split('|')[4]
-                    authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
-            elif len(author2) == len(author2_role):
-                for idx, coauth in enumerate(author2):
-                    coauth_name = coauth.split('|')[0]
-                    coauth_id = coauth.split('|')[4]
-                    coauth_roles = (author2_role[idx],)
-                    if 'aut' in coauth_roles:
-                        authors.setdefault(rec_id, set()).add((coauth_id, coauth_name))
+        cocreators_temp = {}
+        if (persons_with_roles := rec.get('persons_with_roles')):
+            for person in persons_with_roles:
+                person_type, person_role = person.split('|')[-1].split(':')
+                if person_type == 'author':
+                    auth_name = person.split('|')[0]
+                    auth_id = person.split('|')[4]
+                    authors.setdefault(rec_id, set()).add((auth_id, auth_name))
+                elif person_type == 'author2':
+                    if person_role in ('Unknown', 'aut'):
+                        auth_name = person.split('|')[0]
+                        auth_id = person.split('|')[4]
+                        authors.setdefault(rec_id, set()).add((auth_id, auth_name))
                     else:
-                        cocreators.setdefault(rec_id, set()).add((coauth_id, coauth_name, coauth_roles))
+                        coauth_name = person.split('|')[0]
+                        coauth_id = person.split('|')[4]
+                        cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
+        cocreators_temp = set([(*k, tuple(v)) for k,v in cocreators_temp.items()])
+        cocreators[rec_id] = cocreators_temp
     authors = {k:list(v) for k,v in authors.items()}                                  
     cocreators = {k:list(v) for k,v in cocreators.items()}
     
     pub_places_data = [{k:v for k,v in e.items() if k in ['name', 'wiki']} for e in pub_places_data]
-    origin_data = [e for e in origin_data if 'Book' in e.get('format_major') and 'fullrecord' in e and any(el in e.get('fullrecord') for el in ['264', '260'])]
     
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
     # records_types = dict(ChainMap(*records_types))

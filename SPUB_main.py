@@ -30,10 +30,8 @@ from SPUB_records_book import Book
 
 
 #%% import data
-with open(r".\elb_input\pub_places.json", encoding='utf-8') as f:
-    import_pub_places = json.load(f)
-with open(r".\elb_input\event_places.json", encoding='utf-8') as f:
-    import_event_places = json.load(f)
+with open(r".\elb_input\places.json", encoding='utf-8') as f:
+    import_places = [e for e in json.load(f) if 'publication place' in e.get('roles') or 'event place' in e.get('roles')]
 with open(r".\elb_input\persons.json", encoding='utf-8') as f:
     import_persons = json.load(f)
 with open(r".\elb_input\corporates.json", encoding='utf-8') as f:
@@ -45,7 +43,7 @@ with open(r".\elb_input\biblio.json", encoding='utf-8') as f:
     
 #%% preprocess data
 
-places_data = preprocess_places(import_pub_places, import_event_places)
+places_data = preprocess_places(import_places)
 
 person_data = preprocess_people(import_persons)
 
@@ -61,7 +59,7 @@ journals_data = preprocess_journals(import_biblio)
 
 journal_items_data = preprocess_journal_items(import_biblio)
 
-books_data = preprocess_books(import_biblio, import_pub_places)
+books_data = preprocess_books(import_biblio, import_places)
 
 #%% create class
 

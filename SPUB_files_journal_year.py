@@ -5,7 +5,7 @@ from SPUB_files_journal_number import JournalNumber
 #%% main
 class JournalYear:
     
-    def __init__(self, year, journal_id='', numbers_set=None, character='literary', annotation=''):
+    def __init__(self, year, journal_id='', numbers_set=None, character='literary', annotation='', **kwargs):
         self.year = year
         self.removed = 'false'
         self.origin = ''

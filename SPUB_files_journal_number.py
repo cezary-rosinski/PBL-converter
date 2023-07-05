@@ -4,7 +4,7 @@ from datetime import datetime
 #%% main
 class JournalNumber:
     
-    def __init__(self, number, journal_year_id='', annotation=''):
+    def __init__(self, number, journal_year_id='', annotation='', **kwargs):
         self.number = number
         self.removed = 'false'
         self.origin = ''

@@ -3,7 +3,7 @@ import xml.etree.cElementTree as ET
 
 class Event:
     
-    def __init__(self, id_='', viaf='', name='', year='', place='', type_='', annotation=''):
+    def __init__(self, id_='', viaf='', name='', year='', place='', type_='', annotation='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'

@@ -5,7 +5,7 @@ from datetime import datetime
     
 class Place:
     
-    def __init__(self, id_, lat, lon, geonames='', name='', annotation=''):
+    def __init__(self, id_, lat, lon, geonames='', name='', annotation='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"
         self.lat = lat
         self.lon = lon

@@ -14,7 +14,7 @@ import sys
 
 class Journal:
     
-    def __init__(self, id_='', viaf='', title='', issn='', years_with_numbers_set=None, character='', annotation=''):
+    def __init__(self, id_='', viaf='', title='', issn='', years_with_numbers_set=None, character='', annotation='', **kwargs):
         # self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'
