@@ -130,13 +130,18 @@ for book in tqdm(books):
 # for place in places:
 #     print(place.__dict__)
 
+# slicing records lists
+# plik zapisów po 50 000 rekordów, pliki kartoteki utworów po 50 000, pozostałe pliki kartotek po 10 000 rekordów
+step = 5
+output = [places[i:i + step] for i in range(0, len(places), step)]
+
 # places
 places_xml = ET.Element('pbl')
 files_node = ET.SubElement(places_xml, 'files')
 places_node = ET.SubElement(files_node, 'places')
-for place in tqdm(places):
+for idx,place in tqdm(places):
     places_node.append(place.to_xml())
-
+    
 tree = ET.ElementTree(places_xml)
 ET.indent(tree, space="\t", level=0)
 tree.write('./xml_output/import_places.xml', encoding='UTF-8')
