@@ -10,7 +10,7 @@ CocreatorsList = list[tuple[str, str, tuple[str]]]
 
 class JournalItem:
     
-    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', **kwargs):
+    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', collection=None, **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}" if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -62,6 +62,8 @@ class JournalItem:
             self.tags = tags
         else:
             self.tags = []
+            
+        self.collection = collection
         
     class XmlRepresentation:
         
@@ -153,13 +155,13 @@ class JournalItem:
     
     @classmethod
     def from_dict(cls, journal_items_dict):
-        return cls(**journal_items_dict)
+        return cls(**journal_items_dict, collection='Polska Bibliografia Literacka 1989-')
     
     @classmethod
     def from_retro(cls, retro_journal_items_dict):
         if retro_journal_items_dict.get('tags'):
             retro_journal_items_dict['tags'] = [retro_journal_items_dict['tags']]
-        return cls(**retro_journal_items_dict)
+        return cls(**retro_journal_items_dict, collection='Polska Bibliografia Literacka 1944-1988')
                     
     def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
@@ -248,7 +250,10 @@ class JournalItem:
                 tag_xml.text = tag
                 tags_xml.append(tag_xml)
             journal_item_xml.append(tags_xml)
-            
+        
+        if self.collection:
+            journal_item_xml.append(ET.Element('collection', {'id': self.collection}))      
+        
         return journal_item_xml
     
 #%%

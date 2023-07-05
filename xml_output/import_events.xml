@@ -1,37 +1,85 @@
 <pbl>
 	<files>
 		<events>
-			<event id="fake_id_323" status="published" creator="cezary_rosinski" creation-date="2023-04-03" publishing-date="2023-04-03">
-				<type code="prize" />
+			<event id="fake_id_324" status="published" creator="cezary_rosinski" creation-date="2023-07-05" publishing-date="2023-07-05">
+				<type code="" />
 				<names>
-					<name code="base" transliteration="false" newest="true">Literacka Nagroda Nobla</name>
+					<name code="base" transliteration="false" newest="true">Fantasia International Film Festival</name>
 				</names>
 				<date-and-place>
-					<date from="" from-bc="" uncertain="" />
+					<date from="2020" from-bc="false" uncertain="false" />
+					<places>
+						<place id="http://www.wikidata.org/entity/Q340" period="❦" lang="pl" />
+					</places>
 				</date-and-place>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</event>
-			<event id="fake_id_324" status="published" creator="cezary_rosinski" creation-date="2023-04-03" publishing-date="2023-04-03">
-				<type code="prize" />
-				<names>
-					<name code="base" transliteration="false" newest="true">Nagroda Literacka im. W. Reymonta</name>
-				</names>
-				<date-and-place>
-					<date from="" from-bc="" uncertain="" />
-				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</event>
-			<event id="fake_id_325" status="published" creator="cezary_rosinski" creation-date="2023-04-03" publishing-date="2023-04-03">
+			<event id="fake_id_325" status="published" creator="cezary_rosinski" creation-date="2023-07-05" publishing-date="2023-07-05">
 				<type code="festival" />
 				<names>
-					<name code="base" transliteration="false" newest="true">Rok Reymontowski</name>
+					<name code="base" transliteration="false" newest="true">Festiwal Filmowy w Cannes</name>
 				</names>
 				<date-and-place>
-					<date from="" from-bc="" uncertain="" />
+					<date from="2021" from-bc="false" uncertain="false" />
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="fake_id_326" status="published" creator="cezary_rosinski" creation-date="2023-07-05" publishing-date="2023-07-05">
+				<type code="festival" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Festiwal Polskich Filmów Fabularnych</name>
+				</names>
+				<date-and-place>
+					<date from="2007" from-bc="false" uncertain="false" />
+					<places>
+						<place id="http://www.wikidata.org/entity/Q385" period="❦" lang="pl" />
+					</places>
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="fake_id_327" status="published" creator="cezary_rosinski" creation-date="2023-07-05" publishing-date="2023-07-05">
+				<type code="festival" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Festiwal Szkół Teatralnych</name>
+				</names>
+				<date-and-place>
+					<date from="2019" from-bc="false" uncertain="false" />
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="fake_id_328" status="published" creator="cezary_rosinski" creation-date="2023-07-05" publishing-date="2023-07-05">
+				<type code="festival" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Festiwal Teatru Polskiego Radia i Teatru Telewizji Polskiej "Dwa Teatry"</name>
+				</names>
+				<date-and-place>
+					<date from="2011" from-bc="false" uncertain="false" />
+					<places>
+						<place id="http://www.wikidata.org/entity/Q92689" period="❦" lang="pl" />
+					</places>
+				</date-and-place>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</event>
+			<event id="fake_id_329" status="published" creator="cezary_rosinski" creation-date="2023-07-05" publishing-date="2023-07-05">
+				<type code="festival" />
+				<names>
+					<name code="base" transliteration="false" newest="true">Międzynarodowy Festiwal Filmowy "Era Nowe Horyzonty"</name>
+				</names>
+				<date-and-place>
+					<date from="2011" from-bc="false" uncertain="false" />
+					<places>
+						<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
+					</places>
 				</date-and-place>
 				<headings>
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />

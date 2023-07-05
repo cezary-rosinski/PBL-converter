@@ -413,15 +413,17 @@ def preprocess_retro(data, filename, year):
                 rec_reference = ''
                 
             # authors and coauthors
-            rec_authors = record.get('AUTOR', [])
+            rec_authors = record.get('AUTOR')
             if not rec_authors:
                 if idx==0:
                     if headings.get(int(group)) == 'x':
-                        rec_authors.insert(0, record.get('Heading'))
+                        rec_authors = record.get('Heading')
+            if rec_authors:
+                rec_authors = [('', e) for e in rec_authors]
                         
             rec_coauthors = record.get('WSPÓŁAUTOR')
             if rec_coauthors:
-                rec_coauthors = [(e, tuple()) for e in rec_coauthors]
+                rec_coauthors = [('', e, tuple()) for e in rec_coauthors]
             
             # title 
             # TYTUŁ lub TITLE_EXTRACTED jeśli TYTUŁ pusty lub go nie ma i RODZAJ_DZIEŁA_ZALEŻNEGO jest puste lub go nie ma

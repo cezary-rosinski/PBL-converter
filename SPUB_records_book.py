@@ -10,12 +10,12 @@ from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinat
 
 #%%
 AuthorsList = list[tuple[str, str]]
-CocreatorsList = list[tuple[str, tuple[str]]]
+CocreatorsList = list[tuple[str, str, tuple[str]]]
 
 # dodac wydanie -> <edition>Jakiś tekst</edition>
 
 class Book:
-    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', annotation='', tags=None, type_='authorsBook', **kwargs):
+    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, physical_description='', publishers=None, year='', annotation='', tags=None, type_='authorsBook', collection=None, **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}" if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -75,6 +75,8 @@ class Book:
             self.tags = tags
         else:
             self.tags = []
+        
+        self.collection = collection
         
     class XmlRepresentation:
         
@@ -172,13 +174,13 @@ class Book:
     
     @classmethod
     def from_dict(cls, book_dict):
-        return cls(**book_dict)
+        return cls(**book_dict, collection='Polska Bibliografia Literacka 1989-')
     
     @classmethod
     def from_retro(cls, retro_book_dict):
         if retro_book_dict.get('tags'):
             retro_book_dict['tags'] = [retro_book_dict['tags']]
-        return cls(**retro_book_dict)  
+        return cls(**retro_book_dict, collection='Polska Bibliografia Literacka 1944-1988')  
     
     def connect_with_places(self, publisher_instance, list_of_places_class):
         for i, place in enumerate(publisher_instance.places):
@@ -280,7 +282,10 @@ class Book:
                 tag_xml = ET.Element('tag')
                 tag_xml.text = tag
                 tags_xml.append(tag_xml)
-             
+        
+        if self.collection:
+            book_xml.append(ET.Element('collection', {'id': self.collection}))        
+        
         return book_xml
 
 #%%
