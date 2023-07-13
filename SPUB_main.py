@@ -132,107 +132,139 @@ for book in tqdm(books):
 
 # slicing records lists
 # plik zapisów po 50 000 rekordów, pliki kartoteki utworów po 50 000, pozostałe pliki kartotek po 10 000 rekordów
-step = 5
-output = [places[i:i + step] for i in range(0, len(places), step)]
 
 # places
-places_xml = ET.Element('pbl')
-files_node = ET.SubElement(places_xml, 'files')
-places_node = ET.SubElement(files_node, 'places')
-for idx,place in tqdm(places):
-    places_node.append(place.to_xml())
-    
-tree = ET.ElementTree(places_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_places.xml', encoding='UTF-8')
+step = 10000
+for idx, sublist in enumerate([places[i:i + step] for i in range(0, len(places), step)]):
+    places_xml = ET.Element('pbl')
+    files_node = ET.SubElement(places_xml, 'files')
+    places_node = ET.SubElement(files_node, 'places')
+    for place in tqdm(sublist):
+        places_node.append(place.to_xml())
+        
+    tree = ET.ElementTree(places_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_places_{idx}.xml', encoding='UTF-8')
+
 
 # persons
-persons_xml = ET.Element('pbl')
-files_node = ET.SubElement(persons_xml, 'files')
-people_node = ET.SubElement(files_node, 'people')
-for person in tqdm(persons):
-    people_node.append(person.to_xml())
+step = 10000
+for idx, sublist in enumerate([persons[i:i + step] for i in range(0, len(persons), step)]):
+    persons_xml = ET.Element('pbl')
+    files_node = ET.SubElement(persons_xml, 'files')
+    people_node = ET.SubElement(files_node, 'people')
+    for person in tqdm(sublist):
+        people_node.append(person.to_xml())
 
-tree = ET.ElementTree(persons_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_people.xml', encoding='UTF-8')
+    tree = ET.ElementTree(persons_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_people_{idx}.xml', encoding='UTF-8')
+
 
 # institutions
-institutions_xml = ET.Element('pbl')
-files_node = ET.SubElement(institutions_xml, 'files')
-institutions_node = ET.SubElement(files_node, 'institutions')
-for institution in tqdm(institutions):
-    institutions_node.append(institution.to_xml())
+step = 10000
+for idx, sublist in enumerate([institutions[i:i + step] for i in range(0, len(institutions), step)]):
+    institutions_xml = ET.Element('pbl')
+    files_node = ET.SubElement(institutions_xml, 'files')
+    institutions_node = ET.SubElement(files_node, 'institutions')
+    for institution in tqdm(sublist):
+        institutions_node.append(institution.to_xml())
+    
+    tree = ET.ElementTree(institutions_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_institutions_{idx}.xml', encoding='UTF-8')
 
-tree = ET.ElementTree(institutions_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_institutions.xml', encoding='UTF-8')
 
 # events
-events_xml = ET.Element('pbl')
-files_node = ET.SubElement(events_xml, 'files')
-events_node = ET.SubElement(files_node, 'events')
-for event in tqdm(events):
-    events_node.append(event.to_xml())
+step = 10000
+for idx, sublist in enumerate([events[i:i + step] for i in range(0, len(events), step)]):
+    events_xml = ET.Element('pbl')
+    files_node = ET.SubElement(events_xml, 'files')
+    events_node = ET.SubElement(files_node, 'events')
+    for event in tqdm(sublist):
+        events_node.append(event.to_xml())
+    
+    tree = ET.ElementTree(events_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_events_{idx}.xml', encoding='UTF-8')
 
-tree = ET.ElementTree(events_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_events.xml', encoding='UTF-8')
 
 # publishing series
-publishing_series_list_xml = ET.Element('pbl')
-files_node = ET.SubElement(publishing_series_list_xml, 'files')
-publishing_series_list_node = ET.SubElement(files_node, 'publishing-series-list')
-for publishing_series in tqdm(publishing_series_list):
-    publishing_series_list_node.append(publishing_series.to_xml())
-    
-tree = ET.ElementTree(publishing_series_list_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_publishing_series_list.xml', encoding='UTF-8')
+step = 10000
+for idx, sublist in enumerate([publishing_series_list[i:i + step] for i in range(0, len(publishing_series_list), step)]):
+    publishing_series_list_xml = ET.Element('pbl')
+    files_node = ET.SubElement(publishing_series_list_xml, 'files')
+    publishing_series_list_node = ET.SubElement(files_node, 'publishing-series-list')
+    for publishing_series in tqdm(sublist):
+        publishing_series_list_node.append(publishing_series.to_xml())
+        
+    tree = ET.ElementTree(publishing_series_list_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_publishing_series_list_{idx}.xml', encoding='UTF-8')
+
 
 # creative works
-creative_works_xml = ET.Element('pbl')
-files_node = ET.SubElement(creative_works_xml, 'files')
-creative_works_node = ET.SubElement(files_node, 'creative_works')
-for creative_work in tqdm(creative_works):
-    creative_works_node.append(creative_work.to_xml())
+step = 50000
+for idx, sublist in enumerate([creative_works[i:i + step] for i in range(0, len(creative_works), step)]):
+    creative_works_xml = ET.Element('pbl')
+    files_node = ET.SubElement(creative_works_xml, 'files')
+    creative_works_node = ET.SubElement(files_node, 'creative_works')
+    for creative_work in tqdm(sublist):
+        creative_works_node.append(creative_work.to_xml())
+    
+    tree = ET.ElementTree(creative_works_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_creative_works_{idx}.xml', encoding='UTF-8')
 
-tree = ET.ElementTree(creative_works_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_creative_works.xml', encoding='UTF-8')
 
 # journals
-journals_xml = ET.Element('pbl')
-files_node = ET.SubElement(journals_xml, 'files')
-journals_node = ET.SubElement(files_node, 'journals')
-journals_years_node = ET.SubElement(files_node, 'journal-years')
-journals_numbers_node = ET.SubElement(files_node, 'journal-numbers')
-for journal in tqdm(journals):
-    journals_node.append(journal.to_xml())
-    for year_xml in journal.years_to_xml():
-        journals_years_node.append(year_xml)
-    for number_xml in journal.numbers_to_xml():
-        journals_numbers_node.append(number_xml)
-  
-tree = ET.ElementTree(journals_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_journals.xml', encoding='UTF-8')
-
-#journal items & books
-records_xml = ET.Element('pbl')
-files_node = ET.SubElement(records_xml, 'records')
-journal_items_node = ET.SubElement(files_node, 'journal-items')
-for journal_item in tqdm(journal_items):
-    journal_items_node.append(journal_item.to_xml())
-books_node = ET.SubElement(files_node, 'books')
-for book in tqdm(books):
-    books_node.append(book.to_xml())
-
-tree = ET.ElementTree(records_xml)
-ET.indent(tree, space="\t", level=0)
-tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
+step = 10000
+for idx, sublist in enumerate([journals[i:i + step] for i in range(0, len(journals), step)]):
+    journals_xml = ET.Element('pbl')
+    files_node = ET.SubElement(journals_xml, 'files')
+    journals_node = ET.SubElement(files_node, 'journals')
+    journals_years_node = ET.SubElement(files_node, 'journal-years')
+    journals_numbers_node = ET.SubElement(files_node, 'journal-numbers')
+    for journal in tqdm(sublist):
+        journals_node.append(journal.to_xml())
+        for year_xml in journal.years_to_xml():
+            journals_years_node.append(year_xml)
+        for number_xml in journal.numbers_to_xml():
+            journals_numbers_node.append(number_xml)
+      
+    tree = ET.ElementTree(journals_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_journals_{idx}.xml', encoding='UTF-8')
 
 
+#journal items
+step = 50000
+for idx, sublist in enumerate([journal_items[i:i + step] for i in range(0, len(journal_items), step)]):
+    records_xml = ET.Element('pbl')
+    files_node = ET.SubElement(records_xml, 'records')
+    journal_items_node = ET.SubElement(files_node, 'journal-items')
+    for journal_item in tqdm(sublist):
+        journal_items_node.append(journal_item.to_xml())
+
+    tree = ET.ElementTree(records_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_journal_items_{idx}.xml', encoding='UTF-8')
+
+
+#books
+step = 50000
+for idx, sublist in enumerate([books[i:i + step] for i in range(0, len(books), step)]):
+    records_xml = ET.Element('pbl')
+    files_node = ET.SubElement(records_xml, 'records')
+    books_node = ET.SubElement(files_node, 'books')
+    for book in tqdm(sublist):
+        books_node.append(book.to_xml())
+    
+    tree = ET.ElementTree(records_xml)
+    ET.indent(tree, space="\t", level=0)
+    tree.write(f'./xml_output/import_books_{idx}.xml', encoding='UTF-8')
+    
+    
 # for book in books:
 #     x = book.to_xml()
 #     tree = ET.ElementTree(x)

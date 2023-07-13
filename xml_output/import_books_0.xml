@@ -1,0 +1,310 @@
+<pbl>
+	<records>
+		<books>
+			<book id="fake_id_900" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="anthology" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="true" author-company="false" />
+				<co-creators>
+					<co-creator>
+						<type code="Fot." />
+						<person id="http://www.wikidata.org/entity/Q112392040" />
+					</co-creator>
+					<co-creator>
+						<type code="Red." />
+						<person id="fake_id_94" />
+					</co-creator>
+				</co-creators>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Ta podróż trwa... : 60 spotkań w Kawiarni Literackiej</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="776be965b65cfd4b495294069c823454">
+						<institution id="fake_id_316" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="81 s., [15] s. tabl. :il. (w tym kolor.) ;21 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_901" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="novel" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_71" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<co-creators>
+					<co-creator>
+						<type code="trl" />
+						<person id="fake_id_113" />
+					</co-creator>
+				</co-creators>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Ta ostatnia noc</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="3a544162bb50f87f6d1a320ca0c28f3e">
+						<institution id="http://www.wikidata.org/entity/Q11830461" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2014" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="551, [1] s. ;20 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_902" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="other" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q21288094" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Moja jest ta ziemia</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="326b84ae809b671e37b27dfeac3e142e">
+						<institution id="fake_id_282" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="33, [7] s. ;22 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_903" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="other" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9391816" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Co z tą ironią?</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="47a5137c25a8ddac70367e481c9eabec">
+						<institution id="fake_id_320" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q1792" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="370, [1] s. ;23 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_904" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="novel" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_50" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Ta druga, słodka i ostra</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="3a544162bb50f87f6d1a320ca0c28f3e">
+						<institution id="http://www.wikidata.org/entity/Q11830461" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="310, [1] s. ;20 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_905" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="draft" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9151961" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Ta chwila</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="326b84ae809b671e37b27dfeac3e142e">
+						<institution id="fake_id_282" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="444, [4] s. :il. (gł. kolor.) ;24 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_906" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="novel" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_112" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Jasna i ta druga strona księżyca</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="a7939ae447dffb5f721a3f34fe815a48">
+						<institution id="fake_id_322" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q52842" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2014" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="400 s. ;24 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_907" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="other" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_15" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Naleciałości : czterdziestosiedmioletnie wiersze narzucającego się ta pi ce ra</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="2c8a1487709bfba6951baad45894274b">
+						<institution id="fake_id_321" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="[64] s. :err. ;20 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_908" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="other" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_151" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pol's'ka ta ukraïns'ka moderna drama: perehrestâ tradicìj : monografìâ</title>
+				</titles>
+				<languages>
+					<language code="uk" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="5a800fbff444273860e0733c9ab4aeb2">
+						<institution id="fake_id_319" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q1874" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="173, [12] s. :il. (w tym kolor.) ;21 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+			<book id="fake_id_909" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+				<record-types>
+					<record-type code="other" />
+				</record-types>
+				<general-materials value="true" />
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q19758440" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zwierzęta w kulturze literackiej Bizantyńczyków - Anavlepsate eis ta peteina...</title>
+				</titles>
+				<languages>
+					<language code="pl" />
+				</languages>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+				<publishing-houses by-author="false">
+					<publishing-house id="a3a5059637ef6537e3fc65c2668fb69d">
+						<institution id="fake_id_323" />
+						<places>
+							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
+						</places>
+					</publishing-house>
+				</publishing-houses>
+				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
+				<physical-description co-created="no" description="261 s. ;21 cm." />
+				<collection id="Polska Bibliografia Literacka 1989-" />
+			</book>
+		</books>
+	</records>
+</pbl>
