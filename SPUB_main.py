@@ -417,74 +417,86 @@ for file in tqdm(os.listdir('retro_input')[::-1]):
             
             # xml creation
             # places
-            places_xml = ET.Element('pbl')
-            files_node = ET.SubElement(places_xml, 'files')
-            places_node = ET.SubElement(files_node, 'places')
-            for place in tqdm(retro_places):
-                places_node.append(place.to_xml())
-    
-            tree = ET.ElementTree(places_xml)
-            ET.indent(tree, space="\t", level=0)
-            tree.write(f'./xml_output/retro/{filename}/import_retro_places_{filename}.xml', encoding='UTF-8')
+            step = 50000
+            for idx, sublist in enumerate([retro_places[i:i + step] for i in range(0, len(retro_places), step)]):
+                places_xml = ET.Element('pbl')
+                files_node = ET.SubElement(places_xml, 'files')
+                places_node = ET.SubElement(files_node, 'places')
+                for place in tqdm(sublist):
+                    places_node.append(place.to_xml())
+        
+                tree = ET.ElementTree(places_xml)
+                ET.indent(tree, space="\t", level=0)
+                tree.write(f'./xml_output/retro/{filename}/import_retro_places_{filename}_{idx}.xml', encoding='UTF-8')
     
             # persons
-            persons_xml = ET.Element('pbl')
-            files_node = ET.SubElement(persons_xml, 'files')
-            people_node = ET.SubElement(files_node, 'people')
-            for person in tqdm(retro_persons):
-                people_node.append(person.to_xml())
-    
-            tree = ET.ElementTree(persons_xml)
-            ET.indent(tree, space="\t", level=0)
-            tree.write(f'./xml_output/retro/{filename}/import_retro_people_{filename}.xml', encoding='UTF-8')
+            step = 50000
+            for idx, sublist in enumerate([retro_persons[i:i + step] for i in range(0, len(retro_persons), step)]):
+                persons_xml = ET.Element('pbl')
+                files_node = ET.SubElement(persons_xml, 'files')
+                people_node = ET.SubElement(files_node, 'people')
+                for person in tqdm(sublist):
+                    people_node.append(person.to_xml())
+        
+                tree = ET.ElementTree(persons_xml)
+                ET.indent(tree, space="\t", level=0)
+                tree.write(f'./xml_output/retro/{filename}/import_retro_people_{filename}_{idx}.xml', encoding='UTF-8')
     
             # institutions
-            institutions_xml = ET.Element('pbl')
-            files_node = ET.SubElement(institutions_xml, 'files')
-            institutions_node = ET.SubElement(files_node, 'institutions')
-            for institution in tqdm(retro_institutions):
-                institutions_node.append(institution.to_xml())
-    
-            tree = ET.ElementTree(institutions_xml)
-            ET.indent(tree, space="\t", level=0)
-            tree.write(f'./xml_output/retro/{filename}/import_retro_institutions_{filename}.xml', encoding='UTF-8')
+            step = 50000
+            for idx, sublist in enumerate([retro_institutions[i:i + step] for i in range(0, len(retro_institutions), step)]):
+                institutions_xml = ET.Element('pbl')
+                files_node = ET.SubElement(institutions_xml, 'files')
+                institutions_node = ET.SubElement(files_node, 'institutions')
+                for institution in tqdm(sublist):
+                    institutions_node.append(institution.to_xml())
+        
+                tree = ET.ElementTree(institutions_xml)
+                ET.indent(tree, space="\t", level=0)
+                tree.write(f'./xml_output/retro/{filename}/import_retro_institutions_{filename}_{idx}.xml', encoding='UTF-8')
     
             # journals
-            journals_xml = ET.Element('pbl')
-            files_node = ET.SubElement(journals_xml, 'files')
-            journals_node = ET.SubElement(files_node, 'journals')
-            journals_years_node = ET.SubElement(files_node, 'journal-years')
-            journals_numbers_node = ET.SubElement(files_node, 'journal-numbers')
-            for journal in tqdm(retro_journals):
-                journals_node.append(journal.to_xml())
-                for year_xml in journal.years_to_xml():
-                    journals_years_node.append(year_xml)
-                for number_xml in journal.numbers_to_xml():
-                    journals_numbers_node.append(number_xml)
-              
-            tree = ET.ElementTree(journals_xml)
-            ET.indent(tree, space="\t", level=0)
-            tree.write(f'./xml_output/retro/{filename}/import_retro_journals_{filename}.xml', encoding='UTF-8')
+            step = 50000
+            for idx, sublist in enumerate([retro_journals[i:i + step] for i in range(0, len(retro_journals), step)]):
+                journals_xml = ET.Element('pbl')
+                files_node = ET.SubElement(journals_xml, 'files')
+                journals_node = ET.SubElement(files_node, 'journals')
+                journals_years_node = ET.SubElement(files_node, 'journal-years')
+                journals_numbers_node = ET.SubElement(files_node, 'journal-numbers')
+                for journal in tqdm(sublist):
+                    journals_node.append(journal.to_xml())
+                    for year_xml in journal.years_to_xml():
+                        journals_years_node.append(year_xml)
+                    for number_xml in journal.numbers_to_xml():
+                        journals_numbers_node.append(number_xml)
+                  
+                tree = ET.ElementTree(journals_xml)
+                ET.indent(tree, space="\t", level=0)
+                tree.write(f'./xml_output/retro/{filename}/import_retro_journals_{filename}_{idx}.xml', encoding='UTF-8')
     
             # journal items
-            records_xml = ET.Element('pbl')
-            files_node = ET.SubElement(records_xml, 'records')
-            journal_items_node = ET.SubElement(files_node, 'journal-items')
-            for journal_item in tqdm(retro_journal_items):
-                journal_items_node.append(journal_item.to_xml())
-    
-            tree = ET.ElementTree(records_xml)
-            ET.indent(tree, space="\t", level=0)
-            tree.write(f'./xml_output/retro/{filename}/import_retro_journal_items_{filename}.xml', encoding='UTF-8')
+            step = 50000
+            for idx, sublist in enumerate([retro_journal_items[i:i + step] for i in range(0, len(retro_journal_items), step)]):
+                records_xml = ET.Element('pbl')
+                files_node = ET.SubElement(records_xml, 'records')
+                journal_items_node = ET.SubElement(files_node, 'journal-items')
+                for journal_item in tqdm(sublist):
+                    journal_items_node.append(journal_item.to_xml())
+        
+                tree = ET.ElementTree(records_xml)
+                ET.indent(tree, space="\t", level=0)
+                tree.write(f'./xml_output/retro/{filename}/import_retro_journal_items_{filename}_{idx}.xml', encoding='UTF-8')
     
             # books
-            records_xml = ET.Element('pbl')
-            files_node = ET.SubElement(records_xml, 'records')
-            books_node = ET.SubElement(files_node, 'books')
-            for book in tqdm(retro_books):
-                books_node.append(book.to_xml())
-                
-            tree = ET.ElementTree(records_xml)
-            ET.indent(tree, space="\t", level=0)
-            tree.write(f'./xml_output/retro/{filename}/import_retro_books_{filename}.xml', encoding='UTF-8')
+            step = 50000
+            for idx, sublist in enumerate([retro_books[i:i + step] for i in range(0, len(retro_books), step)]):
+                records_xml = ET.Element('pbl')
+                files_node = ET.SubElement(records_xml, 'records')
+                books_node = ET.SubElement(files_node, 'books')
+                for book in tqdm(sublist):
+                    books_node.append(book.to_xml())
+                    
+                tree = ET.ElementTree(records_xml)
+                ET.indent(tree, space="\t", level=0)
+                tree.write(f'./xml_output/retro/{filename}/import_retro_books_{filename}_{idx}.xml', encoding='UTF-8')
 
