@@ -238,7 +238,7 @@ class JournalItem:
                 heading = heading_tuple[0]
                 person_id = heading_tuple[1]
                 if person_id:
-                    headings_xml.append(ET.Element('heading', {'id': heading, 'person_id': person_id}))
+                    headings_xml.append(ET.Element('heading', {'id': heading, 'person-id': person_id}))
                 else:
                     headings_xml.append(ET.Element('heading', {'id': heading}))
             journal_item_xml.append(headings_xml)  
