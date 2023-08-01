@@ -184,6 +184,9 @@ def preprocess_journal_items(origin_data):
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
+    pbl_cocreators_mapping = pd.read_excel("./additional_files/co-creators_mapping.xlsx")
+    pbl_cocreators_mapping = {row['to_map']:row['pbl_code'] for idx,row in pbl_cocreators_mapping.iterrows()}
+    
     origin_data = [e for e in origin_data if 'Journal article' in e.get('format_major') and 'fullrecord' in e]
     
     # authors and cocreators
@@ -207,6 +210,7 @@ def preprocess_journal_items(origin_data):
                     else:
                         coauth_name = person.split('|')[0]
                         coauth_id = person.split('|')[4]
+                        person_role = pbl_cocreators_mapping.get(person_role, '')
                         cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
         cocreators_temp = set([(*k, tuple(v)) for k,v in cocreators_temp.items()])
         cocreators[rec_id] = cocreators_temp
@@ -274,6 +278,9 @@ def preprocess_books(origin_data, pub_places_data):
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
+    pbl_cocreators_mapping = pd.read_excel("./additional_files/co-creators_mapping.xlsx")
+    pbl_cocreators_mapping = {row['to_map']:row['pbl_code'] for idx,row in pbl_cocreators_mapping.iterrows()}
+    
     origin_data = [e for e in origin_data if 'Book' in e.get('format_major') and 'fullrecord' in e and any(el in e.get('fullrecord') for el in ['264', '260'])]
     
     # authors and cocreators
@@ -297,6 +304,7 @@ def preprocess_books(origin_data, pub_places_data):
                     else:
                         coauth_name = person.split('|')[0]
                         coauth_id = person.split('|')[4]
+                        person_role = pbl_cocreators_mapping.get(person_role, '')
                         cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
         cocreators_temp = set([(*k, tuple(v)) for k,v in cocreators_temp.items()])
         cocreators[rec_id] = cocreators_temp

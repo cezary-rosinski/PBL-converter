@@ -52,8 +52,9 @@ class Book:
         if languages:
             self.languages = languages
         else: self.languages = []
-            
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        
+        # 'f56c40ddce1076f01ab157bed1da7c85' - hasła osobowe lit polska
+        self.headings = []
         
         if linked_ids:
             self.linked_objects = linked_ids
@@ -174,13 +175,13 @@ class Book:
     
     @classmethod
     def from_dict(cls, book_dict):
-        return cls(**book_dict, collection='Polska Bibliografia Literacka 1989-')
+        return cls(**book_dict, collection='polska-bibliografia-literacka-1989-')
     
     @classmethod
     def from_retro(cls, retro_book_dict):
         if retro_book_dict.get('tags'):
             retro_book_dict['tags'] = [retro_book_dict['tags']]
-        return cls(**retro_book_dict, collection='Polska Bibliografia Literacka 1944-1988')  
+        return cls(**retro_book_dict, collection='polska-bibliografia-literacka-1944-1988')  
     
     def connect_with_places(self, publisher_instance, list_of_places_class):
         for i, place in enumerate(publisher_instance.places):
@@ -202,20 +203,25 @@ class Book:
         for publisher in self.publishers:
             self.connect_with_places(publisher, list_of_places_class)
             self.connect_with_institutions(publisher, institutions_to_connect)
-                    
+    
+    def add_authors_headings(self):
+        for auth in self.authors:
+            self.headings.append(('f56c40ddce1076f01ab157bed1da7c85', auth.author_id))
+               
     def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
             if not author.author_id:
                 match_person = persons_to_connect.get(author.author_name)
                 if match_person:
-                    author.author_id = match_person
-                    
+                    author.author_id = match_person   
         for cocreator in self.cocreators:
             if not cocreator.cocreator_id:
                 match_person = persons_to_connect.get(cocreator.cocreator_name)
                 if match_person:
-                    cocreator.cocreator_id = match_person
-    
+                    cocreator.cocreator_id = match_person            
+        self.add_authors_headings()
+        
+        
     def to_xml(self):
         book_dict = {k:v for k,v in {'id': self.id, 'type': self.type, 'status': self.status, 'creator': self.creator, 'creation-date': self.date, 'publishing-date': self.publishing_date, 'origin': self.origin, 'flags': self.flags}.items() if v}
         book_xml = ET.Element('book', book_dict)
@@ -255,8 +261,13 @@ class Book:
         
         if self.headings:
             headings_xml = ET.Element('headings')
-            for heading in self.headings:
-                headings_xml.append(ET.Element('heading', {'id': heading}))
+            for heading_tuple in self.headings:
+                heading = heading_tuple[0]
+                person_id = heading_tuple[1]
+                if person_id:
+                    headings_xml.append(ET.Element('heading', {'id': heading, 'person_id': person_id}))
+                else:
+                    headings_xml.append(ET.Element('heading', {'id': heading}))
             book_xml.append(headings_xml)  
             
         if self.publishers:
@@ -284,7 +295,7 @@ class Book:
                 tags_xml.append(tag_xml)
         
         if self.collection:
-            book_xml.append(ET.Element('collection', {'id': self.collection}))        
+            book_xml.append(ET.Element('collection', {'code': self.collection}))        
         
         return book_xml
 

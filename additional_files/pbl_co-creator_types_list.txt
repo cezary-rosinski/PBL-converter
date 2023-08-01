@@ -1,0 +1,19 @@
+editorial-staff : redakcja
+selection : wybór
+translation : tłumaczenie
+adaptation : adaptacja
+introduction : wstęp
+afterword : posłowie
+notes-comments : noty i komentarze
+graphic-design : opracowanie graficzne
+illustrations : ilustracje
+direction : reżyseria
+scenario : scenariusz
+music : muzyka
+lyrics : słowa piosenki
+cooperation : współpraca
+development : opracowanie
+implementation : realizacja
+outside-title-card : spoza karty tytułowej
+based-on-works : na podstawie utworów
+others : inni

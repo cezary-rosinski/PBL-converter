@@ -1,54 +1,54 @@
 <pbl>
 	<files>
 		<publishing-series-list>
-			<publishing-series id="fake_id_330" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Na drugi rzut oka</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_331" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Twarze</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_332" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+			<publishing-series id="fake_id_330" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Proza</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_333" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Almanach Kawiarni Literackiej w "Modraczku"</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_334" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Kapuściński bez znieczulenia</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_335" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
-				<titles>
-					<title code="base" newest="true" transliteration="false">Warszawa nieodbudowana</title>
-				</titles>
-			</publishing-series>
-			<publishing-series id="fake_id_336" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+			<publishing-series id="fake_id_331" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Poezje</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_337" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+			<publishing-series id="fake_id_332" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Twarze</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_333" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Warszawa nieodbudowana</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_334" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Historia / Uniwersytet im. Adama Mickiewicza w Poznaniu, nr 224</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_335" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
 				<titles>
 					<title code="base" newest="true" transliteration="false">Biblioteka Opiekuna. Beletrystyka</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_338" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+			<publishing-series id="fake_id_336" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Witamy w Polsce</title>
+					<title code="base" newest="true" transliteration="false">Kapuściński bez znieczulenia</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_339" status="published" creator="cezary_rosinski" creation-date="2023-07-13" publishing-date="2023-07-13">
+			<publishing-series id="fake_id_337" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Historia / Uniwersytet im. Adama Mickiewicza w Poznaniu, nr 224</title>
+					<title code="base" newest="true" transliteration="false">Almanach Kawiarni Literackiej w "Modraczku"</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_338" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Na drugi rzut oka</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_339" status="published" creator="cezary_rosinski" creation-date="2023-08-01" publishing-date="2023-08-01">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Witamy w Polsce</title>
 				</titles>
 			</publishing-series>
 		</publishing-series-list>
