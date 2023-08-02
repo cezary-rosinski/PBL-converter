@@ -1,29 +1,9 @@
 <pbl>
 	<files>
 		<places>
-			<place id="http://www.wikidata.org/entity/Q52842">
+			<place id="http://www.wikidata.org/entity/Q37333">
 				<period date-from="" date-to="">
-					<name lang="pl">Kalisz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1792">
-				<period date-from="" date-to="">
-					<name lang="pl">Gdańsk</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q327895" lat="19.441389" lon="51.801389">
-				<period date-from="" date-to="">
-					<name lang="pl">Ghetto Litzmannstadt</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q41252">
-				<period date-from="" date-to="">
-					<name lang="pl">Bydgoszcz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q340">
-				<period date-from="" date-to="">
-					<name lang="pl">Montreal</name>
+					<name lang="pl">Lublin</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q1874">
@@ -31,14 +11,24 @@
 					<name lang="pl">Odessa</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q268">
+			<place id="http://www.wikidata.org/entity/Q327895" lat="19.441389" lon="51.801389">
 				<period date-from="" date-to="">
-					<name lang="pl">Poznań</name>
+					<name lang="pl">Ghetto Litzmannstadt</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q52842">
+				<period date-from="" date-to="">
+					<name lang="pl">Kalisz</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q92689">
 				<period date-from="" date-to="">
 					<name lang="pl">Sopot</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q268">
+				<period date-from="" date-to="">
+					<name lang="pl">Poznań</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q159">
@@ -51,6 +41,11 @@
 					<name lang="pl">Gdynia</name>
 				</period>
 			</place>
+			<place id="http://www.wikidata.org/entity/Q41252">
+				<period date-from="" date-to="">
+					<name lang="pl">Bydgoszcz</name>
+				</period>
+			</place>
 			<place id="http://www.wikidata.org/entity/Q270" lat="52.2330335" lon="20.8963895">
 				<period date-from="" date-to="">
 					<name lang="pl">Warszawa</name>
@@ -61,9 +56,14 @@
 					<name lang="pl">Wrocław</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q37333">
+			<place id="http://www.wikidata.org/entity/Q340">
 				<period date-from="" date-to="">
-					<name lang="pl">Lublin</name>
+					<name lang="pl">Montreal</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1792">
+				<period date-from="" date-to="">
+					<name lang="pl">Gdańsk</name>
 				</period>
 			</place>
 		</places>

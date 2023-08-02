@@ -184,6 +184,10 @@ def preprocess_journal_items(origin_data):
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
+    with open('./additional_files/dbn2pbl.json', encoding='utf-8') as jfile_1, open('./additional_files/new_pbl_headings.json', encoding='utf-8') as jfile_2:
+        dbn2pbl = json.load(jfile_1)
+        new_pbl_headings = json.load(jfile_2)
+    
     pbl_cocreators_mapping = pd.read_excel("./additional_files/co-creators_mapping.xlsx")
     pbl_cocreators_mapping = {row['to_map']:row['pbl_code'] for idx,row in pbl_cocreators_mapping.iterrows()}
     
@@ -216,7 +220,31 @@ def preprocess_journal_items(origin_data):
         cocreators[rec_id] = cocreators_temp
     authors = {k:list(v) for k,v in authors.items()}                                  
     cocreators = {k:list(v) for k,v in cocreators.items()}
-     
+    
+    # headings
+    def get_heading(string, bn=True):
+        output_headings = set()
+        if bn:
+            string = re.sub('^..\$a', '', string).replace('$2DBN', '')
+            old_pbl_headings = dbn2pbl.get(string, [])
+            for head in old_pbl_headings:
+                old_pbl_key = head['first_str'].lower()
+                if new_heads := new_pbl_headings.get(old_pbl_key):
+                    for new_head in new_heads:
+                        output_headings.add(new_head['hash'])
+        return list(output_headings)
+        
+    headings = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        headings_set = set()
+        subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
+        for sub in subjects_from_rec:
+            headings_set.update(get_heading(sub))
+        if headings_set:
+            headings[rec_id] = list(headings_set)
+    
+    
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
     records_types = {list(e.keys())[0]:list(e.values())[0] for e in records_types}
     records_types = {k:[[el.get('$a') for el in marc_parser_for_field(e, '\\$') if '$a' in el][0] if not isinstance(e, type(None)) and '$a' in e else e for e in v] for k,v in records_types.items()}    
@@ -262,7 +290,8 @@ def preprocess_journal_items(origin_data):
             'journal_str': sources_data[elem_id].get('article_resource_str_mv')[0] if 'article_resource_str_mv' in sources_data[elem_id] else sources_data[elem_id].get('source_publication'), 
             'journal_year_str': journal_year_str, 
             'journal_number_str': journal_number_str,
-            'pages': re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]).group(0) if sources_data[elem_id].get('article_resource_related_str_mv') and re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]) else ''
+            'pages': re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]).group(0) if sources_data[elem_id].get('article_resource_related_str_mv') and re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]) else '',
+            'headings': headings.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     
@@ -277,6 +306,10 @@ def preprocess_books(origin_data, pub_places_data):
     
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
+    
+    with open('./additional_files/dbn2pbl.json', encoding='utf-8') as jfile_1, open('./additional_files/new_pbl_headings.json', encoding='utf-8') as jfile_2:
+        dbn2pbl = json.load(jfile_1)
+        new_pbl_headings = json.load(jfile_2)
     
     pbl_cocreators_mapping = pd.read_excel("./additional_files/co-creators_mapping.xlsx")
     pbl_cocreators_mapping = {row['to_map']:row['pbl_code'] for idx,row in pbl_cocreators_mapping.iterrows()}
@@ -311,7 +344,31 @@ def preprocess_books(origin_data, pub_places_data):
     authors = {k:list(v) for k,v in authors.items()}                                  
     cocreators = {k:list(v) for k,v in cocreators.items()}
     
+    # headings
+    def get_heading(string, bn=True):
+        output_headings = set()
+        if bn:
+            string = re.sub('^..\$a', '', string).replace('$2DBN', '')
+            old_pbl_headings = dbn2pbl.get(string, [])
+            for head in old_pbl_headings:
+                old_pbl_key = head['first_str'].lower()
+                if new_heads := new_pbl_headings.get(old_pbl_key):
+                    for new_head in new_heads:
+                        output_headings.add(new_head['hash'])
+        return list(output_headings)
+        
+    headings = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        headings_set = set()
+        subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
+        for sub in subjects_from_rec:
+            headings_set.update(get_heading(sub))
+        if headings_set:
+            headings[rec_id] = list(headings_set)
+
     pub_places_data = [{k:v for k,v in e.items() if k in ['name', 'wiki']} for e in pub_places_data]
+    
     
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
     # records_types = dict(ChainMap(*records_types))
@@ -359,7 +416,8 @@ def preprocess_books(origin_data, pub_places_data):
             'elb_id': elem_id,
             'publishers': publishers_data.get(elem_id),
             'physical_description': physical_description_data.get(elem_id),
-            'cocreators': cocreators.get(elem_id)
+            'cocreators': cocreators.get(elem_id),
+            'headings': headings.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data

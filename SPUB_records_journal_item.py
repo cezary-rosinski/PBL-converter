@@ -10,7 +10,7 @@ CocreatorsList = list[tuple[str, str, tuple[str]]]
 
 class JournalItem:
     
-    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', collection=None, **kwargs):
+    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', collection=None, headings=None, **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}" if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -46,7 +46,9 @@ class JournalItem:
         else: self.languages = []
         
         # 'f56c40ddce1076f01ab157bed1da7c85' - hasła osobowe lit polska
-        self.headings = []
+        if headings:
+            self.headings = headings
+        else: self.headings = []
         
         if linked_ids:
             self.linked_objects = linked_ids
@@ -234,13 +236,14 @@ class JournalItem:
         
         if self.headings:
             headings_xml = ET.Element('headings')
-            for heading_tuple in self.headings:
-                heading = heading_tuple[0]
-                person_id = heading_tuple[1]
-                if person_id:
-                    headings_xml.append(ET.Element('heading', {'id': heading, 'person-id': person_id}))
+            for heading_item in self.headings:
+                if isinstance(heading_item, tuple):
+                    heading = heading_item[0]
+                    person_id = heading_item[1]
+                    if person_id:
+                        headings_xml.append(ET.Element('heading', {'id': heading, 'person-id': person_id}))
                 else:
-                    headings_xml.append(ET.Element('heading', {'id': heading}))
+                    headings_xml.append(ET.Element('heading', {'id': heading_item}))
             journal_item_xml.append(headings_xml)  
             
         if self.sources:
