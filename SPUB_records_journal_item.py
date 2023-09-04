@@ -10,7 +10,7 @@ CocreatorsList = list[tuple[str, str, tuple[str]]]
 
 class JournalItem:
     
-    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', collection=None, headings=None, **kwargs):
+    def __init__(self, id_, title='', record_types=None, authors: AuthorsList|None = None, cocreators: CocreatorsList|None = None, languages=None, linked_ids=None, elb_id=None, journal_str='', journal_year_str='', journal_number_str='', pages='', annotation='', tags='', collection=None, headings=None, genre_major=None, subject_persons=None, **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}" if id_ else None
         self.creator = 'cezary_rosinski'
         self.status = 'published'
@@ -67,6 +67,12 @@ class JournalItem:
             self.tags = []
             
         self.collection = collection
+        
+        self.genre_major = genre_major
+        
+        if subject_persons:
+            self.subject_persons = [self.JournalItemSubjectPerson(*sub_person) for sub_person in subject_persons]
+        else: self.subject_persons = []
         
     class XmlRepresentation:
         
@@ -125,6 +131,15 @@ class JournalItem:
         def __repr__(self):
             return "JournalItemCoCreator('{}', '{}')".format(self.cocreator_id, self.cocreator_name)
     
+    class JournalItemSubjectPerson:
+        
+        def __init__(self, sub_person_id, sub_person_name):
+            self.sub_person_id = f"http://www.wikidata.org/entity/Q{sub_person_id}" if sub_person_id else ''
+            self.sub_person_name = sub_person_name
+
+        def __repr__(self):
+            return "JournalItemSubjectPerson('{}', '{}')".format(self.sub_person_id, self.sub_person_name)
+    
     class JournalItemTitle(XmlRepresentation):
         
         def __init__(self, value):
@@ -167,8 +182,12 @@ class JournalItem:
         return cls(**retro_journal_items_dict, collection='polska-bibliografia-literacka-1944-1988')
     
     def add_authors_headings(self):
-        for auth in self.authors:
-            self.headings.append(('f56c40ddce1076f01ab157bed1da7c85', auth.author_id))
+        if 'Literature' in self.genre_major:
+            for auth in self.authors:
+                self.headings.append(('f56c40ddce1076f01ab157bed1da7c85', auth.author_id))
+        elif 'Secondary literature' in self.genre_major:
+            for sub_person in self.subject_persons:
+                self.headings.append(('f56c40ddce1076f01ab157bed1da7c85', sub_person.sub_person_id))
                 
     def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
@@ -181,6 +200,11 @@ class JournalItem:
                 match_person = persons_to_connect.get(cocreator.cocreator_name)
                 if match_person:
                     cocreator.cocreator_id = match_person
+        for sub_person in self.subject_persons:
+            if not sub_person.sub_person_id:
+                match_person = persons_to_connect.get(sub_person.sub_person_name)
+                if match_person:
+                    sub_person.sub_person_id = match_person
         self.add_authors_headings()
     
     def connect_with_journals(self, journals_to_connect):

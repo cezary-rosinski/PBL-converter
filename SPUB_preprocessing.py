@@ -292,6 +292,8 @@ def preprocess_journal_items(origin_data):
             'journal_number_str': journal_number_str,
             'pages': re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]).group(0) if sources_data[elem_id].get('article_resource_related_str_mv') and re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]) else '',
             'headings': headings.get(elem_id),
+            'genre_major': elem.get('genre_major'),
+            'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
             }
         preprocessed_data.append(temp_dict)
     
@@ -418,6 +420,8 @@ def preprocess_books(origin_data, pub_places_data):
             'physical_description': physical_description_data.get(elem_id),
             'cocreators': cocreators.get(elem_id),
             'headings': headings.get(elem_id),
+            'genre_major': elem.get('genre_major'),
+            'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data
