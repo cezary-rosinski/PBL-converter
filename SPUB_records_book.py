@@ -128,6 +128,7 @@ class Book:
             self.co_creator = 'false'
             self.principal = 'true'
             self.author_name = author_name
+            self.headings = []
 
         def __repr__(self):
             return "BookAuthor('{}', '{}')".format(self.author_id, self.author_name)
@@ -150,6 +151,7 @@ class Book:
         def __init__(self, sub_person_id, sub_person_name):
             self.sub_person_id = f"http://www.wikidata.org/entity/Q{sub_person_id}" if sub_person_id else ''
             self.sub_person_name = sub_person_name
+            self.headings = []
 
         def __repr__(self):
             return "BookSubjectPerson('{}', '{}')".format(self.sub_person_id, self.sub_person_name)
@@ -222,12 +224,15 @@ class Book:
             self.connect_with_institutions(publisher, institutions_to_connect)
     
     def add_authors_headings(self):
-        if 'Literature' in self.genre_major:
-            for auth in self.authors:
-                self.headings.append(('f56c40ddce1076f01ab157bed1da7c85', auth.author_id))
-        elif 'Secondary literature' in self.genre_major:
-            for sub_person in self.subject_persons:
-                self.headings.append(('f56c40ddce1076f01ab157bed1da7c85', sub_person.sub_person_id))
+        if len(self.genre_major) == 1:
+            if 'Literature' in self.genre_major:
+                for auth in self.authors:
+                    for auth_heading in auth.headings:
+                        self.headings.append((auth_heading, auth.author_id))
+            elif 'Secondary literature' in self.genre_major:
+                for sub_person in self.subject_persons:
+                    for sub_heading in sub_person.headings:
+                        self.headings.append((auth_heading, sub_person.sub_person_id))
                 
                
     def connect_with_persons(self, persons_to_connect):
@@ -235,17 +240,19 @@ class Book:
             if not author.author_id:
                 match_person = persons_to_connect.get(author.author_name)
                 if match_person:
-                    author.author_id = match_person   
+                    author.author_id = match_person.id
+                    author.headings = match_person.headings 
         for cocreator in self.cocreators:
             if not cocreator.cocreator_id:
                 match_person = persons_to_connect.get(cocreator.cocreator_name)
                 if match_person:
-                    cocreator.cocreator_id = match_person
+                    cocreator.cocreator_id = match_person.id
         for sub_person in self.subject_persons:
             if not sub_person.sub_person_id:
                 match_person = persons_to_connect.get(sub_person.sub_person_name)
                 if match_person:
-                    sub_person.sub_person_id = match_person   
+                    sub_person.sub_person_id = match_person.id
+                    sub_person.headings = match_person.headings
         self.add_authors_headings()
         
         

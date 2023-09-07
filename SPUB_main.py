@@ -45,7 +45,7 @@ with open(r".\elb_input\biblio.json", encoding='utf-8') as f:
 
 places_data = preprocess_places(import_places)
 
-person_data = preprocess_people(import_persons)
+person_data = preprocess_people(import_persons, import_biblio)
 
 institutions_data = preprocess_institutions(import_corporates, import_biblio)
 
@@ -88,7 +88,7 @@ last_number = give_fake_id(creative_works, last_number)
 persons_to_connect = {}
 for p in persons:
     for name in p.names:
-        persons_to_connect.update({name.value: p.id})
+        persons_to_connect.update({name.value: p})
 #UWAGA --> jeśli jest to samo nazewnictwo dla różnych id, to zachowujemy ostatnią parę
 #NA PRZYSZŁOŚĆ --> zebrać wszystkie duplikaty nazewnictwa, zbierać w odrębnej zmiennej i rozwiązać ten problem inaczej
 for creative_work in tqdm(creative_works):
@@ -123,7 +123,6 @@ for book in tqdm(books):
     book.connect_publisher(places, institutions_to_connect)
 
 #%% enrich classes
-
 
 #%% export xml
 
@@ -263,7 +262,7 @@ for idx, sublist in enumerate([books[i:i + step] for i in range(0, len(books), s
     tree = ET.ElementTree(records_xml)
     ET.indent(tree, space="\t", level=0)
     tree.write(f'./xml_output/import_books_{idx}.xml', encoding='UTF-8')
-    
+
     
 # for book in books:
 #     x = book.to_xml()

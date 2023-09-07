@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 from SPUB_additional_functions import get_wikidata_label, get_wikidata_coordinates, simplify_string, marc_parser_for_field, parse_mrk, parse_java, get_number
 from tqdm import tqdm
 import regex as re
-from collections import ChainMap
+from collections import ChainMap, Counter
 import Levenshtein as lev
 import hashlib
 import pandas as pd
@@ -40,14 +40,42 @@ def preprocess_places(data):
     data = [{k:wikidata_redirection.get(v, '') if k == 'wiki' else v for k,v in e.items()} for e in data]
     return data
 
-def preprocess_people(data):
+def preprocess_people(data, biblio_data):
+    # data = import_persons
+    # biblio_data = import_biblio
+    
+    literature_nationalities = pd.read_excel('./additional_files/literature_nationalities.xlsx')
+    literature_nationalities_dct = {}
+    for idx, row in literature_nationalities.iterrows():
+        for key in [row['dane oryginalne'], row['narodowosc'], row['PBL']]:
+            if not isinstance(row['MD5 haseł osobowych'], float):
+                literature_nationalities_dct[key.lower()] = row['MD5 haseł osobowych']
+    
+    persons_literatures_dct = {}
+    for record in biblio_data:
+        genre_major = record.get('genre_major', [])
+        if len(genre_major) == 1 and 'Literature' in genre_major:
+            for person in record.get('persons_with_roles', []):
+                person_name = person.split('|')[0]
+                person_role = person.split('|')[-1]
+                if person_role == 'author:aut':
+                    subjects = [literature_nationalities_dct.get(e.lower()) for e in record.get('subjects_str_mv', []) if e.lower() in literature_nationalities_dct]
+                    persons_literatures_dct.setdefault(person_name, []).extend(subjects)          
+    persons_literatures_dct = {k:Counter(v).most_common(1)[0][0] for k,v in persons_literatures_dct.items() if v}         
+                 
     [e.update({'dateB': e.get('fromWiki', {}).get('dateB')}) for e in data]
     [e.update({'dateD': e.get('fromWiki', {}).get('dateD')}) for e in data]
     data = [{k:e.get('dateB') if k == 'yearBorn' and isinstance(e.get('dateB'), str) else v for k,v in e.items()} for e in data]
     data = [{k:e.get('dateD') if k == 'yearDeath' and isinstance(e.get('dateD'), str) else v for k,v in e.items()} for e in data]
     [e.update({'placeB': e.get('fromWiki', {}).get('placeB')}) for e in data]
     [e.update({'placeD': e.get('fromWiki', {}).get('placeD')}) for e in data]
-    return [{k:v for k,v in e.items() if k not in ['dateB', 'dateD', 'fromWiki', 'recCount']} for e in data]
+    
+    output = [{k:v for k,v in e.items() if k not in ['dateB', 'dateD', 'fromWiki', 'recCount']} for e in data]
+    for elem in output:
+        elem['person_heading'] = persons_literatures_dct.get(elem['name'])
+        elem['id_'] = elem.get('wiki', '')
+    
+    return output
 
 def preprocess_institutions(data, biblio_data):
     data = [{k:v for k,v in e.items() if k != 'recCount'} for e in data]

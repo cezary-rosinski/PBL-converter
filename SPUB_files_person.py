@@ -10,7 +10,7 @@ from SPUB_additional_functions import give_fake_id, get_wikidata_label
 
 class Person:
     
-    def __init__(self, id_, viaf, name='', birth_date='', death_date='', birth_place='', death_place='', annotation=''):
+    def __init__(self, id_, viaf, name='', birth_date='', death_date='', birth_place='', death_place='', annotation='', person_heading='', **kwargs):
         self.id = f"http://www.wikidata.org/entity/Q{id_}"if id_ else None
         self.viaf = f"https://viaf.org/viaf/{viaf}" if viaf else None
         self.creator = 'cezary_rosinski'
@@ -18,7 +18,9 @@ class Person:
         self.date = str(datetime.today().date())
         self.publishing_date = self.date
         self.sex = None
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        if person_heading:
+            self.headings = [person_heading]
+        else: self.headings = []
         
         self.names = [self.PersonName(value=name)]
         
@@ -89,14 +91,7 @@ class Person:
         
     @classmethod
     def from_dict(cls, person_dict):
-        id_ = person_dict.get('wiki')
-        viaf = person_dict.get('viaf')
-        name = person_dict.get('name')
-        birth_date = person_dict.get('yearBorn')
-        death_date = person_dict.get('yearDeath')
-        birth_place = person_dict.get('placeB')
-        death_place = person_dict.get('placeD')
-        return cls(id_, viaf, name, birth_date, death_date, birth_place, death_place)
+        return cls(**person_dict)
     
     def add_person_link(self, person_link, type_):
         if person_link:
@@ -134,10 +129,12 @@ class Person:
             for el in self.death_date_and_place.to_xml():
                 death_xml.append(el)
             person_xml.append(death_xml)
-        headings_xml = ET.Element('headings')
-        for heading in self.headings:
-            headings_xml.append(ET.Element('heading', {'id': heading}))
-        person_xml.append(headings_xml)
+        
+        if self.headings:
+            headings_xml = ET.Element('headings')
+            for heading in self.headings:
+                headings_xml.append(ET.Element('heading', {'id': heading}))
+            person_xml.append(headings_xml)
         
         if self.annotation:
             annotation_xml = ET.Element('annotation')

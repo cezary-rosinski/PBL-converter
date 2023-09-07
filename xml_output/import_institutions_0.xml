@@ -1,11 +1,11 @@
 <pbl>
 	<files>
 		<institutions>
-			<institution id="fake_id_282" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_748" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Biuro Literackie</name>
+							<name code="base" newest="true">Kraków :</name>
 						</names>
 					</period>
 				</history>
@@ -13,59 +13,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q11830461" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" viaf="https://viaf.org/viaf/298668374" removed="false">
-				<links>
-					<link access-date="2023-08-02" type="external-identifier">http://www.wikidata.org/entity/Q11830461</link>
-					<link access-date="2023-08-02" type="external-identifier">https://viaf.org/viaf/298668374</link>
-				</links>
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Prószyński Media</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_283" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Teatr Wielki - Opera Narodowa</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_284" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Uniwersytet Warszawski</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_285" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Uniwersytet Warszawski</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_286" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_749" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -77,11 +25,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_287" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_750" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wrocław :</name>
+							<name code="base" newest="true">Kraków : </name>
 						</names>
 					</period>
 				</history>
@@ -89,11 +37,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_288" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_751" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Archiwum Państwowe (Lwów)</name>
+							<name code="base" newest="true">Lublin : </name>
 						</names>
 					</period>
 				</history>
@@ -101,11 +49,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_289" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_752" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Biblioteka Jagiellońska</name>
+							<name code="base" newest="true">Warszawa : </name>
 						</names>
 					</period>
 				</history>
@@ -113,7 +61,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_290" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_753" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -125,11 +73,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_291" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_754" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Centrum Sztuki Studio im. Stanisława Ignacego Witkiewicza (Warszawa)</name>
+							<name code="base" newest="true">Uniwersytet Rzeszowski</name>
 						</names>
 					</period>
 				</history>
@@ -137,134 +85,15 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_292" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Filia we Wrocławiu (Akademia Sztuk Teatralnych im. St. Wyspiańskiego ; Kraków)</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_293" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Gdańsk :</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_294" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Gdańska Galeria Fotografii</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_295" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Kabaret Piwnica pod Baranami (Kraków)</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_296" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Kalisz :</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_297" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Kościół katolicki</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_298" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Lublin :</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_299" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Narodowy Stary Teatr im. Heleny Modrzejewskiej (Kraków)</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_300" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Odesa :</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_301" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Opera Bałtycka (Gdańsk)</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_302" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" viaf="https://viaf.org/viaf/296649780" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q11811361" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/297598743" removed="false">
 				<links>
-					<link access-date="2023-08-02" type="external-identifier">https://viaf.org/viaf/296649780</link>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11811361</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/297598743</link>
 				</links>
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Petit Skład Druk Oprawa, Wojciech Guz i Wspólnicy</name>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Kazimierza Wielkiego (Bydgoszcz)</name>
 						</names>
 					</period>
 				</history>
@@ -272,7 +101,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_303" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_755" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -284,11 +113,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_304" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_756" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Redakcja Dwutygodnika Diecezji Kaliskiej "Opiekun".</name>
+							<name code="base" newest="true">Uniwersytet Jagielloński</name>
 						</names>
 					</period>
 				</history>
@@ -296,11 +125,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_305" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_757" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Teatr "Baj Pomorski" (Toruń)</name>
+							<name code="base" newest="true">Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej (Kraków)</name>
 						</names>
 					</period>
 				</history>
@@ -308,11 +137,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_306" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_758" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Teatr Laboratorium (Wrocław)</name>
+							<name code="base" newest="true">Uniwersytet w Białymstoku</name>
 						</names>
 					</period>
 				</history>
@@ -320,11 +149,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_307" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_759" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Teatr Montownia</name>
+							<name code="base" newest="true">Wrocław : </name>
 						</names>
 					</period>
 				</history>
@@ -332,11 +161,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_308" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_760" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Teatr Polski (Poznań)</name>
+							<name code="base" newest="true">Gdynia :</name>
 						</names>
 					</period>
 				</history>
@@ -344,11 +173,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_309" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_761" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Teatr Provisorium (Lublin)</name>
+							<name code="base" newest="true">Poznań : </name>
 						</names>
 					</period>
 				</history>
@@ -356,11 +185,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_310" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_762" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Teatr Współczesny (Szczecin)</name>
+							<name code="base" newest="true">Katowice : </name>
 						</names>
 					</period>
 				</history>
@@ -368,7 +197,43 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_311" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_763" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Katowice :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_764" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Szczecin : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_765" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza (Częstochowa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_766" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -380,19 +245,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_312" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
-				<history>
-					<period>
-						<names>
-							<name code="base" newest="true">Uniwersytet Wrocławski</name>
-						</names>
-					</period>
-				</history>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
-			</institution>
-			<institution id="fake_id_313" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_767" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -404,7 +257,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_314" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_768" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -416,11 +269,15 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_315" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q9379265" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296942759" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379265</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296942759</link>
+				</links>
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Volksbühne am Rosa-Luxemburg-Platz (Berlin)</name>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Gdańskiego</name>
 						</names>
 					</period>
 				</history>
@@ -428,10 +285,388 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9379230" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" viaf="https://viaf.org/viaf/151913242" removed="false">
+			<institution id="fake_id_769" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Gdańsk :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379233" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296172458" removed="false">
 				<links>
-					<link access-date="2023-08-02" type="external-identifier">http://www.wikidata.org/entity/Q9379230</link>
-					<link access-date="2023-08-02" type="external-identifier">https://viaf.org/viaf/151913242</link>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379233</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296172458</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Novae Res - Wydawnictwo Innowacyjne, W. Gustowski, K. Szymoński</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_770" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Toruń :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_771" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wrocław :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379266" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/133925624" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379266</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/133925624</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Wrocławskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_772" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Białystok :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_773" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Bydgoszcz : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_774" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Gdańsk : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_775" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Gdańsk ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_776" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Badań Literackich (Polska Akademia Nauk)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_777" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/167466605" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/167466605</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Nauk o Kulturze (Uniwersytet Śląski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_778" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Kielce :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_779" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Krosno : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_780" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Lublin :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_781" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Rzeszów :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_782" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Sankt-Peterburg = Sankt Petersburg : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_783" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Sopot :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_784" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatry polskie współczesne, Scena Plastyczna Katolickiego Uniwersytetu Lubelskiego w Lublinie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_785" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Toruń : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_786" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Unia Europejska (UE)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_787" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Gdański</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_788" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Wrocławski</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_789" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Łódzki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379183" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/151487054" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379183</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/151487054</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Adam Marszałek</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_790" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/303488044" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/303488044</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Internetowe E-bookowo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_791" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/4145304687178611058" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/4145304687178611058</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo KUL</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_792" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/4145304687178611058" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/4145304687178611058</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo KUL</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_793" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296901964" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296901964</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Książkowe IBiS, Aleksander Nawrocki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_794" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296812774" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296812774</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Uniwersytetu Pedagogicznego im. Komisji Edukacji Narodowej (Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379230" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/151913242" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379230</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/151913242</link>
 				</links>
 				<history>
 					<period>
@@ -444,14 +679,14 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_316" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" viaf="https://viaf.org/viaf/297071748" removed="false">
+			<institution id="fake_id_795" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296311704" removed="false">
 				<links>
-					<link access-date="2023-08-02" type="external-identifier">https://viaf.org/viaf/297071748</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296311704</link>
 				</links>
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wydawnictwo Pejzaż</name>
+							<name code="base" newest="true">Wydawnictwo Prymat, Mariusz Śliwowski</name>
 						</names>
 					</period>
 				</history>
@@ -459,15 +694,14 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="http://www.wikidata.org/entity/Q9353469" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" viaf="https://viaf.org/viaf/296977697" removed="false">
+			<institution id="fake_id_796" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/297005122" removed="false">
 				<links>
-					<link access-date="2023-08-02" type="external-identifier">http://www.wikidata.org/entity/Q9353469</link>
-					<link access-date="2023-08-02" type="external-identifier">https://viaf.org/viaf/296977697</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/297005122</link>
 				</links>
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wydawnictwo Słowo/Obraz Terytoria</name>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Rzeszowskiego</name>
 						</names>
 					</period>
 				</history>
@@ -475,7 +709,2241 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_317" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="http://www.wikidata.org/entity/Q48860764" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/162131961" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q48860764</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/162131961</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Łódzkiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_797" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Filologiczny (Uniwersytet Gdański)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_798" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zielona Góra : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_799" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zielona Góra :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_800" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Związki, kluby, koła, stowarzyszenia twórcze polskie, Koło Literatów Polskich im. Zbigniewa Herberta w Lublinie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_801" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Będzin] :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_802" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Kraków] :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_803" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Łódź : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_804" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Łódź :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_805" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">"Prasowy" Warszawski Bar Mleczny</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_806" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">AT Wydawnictwo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_807" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Agora</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_808" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Akademia Pedagogiczna im. Komisji Edukacji Narodowej (Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_809" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Akademia Pomorska (Słupsk)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_810" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Akademia Pomorska (Słupsk)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q688872" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/146426261" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q688872</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/146426261</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Akademia Teatralna im. Aleksandra Zelwerowicza (Warszawa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_811" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Akademia im. Jana Długosza (Częstochowa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_812" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/39160544599709982089" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/39160544599709982089</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Alulalu Aleksander Jasiński</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_813" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/34146635580341981658" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/34146635580341981658</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Autorskie Galerie Sztuki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_814" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Białystok : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_815" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Białytsok ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_816" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Biblioteka Uniwersytecka (Warszawa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9175531" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296418658" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9175531</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296418658</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Bogucki Wydawnictwo Naukowe</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_817" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/408144782721944063502" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/408144782721944063502</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Bractwo św. Jakuba Apostoła w Więcławicach Starych</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_818" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Buda Ruska :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_819" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Ciechanów : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_820" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dom Kultury Kolejarza (Lublin)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_821" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dom Poezji - Muzeum Haliny Poświatowskiej (Częstochowa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_822" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dubiecko : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q5428241" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296915957" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q5428241</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296915957</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fabryka Słów</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_823" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/167757107" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/167757107</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fundacja Korporacja Ha!art</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_824" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/305221421" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/305221421</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fundacja Sąsiedzi</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_825" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/307495332" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/307495332</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fundacja na Rzecz Myślenia im. Barbary Skargi</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_826" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Fundacja Łódzki Szlak Kobiet</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_827" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Gołańcz, Wągrowiec : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_828" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Grupy literackie i artystyczne, Grupa Literacka "Centauro" w Łodzi</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_829" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Grupy literackie i artystyczne, Kontynenty</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_830" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Głogów : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_831" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/315536060" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/315536060</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Hedom</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_832" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytucje kulturalne, państwowe, społeczne polskie, Międzynarodowe Centrum Kultury w Krakowie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_833" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/4192156012436449700009" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/4192156012436449700009</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Filologii Polskiej (Uniwersytet Gdański)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_834" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Filologii Polskiej (Uniwersytet Marii Curie-Skłodowskiej)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_835" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/131387797" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/131387797</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Filologii Słowiańskiej (Uniwersytet Jagielloński)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q11713017" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/134096682" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11713017</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/134096682</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Filologii Wschodniosłowiańskiej (Uniwersytet Jagielloński)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q109417148" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/132060465" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q109417148</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/132060465</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Germanistyki (Uniwersytet Warszawski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q11713061" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/150873078" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11713061</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/150873078</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Historii Sztuki (Uniwersytet im. Adama Mickiewicza ; Poznań)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_836" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/301470470" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/301470470</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Historii i Archiwistyki (Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej ; Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_837" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/306437844" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/306437844</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Kultury Regionalnej i Badań Literackich im. Franciszka Karpińskiego Stowarzyszenie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_838" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/311805185" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/311805185</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Nauk o Kulturze i Studiów Interdyscyplinarnych (Uniwersytet Śląski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_839" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/6181156012414549700002" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/6181156012414549700002</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Pedagogiki i Pracy Socjalnej (Akademia Pomorska ; Słupsk)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_840" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Romanistyki (Uniwersytet Warszawski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_841" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Stosowanych Nauk Społecznych (Uniwersytet Warszawski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_842" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytuty pozauczelniane, komitety i towarzystwa naukowe w Polsce, Ośrodek Badań Twórczości Jerzego Grotowskiego i Poszukiwań Teatralno-Kulturowych we Wrocławiu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_843" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Kalisz :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_844" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Karlsruhe ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_845" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/315236784" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/315236784</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Katedra Homiletyki (Katolicki Uniwersytet Lubelski Jana Pawła II)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_846" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/311799873" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/311799873</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Katedra Kulturoznawstwa i Folklorystyki (Uniwersytet Opolski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_847" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Katolicki Uniwersytet Lubelski Jana Pawła II.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_848" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Kielce : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_849" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Komuna// Warszawa</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_850" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Koło Polonistów (Uniwersytet im. Adama Mickiewicza ; Poznań)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_851" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Krosno :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_852" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296233099" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296233099</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Krośnieńska Oficyna Wydawnicza</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q11750492" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/313020065" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11750492</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/313020065</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Księgarnia Akademicka (Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_853" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Lublin  :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_854" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/15157413002416050302" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/15157413002416050302</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Malczewski</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_855" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/299317341" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/299317341</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Media-Expo, Wawrzyniec Wierzejewski</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_856" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzea polskie, Muzeum Narodowe w Gdańsku</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_857" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/3171156133209758430003" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/3171156133209758430003</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Narodowe (Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_858" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Narodowe (Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_859" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Narodowe (Warszawa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_860" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Okręgowe im. Leona Wyczółkowskiego (Bydgoszcz)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_861" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Żup Krakowskich Wieliczka</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379233" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296172458" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379233</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296172458</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Novae Res - Wydawnictwo Innowacyjne, W. Gustowski, K. Szymoński</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_862" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Nowa Ruda : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_863" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/66153651752155782187" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/66153651752155782187</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Noworudzkie Towarzystwo Kulturalne</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_864" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Odessa :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q11796609" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/151459661" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11796609</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/151459661</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Konfraterni Poetów</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q11796615" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/163465050" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11796615</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/163465050</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza Atut</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_865" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/311329719" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/311329719</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza Kalliope</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_866" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296726114" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296726114</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza Politechniki Wrocławskiej</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_867" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296382803" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296382803</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza Ston 2</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_868" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296635757" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296635757</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza Uniwersytetu Zielonogórskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_869" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296321309" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296321309</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza, Wacław Walasek</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_870" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Olsztyn : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_871" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Opole : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_872" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Opéra national de Lyon</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_873" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Paśny Buriat</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_874" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pelplin :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_875" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pilawa, [Lubaczów] : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_876" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/313277713" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/313277713</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Polihymnia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q931642" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/8029156012419649700001" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q931642</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/8029156012419649700001</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Politechnika Krakowska im. Tadeusza Kościuszki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_877" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Poznańskie Towarzystwo Przyjaciół Nauk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_878" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/307488909" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/307488909</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pracownia Humanistycznych Studiów Interdyscyplinarnych (Uniwersytet im. Adama Mickiewicza ; Poznań)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_879" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/96156009839749580622" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/96156009839749580622</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Projekt Kłobook</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_880" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296183385" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296183385</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Przedsiębiorstwo Produkcyjno-Handlowe Zapol, Dmochowski, Sobczyk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_881" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Radomsko :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_882" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/132145909988227020322" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/132145909988227020322</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Ridero IT Publishing</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_883" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Rzeszów : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_884" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">S.l. : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_885" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/306415370" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/306415370</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Samorządowa Agencja Promocji i Kultury</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_886" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Scena Propozycji (Zabrze)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_887" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Siedlce :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_888" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Stacja Polarna UAM "Petuniabukta" (Spitsbergen)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_889" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/313021374" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/313021374</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Stowarzyszenie Jeszcze Żywych Poetów</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_890" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Stowarzyszenie Nasze Kaliskie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_891" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/43156856495549602282" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/43156856495549602282</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Stowarzyszenie Twoje Korzenie w Polsce</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9346294" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/261187663" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9346294</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/261187663</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Stowarzyszenie Twórcze Artystyczno-Literackie (Kraków)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_892" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/145039097" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/145039097</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Studio 69</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_893" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Studium Literacko-Artystyczne (Uniwersytet Jagielloński)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_894" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Szczecin ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_895" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Szczecinek :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_896" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Słupsk :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_897" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatr Laboratorium (Wrocław)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_898" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatr Polski (Wrocław)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_899" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatr Polskiego Radia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_900" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatr Usta Usta Republika</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_901" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatr Współczesny (Warszawa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_902" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatry obce, The Living Theatre w Nowym Jorku</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_903" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Teatry polskie współczesne, Ośrodek Praktyk Teatralnych  "Gardzienice" w Gardzienicach</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_904" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Toruń ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_905" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Autorów i Wydawców Prac Naukowych "Universitas"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_906" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Naukowe (Toruń)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q113679033" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/129327532" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q113679033</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/129327532</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Słowaków w Polsce</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_907" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Gdański</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_908" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Marii Curie-Skłodowskiej</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_909" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Mikołaja Kopernika (Toruń)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_910" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Muzyczny Fryderyka Chopina</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_911" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Przyrodniczo-Humanistyczny (Siedlce)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_912" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Warmińsko-Mazurski (Olsztyn)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_913" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Warszawski</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_914" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Zielonogórski</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_915" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytety, szkoły wyższe i inne uczelnie polskie, Uniwersytet Szczeciński w Szczecinie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_916" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Varsovia : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_917" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Warszawa ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_918" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wieliczka ;</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379181" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/128401656" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379181</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/128401656</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwa Uniwersytetu Warszawskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_919" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Śląsk".</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_920" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/314917184" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/314917184</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Bernardinum</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_921" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296474229" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296474229</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Duszpasterstwa Rolników</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_922" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/57150565745406252850" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/57150565745406252850</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Ferratus Michał Smętek</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q8039667" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/132941324" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q8039667</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/132941324</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Mag, Jacek Rodek</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_923" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/303580385" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/303580385</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Katedra</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q7754037" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/7145304712078610997" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q7754037</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/7145304712078610997</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q7754037" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/7145304712078610997" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q7754037</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/7145304712078610997</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q52664857" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/261082772" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q52664857</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/261082772</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Uniwersytetu Szczecińskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q104577414" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/262975336" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q104577414</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/262975336</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Śląsk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q11794070" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/247886356" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q11794070</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/247886356</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Nowy Świat</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_924" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/302672044" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/302672044</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Poznańskie Studia Polonistyczne</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379244" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/142096792" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379244</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/142096792</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Poznańskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379252" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/166801616" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379252</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/166801616</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Salwator</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_925" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296177432" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296177432</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Scriptum, Tomasz Sekunda</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_926" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/71148752186741201686" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/71148752186741201686</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Sorus</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_927" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296929240" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296929240</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Stapis</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379265" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296942759" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379265</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296942759</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Gdańskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q8039670" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/123719475" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q8039670</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/123719475</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Jagiellońskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q8039670" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/123719475" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q8039670</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/123719475</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Jagiellońskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_928" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/4099159820944314000000" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/4099159820944314000000</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Kardynała Stefana Wyszyńskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_929" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/297005122" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/297005122</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Rzeszowskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9379266" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/133925624" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9379266</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/133925624</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Wrocławskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q8039671" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/161630855" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q8039671</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/161630855</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Śląskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q8039671" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/161630855" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q8039671</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/161630855</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Śląskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_930" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Zakonu Świętego Pawła Pierwszego Pustelnika "Paulinianum"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_931" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/443144782726004518913" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/443144782726004518913</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo i Szkolenia, Przemysław Pufal</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_932" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/2763160062442635790007" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/2763160062442635790007</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Antropologii i Kulturoznawstwa (Uniwersytet im. Adama Mickiewicza ; Poznań)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_933" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -487,11 +2955,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_318" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_934" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wydział Polonistyki (Uniwersytet Jagielloński)</name>
+							<name code="base" newest="true">Wydział Filologiczny (Uniwersytet Łódzki)</name>
 						</names>
 					</period>
 				</history>
@@ -499,7 +2967,1416 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_319" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_935" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Filologiczny (Uniwersytet Śląski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_936" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Filologii Polskiej i Klasycznej (Uniwersytet im. Adama Mickiewicza ; Poznań)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_937" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Geografii i Studiów Regionalnych (Uniwersytet Warszawski)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_938" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Humanistyczny (Uniwersytet Mikołaja Kopernika ; Toruń)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9380856" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/164301287" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9380856</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/164301287</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyższa Szkoła Turystyki i Języków Obcych (Warszawa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_939" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296985724" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296985724</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wąbrzeskie Zakłady Graficzne</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_940" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wąbrzeźno :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_941" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Włocławek : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_942" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zachodniopomorski Uniwersytet Technologiczny (Szczecin)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_943" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zagnańsk :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_944" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/48156009945049581096" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/48156009945049581096</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zakład Geografii Miast (Uniwersytet Łódzki)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="http://www.wikidata.org/entity/Q9386243" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/296078932" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">http://www.wikidata.org/entity/Q9386243</link>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/296078932</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zakład Wydawniczy Nomos</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_945" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zespół Interdyscyplinarnych Badań Książki Obrazkowej (Uniwersytet Gdański)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_946" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zespół Szkół Specjalnych nr 89 (Warszawa)</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_947" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Złotów :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_948" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Częstochowa :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_949" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Izabelin] :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_950" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Toruń] :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_951" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Warszawa] :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_952" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Świebodzin] :</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_953" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Łask : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_954" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Łomża : </name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_955" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" viaf="https://viaf.org/viaf/164281482" removed="false">
+				<links>
+					<link access-date="2023-09-07" type="external-identifier">https://viaf.org/viaf/164281482</link>
+				</links>
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Świętokrzyskie Towarzystwo Regionalne</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_956" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Opieki nad Archiwum Instytutu Literackiego w Paryżu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_957" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wyższa Szkoła Turystyki i Języków Obcych</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_958" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Scriptum Tomasz Sekunda</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_959" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Manufaktura Słów</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_960" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pracownia Humanistycznych Studiów Interdyscyplinarnych. Wydział Filologii Polskiej i Klasycznej. Uniwersytet im. Adama Mickiewicza</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_961" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Izdatel'skaâ Gruppa "Azbuka-Klassika" = Wyd. Azbooka-Klasyka</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_962" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Narodowe</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_963" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zakład Wydawniczy "Nomos"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_964" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">(i)WN IKRiBL</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_965" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Kłobook</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_966" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Miska Ryżu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_967" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Świat Książki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_968" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">IBL - Instytut Badań Literackich PAN. Wydawnictwo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_969" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Naukowe w Toruniu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_970" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Ridero</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_971" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Uniwersytetu Pedagogicznego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_972" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Grupa Literacka "Centauro"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_973" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">[Barbara Mazurkiewicz]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_974" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Atla 2</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_975" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe UP</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_976" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe im. Adama Mickiewicza</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_977" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Biblioteka Publiczna. Towarzystwo Przyjaciół Ziemi Łaskiej</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_978" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">WSP [Wyższa Szkoła Pedagogiczna]. Wydawnictwo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_979" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Alulalu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_980" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Poznańskie Studia Polonistyczne"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_981" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Śląsk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_982" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_983" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe PWN</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_984" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">LOW [Lubuska Oficyna Wydawnicza]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_985" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Księgarnia Akademicka</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_986" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Korporacja Ha!art</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_987" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Buchers Design</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_988" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Stowarzyszenie Twórcze Artystyczno-Literackie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_989" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Przedsiębiorstwo Produkcyjno-Handlowe ZAPOL Dmochowski, Sobczyk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_990" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pomorze</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_991" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Wydawniczy Centralnego Ośrodka Metodycznego Domu Wojska Polskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_992" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Muzeum Powstania Warszawskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_993" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Uniwersytetu Kardynała Stefana Wyszyńskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_994" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe UAM [Uniwersytetu im. Adama Mickiewicza]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_995" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Germanistyki Uniwersytetu Warszawskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_996" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Poznańskie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_997" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Instytut Wydawniczy "Świadectwo"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_998" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza Wacław Walasek</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_999" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Nauczycielski Klub Literacki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1000" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Znak</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1001" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Zysk i S-ka. Wydawnictwo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1002" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Związek Literatów Polskich. Oddział</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1003" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe Akademii Pomorskiej w Słupsku</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1004" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Naukowa</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1005" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">wydano staraniem Stowarzyszenia Nasze Kaliskie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1006" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Varia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1007" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydział Geografii i Studiów Regionalnych UW</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1008" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Organon</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1009" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Górnośląskie Towarzystwo Literackie</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1010" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Mikołaja Kopernika</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1011" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Naukowe US [Uniwersytetu Szczecińskiego]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1012" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Sic!</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1013" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Mikołaja Kopernika</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1014" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Przyjaciół Gardzienic. Odra</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1015" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Malczewski Agnieszka Malczewska</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1016" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Redakcja Głos Katolicki</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1017" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Mag</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1018" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Maria Szafran</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1019" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Czuwajmy"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1020" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">s.n.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1021" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo PK</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1022" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Kazimierza Wielkiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1023" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Bernardinum" Sp. z o.o.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1024" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Słowo/Obraz Terytoria</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1025" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Drukarnia Hedom Michna Henryk</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1026" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">ZPW "M-Druk" Janusz Muszyński</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1027" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">IBL [Instytut Badań Literackich]. Wydawnictwo</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1028" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Dom Wydawniczy "Gest"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1029" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Polihymnia</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1030" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Atut</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1031" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">"Śląsk" Wydawnictwo Naukowe</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1032" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Sorus</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1033" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Pamięć Narodu</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1034" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Drukarnia-Wydawnictwo "Druk-Ar"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1035" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wąbrzeskie Zakłady Graficzne Sp. z o.o.</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1036" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Książkowe IBiS</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1037" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Azbuka</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1038" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo "Amber"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1039" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo DiG</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1040" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Towarzystwo Autorów i Wydawców Prac Naukowych Universitas</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1041" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Uniwersytet Opolski. Instytut Filologii Polskiej</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1042" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">UŚ [Uniwersytet Śląski]</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1043" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Mag</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1044" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Novae Res - Wydawnictwo Innowacyjne</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1045" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Samorządowa Agencja Promocji i Kultury w Szczecinku</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1046" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Inicjatywa Ewangelizacyjna Wejdźmy na Szczyt</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1047" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Urząd Gminy</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1048" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Uniwersytetu Warszawskiego</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1049" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
@@ -511,11 +4388,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_320" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_1050" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Wydawnictwo Słowo/obraz Terytoria</name>
+							<name code="base" newest="true">Instytut Badań Literackich PAN. Wydawnictwo</name>
 						</names>
 					</period>
 				</history>
@@ -523,11 +4400,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_321" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_1051" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Dwutygodnik Diecezji Kaliskiej "Opiekun"</name>
+							<name code="base" newest="true">Wydawnictwo św. Stanisława BM Archidiecezji Krakowskiej</name>
 						</names>
 					</period>
 				</history>
@@ -535,11 +4412,11 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_322" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_1052" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">Petit Skład-Druk-Oprawa Wojciech Guz i Wspólnicy</name>
+							<name code="base" newest="true">CESLA [Centro de Estudios Latinoamericanos. Universidad de Varsovia]</name>
 						</names>
 					</period>
 				</history>
@@ -547,11 +4424,59 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</institution>
-			<institution id="fake_id_323" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02" removed="false">
+			<institution id="fake_id_1053" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
 				<history>
 					<period>
 						<names>
-							<name code="base" newest="true">ONU</name>
+							<name code="base" newest="true">Wydawnictwo Synapsis</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1054" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">AGS</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1055" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Oficyna Wydawnicza "Ston 2"</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1056" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo i Szkolenia Przemysław Pufal</name>
+						</names>
+					</period>
+				</history>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</institution>
+			<institution id="fake_id_1057" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07" removed="false">
+				<history>
+					<period>
+						<names>
+							<name code="base" newest="true">Wydawnictwo Prymat Mariusz Śliwowski</name>
 						</names>
 					</period>
 				</history>

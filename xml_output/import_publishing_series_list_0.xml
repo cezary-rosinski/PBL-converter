@@ -1,54 +1,309 @@
 <pbl>
 	<files>
 		<publishing-series-list>
-			<publishing-series id="fake_id_330" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1064" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Twarze</title>
+					<title code="base" newest="true" transliteration="false">Prace Instytutu Filologii Polskiej Uniwersytetu im. Adama Mickiewicza</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_331" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1065" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Historia / Uniwersytet im. Adama Mickiewicza w Poznaniu, nr 224</title>
+					<title code="base" newest="true" transliteration="false">Prace Naukowe Uniwersytetu Śląskiego w Katowicach, nr 2321</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_332" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1066" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Warszawa nieodbudowana</title>
+					<title code="base" newest="true" transliteration="false">Myśleć</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_333" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1067" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Proza</title>
+					<title code="base" newest="true" transliteration="false">Star Wars. Wojny Klonów</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_334" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1068" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Witamy w Polsce</title>
+					<title code="base" newest="true" transliteration="false">Badania Polonistyczne za Granicą, t. 13</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_335" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1069" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Almanach Kawiarni Literackiej w "Modraczku"</title>
+					<title code="base" newest="true" transliteration="false">Ścieżkami Pisarzy</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_336" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1070" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Kapuściński bez znieczulenia</title>
+					<title code="base" newest="true" transliteration="false">1371815</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_337" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1071" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Biblioteka Opiekuna. Beletrystyka</title>
+					<title code="base" newest="true" transliteration="false">Acta Universitatis Wratislaviensis, no 4073</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_338" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1072" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Poezje</title>
+					<title code="base" newest="true" transliteration="false">Języki i Literatury</title>
 				</titles>
 			</publishing-series>
-			<publishing-series id="fake_id_339" status="published" creator="cezary_rosinski" creation-date="2023-08-02" publishing-date="2023-08-02">
+			<publishing-series id="fake_id_1073" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
 				<titles>
-					<title code="base" newest="true" transliteration="false">Na drugi rzut oka</title>
+					<title code="base" newest="true" transliteration="false">Rozprawy i Studia/ Uniwersytet Szczeciński</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1074" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Kameleon</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1075" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Teorie i Praktyki Komunikacyjne</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1076" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Literatura Faktu</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1077" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Filozofia i Logika / Uniwersytet im. Adama Mickiewicza w Poznaniu</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1078" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Bilingua</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1079" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Portrety Literackie</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1080" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Między filmem a teatrem</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1081" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Monografia / Politechnika Krakowska im. Tadeusza Kościuszki. Architektura</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1082" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Dramat, Teatr</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1083" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Przeglądu Rusycystycznego</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1084" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Zaginiona flota / Jack Campbell</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1085" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Obszary Literatury i Sztuki</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1086" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Prace Monograficzne / Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1087" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Prace Naukowe Uniwersytetu  Śląskiego, nr 1864</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1088" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Medytacje wielkanocne / Piotr Sikora</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1089" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Literatura Górska na Świecie</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1090" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Narracje w Edukacji</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1091" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Filologia Polska / Uniwersytet im. Adama Mickiewicza w Poznaniu, nr 107</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1092" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Cyfrowa Humanistyka</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1093" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Słownictwo pism Stefana Żeromskiego</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1094" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Wschodu</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1095" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Zwierzęta z bieszczadzkiego lasu / Urszula Kuncewicz-Jasińska</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1096" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Prace Monograficzne Komisji Edukacji Geograficznej Polskiego Towarzystwa Geograficznego</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1097" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Literacka "Poznańskich Studiów Polonistycznych", t. 68</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1098" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Acta Universitatis Wratislaviensis, no 2833</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1099" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Rozprawy i Monografie / [Uniwersytet Gdański]</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1100" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Sprawozdania Wydziału Nauk o Sztuce / Poznańskie Towarzystwo Przyjaciół Nauk</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1101" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Nowy Wiek Biblioteka</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1102" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Studia i Materiały WSP [Wyższej Szkoły Pedagogicznej] w Olsztynie</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1103" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Prace Naukowe Uniwersytetu Śląskiego w Katowicach, 3468</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1104" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Komparatystyka Polska : tradycja i współczesność</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1105" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Studia i Materiały - Centrum Studiów Latynoamerykańskich</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1106" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Oblicza Feminizmu</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1107" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Rozprawy UMK</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1108" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Stanowiska / Interpretacje</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1109" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Select</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1110" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">W Stronę Edukacji</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1111" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Biblioteka Świętokrzyska</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1112" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Colloquia Orientalia Bialostocensia : literatura, historia</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1113" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Prace Instytutu Historii i Archiwistyki Uniwersytetu Pedagogicznego im. KEN</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1114" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">W Społeczno-Medialnej Sieci</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1115" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Acta Universitatis Wratislaviensis</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1116" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Psychologia i Pedagogika / Uniwersytet im. Adama Mickiewicza w Poznaniu, nr 245</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1117" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">"Liście"</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1118" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Analecta Literackie i Językowe</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1119" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Dissertationes Laudatissimae Universitas Gedanensis</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1120" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">[TrWał 15:7]</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1121" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">553284</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1122" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Outstanding WA Dissertations</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1123" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Horyzonty Nowoczesności</title>
+				</titles>
+			</publishing-series>
+			<publishing-series id="fake_id_1124" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+				<titles>
+					<title code="base" newest="true" transliteration="false">Rodzina Dawna : studia historyczno-antropologiczne</title>
 				</titles>
 			</publishing-series>
 		</publishing-series-list>
