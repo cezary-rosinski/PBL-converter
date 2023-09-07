@@ -337,7 +337,7 @@ def preprocess_books(origin_data, pub_places_data):
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
-    with open('./additional_files/dbn2pbl.json', encoding='utf-8') as jfile_1, open('./additional_files/new_pbl_headings.json', encoding='utf-8') as jfile_2:
+    with open('./additional_files/dbn2pbl.json', encoding='utf-8') as jfile_1, open('./additional_files/new_pbl_headings_updated.json', encoding='utf-8') as jfile_2:
         dbn2pbl = json.load(jfile_1)
         new_pbl_headings = json.load(jfile_2)
     
@@ -374,7 +374,7 @@ def preprocess_books(origin_data, pub_places_data):
     authors = {k:list(v) for k,v in authors.items()}                                  
     cocreators = {k:list(v) for k,v in cocreators.items()}
     
-    # headings
+    # headings old
     def get_heading(string, bn=True):
         output_headings = set()
         if bn:
@@ -397,8 +397,11 @@ def preprocess_books(origin_data, pub_places_data):
         if headings_set:
             headings[rec_id] = list(headings_set)
 
+    # headings new
+    # 650/655 jest $a i $2 lub tylko $a - deskryptory
+    # inna sytuacja - JHP    
+
     pub_places_data = [{k:v for k,v in e.items() if k in ['name', 'wiki']} for e in pub_places_data]
-    
     
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
     # records_types = dict(ChainMap(*records_types))
