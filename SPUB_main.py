@@ -61,6 +61,10 @@ journal_items_data = preprocess_journal_items(import_biblio)
 
 books_data = preprocess_books(import_biblio, import_places)
 
+# test save
+# with open('./additional_files/test/books_headings_old_pbl.json', 'w', encoding='utf-8') as jfile:
+#     json.dump(books_data, jfile, indent=4, ensure_ascii=False)
+
 #%% create class
 
 places = [Place.from_dict(e) for e in tqdm(places_data)]

@@ -375,32 +375,60 @@ def preprocess_books(origin_data, pub_places_data):
     cocreators = {k:list(v) for k,v in cocreators.items()}
     
     # headings old
-    def get_heading(string, bn=True):
-        output_headings = set()
-        if bn:
-            string = re.sub('^..\$a', '', string).replace('$2DBN', '')
-            old_pbl_headings = dbn2pbl.get(string, [])
-            for head in old_pbl_headings:
-                old_pbl_key = head['first_str'].lower()
-                if new_heads := new_pbl_headings.get(old_pbl_key):
-                    for new_head in new_heads:
-                        output_headings.add(new_head['hash'])
-        return list(output_headings)
+    # def get_heading(string, bn=True):
+    #     output_headings = set()
+    #     if bn:
+    #         string = re.sub('^..\$a', '', string).replace('$2DBN', '')
+    #         old_pbl_headings = dbn2pbl.get(string, [])
+    #         for head in old_pbl_headings:
+    #             old_pbl_key = head['first_str'].lower()
+    #             if new_heads := new_pbl_headings.get(old_pbl_key):
+    #                 for new_head in new_heads:
+    #                     output_headings.add(new_head['hash'])
+    #     return list(output_headings)
         
+    # headings = {}
+    # for rec in origin_data:
+    #     rec_id = rec.get('id')
+    #     headings_set = set()
+    #     subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
+    #     for sub in subjects_from_rec:
+    #         headings_set.update(get_heading(sub))
+    #     if headings_set:
+    #         headings[rec_id] = list(headings_set)
+
+    # headings new
+    # 650/655 jest $a i $2 lub tylko $a - deskryptory
+    # inna sytuacja - 
+    with open('./additional_files/headings650.json', encoding='utf-8') as jfile_1, open('./additional_files/headings655.json', encoding='utf-8') as jfile_2:
+        headings650 = json.load(jfile_1)
+        headings655 = json.load(jfile_2)
+    
+    def get_heading(string, descriptor=True):
+        output_headings = set()
+        if descriptor:
+            if (string := re.search('(?<=..\$a).+?(?=\$2|$)', string)):
+                string = string.group(0)
+                for dct in (headings650, headings655):
+                    heads = [(e['path_str'], ' - '.join([str(h[0]) for h in e['chain']])) for e in dct.get(string, [])]
+                    output_headings.update(heads)
+        return list(output_headings)
+    
     headings = {}
     for rec in origin_data:
         rec_id = rec.get('id')
         headings_set = set()
         subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
-        for sub in subjects_from_rec:
-            headings_set.update(get_heading(sub))
+        for elem in subjects_from_rec:
+            if '$a' in elem and '$2' in elem or elem.count('$') == 1 and '$a' in elem: # deskryptor
+                headings_set.update(get_heading(elem))
+            else: # JHP
+                pass
         if headings_set:
             headings[rec_id] = list(headings_set)
-
-    # headings new
-    # 650/655 jest $a i $2 lub tylko $a - deskryptory
-    # inna sytuacja - JHP    
-
+    
+    
+    
     pub_places_data = [{k:v for k,v in e.items() if k in ['name', 'wiki']} for e in pub_places_data]
     
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
@@ -450,9 +478,10 @@ def preprocess_books(origin_data, pub_places_data):
             'publishers': publishers_data.get(elem_id),
             'physical_description': physical_description_data.get(elem_id),
             'cocreators': cocreators.get(elem_id),
-            'headings': headings.get(elem_id),
+            # 'headings': headings.get(elem_id),
             'genre_major': elem.get('genre_major'),
             'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
+            'headings_old_pbl': headings.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data
