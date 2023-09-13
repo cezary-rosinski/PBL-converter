@@ -62,8 +62,10 @@ journal_items_data = preprocess_journal_items(import_biblio)
 books_data = preprocess_books(import_biblio, import_places)
 
 # test save
-# with open('./additional_files/test/books_headings_old_pbl.json', 'w', encoding='utf-8') as jfile:
-#     json.dump(books_data, jfile, indent=4, ensure_ascii=False)
+with open('./additional_files/test/books_headings_test.json', 'w', encoding='utf-8') as jfile:
+    json.dump(books_data, jfile, indent=4, ensure_ascii=False)
+with open('./additional_files/test/journal_items_headings_test.json', 'w', encoding='utf-8') as jfile:
+    json.dump(journal_items_data, jfile, indent=4, ensure_ascii=False)
 
 #%% create class
 

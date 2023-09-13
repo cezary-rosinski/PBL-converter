@@ -221,6 +221,20 @@ def preprocess_journal_items(origin_data):
     
     origin_data = [e for e in origin_data if 'Journal article' in e.get('format_major') and 'fullrecord' in e]
     
+    # full record
+    full_recs = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        full = rec.get('fullrecord')
+        full_recs[rec_id] = full
+        
+    # record subjects 650 and 655
+    recs_subs = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
+        recs_subs[rec_id] = subjects_from_rec
+    
     # authors and cocreators
     authors = {}
     cocreators = {}
@@ -250,28 +264,72 @@ def preprocess_journal_items(origin_data):
     cocreators = {k:list(v) for k,v in cocreators.items()}
     
     # headings
-    def get_heading(string, bn=True):
-        output_headings = set()
-        if bn:
-            string = re.sub('^..\$a', '', string).replace('$2DBN', '')
-            old_pbl_headings = dbn2pbl.get(string, [])
-            for head in old_pbl_headings:
-                old_pbl_key = head['first_str'].lower()
-                if new_heads := new_pbl_headings.get(old_pbl_key):
-                    for new_head in new_heads:
-                        output_headings.add(new_head['hash'])
-        return list(output_headings)
+    # def get_heading(string, bn=True):
+    #     output_headings = set()
+    #     if bn:
+    #         string = re.sub('^..\$a', '', string).replace('$2DBN', '')
+    #         old_pbl_headings = dbn2pbl.get(string, [])
+    #         for head in old_pbl_headings:
+    #             old_pbl_key = head['first_str'].lower()
+    #             if new_heads := new_pbl_headings.get(old_pbl_key):
+    #                 for new_head in new_heads:
+    #                     output_headings.add(new_head['hash'])
+    #     return list(output_headings)
         
+    # headings = {}
+    # for rec in origin_data:
+    #     rec_id = rec.get('id')
+    #     headings_set = set()
+    #     subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
+    #     for sub in subjects_from_rec:
+    #         headings_set.update(get_heading(sub))
+    #     if headings_set:
+    #         headings[rec_id] = list(headings_set)
+    
+    with open('./additional_files/headings650.json', encoding='utf-8') as jfile_1, \
+        open('./additional_files/headings655.json', encoding='utf-8') as jfile_2, \
+        open('./additional_files/new_pbl_headings.json', encoding='utf-8') as jfile_3:
+        headings650 = json.load(jfile_1)
+        headings655 = json.load(jfile_2)
+        new_pbl_headings = json.load(jfile_3)
+        
+    oracle_to_postgresql_df = pd.read_excel('./additional_files/oracle_postgresql.xlsx').fillna('').astype(str)
+    oracle_to_postgresql_dct = {}
+    for idx,row in oracle_to_postgresql_df.iterrows():
+        oracle_id = row['oracle']
+        postgresql_id = postgresql_id = set([e for e in row['postgresql'].split('\n') if e.endswith('.')])
+        if oracle_id and postgresql_id:
+            oracle_to_postgresql_dct.setdefault(oracle_id, set()).update(postgresql_id)
+    oracle_to_postgresql_dct = {k:[new_pbl_headings.get(e) for e in v if new_pbl_headings.get(e)] for k,v in oracle_to_postgresql_dct.items()}
+    
+    def get_heading(string, descriptor=True):
+        output_headings = set()
+        if descriptor:
+            if (string := re.search('(?<=..\$a).+?(?=\$2|$)', string)):
+                string = string.group(0)
+                for dct in (headings650, headings655):
+                    heads = [(e['path_str'], ' - '.join([str(h[0]) for h in e['chain']])) for e in dct.get(string, [])]
+                    output_headings.update(heads)
+        return list(output_headings)
+    
     headings = {}
     for rec in origin_data:
         rec_id = rec.get('id')
         headings_set = set()
         subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
-        for sub in subjects_from_rec:
-            headings_set.update(get_heading(sub))
+        for elem in subjects_from_rec:
+            if '$a' in elem and '$2' in elem or elem.count('$') == 1 and '$a' in elem: # JHP
+                oracle_headings = get_heading(elem)
+                oracle_headings = set([e[1].split(' - ')[0] for e in oracle_headings])
+                postgresql_headings = [oracle_to_postgresql_dct.get(e) for e in oracle_headings if oracle_to_postgresql_dct.get(e)]
+                postgresql_headings = [item for row in postgresql_headings for item in row]
+                postgresql_headings = set([(e['hash'], e['nr_dzialu'], e['nazwa_dzialu'], e['simplified_str']) for e in postgresql_headings])
+                headings_set.update(postgresql_headings)
+            else: # deskryptor
+                pass
         if headings_set:
             headings[rec_id] = list(headings_set)
-    
+    # headings end
     
     records_types = [{e.get('id'): [ele for sub in [el.get('655') for el in parse_mrk(e.get('fullrecord'))] for ele in sub] if [el.get('655') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('655') for el in parse_mrk(e.get('fullrecord'))]} for e in origin_data]
     records_types = {list(e.keys())[0]:list(e.values())[0] for e in records_types}
@@ -319,9 +377,11 @@ def preprocess_journal_items(origin_data):
             'journal_year_str': journal_year_str, 
             'journal_number_str': journal_number_str,
             'pages': re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]).group(0) if sources_data[elem_id].get('article_resource_related_str_mv') and re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]) else '',
-            'headings': headings.get(elem_id),
+            # 'headings': headings.get(elem_id),
             'genre_major': elem.get('genre_major'),
             'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
+            'headings_test': headings.get(elem_id),
+            'rec_subs': recs_subs.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     
@@ -337,14 +397,24 @@ def preprocess_books(origin_data, pub_places_data):
     with open(r".\additional_files\language_map_iso639-1.ini", encoding='utf-8') as f:
         language_codes = {e.split(' = ')[-1].strip(): e.split(' = ')[0].strip() for e in f.readlines() if e}
     
-    with open('./additional_files/dbn2pbl.json', encoding='utf-8') as jfile_1, open('./additional_files/new_pbl_headings_updated.json', encoding='utf-8') as jfile_2:
-        dbn2pbl = json.load(jfile_1)
-        new_pbl_headings = json.load(jfile_2)
-    
     pbl_cocreators_mapping = pd.read_excel("./additional_files/co-creators_mapping.xlsx")
     pbl_cocreators_mapping = {row['to_map']:row['pbl_code'] for idx,row in pbl_cocreators_mapping.iterrows()}
     
     origin_data = [e for e in origin_data if 'Book' in e.get('format_major') and 'fullrecord' in e and any(el in e.get('fullrecord') for el in ['264', '260'])]
+    
+    # full record
+    full_recs = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        full = rec.get('fullrecord')
+        full_recs[rec_id] = full
+        
+    # record subjects 650 and 655
+    recs_subs = {}
+    for rec in origin_data:
+        rec_id = rec.get('id')
+        subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
+        recs_subs[rec_id] = subjects_from_rec
     
     # authors and cocreators
     authors = {}
@@ -400,9 +470,26 @@ def preprocess_books(origin_data, pub_places_data):
     # headings new
     # 650/655 jest $a i $2 lub tylko $a - deskryptory
     # inna sytuacja - 
-    with open('./additional_files/headings650.json', encoding='utf-8') as jfile_1, open('./additional_files/headings655.json', encoding='utf-8') as jfile_2:
+    
+    # with open('./additional_files/dbn2pbl.json', encoding='utf-8') as jfile_1, open('./additional_files/new_pbl_headings_updated.json', encoding='utf-8') as jfile_2:
+    #     dbn2pbl = json.load(jfile_1)
+    #     new_pbl_headings = json.load(jfile_2)
+    
+    with open('./additional_files/headings650.json', encoding='utf-8') as jfile_1, \
+        open('./additional_files/headings655.json', encoding='utf-8') as jfile_2, \
+        open('./additional_files/new_pbl_headings.json', encoding='utf-8') as jfile_3:
         headings650 = json.load(jfile_1)
         headings655 = json.load(jfile_2)
+        new_pbl_headings = json.load(jfile_3)
+        
+    oracle_to_postgresql_df = pd.read_excel('./additional_files/oracle_postgresql.xlsx').fillna('').astype(str)
+    oracle_to_postgresql_dct = {}
+    for idx,row in oracle_to_postgresql_df.iterrows():
+        oracle_id = row['oracle']
+        postgresql_id = postgresql_id = set([e for e in row['postgresql'].split('\n') if e.endswith('.')])
+        if oracle_id and postgresql_id:
+            oracle_to_postgresql_dct.setdefault(oracle_id, set()).update(postgresql_id)
+    oracle_to_postgresql_dct = {k:[new_pbl_headings.get(e) for e in v if new_pbl_headings.get(e)] for k,v in oracle_to_postgresql_dct.items()}
     
     def get_heading(string, descriptor=True):
         output_headings = set()
@@ -420,9 +507,14 @@ def preprocess_books(origin_data, pub_places_data):
         headings_set = set()
         subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
         for elem in subjects_from_rec:
-            if '$a' in elem and '$2' in elem or elem.count('$') == 1 and '$a' in elem: # deskryptor
-                headings_set.update(get_heading(elem))
-            else: # JHP
+            if '$a' in elem and '$2' in elem or elem.count('$') == 1 and '$a' in elem: # JHP
+                oracle_headings = get_heading(elem)
+                oracle_headings = set([e[1].split(' - ')[0] for e in oracle_headings])
+                postgresql_headings = [oracle_to_postgresql_dct.get(e) for e in oracle_headings if oracle_to_postgresql_dct.get(e)]
+                postgresql_headings = [item for row in postgresql_headings for item in row]
+                postgresql_headings = set([(e['hash'], e['nr_dzialu'], e['nazwa_dzialu'], e['simplified_str']) for e in postgresql_headings])
+                headings_set.update(postgresql_headings)
+            else: # deskryptor
                 pass
         if headings_set:
             headings[rec_id] = list(headings_set)
@@ -481,7 +573,8 @@ def preprocess_books(origin_data, pub_places_data):
             # 'headings': headings.get(elem_id),
             'genre_major': elem.get('genre_major'),
             'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
-            'headings_old_pbl': headings.get(elem_id),
+            'headings_test': headings.get(elem_id),
+            'rec_subs': recs_subs.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data
