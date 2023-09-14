@@ -71,8 +71,8 @@ class CreativeWork:
             if not author.author_id:
                 match_person = persons_to_connect.get(author.author_name)
                 if match_person:
-                    author.author_id = match_person
-                    
+                    author.author_id = match_person.id
+
     def to_xml(self):
         creative_work_dict = {k:v for k,v in {'id': self.id, 'status': self.status, 'creator': self.creator, 'creation-date': self.date, 'publishing-date': self.publishing_date, 'origin': self.origin, 'flags': self.flags}.items() if v}
         creative_work_xml = ET.Element('creative-work', creative_work_dict)

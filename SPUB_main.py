@@ -62,10 +62,10 @@ journal_items_data = preprocess_journal_items(import_biblio)
 books_data = preprocess_books(import_biblio, import_places)
 
 # test save
-with open('./additional_files/test/books_headings_test.json', 'w', encoding='utf-8') as jfile:
-    json.dump(books_data, jfile, indent=4, ensure_ascii=False)
-with open('./additional_files/test/journal_items_headings_test.json', 'w', encoding='utf-8') as jfile:
-    json.dump(journal_items_data, jfile, indent=4, ensure_ascii=False)
+# with open('./additional_files/test/books_headings_test.json', 'w', encoding='utf-8') as jfile:
+#     json.dump(books_data, jfile, indent=4, ensure_ascii=False)
+# with open('./additional_files/test/journal_items_headings_test.json', 'w', encoding='utf-8') as jfile:
+#     json.dump(journal_items_data, jfile, indent=4, ensure_ascii=False)
 
 #%% create class
 
@@ -270,13 +270,13 @@ for idx, sublist in enumerate([books[i:i + step] for i in range(0, len(books), s
     tree.write(f'./xml_output/import_books_{idx}.xml', encoding='UTF-8')
 
     
-# for book in books:
-#     x = book.to_xml()
+# for i,test_item in enumerate(creative_works):
+#     x = test_item.to_xml()
 #     tree = ET.ElementTree(x)
 #     ET.indent(tree, space="\t", level=0)
-#     tree.write('./xml_output/import_journal_items_and_books.xml', encoding='UTF-8')
+#     tree.write('./xml_output/test_item.xml', encoding='UTF-8')
 
-
+# book.__dict__['authors'][0].__dict__['author_id'].__dict__
 # [e for e in books_data if e.get('elb_id') == 'b1000000941897']
 
 

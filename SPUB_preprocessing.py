@@ -302,6 +302,12 @@ def preprocess_journal_items(origin_data):
             oracle_to_postgresql_dct.setdefault(oracle_id, set()).update(postgresql_id)
     oracle_to_postgresql_dct = {k:[new_pbl_headings.get(e) for e in v if new_pbl_headings.get(e)] for k,v in oracle_to_postgresql_dct.items()}
     
+    oracle_dzialy = pd.read_excel('./additional_files/oracle_dzialy.xlsx').fillna('').astype(str)
+    oracle_dzialy = dict(zip(oracle_dzialy['DZ_NAZWA'].to_list(), oracle_dzialy['DZ_DZIAL_ID'].to_list()))
+    
+    elb_literatures = pd.read_excel('./additional_files/elb_literatures.xlsx').fillna('').astype(str)
+    elb_literatures = dict(zip(elb_literatures['literature'].to_list(), elb_literatures['hash'].to_list()))
+    
     def get_heading(string, descriptor=True):
         output_headings = set()
         if descriptor:
@@ -318,12 +324,28 @@ def preprocess_journal_items(origin_data):
         headings_set = set()
         subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
         for elem in subjects_from_rec:
+            
+            if '$2ELB' in elem:
+                elb_elem_clean = re.search('(?<=..\$a).+?(?=\$2|$)', elem)
+                if elb_hash := elb_literatures.get(elb_elem_clean):
+                    headings_set.add(elb_hash)
+                continue
+            
+            # nazwa taka sama jak dzialy oracle
+            if elem_clean := re.search('(?<=..\$a).+?(?=\$2|$)', elem):
+                elem_clean = elem_clean.group(0)
+                postgresql_heading_z_dzialu = oracle_dzialy.get(elem_clean)
+                postgresql_heading_z_dzialu = oracle_to_postgresql_dct.get(postgresql_heading_z_dzialu)
+                if postgresql_heading_z_dzialu:
+                    postgresql_heading_z_dzialu = set([e['hash'] for e in postgresql_heading_z_dzialu])
+                    headings_set.update(postgresql_heading_z_dzialu)
+            
             if '$a' in elem and '$2' in elem or elem.count('$') == 1 and '$a' in elem: # JHP
                 oracle_headings = get_heading(elem)
                 oracle_headings = set([e[1].split(' - ')[0] for e in oracle_headings])
                 postgresql_headings = [oracle_to_postgresql_dct.get(e) for e in oracle_headings if oracle_to_postgresql_dct.get(e)]
                 postgresql_headings = [item for row in postgresql_headings for item in row]
-                postgresql_headings = set([(e['hash'], e['nr_dzialu'], e['nazwa_dzialu'], e['simplified_str']) for e in postgresql_headings])
+                postgresql_headings = set([e['hash'] for e in postgresql_headings])
                 headings_set.update(postgresql_headings)
             else: # deskryptor
                 pass
@@ -377,11 +399,9 @@ def preprocess_journal_items(origin_data):
             'journal_year_str': journal_year_str, 
             'journal_number_str': journal_number_str,
             'pages': re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]).group(0) if sources_data[elem_id].get('article_resource_related_str_mv') and re.search('(?<=s\. ).+$', sources_data[elem_id].get('article_resource_related_str_mv')[0]) else '',
-            # 'headings': headings.get(elem_id),
+            'headings': headings.get(elem_id),
             'genre_major': elem.get('genre_major'),
             'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
-            'headings_test': headings.get(elem_id),
-            'rec_subs': recs_subs.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     
@@ -491,6 +511,12 @@ def preprocess_books(origin_data, pub_places_data):
             oracle_to_postgresql_dct.setdefault(oracle_id, set()).update(postgresql_id)
     oracle_to_postgresql_dct = {k:[new_pbl_headings.get(e) for e in v if new_pbl_headings.get(e)] for k,v in oracle_to_postgresql_dct.items()}
     
+    oracle_dzialy = pd.read_excel('./additional_files/oracle_dzialy.xlsx').fillna('').astype(str)
+    oracle_dzialy = dict(zip(oracle_dzialy['DZ_NAZWA'].to_list(), oracle_dzialy['DZ_DZIAL_ID'].to_list()))
+    
+    elb_literatures = pd.read_excel('./additional_files/elb_literatures.xlsx').fillna('').astype(str)
+    elb_literatures = dict(zip(elb_literatures['literature'].to_list(), elb_literatures['hash'].to_list()))
+    
     def get_heading(string, descriptor=True):
         output_headings = set()
         if descriptor:
@@ -507,18 +533,34 @@ def preprocess_books(origin_data, pub_places_data):
         headings_set = set()
         subjects_from_rec = re.findall('(?<=\=65[05]  ).+?(?=\r\n)', rec.get('fullrecord'))
         for elem in subjects_from_rec:
+            
+            if '$2ELB' in elem:
+                elb_elem_clean = re.search('(?<=..\$a).+?(?=\$2|$)', elem)
+                if elb_hash := elb_literatures.get(elb_elem_clean):
+                    headings_set.add(elb_hash)
+                continue
+            
+            # nazwa taka sama jak dzialy oracle
+            if elem_clean := re.search('(?<=..\$a).+?(?=\$2|$)', elem):
+                elem_clean = elem_clean.group(0)
+                postgresql_heading_z_dzialu = oracle_dzialy.get(elem_clean)
+                postgresql_heading_z_dzialu = oracle_to_postgresql_dct.get(postgresql_heading_z_dzialu)
+                if postgresql_heading_z_dzialu:
+                    postgresql_heading_z_dzialu = set([e['hash'] for e in postgresql_heading_z_dzialu])
+                    headings_set.update(postgresql_heading_z_dzialu)
+            
             if '$a' in elem and '$2' in elem or elem.count('$') == 1 and '$a' in elem: # JHP
                 oracle_headings = get_heading(elem)
                 oracle_headings = set([e[1].split(' - ')[0] for e in oracle_headings])
                 postgresql_headings = [oracle_to_postgresql_dct.get(e) for e in oracle_headings if oracle_to_postgresql_dct.get(e)]
                 postgresql_headings = [item for row in postgresql_headings for item in row]
-                postgresql_headings = set([(e['hash'], e['nr_dzialu'], e['nazwa_dzialu'], e['simplified_str']) for e in postgresql_headings])
+                postgresql_headings = set([e['hash'] for e in postgresql_headings])
                 headings_set.update(postgresql_headings)
             else: # deskryptor
                 pass
         if headings_set:
             headings[rec_id] = list(headings_set)
-    
+    # end headings section
     
     
     pub_places_data = [{k:v for k,v in e.items() if k in ['name', 'wiki']} for e in pub_places_data]
@@ -570,11 +612,9 @@ def preprocess_books(origin_data, pub_places_data):
             'publishers': publishers_data.get(elem_id),
             'physical_description': physical_description_data.get(elem_id),
             'cocreators': cocreators.get(elem_id),
-            # 'headings': headings.get(elem_id),
+            'headings': headings.get(elem_id),
             'genre_major': elem.get('genre_major'),
             'subject_persons': [(e.split('|')[4], e.split('|')[0]) for e in elem.get('subject_person_str_mv', [])],
-            'headings_test': headings.get(elem_id),
-            'rec_subs': recs_subs.get(elem_id),
             }
         preprocessed_data.append(temp_dict)
     return preprocessed_data

@@ -1,7 +1,7 @@
 <pbl>
 	<files>
 		<events>
-			<event id="fake_id_1058" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<event id="fake_id_1058" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
 				<names>
 					<name code="base" transliteration="false" newest="true">Biennale Warszawa "Zorganizujmy swoją przyszłość!"</name>
@@ -13,7 +13,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</event>
-			<event id="fake_id_1059" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<event id="fake_id_1059" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
 				<names>
 					<name code="base" transliteration="false" newest="true">Internacionalni Teatarski Festival MESS</name>
@@ -28,7 +28,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</event>
-			<event id="fake_id_1060" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<event id="fake_id_1060" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
 				<names>
 					<name code="base" transliteration="false" newest="true">Internacionalni Teatarski Festival</name>
@@ -43,7 +43,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</event>
-			<event id="fake_id_1061" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<event id="fake_id_1061" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
 				<names>
 					<name code="base" transliteration="false" newest="true">Krakowski Salon Poezji</name>
@@ -55,7 +55,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</event>
-			<event id="fake_id_1062" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<event id="fake_id_1062" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="festival" />
 				<names>
 					<name code="base" transliteration="false" newest="true">Międzynarodowy Festiwal Teatralny "Malta"</name>
@@ -70,7 +70,7 @@
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 				</headings>
 			</event>
-			<event id="fake_id_1063" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<event id="fake_id_1063" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
 				<names>
 					<name code="base" transliteration="false" newest="true">Plener Artystyczny "Pamięć morza"</name>

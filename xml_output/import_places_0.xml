@@ -1,284 +1,9 @@
 <pbl>
 	<files>
 		<places>
-			<place id="http://www.wikidata.org/entity/Q1401995">
-				<period date-from="" date-to="">
-					<name lang="pl">port lotniczy Modlin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q212">
-				<period date-from="" date-to="">
-					<name lang="pl">Ukraina</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q145">
-				<period date-from="" date-to="">
-					<name lang="pl">Wielka Brytania</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q268">
-				<period date-from="" date-to="">
-					<name lang="pl">Poznań</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q224">
-				<period date-from="" date-to="">
-					<name lang="pl">Chorwacja</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q158821">
-				<period date-from="" date-to="">
-					<name lang="pl">Drohobycz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q102317">
-				<period date-from="" date-to="">
-					<name lang="pl">Kielce</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q36">
-				<period date-from="" date-to="">
-					<name lang="pl">Polska</name>
-				</period>
-			</place>
 			<place id="http://www.wikidata.org/entity/Q92689">
 				<period date-from="" date-to="">
 					<name lang="pl">Sopot</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q142">
-				<period date-from="" date-to="">
-					<name lang="pl">Francja</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q213">
-				<period date-from="" date-to="">
-					<name lang="pl">Czechy</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q158796">
-				<period date-from="" date-to="">
-					<name lang="pl">Radomsko</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q31487">
-				<period date-from="" date-to="">
-					<name lang="pl">Kraków</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q656">
-				<period date-from="" date-to="">
-					<name lang="pl">Petersburg</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q385">
-				<period date-from="" date-to="">
-					<name lang="pl">Gdynia</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q30">
-				<period date-from="" date-to="">
-					<name lang="pl">Stany Zjednoczone</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q848999">
-				<period date-from="" date-to="">
-					<name lang="pl">Szczecinek</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q52892">
-				<period date-from="" date-to="">
-					<name lang="pl">Leszno</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1874">
-				<period date-from="" date-to="">
-					<name lang="pl">Odessa</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q472621">
-				<period date-from="" date-to="">
-					<name lang="pl">Wieliczka</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q29">
-				<period date-from="" date-to="">
-					<name lang="pl">Hiszpania</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q52842">
-				<period date-from="" date-to="">
-					<name lang="pl">Kalisz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q105048">
-				<period date-from="" date-to="">
-					<name lang="pl">Słupsk</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q215633">
-				<period date-from="" date-to="">
-					<name lang="pl">Łomża</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q387463">
-				<period date-from="" date-to="">
-					<name lang="pl">Świebodzin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q11874">
-				<period date-from="" date-to="">
-					<name lang="pl">Zwoleń</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q159">
-				<period date-from="" date-to="">
-					<name lang="pl">Rosja</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q393">
-				<period date-from="" date-to="">
-					<name lang="pl">Szczecin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q66013">
-				<period date-from="" date-to="">
-					<name lang="pl">Głogów</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q319813">
-				<period date-from="" date-to="">
-					<name lang="pl">Siedlce</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q324912">
-				<period date-from="" date-to="">
-					<name lang="pl">Wąbrzeźno</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q2326576">
-				<period date-from="" date-to="">
-					<name lang="pl">Dubiecko</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1003384">
-				<period date-from="" date-to="">
-					<name lang="pl">Bieszczady Zachodnie</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q826068">
-				<period date-from="" date-to="">
-					<name lang="pl">Krosno</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1799">
-				<period date-from="" date-to="">
-					<name lang="pl">Wrocław</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q461513">
-				<period date-from="" date-to="">
-					<name lang="pl">Będzin</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q761">
-				<period date-from="" date-to="">
-					<name lang="pl">Białystok</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q101625">
-				<period date-from="" date-to="">
-					<name lang="pl">Marrakesz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q11194">
-				<period date-from="" date-to="">
-					<name lang="pl">Sarajewo</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q184">
-				<period date-from="" date-to="">
-					<name lang="pl">Białoruś</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q249166">
-				<period date-from="" date-to="">
-					<name lang="pl">Złotów</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q41252">
-				<period date-from="" date-to="">
-					<name lang="pl">Bydgoszcz</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1792">
-				<period date-from="" date-to="">
-					<name lang="pl">Gdańsk</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q183">
-				<period date-from="" date-to="">
-					<name lang="pl">Niemcy</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q948">
-				<period date-from="" date-to="">
-					<name lang="pl">Tunezja</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q3711">
-				<period date-from="" date-to="">
-					<name lang="pl">Belgrad</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q28">
-				<period date-from="" date-to="">
-					<name lang="pl">Węgry</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q40">
-				<period date-from="" date-to="">
-					<name lang="pl">Austria</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q103217">
-				<period date-from="" date-to="">
-					<name lang="pl">Częstochowa</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q298">
-				<period date-from="" date-to="">
-					<name lang="pl">Chile</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q15180">
-				<period date-from="" date-to="">
-					<name lang="pl">Związek Socjalistycznych Republik Radzieckich</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q92212">
-				<period date-from="" date-to="">
-					<name lang="pl">Opole</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q510827">
-				<period date-from="" date-to="">
-					<name lang="pl">Strzelce Opolskie</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q745051">
-				<period date-from="" date-to="">
-					<name lang="pl">Ciechanów</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q1040">
-				<period date-from="" date-to="">
-					<name lang="pl">Karlsruhe</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q553404">
-				<period date-from="" date-to="">
-					<name lang="pl">Zagnańsk</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q1144110">
@@ -286,64 +11,44 @@
 					<name lang="pl">powiat łaski</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q82765">
+			<place id="http://www.wikidata.org/entity/Q510827">
 				<period date-from="" date-to="">
-					<name lang="pl">Olsztyn</name>
+					<name lang="pl">Strzelce Opolskie</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q4984005">
+			<place id="http://www.wikidata.org/entity/Q249166">
 				<period date-from="" date-to="">
-					<name lang="pl">Buda Ruska</name>
+					<name lang="pl">Złotów</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q47554">
+			<place id="http://www.wikidata.org/entity/Q52892">
 				<period date-from="" date-to="">
-					<name lang="pl">Toruń</name>
+					<name lang="pl">Leszno</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q106681">
+			<place id="http://www.wikidata.org/entity/Q52842">
 				<period date-from="" date-to="">
-					<name lang="pl">Włocławek</name>
+					<name lang="pl">Kalisz</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q588">
+			<place id="http://www.wikidata.org/entity/Q40">
 				<period date-from="" date-to="">
-					<name lang="pl">Katowice</name>
+					<name lang="pl">Austria</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q414">
+			<place id="http://www.wikidata.org/entity/Q30">
 				<period date-from="" date-to="">
-					<name lang="pl">Argentyna</name>
+					<name lang="pl">Stany Zjednoczone</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q874059">
+			<place id="http://www.wikidata.org/entity/Q461513">
 				<period date-from="" date-to="">
-					<name lang="pl">Diecezja pelplińska</name>
+					<name lang="pl">Będzin</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q16">
+			<place id="http://www.wikidata.org/entity/Q387463">
 				<period date-from="" date-to="">
-					<name lang="pl">Kanada</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q598">
-				<period date-from="" date-to="">
-					<name lang="pl">Rzeszów</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q580">
-				<period date-from="" date-to="">
-					<name lang="pl">Łódź</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q104720">
-				<period date-from="" date-to="">
-					<name lang="pl">Zielona Góra</name>
-				</period>
-			</place>
-			<place id="http://www.wikidata.org/entity/Q33139344">
-				<period date-from="" date-to="">
-					<name lang="pl">Umocnienia obronne w rejonie Wągrowiec-Gołańcz</name>
+					<name lang="pl">Świebodzin</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q37333">
@@ -351,9 +56,34 @@
 					<name lang="pl">Lublin</name>
 				</period>
 			</place>
-			<place id="http://www.wikidata.org/entity/Q270" lat="52.2330335" lon="20.8963895">
+			<place id="http://www.wikidata.org/entity/Q92212">
 				<period date-from="" date-to="">
-					<name lang="pl">Warszawa</name>
+					<name lang="pl">Opole</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q948">
+				<period date-from="" date-to="">
+					<name lang="pl">Tunezja</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q324912">
+				<period date-from="" date-to="">
+					<name lang="pl">Wąbrzeźno</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q11194">
+				<period date-from="" date-to="">
+					<name lang="pl">Sarajewo</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q15180">
+				<period date-from="" date-to="">
+					<name lang="pl">Związek Socjalistycznych Republik Radzieckich</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q826068">
+				<period date-from="" date-to="">
+					<name lang="pl">Krosno</name>
 				</period>
 			</place>
 			<place id="http://www.wikidata.org/entity/Q246264">
@@ -361,9 +91,279 @@
 					<name lang="pl">Nowa Ruda</name>
 				</period>
 			</place>
+			<place id="http://www.wikidata.org/entity/Q29">
+				<period date-from="" date-to="">
+					<name lang="pl">Hiszpania</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q472621">
+				<period date-from="" date-to="">
+					<name lang="pl">Wieliczka</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q874059">
+				<period date-from="" date-to="">
+					<name lang="pl">Diecezja pelplińska</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q103217">
+				<period date-from="" date-to="">
+					<name lang="pl">Częstochowa</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q761">
+				<period date-from="" date-to="">
+					<name lang="pl">Białystok</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q28">
+				<period date-from="" date-to="">
+					<name lang="pl">Węgry</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q268">
+				<period date-from="" date-to="">
+					<name lang="pl">Poznań</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q298">
+				<period date-from="" date-to="">
+					<name lang="pl">Chile</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q598">
+				<period date-from="" date-to="">
+					<name lang="pl">Rzeszów</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q158821">
+				<period date-from="" date-to="">
+					<name lang="pl">Drohobycz</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q101625">
+				<period date-from="" date-to="">
+					<name lang="pl">Marrakesz</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q142">
+				<period date-from="" date-to="">
+					<name lang="pl">Francja</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q102317">
+				<period date-from="" date-to="">
+					<name lang="pl">Kielce</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q213">
+				<period date-from="" date-to="">
+					<name lang="pl">Czechy</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q3711">
+				<period date-from="" date-to="">
+					<name lang="pl">Belgrad</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q47554">
+				<period date-from="" date-to="">
+					<name lang="pl">Toruń</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q553404">
+				<period date-from="" date-to="">
+					<name lang="pl">Zagnańsk</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q656">
+				<period date-from="" date-to="">
+					<name lang="pl">Petersburg</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q393">
+				<period date-from="" date-to="">
+					<name lang="pl">Szczecin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q106681">
+				<period date-from="" date-to="">
+					<name lang="pl">Włocławek</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q33139344">
+				<period date-from="" date-to="">
+					<name lang="pl">Umocnienia obronne w rejonie Wągrowiec-Gołańcz</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q414">
+				<period date-from="" date-to="">
+					<name lang="pl">Argentyna</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q848999">
+				<period date-from="" date-to="">
+					<name lang="pl">Szczecinek</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1792">
+				<period date-from="" date-to="">
+					<name lang="pl">Gdańsk</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q270" lat="52.2330335" lon="20.8963895">
+				<period date-from="" date-to="">
+					<name lang="pl">Warszawa</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q36">
+				<period date-from="" date-to="">
+					<name lang="pl">Polska</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q66013">
+				<period date-from="" date-to="">
+					<name lang="pl">Głogów</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q588">
+				<period date-from="" date-to="">
+					<name lang="pl">Katowice</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q158796">
+				<period date-from="" date-to="">
+					<name lang="pl">Radomsko</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q41252">
+				<period date-from="" date-to="">
+					<name lang="pl">Bydgoszcz</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1040">
+				<period date-from="" date-to="">
+					<name lang="pl">Karlsruhe</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q580">
+				<period date-from="" date-to="">
+					<name lang="pl">Łódź</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q145">
+				<period date-from="" date-to="">
+					<name lang="pl">Wielka Brytania</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q159">
+				<period date-from="" date-to="">
+					<name lang="pl">Rosja</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q4984005">
+				<period date-from="" date-to="">
+					<name lang="pl">Buda Ruska</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q184">
+				<period date-from="" date-to="">
+					<name lang="pl">Białoruś</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1003384">
+				<period date-from="" date-to="">
+					<name lang="pl">Bieszczady Zachodnie</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q224">
+				<period date-from="" date-to="">
+					<name lang="pl">Chorwacja</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1799">
+				<period date-from="" date-to="">
+					<name lang="pl">Wrocław</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1874">
+				<period date-from="" date-to="">
+					<name lang="pl">Odessa</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q385">
+				<period date-from="" date-to="">
+					<name lang="pl">Gdynia</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q183">
+				<period date-from="" date-to="">
+					<name lang="pl">Niemcy</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q11874">
+				<period date-from="" date-to="">
+					<name lang="pl">Zwoleń</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q31487">
+				<period date-from="" date-to="">
+					<name lang="pl">Kraków</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q104720">
+				<period date-from="" date-to="">
+					<name lang="pl">Zielona Góra</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q319813">
+				<period date-from="" date-to="">
+					<name lang="pl">Siedlce</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q105048">
+				<period date-from="" date-to="">
+					<name lang="pl">Słupsk</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q82765">
+				<period date-from="" date-to="">
+					<name lang="pl">Olsztyn</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q2326576">
+				<period date-from="" date-to="">
+					<name lang="pl">Dubiecko</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q212">
+				<period date-from="" date-to="">
+					<name lang="pl">Ukraina</name>
+				</period>
+			</place>
 			<place id="http://www.wikidata.org/entity/Q980689">
 				<period date-from="" date-to="">
 					<name lang="pl">Izabelin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q215633">
+				<period date-from="" date-to="">
+					<name lang="pl">Łomża</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q16">
+				<period date-from="" date-to="">
+					<name lang="pl">Kanada</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q1401995">
+				<period date-from="" date-to="">
+					<name lang="pl">port lotniczy Modlin</name>
+				</period>
+			</place>
+			<place id="http://www.wikidata.org/entity/Q745051">
+				<period date-from="" date-to="">
+					<name lang="pl">Ciechanów</name>
 				</period>
 			</place>
 		</places>

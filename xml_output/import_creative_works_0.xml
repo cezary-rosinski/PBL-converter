@@ -1,9 +1,3229 @@
 <pbl>
 	<files>
 		<creative_works>
-			<creative-work id="fake_id_1125" status="published" creator="cezary_rosinski" creation-date="2023-09-07" publishing-date="2023-09-07">
+			<creative-work id="fake_id_1125" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<titles>
 					<title code="base" transliteration="false" newest="true">Ukryta przestrzeń</title>
 				</titles>
 				<authors anonymous="false" author-company="false">
-					<author
+					<author id="fake_id_115" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1126" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_574" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1127" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_459" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1128" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_312" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1129" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_746" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1130" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_688" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1131" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_52" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1132" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_52" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1133" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń społeczna to przestrzeń retoryczna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q10764331" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1134" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń "sacrum" - przestrzeń "profanum" w prozie Ernsta Wiecherta</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_84" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1135" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń wibrująca</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_175" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1136" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń wewnętrzna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_559" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1137" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_437" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1138" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń mieszkalna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_19" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1139" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń nierozpoznana</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_428" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1140" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń mieszkalna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_19" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1141" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zła przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_402" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1142" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wspólna przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_420" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1143" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń kobiety</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_738" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1144" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń ; Kielich</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_647" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1145" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń otwarta, przestrzeń zamknięta, przestrzeń metafizyczna = Open space, closed space, metaphysical space</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_91" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1146" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń sacrum - przestrzeń zdegradowana w dramacie najnowszym (na wybranych przykładach)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_429" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1147" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń słowa i przestrzeń milczenia w wierszach Anny Kamieńskiej</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_7" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1148" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Ta mała przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_432" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1149" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Między nami przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_314" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1150" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń dzieł wiecznych</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_197" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1151" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Jest taka przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_351" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1152" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Słowo i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_72" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1153" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń (fragment)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_368" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1154" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Mityczna przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_105" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1155" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Niebo, przestrzeń, czas...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_153" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1156" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czas i Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_732" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1157" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń chwili</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_724" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1158" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miłoszowa przestrzeń natury</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_609" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1159" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wirująca przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_304" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1160" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Inna przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_427" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1161" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń czasu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_549" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1162" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń aktywnych obywateli</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_739" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1163" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń w błękicie</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_138" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1164" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń rozkoszy</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_458" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1165" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q558744" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1166" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Jest taka przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_348" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1167" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zamknięta przestrzeń pomiędzy...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_545" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1168" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Ludzka przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_476" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1169" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń, Wolna i nieskażona...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_62" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1170" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_322" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1171" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_385" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1172" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_122" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1173" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_26" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1174" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przez czas i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_150" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1175" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wszechczas, przestrzeń i ja</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_622" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1176" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń zewnętrzna. Dreadnaught.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_245" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1177" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_26" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1178" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Niedzielny lot w przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_512" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1179" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Niedźwiedź i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_358" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1180" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń śmierci, przestrzeń przetrwania : obrazy środkowoazjatyckich republik sowieckich w polskiej literaturze zesłańczej i łagrowej</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_625" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1181" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9324645" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1182" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9142340" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1183" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Otwarta przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_110" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1184" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń ofiarowana.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_573" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1185" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Geometryczna przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_206" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1186" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń ubrana w kilometry...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_66" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1187" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q65174860" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1188" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń muzealna w oczach architekta</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_470" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1189" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Prywatna przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_179" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1190" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11817802" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1191" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pokonać przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_398" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1192" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Mikro Teatr : minimalna przestrzeń śmiechu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_141" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1193" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Psia przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_539" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1194" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń w twórczości Olgi Tokarczuk</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_200" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1195" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_582" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1196" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń samotności</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_21" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1197" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń samotności</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_21" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1198" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń heretyków</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_386" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1199" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń i kłos</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_607" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1200" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Obchodząc przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11684355" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1201" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">"...-..." [Przestrzeń myślnika]</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9311032" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1202" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111358533" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1203" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń w której nie ma nic...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_191" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1204" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111358533" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1205" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Trzecia przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9153033" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1206" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń posypana piaskiem</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_698" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1207" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Trzecia przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11724747" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1208" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń tęczy.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_457" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1209" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń lokalna.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111422352" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1210" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń ucieka...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11814191" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1211" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">To tylko przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9391899" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1212" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zakrzywiona przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q19267903" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1213" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń strachu w "Bellum civile" Lukana</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_466" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1214" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Nowa przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q4154171" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1215" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czas i przestrzeń w reportażu prasowym</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_601" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1216" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń zapomnienia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11779214" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1217" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Architektoniczna przestrzeń wspólna designu i sztuki</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_360" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1218" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń w "kraju pomiędzy" : Uwe Rada</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_584" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1219" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Jestem przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11785100" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1220" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Nieskończona przestrzeń snu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_16" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1221" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń intymna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q19268037" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1222" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">[Przestrzeń życiem moim]</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_319" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1223" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń wspólna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11767507" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1224" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pusta przestrzeń między aniołami</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_590" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1225" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń myśli. Do poczytania i przemyśleń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_502" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1226" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Dzika przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q2477472" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1227" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">"Metro 2033", czyli postapokaliptyczna przestrzeń labiryntu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_541" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1228" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń śmierci w prozie Danila Kiša</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_315" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1229" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Dzika przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q2477472" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1230" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Szept i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_463" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1231" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń poświęcenia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9376909" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1232" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń objawienia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q380869" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1233" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Już zakreślona przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q515644" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1234" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Umykam w przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q19270287" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1235" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q2031415" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1236" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11725032" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1237" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Synu zostaw mi przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_251" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1238" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q379931" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1239" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga przestrzeń (polemika z Czesławem Miłoszem)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_571" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1240" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q109336580" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1241" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń i miejsce</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9201953" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1242" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń prawie kulista...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q4222735" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1243" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń jest czasem</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q48845023" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1244" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q379931" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1245" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Kolista przestrzeń pamięci</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11685870" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1246" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zawiłe pojrzenia przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111421072" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1247" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń zagrożenia : miasto w opowiadaniach Tadeusza Oszubskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_496" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1248" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń, poeta i prawda</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_248" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1249" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Moją skromną przestrzeń wypełniają słowo obraz muzyka...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_104" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1250" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń jesiennych lotów</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11818242" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1251" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń fantasy w "trylogii husyckiej" Andrzeja Sapkowskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_222" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1252" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń pełna dźwięków</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11767842" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1253" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń tworzenia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111577503" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1254" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Inna przestrzeń. Prolog</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11767884" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1255" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Brodski w Stambule : czas, przestrzeń i orientalizm</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_671" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1256" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">[Kurcząca się przestrzeń]</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q19267903" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1257" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń "upodrzędniona" : o wczesnych powieściach Elizy Orzeszkowej</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_461" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1258" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Kultura jako przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11818242" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1259" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Teatr : przestrzeń tożsamości</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11727564" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1260" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń w horrorze demonicznym: miejsca, przedmioty, symbole</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_33" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1261" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Talent i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q4186210" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1262" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Topobiografie : wielowymiarowa przestrzeń bycia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_274" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1263" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Las jako przestrzeń teatralna w późnośredniowiecznym melodramacie</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_636" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1264" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń za szkłem.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q2000797" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1265" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Odmierzam przestrzeń i czas.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_82" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1266" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9256056" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1267" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Psychovertical : przestrzeń obłędu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q4757625" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1268" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Nieskończona przestrzeń snu (NPS)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_16" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1269" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miasto to przestrzeń wolności</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9175478" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1270" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń lokalna w prasie górnośląskiej XIX w.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_546" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1271" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Galicyjska przestrzeń włożona w przestrzeń praską : czeskie szkice Honoraty z Wiśniowskich Zapovej o Hucułach i Rusinach znad Prutu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_657" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1272" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Dzielę tę przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q507504" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1273" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń zapomina o nas...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111422185" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1274" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miłość to otwarta przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112406725" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1275" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pusta przestrzeń między rękami...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11768611" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1276" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Piękna przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11779859" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1277" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zamknięta przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9175994" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1278" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1279" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przed tobą pieni się przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_4" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1280" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1281" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1282" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń niepodległa</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9388323" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1283" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czas pora światło przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9302579" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1284" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1285" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń górska</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q725977" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1286" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przed tobą pieni się przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_4" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1287" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń górska</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q725977" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1288" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wchodzisz w przestrzeń świata...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_99" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1289" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń zakrzywiona wokół wartości</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q24649719" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1290" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miasteczko - prośba o przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11736187" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1291" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pusta przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q30902867" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1292" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wielka przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q8860407" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1293" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1294" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Labirynt jako przestrzeń mityczna w "Biegunach" Olgi Tokarczuk</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_371" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1295" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zło ; Fuga ; Gościniec ; Odra ; Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_629" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1296" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Bohater i przestrzeń w "Sonetach krymskich" Adama Mickiewicza</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_267" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1297" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń wolności</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q532624" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1298" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Reinhardt reżyseruje Shakespeare'a : przestrzeń jako paradygmat inscenizacji</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_35" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1299" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń arkadyjska w twórczości lirycznej Jana Kochanowskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_704" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1300" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Druga przestrzeń.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1301" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń niepodległa.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9388323" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1302" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń literacka</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q315210" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1303" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pomiędzy wojną i pokojem : przestrzeń budowania kultury pokoju</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_522" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1304" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zjednoczona Europa : przestrzeń aspiracji czy malkontenctwa?</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_555" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1305" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Traktat o dziurze [z tego cyklu:] Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_79" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1306" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Sztuka i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q48301" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1307" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń życiowa emigranta</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11692871" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1308" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń można zniweczyć.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q8860407" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1309" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Autobus [z tego cyklu:] Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112377440" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1310" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">To tylko sama przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q105685363" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1311" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń pokoju dziecięcego (Fragment powieści)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9382430" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1312" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wiersz (Przestrzeń okno...)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q3666606" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1313" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Zaklinanie Europy Środkowej : przestrzeń geopolityczna a współczesna literatura ukraińska</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_516" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1314" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń otwarta na nieznane...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9253105" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1315" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">I znów poszukiwana przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111466669" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1316" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń "uzmysłowiona" : psychogeografia miasta w "Japońskim wachlarzu" Joanny Bator</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_32" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1317" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">[Moja przestrzeń jest w czasie]</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112495089" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1318" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">[Przestrzeń nie daje wolności]</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_28" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1319" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Artysta w mieście : przestrzeń Krakowa w prozie Jerzego Pilcha</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_56" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1320" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">W teatrze przestrzeń jest obecnością</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q6786690" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1321" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Światowa przestrzeń literacka</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q3367662" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1322" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Powieść geohistoryczna : międzydyskursywna przestrzeń "Koncertu Wielkiej Niedźwiedzicy" Jerzego Limona</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_32" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1323" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Cierpiąca przestrzeń w poezji Nowej Fali</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_229" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1324" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Cięcie wzdłuż ; Odnośnik ; Wskaźnik ; Przestrzeń po przecięciu ; Marker dodatni</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_721" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1325" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń, w której wszystko się wydarza</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_578" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1326" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń z glinianego oka</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11781939" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1327" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Strategiczna przestrzeń dowódców</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q315963" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1328" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Nieskończona jest przestrzeń domu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q42122" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1329" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Posługa sakramentalna Kościoła jako przestrzeń dialogu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q28123901" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1330" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Królestwa wysokie [fragm.:] VI. Obnażona przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9355117" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1331" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Odziać się w przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q528804" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1332" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Odkrywając przestrzeń, odkrywając siebie : więcej niż "dwa" miasta Adama Zagajewskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_190" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1333" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Grafika w przestrzeni - przestrzeń w grafice</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_289" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1334" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przekraczając czas i przestrzeń : cztery wcielenia Weroniki</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q22115093" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1335" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Niebo jako przestrzeń poznania : filmowa interpretacja książki "Niebo istnieje ... naprawdę!"</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_309" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1336" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wpisanie polityki w przestrzeń : "Stracone złudzenia" i dwuznaczność Balzakowskiej topografii</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_652" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1337" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Karl-Markus Gauss: przestrzeń i czas</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q44097690" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1338" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń myśli : metafora błyskawicy i rzeki w prozie Władimira Makanina</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_595" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1339" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń = Space ; Baw mnie... = Amuse me...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_38" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1340" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Patrz uważnie "w jeszcze większą przestrzeń"</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9357369" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1341" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Patrząc na Wschód : przestrzeń, człowiek, mistycyzm</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112517974" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1342" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń co jak domu próg : (wybór wierszy)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_467" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1343" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miniatury [z tego cyklu:] Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q60873" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1344" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Spacerki z Diogenesem: Przestrzeń tajemnic</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11768469" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1345" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Indiańskie lato ; Targ staroci ; Sąsiednia przestrzeń ; Powrót</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q85859060" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1346" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń kubistyczna w literaturze?</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q17399026" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1347" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pogodzona przestrzeń : Miejsca autobiograficzne w twórczości Janusza Werstlera</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_642" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1348" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Narracja jako przestrzeń gry : "Między psem a wilkiem" Saszy Sokołowa</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_93" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1349" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Szpital psychiatryczny jako przestrzeń zbrodni : (Stanisław Lem - John Katzenbach - Karin Fossum)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_575" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1350" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń intertekstualna i geohistoryczna w powieściach André P. Brinka</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_614" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1351" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Dzieli nas przestrzeń pięćdziesięciu milionów kilometrów</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9168084" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1352" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Alchemia języka, przestrzeń wyobraźni : "Albedo" Radosława Wiśniewskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11734561" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1353" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Rodzima przestrzeń małego miasta w prozie bułgarskiego twórcy Stanisława Stratiewa</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_217" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1354" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Tajemnicza przestrzeń transcendencji : o "Bursztynowym jabłku" Haliny Twaranowicz</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_11" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1355" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń otwarta w każdą stronę.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11702776" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1356" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń pokoju dziecięcego [pow. fragm.:] Historia z kotem</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9382430" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1357" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">W górach przestrzeń wydaje się obluźniona...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q725977" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1358" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Bośnia i Dalmacja jako literacka przestrzeń tożsamości hybrydycznej w utworach Miljenka Jergovicia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_643" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1359" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Jedną ręką przestrzeń dałem, drugą ręką dałem czas</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11684355" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1360" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń choroby - miejsce biografii : kartografia psychosomatyczna w "Opowieści dla przyjaciela" Haliny Poświatowskiej</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_632" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1361" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń i tożsamość w bajkach Anikó N. Tóth</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q84044425" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1362" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Plan: wykrzesać ogień ; Wakacje: przestrzeń ; Widok: perspektywy ; Retrospekcja</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112515666" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1363" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pierwszy raz czuję, że ta przestrzeń jest nasza : strajk na Uniwersytecie Warszawskim</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_740" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1364" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wodne miasto : tekst i przestrzeń w "Odjeździe Anteusza"</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9139924" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1365" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń jako obraz świadomości w powieści Stanisława Lema "Pamiętnik znaleziony w wannie"</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_421" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1366" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń ciała i natury w debiutanckim tomie Haliny Poświatowskiej : (wybrane zagadnienia)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_526" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1367" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miejsce braku pamięci : przestrzeń w holokaustowych reportażach Hanny Krall</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_164" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1368" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czas i przestrzeń w cyklu powieściowym Joanne K. Rowling o Harrym Potterze</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_42" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1369" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Tam, gdzie czai się zło : przestrzeń w horrorze jako mechanizm budzenia strachu</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_33" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1370" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czas - przestrzeń - egzystencja : tożsamość w podróży : szkice o literaturze</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_731" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1371" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Raj "Polonia" [z tego cyklu:] Kobieta, Singer i przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111468986" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1372" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Raj "Polonia" [z tego cyklu:] Przestrzeń z dwiea kobietami</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111468986" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1373" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wiersze [z tego cyklu:] 2. Przestrzeń przetłumaczona na wiatr...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11768931" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1374" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń choroby we współczesnej poezji polskiej : (Wat, Szuber, Białoszewski)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111419047" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1375" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miejskie wiersze o przedmiotach [z tego cyklu:] Skupiona przestrzeń...</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_728" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1376" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miasto jako przestrzeń autorskiej autokreacji w prozie niemieckiej i polskiej po 1989 roku</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_2" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1377" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czas i przestrzeń w ludowej bajce zwierzęcej : (na przykładzie opowieści z motywem kota)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_586" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1378" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń niepodległa. Wybór wierszy i prozy poetyckiej.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q9388323" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1379" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń i czas jako komponenty obrazu świata w utworach krótkiej prozy Carla Hauptmanna</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_120" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1380" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Do wysokości wiatru i goryczki ; Zaśnieżona czerń ; Bezkresna przestrzeń ; Czapla</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q5991206" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1381" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń nieba jako element świata przedstawionego w utworach poetyckich Józefa Bohdana Zaleskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_74" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1382" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Białoruska przestrzeń literacka i kulturowa w naukowej refleksji prof. Ryszarda Łużnego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_11" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1383" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń pomiędzy : autoaluzja i inne cechy poezji T. S. Eliota w przekładzie polskim</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_54" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1384" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">"O/błędna przestrzeń", czyli w labiryncie współczesnej powieści kanadyjskiej</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q27671415" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1385" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wizualna przestrzeń postpamięci : poetyka sekundarnego świadectwa w "Nożyku profesora" Tadeusza Różewicza</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112520452" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1386" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Tam gdzie rodzą się potwory : (przestrzeń w dramatach i powieściach Witkacego)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11814026" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1387" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Budując na wietrze mozaiki milczenia (Próba. Przestrzeń i czas. Zawładnięcia fragment I-II)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_292" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1388" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Harmonii powiem stań się. Wiersze z lat siedemdziesiątych [z tego cyklu:] Przestrzeń</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111422185" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1389" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przystanki...: Światło i Życie, przestrzeń i czas, barka i sieć, Droga i Obraz.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_613" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1390" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń ruchu : próba opisu pracy w ramach Teatru Źródeł 9-15 czerwca 1980</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_357" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1391" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wycieczka w góry/podróż do wnętrza ziemi : przestrzeń tatrzańska w "Kosmosie" Witolda Gombrowicza</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_705" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1392" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Poezja jako przestrzeń bycia : szkic o nowych wierszach Wojciecha Kassa</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11686799" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1393" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Vtoroe prostranstvo = Druga przestrzeń. Orfej i Evridika = Orfeusz i Eurydyka.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1394" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Vtoroe prostranstvo = Druga przestrzeń. Orfej i Evridika = Orfeusz i Eurydyka.</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q45970" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1395" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Mikrokosmos literacki : przestrzeń genologiczna małych form narracyjnych w prozie polskiej lat 1945-1989</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_85" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1396" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">"Przestrzeń wolna, przejrzysta, jasna i prawdziwa" : o tomie "W nawiasie" Janusza Nowaka</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q112536991" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1397" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Perspektywa "nieba" : czytanie Boga i zaświatów poprzez przestrzeń w kilku wierszach Jana Polkowskiego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_624" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1398" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Pisać w trzecim języku : przestrzeń między świętym a świeckim w myśli Gershoma Scholema i Jacques'a Derridy</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_675" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1399" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Wielkie budowy socjalizmu jako przestrzeń dla moralnej degradacji człowieka : analiza wybranych opowiadań Kazimierza Orłosia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_350" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1400" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">"Przestrzeń i czas tak mocno splatają się ze sobą" : o poezji Joanny Kurowskiej garść refleksji</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_212" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1401" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">"W Koluszkach, w Mińsku, w Chile" : przestrzeń poetycka wierszy i piosenek Agnieszki Osieckiej toponimami pisana</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_344" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1402" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Od słowa do rzeczy [z tego cyklu:] 4. (Przestrzeń naszego czasu...)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11685916" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1403" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Od słowa do rzeczy [z tego cyklu:] 1. (Przestrzeń naszego czasu...)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11685916" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1404" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń i tożsamość : różne wymiary dystopii w powieściach "Uroda życia" Stefana Żeromskiego i "W oczach zachodu" Josepha Conrada</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_538" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1405" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń i ruch w opisie zbawienia : teologiczna interpretacja wybranych wierszy Johna Donne'a (1572-1631)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q113829033" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1406" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Przestrzeń dialogu z tradycją : chrześcijańska "paideia" w kazaniach na dzień Pięćdziesiątnicy - Marcina Polaka, Peregryna z Opola i Mikołaja z Błonia</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_25" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1407" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Miasto jako przestrzeń groteskowego wyobcowywania (w perspektywie błazna i kaznodziei) w "Blaszanym bębenku" Güntera Grassa i "Ostatniej Wieczerzy" Pawła Huellego</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_13" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1408" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Antyczna przestrzeń w epitalamium Stanisława Teodora Piotrkowczyka pt. "Akt weselny na nigdy niezwiędłej Górze Karmelu"</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q113834010" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1409" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Adresat nieznany ; Niezagospodarowana przestrzeń ; Zięć ; Po co budować statek? ; Pogrążeni w niezbyt ciężkiej żałobie ; Awanse ; Toto-lotek</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q111468986" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1410" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Czy możliwa jest jeszcze druga przestrzeń? : ksiądz Seweryn i Don Manuel - bohaterowie Czesława Miłosza i Miguela de Unamuno na scenie epoki świeckiej</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_438" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1411" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">M edytacja nad słowami Jaspersa:  "Ogląd historyczny stwarza przestrzeń, z wnętrza której budzi się nasza świadomość człowieczeństwa" (O źródle i celu historii)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_650" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1412" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Biura do Kwadratu : w dawnej siedzibie Teatru Kwadrat przy ul. Czackiego powstaje przestrzeń kreatywna dla korporacji, start-upów i freelancerów</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_696" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1413" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Światełko ; Przedzierając się zbierała... ; Przestrzeń ; Smaga wiatr ; Las ; Po drodze ; Spojrzeniem ; Otworzyła oczy a czas ; Czuła cisza wtóruje myślom ; Spojrzenie</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_126" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1414" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Literatura jako przestrzeń dialogu kultur : (na materiale liryki dalekowschodniej emigracji rosyjskiej) = Literature as an area of dialogue between cultures : (based on the poetry of Russian Far East emigration)</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q97169056" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1415" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Jutro ; [Incipit:] Przestrzeń nie daje wolności ; Miłość ; [Incipit:] Jestem obok ; [Incipit:] Co nam dasz ; Rozmowa z morzem ; [Incipit:] Fale ; [Incipit:] Muszle ; [Incipit:] Wiatr</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="fake_id_28" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1416" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">[Incipit:] Bywał-pływał sobie w oceanie ; Na ślepo ; O czasie bezimiennym ; Wiersz mielerz ; Człowiek ; Przestrzeń ; [Incipit:] Oni mnie zaczynają ; [Incipit:] Bywali kiedyś ludzie, co na biurkach</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q11817802" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+			<creative-work id="fake_id_1417" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+				<titles>
+					<title code="base" transliteration="false" newest="true">Krótka instrukcja lądowania w Nowym Jorku ; Brooklyn ; Pusta przestrzeń ; Most Franklina w Filadelfii ; Chicago z pociągu ; Annie obchodzi urodziny ; Rzeczy na swoich miejscach ; Głowę myje się w domu ; Pustynia Gila w Arizonie</title>
+				</titles>
+				<authors anonymous="false" author-company="false">
+					<author id="http://www.wikidata.org/entity/Q1395048" juvenile="false" co-creator="false" principal="true" />
+				</authors>
+				<headings>
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+				</headings>
+			</creative-work>
+		</creative_works>
+	</files>
+</pbl>
