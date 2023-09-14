@@ -10,7 +10,7 @@ class JournalNumber:
         self.origin = ''
         self.journal_year_id = journal_year_id
         self.id = f'{self.journal_year_id}_{self.number}'.replace(' ', '-')
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        self.headings = []
         self.links = []
         self.status = 'development-of-sources'
         self.annotation = annotation

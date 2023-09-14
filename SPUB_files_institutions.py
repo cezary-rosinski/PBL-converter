@@ -20,7 +20,7 @@ class Institution:
         self.status = 'published'
         self.date = str(datetime.today().date())
         self.publishing_date = self.date
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        self.headings = []
         self.names = [self.InstitutionName(value=name)]
         self.links = []
         for el in [self.id, self.viaf]:

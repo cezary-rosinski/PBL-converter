@@ -45,7 +45,6 @@ class JournalItem:
             self.languages = languages
         else: self.languages = []
         
-        # 'f56c40ddce1076f01ab157bed1da7c85' - hasła osobowe lit polska
         if headings:
             self.headings = headings
         else: self.headings = []

@@ -21,7 +21,7 @@ class CreativeWork:
         self.authors = [self.CreativeWorkAuthor(author_id=author_id, author_name=author_name)]
         self.titles = [self.CreativeWorkTitle(value=title)]
         
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        self.headings = []
         
         self.annotation = annotation
         

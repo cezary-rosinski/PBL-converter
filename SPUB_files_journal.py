@@ -21,7 +21,7 @@ class Journal:
         self.status = 'published'
         self.date = str(datetime.today().date())
         self.publishing_date = self.date
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        self.headings = []
         self.issn = issn
         self.status = 'source'
         self.removed = 'false'

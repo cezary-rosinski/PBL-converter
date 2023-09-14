@@ -11,7 +11,7 @@ class Event:
         self.date = str(datetime.today().date())
         self.publishing_date = self.date
         self.origin = ''
-        self.headings = ['f56c40ddce1076f01ab157bed1da7c85']
+        self.headings = []
         
         self.names = [self.EventName(value=name)]
         self.type = type_

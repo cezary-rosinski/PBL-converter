@@ -9,9 +9,7 @@
 				<date-and-place>
 					<date from="2019" from-bc="false" uncertain="false" />
 				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
+				<headings />
 			</event>
 			<event id="fake_id_1059" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
@@ -24,9 +22,7 @@
 						<place id="http://www.wikidata.org/entity/Q11194" period="❦" lang="pl" />
 					</places>
 				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
+				<headings />
 			</event>
 			<event id="fake_id_1060" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
@@ -39,9 +35,7 @@
 						<place id="http://www.wikidata.org/entity/Q3711" period="❦" lang="pl" />
 					</places>
 				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
+				<headings />
 			</event>
 			<event id="fake_id_1061" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
@@ -51,9 +45,7 @@
 				<date-and-place>
 					<date from="" from-bc="" uncertain="" />
 				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
+				<headings />
 			</event>
 			<event id="fake_id_1062" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="festival" />
@@ -66,9 +58,7 @@
 						<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 					</places>
 				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
+				<headings />
 			</event>
 			<event id="fake_id_1063" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
 				<type code="" />
@@ -81,9 +71,7 @@
 						<place id="http://www.wikidata.org/entity/Q472621" period="❦" lang="pl" />
 					</places>
 				</date-and-place>
-				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
-				</headings>
+				<headings />
 			</event>
 		</events>
 	</files>
