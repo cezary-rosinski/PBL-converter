@@ -9,7 +9,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="illustrations" />
 						<person id="fake_id_654" />
 					</co-creator>
@@ -75,17 +74,14 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="selection" />
 						<person id="fake_id_336" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
 						<type code="illustrations" />
 						<person id="fake_id_534" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
 						<type code="selection" />
 						<person id="fake_id_258" />
 					</co-creator>
@@ -254,7 +250,6 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="afterword" />
 						<person id="http://www.wikidata.org/entity/Q56344685" />
 					</co-creator>
@@ -418,7 +413,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_634" />
 					</co-creator>
@@ -558,7 +552,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_10" />
 					</co-creator>
@@ -592,19 +585,16 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
+						<type code="editorial-staff" />
+						<person id="http://www.wikidata.org/entity/Q24428478" />
+					</co-creator>
+					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_27" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q11715311" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="http://www.wikidata.org/entity/Q24428478" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1362,13 +1352,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="translation" />
-						<person id="http://www.wikidata.org/entity/Q28671890" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q109853937" />
+					</co-creator>
+					<co-creator>
+						<type code="translation" />
+						<person id="http://www.wikidata.org/entity/Q28671890" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1531,13 +1520,12 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="illustrations" />
-						<person id="fake_id_623" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="others" />
 						<person id="fake_id_631" />
+					</co-creator>
+					<co-creator>
+						<type code="illustrations" />
+						<person id="fake_id_623" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1640,12 +1628,10 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_12" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_597" />
 					</co-creator>
@@ -1870,14 +1856,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_637" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_670" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_637" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1939,17 +1923,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_393" />
-					</co-creator>
-					<co-creator>
 						<type code="translation" />
 						<person id="fake_id_384" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
-						<person id="fake_id_326" />
+						<type code="editorial-staff" />
+						<person id="fake_id_393" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1984,7 +1963,6 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="afterword" />
 						<person id="http://www.wikidata.org/entity/Q11719297" />
 					</co-creator>
@@ -2471,19 +2449,16 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_659" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_160" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_481" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_659" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2792,14 +2767,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_41" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_142" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_41" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -3446,7 +3419,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="selection" />
 						<person id="http://www.wikidata.org/entity/Q112451068" />
 					</co-creator>
@@ -3480,12 +3452,10 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_57" />
 					</co-creator>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_396" />
 					</co-creator>
@@ -3557,7 +3527,6 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="illustrations" />
 						<person id="fake_id_83" />
 					</co-creator>
@@ -3594,7 +3563,6 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="illustrations" />
 						<person id="fake_id_51" />
 					</co-creator>
@@ -3919,7 +3887,6 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="afterword" />
 						<person id="fake_id_395" />
 					</co-creator>
@@ -4023,7 +3990,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_440" />
 					</co-creator>
@@ -4296,12 +4262,6 @@
 				<authors anonymous="false" author-company="false">
 					<author id="fake_id_189" juvenile="false" co-creator="false" principal="true" />
 				</authors>
-				<co-creators>
-					<co-creator>
-						<type code="" />
-						<person id="fake_id_112" />
-					</co-creator>
-				</co-creators>
 				<titles>
 					<title code="base" transliteration="false" newest="true">Przestrzeń i czas</title>
 				</titles>
@@ -4331,7 +4291,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_195" />
 					</co-creator>
@@ -4690,14 +4649,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_475" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_24" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_475" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -4895,13 +4852,8 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="illustrations" />
 						<person id="fake_id_97" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
-						<person id="fake_id_108" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -4993,7 +4945,6 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q11716897" />
 					</co-creator>
@@ -5026,7 +4977,6 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="" />
 						<type code="graphic-design" />
 						<person id="http://www.wikidata.org/entity/Q11702776" />
 					</co-creator>
@@ -5184,14 +5134,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_246" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_280" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_246" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5960,14 +5908,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_465" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_46" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_465" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -6110,14 +6056,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="" />
-						<type code="editorial-staff" />
-						<person id="fake_id_230" />
-					</co-creator>
-					<co-creator>
-						<type code="" />
 						<type code="editorial-staff" />
 						<person id="fake_id_216" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_230" />
 					</co-creator>
 				</co-creators>
 				<titles>

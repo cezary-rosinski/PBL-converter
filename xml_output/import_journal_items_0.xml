@@ -13057,12 +13057,6 @@
 				<authors anonymous="false" author-company="false">
 					<author id="http://www.wikidata.org/entity/Q48848673" juvenile="false" co-creator="false" principal="true" />
 				</authors>
-				<co-creators>
-					<co-creator>
-						<type code="" />
-						<person id="http://www.wikidata.org/entity/Q112560979" />
-					</co-creator>
-				</co-creators>
 				<titles>
 					<title code="base" transliteration="false" newest="true">Biblioteka jako przestrzeń uwewnętrzniona : o "Starym gmachu" Piotra Matywieckiego</title>
 				</titles>

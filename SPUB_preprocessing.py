@@ -256,8 +256,8 @@ def preprocess_journal_items(origin_data):
                     else:
                         coauth_name = person.split('|')[0]
                         coauth_id = person.split('|')[4]
-                        person_role = pbl_cocreators_mapping.get(person_role, '')
-                        cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
+                        if person_role := pbl_cocreators_mapping.get(person_role, ''):
+                            cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
         cocreators_temp = set([(*k, tuple(v)) for k,v in cocreators_temp.items()])
         cocreators[rec_id] = cocreators_temp
     authors = {k:list(v) for k,v in authors.items()}                                  
@@ -440,7 +440,7 @@ def preprocess_books(origin_data, pub_places_data):
     authors = {}
     cocreators = {}
     for rec in origin_data:
-        rec_id = rec.get('id')
+        rec_id = rec.get('id')        
         cocreators_temp = {}
         if (persons_with_roles := rec.get('persons_with_roles')):
             for person in persons_with_roles:
@@ -457,8 +457,8 @@ def preprocess_books(origin_data, pub_places_data):
                     else:
                         coauth_name = person.split('|')[0]
                         coauth_id = person.split('|')[4]
-                        person_role = pbl_cocreators_mapping.get(person_role, '')
-                        cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
+                        if person_role := pbl_cocreators_mapping.get(person_role, ''):
+                            cocreators_temp.setdefault((coauth_id, coauth_name), set()).add(person_role)
         cocreators_temp = set([(*k, tuple(v)) for k,v in cocreators_temp.items()])
         cocreators[rec_id] = cocreators_temp
     authors = {k:list(v) for k,v in authors.items()}                                  
