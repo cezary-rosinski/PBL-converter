@@ -191,7 +191,7 @@ class JournalItem:
             elif 'Secondary literature' in self.genre_major:
                 for sub_person in self.subject_persons:
                     for sub_heading in sub_person.headings:
-                        self.headings.append((auth_heading, sub_person.sub_person_id))
+                        self.headings.append((sub_heading, sub_person.sub_person_id))
                 
     def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
