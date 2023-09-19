@@ -43,6 +43,7 @@ def preprocess_places(data):
 def preprocess_people(data, biblio_data):
     # data = import_persons
     # biblio_data = import_biblio
+    biblio_data = [e for e in biblio_data if e]
     
     literature_nationalities = pd.read_excel('./additional_files/literature_nationalities.xlsx')
     literature_nationalities_dct = {}
@@ -78,11 +79,24 @@ def preprocess_people(data, biblio_data):
     return output
 
 def preprocess_institutions(data, biblio_data):
+    # data = import_corporates
+    # biblio_data = import_biblio
+    biblio_data = [e for e in biblio_data if e]
+    
     data = [{k:v for k,v in e.items() if k != 'recCount'} for e in data]
+    
     #warunek 'fullrecord' in e do usunięcia, jeśli MG uwzględni to w eksporcie danych w Libri
     origin_data = [e for e in biblio_data if 'Book' in e.get('format_major') and 'fullrecord' in e and any(el in e.get('fullrecord') for el in ['264', '260'])]
-        
-    publishers = [[ele for sub in [el.get('264') for el in parse_mrk(e.get('fullrecord'))] for ele in sub][0] if [el.get('264') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('260')[0] for el in parse_mrk(e.get('fullrecord'))][0] for e in origin_data]
+    
+    publishers = []
+    for e in origin_data:
+        el = parse_mrk(e.get('fullrecord'))[0]
+        if el.get('264'):
+            publishers.append(el.get('264')[0])
+        elif el.get('260'): 
+            publishers.append(el.get('260')[0])
+            
+    # publishers = [[ele for sub in [el.get('264') for el in parse_mrk(e.get('fullrecord'))] for ele in sub][0] if [el.get('264') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('260')[0] for el in parse_mrk(e.get('fullrecord'))][0] for e in origin_data]
 
     # publishers = [[el for el in marc_parser_for_field(e, '\\$') if any(x in el for x in ['$a', '$b'])] for e in publishers]
     # set([''.join([ele for sub in [list(el.keys()) for el in e] for ele in sub]) for e in publishers])
@@ -129,6 +143,7 @@ def preprocess_events(data):
     return data
 
 def preprocess_publishing_series(data):
+    data = [e for e in data if e]
     #warunek 'fullrecord' in e do usunięcia, jeśli MG uwzględni to w eksporcie danych w Libri
     data = [e for e in data if 'fullrecord' in e and '=490' in e.get('fullrecord')]
     data = [e.get('series') for e in data]
@@ -138,9 +153,11 @@ def preprocess_publishing_series(data):
     return data
 
 def preprocess_creative_works(data):
+    data = [e for e in data if e]
     return [{'name': e.get('author')[0].split('|')[0], 'wiki': e.get('author')[0].split('|')[4], 'title': e.get('title').strip()} for e in data if 'Literature' in e.get('genre_major') and 'author' in e]
 
 def preprocess_journals(biblio_data):
+    biblio_data = [e for e in biblio_data if e]
 
     # with open(r"F:\Cezary\Documents\IBL\Libri\dane z libri do pbl\2023-02-15\magazines.json", encoding='utf-8') as f:
     #     data2 = json.load(f)
@@ -205,7 +222,8 @@ def preprocess_journals(biblio_data):
     # [e.update({'years': biblio_journals.get(e.get('name'))}) for e in data]
     # data = [{'title' if k == 'name' else k:v for k,v in e.items()} for e in data]
 
-def preprocess_journal_items(origin_data):  
+def preprocess_journal_items(origin_data):
+    origin_data = [e for e in origin_data if e]
     java_record_types = parse_java(r".\additional_files\pbl_record_types.txt")
     java_cocreators = parse_java(r".\additional_files\pbl_co-creator_types.txt")
     
@@ -408,9 +426,15 @@ def preprocess_journal_items(origin_data):
     return preprocessed_data
 
 def preprocess_books(origin_data, pub_places_data):
+    
     # path, pub_places_path = r".\elb_input\biblio.json", r".\elb_input\pub_places.json"
     # origin_data, pub_places_data = import_biblio, import_pub_places
     # origin_data = import_biblio
+    
+    # origin_data = import_biblio
+    # pub_places_data = import_places
+    origin_data = [e for e in origin_data if e]
+    
     java_record_types = parse_java(r".\additional_files\pbl_record_types.txt")
     java_cocreators = parse_java(r".\additional_files\pbl_co-creator_types.txt")
     
@@ -579,7 +603,16 @@ def preprocess_books(origin_data, pub_places_data):
     linked_objects = {k:[[el.get('$u') for el in marc_parser_for_field(e, '\\$') if '$u' in el][0] if not isinstance(e, type(None)) else e for e in v] for k,v in linked_objects.items()}
     linked_objects = {k: v if v[0] else None for k,v in linked_objects.items()}
 
-    publishers_data = {e.get('id'): [ele for sub in [el.get('264') for el in parse_mrk(e.get('fullrecord'))] for ele in sub][0] if [el.get('264') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('260')[0] for el in parse_mrk(e.get('fullrecord'))][0] for e in origin_data}
+    # publishers_data = {e.get('id'): [ele for sub in [el.get('264') for el in parse_mrk(e.get('fullrecord'))] for ele in sub][0] if [el.get('264') for el in parse_mrk(e.get('fullrecord'))][0] else [el.get('260')[0] for el in parse_mrk(e.get('fullrecord'))][0] for e in origin_data}
+    
+    publishers_data = {}
+    for e in origin_data:
+        el = parse_mrk(e.get('fullrecord'))[0]
+        if el.get('264'):
+            publishers_data.update({e.get('id'): el.get('264')[0]})
+        elif el.get('260'): 
+            publishers_data.update({e.get('id'): el.get('260')[0]})
+    
     publishers_data = {k:[el for el in marc_parser_for_field(v, '\\$') if any(x in el for x in ['$a', '$b'])] for k,v in publishers_data.items()}
     
     publishers_data = {k:assign_places_to_publishers(v) for k,v in publishers_data.items()}
