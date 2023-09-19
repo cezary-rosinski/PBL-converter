@@ -284,30 +284,30 @@ for idx, sublist in enumerate([books[i:i + step] for i in range(0, len(books), s
 # przygotowuje pliki do manualnej selekcji rodzajów i działów
 
 # preparing headings
-for filename in tqdm(os.listdir('retro_input')[::-1]):
-    if filename.startswith('1'):
-        # filename = '1984_t2.json'
-        retro_year = filename[:4]
-        fname = filename[:-5]
+# for filename in tqdm(os.listdir('retro_input')[::-1]):
+#     if filename.startswith('1'):
+#         # filename = '1984_t2.json'
+#         retro_year = filename[:4]
+#         fname = filename[:-5]
         
-        with open(f"./retro_input/{filename}", encoding='utf8') as f:
-            retro_data = json.load(f)
+#         with open(f"./retro_input/{filename}", encoding='utf8') as f:
+#             retro_data = json.load(f)
             
-        out = []
-        for k,v in retro_data.items():
-            if v:
-                out.append((k, v[0].get('Heading')))
-        df = pd.DataFrame(out)
-        df.to_excel(f'./additional_files/retro_headings/{fname}_headings.xlsx', index=False)
+#         out = []
+#         for k,v in retro_data.items():
+#             if v:
+#                 out.append((k, v[0].get('Heading')))
+#         df = pd.DataFrame(out)
+#         df.to_excel(f'./additional_files/retro_headings/{fname}_headings.xlsx', index=False)
     
-        # preparing retro forms
-        out_forms = set()
-        for k,v in retro_data.items():
-            for rec in v:
-                if (form := rec.get('RODZAJ_DZIEŁA_ZALEŻNEGO')):
-                    out_forms.update(form)
-        df = pd.DataFrame(out_forms)
-        df.to_excel(f'./additional_files/retro_forms/{fname}_forms.xlsx', index=False)
+#         # preparing retro forms
+#         out_forms = set()
+#         for k,v in retro_data.items():
+#             for rec in v:
+#                 if (form := rec.get('RODZAJ_DZIEŁA_ZALEŻNEGO')):
+#                     out_forms.update(form)
+#         df = pd.DataFrame(out_forms)
+#         df.to_excel(f'./additional_files/retro_forms/{fname}_forms.xlsx', index=False)
 # prepare heading and form tables before continuation
    
 #%%% count recs

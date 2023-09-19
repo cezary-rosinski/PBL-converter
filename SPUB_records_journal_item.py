@@ -183,7 +183,7 @@ class JournalItem:
         return cls(**retro_journal_items_dict, collection='polska-bibliografia-literacka-1944-1988')
     
     def add_authors_headings(self):
-        if len(self.genre_major) == 1:
+        if self.genre_major and len(self.genre_major) == 1:
             if 'Literature' in self.genre_major:
                 for auth in self.authors:
                     for auth_heading in auth.headings:

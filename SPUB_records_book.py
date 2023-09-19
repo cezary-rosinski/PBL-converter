@@ -223,7 +223,7 @@ class Book:
             self.connect_with_institutions(publisher, institutions_to_connect)
     
     def add_authors_headings(self):
-        if len(self.genre_major) == 1:
+        if self.genre_major and len(self.genre_major) == 1:
             if 'Literature' in self.genre_major:
                 for auth in self.authors:
                     for auth_heading in auth.headings:
