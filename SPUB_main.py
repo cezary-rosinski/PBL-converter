@@ -394,7 +394,8 @@ for file in tqdm(os.listdir('retro_input')[::-1]):
             retro_persons_to_connect = {}
             for p in retro_persons:
                 for name in p.names:
-                    retro_persons_to_connect.update({name.value: p.id})
+                    retro_persons_to_connect.update({name.value: p})
+                    # retro_persons_to_connect.update({name.value: p.id})
     
             retro_journals_to_connect = {}
             for j in retro_journals:
