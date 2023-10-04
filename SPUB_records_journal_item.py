@@ -188,17 +188,24 @@ class JournalItem:
                 for auth in self.authors:
                     for auth_heading in auth.headings:
                         self.headings.append((auth_heading, auth.author_id))
+                        for _ in range(self.headings.count(auth_heading)):
+                            self.headings.remove(auth_heading)
             elif 'Secondary literature' in self.genre_major:
                 for sub_person in self.subject_persons:
                     for sub_heading in sub_person.headings:
                         self.headings.append((sub_heading, sub_person.sub_person_id))
-                
+                        for _ in range(self.headings.count(sub_heading)):
+                            self.headings.remove(sub_heading)
     def connect_with_persons(self, persons_to_connect):
         for author in self.authors:
             if not author.author_id:
                 match_person = persons_to_connect.get(author.author_name)
                 if match_person:
                     author.author_id = match_person.id
+                    author.headings = match_person.headings
+            else:
+                match_person = persons_to_connect.get(author.author_id)
+                if match_person:
                     author.headings = match_person.headings
         for cocreator in self.cocreators:
             if not cocreator.cocreator_id:
@@ -210,6 +217,10 @@ class JournalItem:
                 match_person = persons_to_connect.get(sub_person.sub_person_name)
                 if match_person:
                     sub_person.sub_person_id = match_person.id
+                    sub_person.headings = match_person.headings
+            else:
+                match_person = persons_to_connect.get(sub_person.sub_person_id)
+                if match_person:
                     sub_person.headings = match_person.headings
         self.add_authors_headings()
     

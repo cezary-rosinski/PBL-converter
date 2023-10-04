@@ -1,7 +1,7 @@
 <pbl>
 	<records>
 		<books>
-			<book id="fake_id_1951" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1951" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -20,12 +20,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9d552fc642806cb8336c58c42b9cd333">
-						<institution id="fake_id_981" />
+						<institution id="fake_id_1039" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -35,7 +35,7 @@
 				<physical-description co-created="no" description="78 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1952" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1952" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -55,7 +55,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="1e2f511ed7eaaf66f881c3496bdede62">
-						<institution id="fake_id_1046" />
+						<institution id="fake_id_1030" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q826068" period="❦" lang="pl" />
 						</places>
@@ -65,7 +65,7 @@
 				<physical-description co-created="no" description="[32] strony :ilustracje ;15 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1953" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1953" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="anthology" />
 					<record-type code="poem" />
@@ -93,12 +93,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e92a7d70cc61e7b1c4d2387b705ecf2d">
-						<institution id="fake_id_966" />
+						<institution id="fake_id_1003" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q66013" period="❦" lang="pl" />
 						</places>
@@ -108,7 +108,7 @@
 				<physical-description co-created="no" description="103 s., il. kolor." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1954" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1954" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -132,7 +132,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="156517e0509cbe194d8014b8c905c35a">
-						<institution id="fake_id_982" />
+						<institution id="fake_id_1045" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -142,7 +142,7 @@
 				<physical-description co-created="no" description="537 stron :faksymilia, fotografie ;24 cm +1 płyta audio (CD)." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1955" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1955" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -159,7 +159,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="bd89509d79aec9fab1d89f6353df65cf">
-						<institution id="fake_id_995" />
+						<institution id="fake_id_998" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q319813" period="❦" lang="pl" />
 						</places>
@@ -168,7 +168,7 @@
 				<publication-year year="1991" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1956" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1956" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -188,7 +188,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="fd933d08e880a690219ddd122fe582f2">
-						<institution id="fake_id_1044" />
+						<institution id="fake_id_1049" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -198,7 +198,7 @@
 				<physical-description co-created="no" description="462 strony :ilustracje, fotografie, mapy, wykresy ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1957" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1957" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -223,10 +223,10 @@
 					<language code="uk" />
 				</languages>
 				<headings>
-					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
-					<heading id="c14fb7905c4829e3ef17d28bb11ed947" />
 					<heading id="ebe2784b3c405d6578fdef798da0269a" />
 					<heading id="6d5f9d5c6335612cc5476058c71b8b25" />
+					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
+					<heading id="c14fb7905c4829e3ef17d28bb11ed947" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e4a7595d5a0679a63b788255e30358d3">
@@ -240,7 +240,7 @@
 				<physical-description co-created="no" description="316 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1958" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1958" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -261,12 +261,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_746" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="7c5d7aa8fc95a6fd762cb73945022b0a">
-						<institution id="fake_id_961" />
+						<institution id="fake_id_965" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q246264" period="❦" lang="pl" />
 						</places>
@@ -276,7 +275,7 @@
 				<physical-description co-created="no" description="96 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1959" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1959" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -305,7 +304,7 @@
 				<physical-description co-created="no" description="572 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1960" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1960" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -334,7 +333,7 @@
 				<physical-description co-created="no" description="534, [3] s. ;15 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1961" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1961" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -354,10 +353,10 @@
 					<language code="ru" />
 				</languages>
 				<headings>
-					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
-					<heading id="c14fb7905c4829e3ef17d28bb11ed947" />
 					<heading id="ebe2784b3c405d6578fdef798da0269a" />
 					<heading id="6d5f9d5c6335612cc5476058c71b8b25" />
+					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
+					<heading id="c14fb7905c4829e3ef17d28bb11ed947" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e4a7595d5a0679a63b788255e30358d3">
@@ -371,7 +370,7 @@
 				<physical-description co-created="no" description="219 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1962" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1962" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -380,11 +379,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_567" />
+						<person id="fake_id_185" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_185" />
+						<person id="fake_id_567" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -405,7 +404,7 @@
 				<physical-description co-created="no" description="208 s. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1963" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1963" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -424,12 +423,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="8a1437deb803d2438b6ae4187d8527e0">
-						<institution id="fake_id_984" />
+						<institution id="fake_id_969" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q580" period="❦" lang="pl" />
 						</places>
@@ -439,7 +438,7 @@
 				<physical-description co-created="no" description="56 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1964" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1964" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -467,7 +466,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -477,7 +476,7 @@
 				<physical-description co-created="no" description="281, [1] strona ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1965" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1965" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -500,13 +499,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -516,7 +515,7 @@
 				<physical-description co-created="no" description="212, [1] strona ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1966" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1966" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -529,12 +528,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9d552fc642806cb8336c58c42b9cd333">
-						<institution id="fake_id_981" />
+						<institution id="fake_id_1039" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -544,7 +543,7 @@
 				<physical-description co-created="no" description="212 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1967" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1967" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -577,7 +576,7 @@
 				<physical-description co-created="no" description="129 s., Tekst częśc. ros." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1968" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1968" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -586,7 +585,7 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="http://www.wikidata.org/entity/Q24428478" />
+						<person id="http://www.wikidata.org/entity/Q11715311" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
@@ -594,7 +593,7 @@
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="http://www.wikidata.org/entity/Q11715311" />
+						<person id="http://www.wikidata.org/entity/Q24428478" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -604,12 +603,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="c2172a31fcb26215725f374062c9ebff" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="c2172a31fcb26215725f374062c9ebff" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ca758f58c0ad5a73888e042cf274cea1">
-						<institution id="fake_id_1003" />
+						<institution id="fake_id_956" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q92212" period="❦" lang="pl" />
 						</places>
@@ -624,7 +623,7 @@
 				<physical-description co-created="no" description="328 s., il., Tekst częśc. tł. z ang. i serboch." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1969" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1969" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -648,13 +647,13 @@
 				</languages>
 				<headings>
 					<heading id="f40e5aad10c5a0c705e3080b664e056a" />
+					<heading id="6bf0e2b427d4fecde15feadf5b47ee97" />
 					<heading id="241262b3a98e28ae37bce4fb7a70724a" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
-					<heading id="6bf0e2b427d4fecde15feadf5b47ee97" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9f9ff5aadc692b59d039aca630ccd856">
-						<institution id="fake_id_1004" />
+						<institution id="fake_id_1032" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -664,7 +663,7 @@
 				<physical-description co-created="no" description="256 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1970" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1970" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="story" />
 				</record-types>
@@ -679,12 +678,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
+					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="36374330fd6c85d361d9f15819286f2a">
-						<institution id="fake_id_979" />
+						<institution id="fake_id_987" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q249166" period="❦" lang="pl" />
 						</places>
@@ -693,7 +692,7 @@
 				<publication-year year="2015" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1971" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1971" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -716,13 +715,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -732,7 +731,7 @@
 				<physical-description co-created="no" description="300, [1] strona :ilustracje ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1972" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1972" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -755,14 +754,14 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="c04795bffd76b4a6b92270904e37f616" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -772,7 +771,7 @@
 				<physical-description co-created="no" description="440 stron :ilustracje ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1973" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1973" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -794,7 +793,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="c65a686e7f3d563eed2025d5d8865a62">
-						<institution id="fake_id_1017" />
+						<institution id="fake_id_983" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q848999" period="❦" lang="pl" />
 						</places>
@@ -804,7 +803,7 @@
 				<physical-description co-created="no" description="46, [2] strony :ilustracje ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1974" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1974" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -823,7 +822,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -833,7 +832,7 @@
 				<physical-description co-created="no" description="201, [1] strona ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1975" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1975" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -850,7 +849,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="629f44ce9e6b7452be2ef3e2fd7b8513">
-						<institution id="fake_id_1022" />
+						<institution id="fake_id_995" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q385" period="❦" lang="pl" />
 						</places>
@@ -860,7 +859,7 @@
 				<physical-description co-created="no" description="96, [4] strony ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1976" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1976" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -884,7 +883,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="11e13d88c207b8ed1215d1dd03045f34">
-						<institution id="fake_id_1032" />
+						<institution id="fake_id_1005" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
 						</places>
@@ -899,7 +898,7 @@
 				<physical-description co-created="no" description="123, [4] strony :fotografie, ilustracje, portrety ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1977" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1977" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -925,7 +924,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e65b0129f4c54a5b99c6370c28f21060">
-						<institution id="fake_id_1038" />
+						<institution id="fake_id_1034" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -935,7 +934,7 @@
 				<physical-description co-created="no" description="60, [1] s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1978" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1978" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -969,7 +968,7 @@
 				<physical-description co-created="no" description="143, [1] strona ;19 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1979" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1979" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -977,8 +976,8 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="translation" />
-						<person id="fake_id_172" />
+						<type code="editorial-staff" />
+						<person id="fake_id_483" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
@@ -986,19 +985,19 @@
 					</co-creator>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_521" />
-					</co-creator>
-					<co-creator>
-						<type code="translation" />
 						<person id="fake_id_589" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
-						<person id="fake_id_483" />
 					</co-creator>
 					<co-creator>
 						<type code="translation" />
 						<person id="fake_id_504" />
+					</co-creator>
+					<co-creator>
+						<type code="translation" />
+						<person id="fake_id_521" />
+					</co-creator>
+					<co-creator>
+						<type code="translation" />
+						<person id="fake_id_172" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1013,7 +1012,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="fdbbd15666d38771cc71c427c5609fc6">
-						<institution id="fake_id_971" />
+						<institution id="fake_id_1027" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q393" period="❦" lang="pl" />
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
@@ -1024,7 +1023,7 @@
 				<physical-description co-created="no" description="277, [2] s. :il. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1980" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1980" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1053,7 +1052,7 @@
 				<physical-description co-created="no" description="37, [3] s. ;17 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1981" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1981" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1066,12 +1065,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9d552fc642806cb8336c58c42b9cd333">
-						<institution id="fake_id_981" />
+						<institution id="fake_id_1039" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -1081,7 +1080,7 @@
 				<physical-description co-created="no" description="165 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1982" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1982" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -1096,7 +1095,6 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_304" />
 				</headings>
 				<publishing-houses by-author="false">
@@ -1111,7 +1109,7 @@
 				<physical-description co-created="no" description="51 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1983" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1983" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -1126,12 +1124,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_427" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="1ceb14990e8e3d5dfe539cc8280dbeb3">
-						<institution id="fake_id_1050" />
+						<institution id="fake_id_964" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q102317" period="❦" lang="pl" />
 						</places>
@@ -1141,7 +1138,7 @@
 				<physical-description co-created="no" description="[28] s., il. (gł. kolor.)" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1984" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1984" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1170,7 +1167,7 @@
 				<physical-description co-created="no" description="70 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1985" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1985" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="anthology" />
 				</record-types>
@@ -1178,12 +1175,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="selection" />
-						<person id="http://www.wikidata.org/entity/Q20447165" />
-					</co-creator>
-					<co-creator>
 						<type code="illustrations" />
 						<person id="fake_id_562" />
+					</co-creator>
+					<co-creator>
+						<type code="selection" />
+						<person id="http://www.wikidata.org/entity/Q20447165" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1193,13 +1190,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
 					<heading id="cf78471f1bfa99083f811ac5085d9a16" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="81f525aeb516303c7c5849c6656f5c2d">
-						<institution id="fake_id_962" />
+						<institution id="fake_id_992" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q104720" period="❦" lang="pl" />
 						</places>
@@ -1214,7 +1211,7 @@
 				<physical-description co-created="no" description="34, [1] s. :il. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1986" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1986" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1223,15 +1220,15 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
+						<person id="fake_id_566" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
 						<person id="fake_id_379" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_327" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
-						<person id="fake_id_566" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1243,10 +1240,10 @@
 				</languages>
 				<headings>
 					<heading id="2ae5fd772bc80317ef6a9b26a201efc9" />
-					<heading id="64fde3944ccce804fb5aefc874a11962" />
-					<heading id="b0b41cc1f90ff8d8fa689e464b2aa827" />
 					<heading id="b0be33e8edae382daa9d15c0b5489623" />
+					<heading id="64fde3944ccce804fb5aefc874a11962" />
 					<heading id="e791a8cc0c1613295df66ca1ce68516a" />
+					<heading id="b0b41cc1f90ff8d8fa689e464b2aa827" />
 					<heading id="54af9db737ae701ad9571b826ed3f781" />
 				</headings>
 				<publishing-houses by-author="false">
@@ -1261,7 +1258,7 @@
 				<physical-description co-created="no" description="256, [3]  strony ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1987" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1987" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -1277,7 +1274,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="e57ca74c259944f0f9081f8ef330a557">
-						<institution id="fake_id_963" />
+						<institution id="fake_id_967" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q47554" period="❦" lang="pl" />
 							<place id="http://www.wikidata.org/entity/Q324912" period="❦" lang="pl" />
@@ -1288,16 +1285,16 @@
 				<physical-description co-created="no" description="121, [8] stron :ilustracje ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1988" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1988" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
 				<general-materials value="true" />
 				<authors anonymous="false" author-company="false">
-					<author id="http://www.wikidata.org/entity/Q112543408" juvenile="false" co-creator="false" principal="true" />
-					<author id="fake_id_194" juvenile="false" co-creator="false" principal="true" />
-					<author id="fake_id_712" juvenile="false" co-creator="false" principal="true" />
 					<author id="fake_id_723" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q112543408" juvenile="false" co-creator="false" principal="true" />
+					<author id="fake_id_712" juvenile="false" co-creator="false" principal="true" />
+					<author id="fake_id_194" juvenile="false" co-creator="false" principal="true" />
 				</authors>
 				<titles>
 					<title code="base" transliteration="false" newest="true">Kulturoznawstwo polskie : przeszłość, przestrzeń, perspektywy</title>
@@ -1317,7 +1314,7 @@
 				<physical-description co-created="no" description="334 strony ;22 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1989" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1989" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1334,7 +1331,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="f33679a17c098d526d01b64022f9315c">
-						<institution id="fake_id_1055" />
+						<institution id="fake_id_977" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q588" period="❦" lang="pl" />
 						</places>
@@ -1344,7 +1341,7 @@
 				<physical-description co-created="no" description="191 s., tabl.: il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1990" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1990" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1381,7 +1378,7 @@
 				<physical-description co-created="no" description="96 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1991" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1991" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
@@ -1396,13 +1393,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
-					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="40f1a3f54dfef4d7cdccc280c6f769ab">
-						<institution id="fake_id_1001" />
+						<institution id="fake_id_1055" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -1412,7 +1409,7 @@
 				<physical-description co-created="no" description="422, [1] strona :fotografie, ilustracje ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1992" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1992" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1436,7 +1433,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="b79609432f19b6ea2632bbf8d52bb9c3">
-						<institution id="fake_id_1054" />
+						<institution id="fake_id_1016" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -1446,7 +1443,7 @@
 				<physical-description co-created="no" description="524 s. :il. (w tym kolor.) ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1993" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1993" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1475,7 +1472,7 @@
 				<physical-description co-created="no" description="40 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1994" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1994" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -1500,7 +1497,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="1eec0fb2be366f27286914d814b4a527">
-						<institution id="fake_id_1043" />
+						<institution id="fake_id_971" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q158796" period="❦" lang="pl" />
 						</places>
@@ -1510,7 +1507,7 @@
 				<physical-description co-created="no" description="139, [1] strona :ilustracje ;20 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1995" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1995" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -1536,7 +1533,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="b60e1b7e5e25c4cbc7274029729f31e1">
-						<institution id="fake_id_964" />
+						<institution id="fake_id_1012" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1040" period="❦" lang="pl" />
 							<place id="http://www.wikidata.org/entity/Q387463" period="❦" lang="pl" />
@@ -1547,7 +1544,7 @@
 				<physical-description co-created="no" description="72 strony :ilustracje ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1996" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1996" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -1568,7 +1565,6 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="83d248ebec707f970a0c2ac9a48a8313" />
 					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="83d248ebec707f970a0c2ac9a48a8313" person-id="fake_id_245" />
 				</headings>
@@ -1584,7 +1580,7 @@
 				<physical-description co-created="no" description="488, [8] s., Na książce pseud. aut., nazwa: John G. Hemry." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1997" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1997" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1605,8 +1601,8 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="da6d3c754debf8fef452bce750b84eb5" />
 					<heading id="6ff67afd337cb3370bb33e4a6715aca4" />
+					<heading id="da6d3c754debf8fef452bce750b84eb5" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="6ed40efdcb8ff40f28c96035fe51976e">
@@ -1620,7 +1616,7 @@
 				<physical-description co-created="no" description="244 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1998" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1998" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1629,11 +1625,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_12" />
+						<person id="fake_id_597" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_597" />
+						<person id="fake_id_12" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1647,7 +1643,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e6929ba570111c8f3af1bd64760b3f1f">
-						<institution id="fake_id_973" />
+						<institution id="fake_id_988" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q47554" period="❦" lang="pl" />
 						</places>
@@ -1657,7 +1653,7 @@
 				<physical-description co-created="no" description="259 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_1999" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_1999" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1685,25 +1681,25 @@
 				<publication-year year="2015" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2000" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2000" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="journal" />
 					<record-type code="interview" />
 				</record-types>
 				<general-materials value="true" />
 				<authors anonymous="false" author-company="false">
-					<author id="http://www.wikidata.org/entity/Q19697961" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q9382775" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q6341573" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q21288159" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q112517974" juvenile="false" co-creator="false" principal="true" />
 					<author id="fake_id_44" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q9377036" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q9376509" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q515644" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q20029871" juvenile="false" co-creator="false" principal="true" />
-					<author id="http://www.wikidata.org/entity/Q112517976" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q19697961" juvenile="false" co-creator="false" principal="true" />
 					<author id="http://www.wikidata.org/entity/Q1899516" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q20029871" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q515644" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q9376509" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q9377036" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q112517976" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q21288159" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q9382775" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q112517974" juvenile="false" co-creator="false" principal="true" />
+					<author id="http://www.wikidata.org/entity/Q6341573" juvenile="false" co-creator="false" principal="true" />
 				</authors>
 				<titles>
 					<title code="base" transliteration="false" newest="true">Patrząc na Wschód : przestrzeń, człowiek, mistycyzm</title>
@@ -1715,6 +1711,7 @@
 					<heading id="241262b3a98e28ae37bce4fb7a70724a" />
 					<heading id="4eb48a204cbf2d9d7904200e9efb9097" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q515644" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="abe6921bb277a1afcaeaf1364e278a56">
@@ -1728,7 +1725,7 @@
 				<physical-description co-created="no" description="280 s. :il. ;22 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2001" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2001" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1737,11 +1734,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_234" />
+						<person id="http://www.wikidata.org/entity/Q9387987" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="http://www.wikidata.org/entity/Q9387987" />
+						<person id="fake_id_234" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1751,8 +1748,8 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="59e83ee71bd812f02fb2ef0004a22a30">
@@ -1766,7 +1763,7 @@
 				<physical-description co-created="no" description="227, [3] strony ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2002" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2002" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1775,11 +1772,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_307" />
+						<person id="fake_id_17" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_17" />
+						<person id="fake_id_307" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1795,7 +1792,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="a9b6570fbe5214f61b7d135607516057">
-						<institution id="fake_id_1005" />
+						<institution id="fake_id_1000" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q319813" period="❦" lang="pl" />
 						</places>
@@ -1810,7 +1807,7 @@
 				<physical-description co-created="no" description="116 stron :fotografie ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2003" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2003" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1831,14 +1828,14 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
 					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
 					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="73cc58a5f78a19d6e8a499f551d7ee9b">
-						<institution id="fake_id_980" />
+						<institution id="fake_id_1041" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -1848,7 +1845,7 @@
 				<physical-description co-created="no" description="[36] stron :ilustracje ;27 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2004" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2004" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1857,11 +1854,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_670" />
+						<person id="fake_id_637" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_637" />
+						<person id="fake_id_670" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1875,7 +1872,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="57b558388cbec72aabbe350b4453f8d2">
-						<institution id="fake_id_965" />
+						<institution id="fake_id_981" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -1885,7 +1882,7 @@
 				<physical-description co-created="no" description="271 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2005" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2005" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -1900,12 +1897,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_110" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="848ee325ef853ed3854ed1b9b28b7fc0">
-						<institution id="fake_id_1010" />
+						<institution id="fake_id_1002" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q580" period="❦" lang="pl" />
 						</places>
@@ -1915,7 +1911,7 @@
 				<physical-description co-created="no" description="62 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2006" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2006" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1923,12 +1919,12 @@
 				<authors anonymous="true" author-company="false" />
 				<co-creators>
 					<co-creator>
-						<type code="translation" />
-						<person id="fake_id_384" />
-					</co-creator>
-					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_393" />
+					</co-creator>
+					<co-creator>
+						<type code="translation" />
+						<person id="fake_id_384" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -1938,8 +1934,8 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9db8c0d99b068702c072b7aecfc36f19">
@@ -1953,7 +1949,7 @@
 				<physical-description co-created="no" description="48 s. [Tekst równoległy polski, niemiecki]" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2007" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2007" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -1974,7 +1970,6 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_573" />
 				</headings>
 				<publishing-houses by-author="false">
@@ -1989,7 +1984,7 @@
 				<physical-description co-created="no" description="32 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2008" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2008" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -1998,7 +1993,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_210" />
+						<person id="fake_id_64" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_154" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
@@ -2006,11 +2005,7 @@
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_64" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
-						<person id="fake_id_154" />
+						<person id="fake_id_210" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2033,7 +2028,7 @@
 				<physical-description co-created="no" description="285 stron :ilustracje, mapy, wykresy ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2009" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2009" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2057,7 +2052,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -2067,7 +2062,7 @@
 				<physical-description co-created="no" description="552, [3] strony :ilustracje, fotografie, wykresy ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2010" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2010" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2092,18 +2087,18 @@
 					<language code="ru" />
 				</languages>
 				<headings>
+					<heading id="cf78471f1bfa99083f811ac5085d9a16" />
+					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
 					<heading id="32311129f8168fe9956c917a9cb4fe73" />
 					<heading id="093ff228a7c4e382a6bb7d1349ac49a8" />
-					<heading id="e99e5257f8af377ba21568d1fb73e368" />
-					<heading id="cf78471f1bfa99083f811ac5085d9a16" />
-					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
 					<heading id="ebe2784b3c405d6578fdef798da0269a" />
-					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e99e5257f8af377ba21568d1fb73e368" />
+					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="6e713feeddf84369e4e087843bdff713">
-						<institution id="fake_id_967" />
+						<institution id="fake_id_989" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q105048" period="❦" lang="pl" />
 						</places>
@@ -2113,7 +2108,7 @@
 				<physical-description co-created="no" description="248 stron ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2011" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2011" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2122,15 +2117,15 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_15" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q9178413" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_20" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_15" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2142,7 +2137,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="810a816b3808dfcb2321db8d457635bc">
-						<institution id="fake_id_999" />
+						<institution id="fake_id_1024" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2157,7 +2152,7 @@
 				<physical-description co-created="no" description="728 s. :il. ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2012" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2012" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2186,7 +2181,7 @@
 				<physical-description co-created="no" description="147, [1] s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2013" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2013" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -2202,7 +2197,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="5ab14c2b85f83a653f39dc3f09d7fa42">
-						<institution id="fake_id_992" />
+						<institution id="fake_id_962" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q761" period="❦" lang="pl" />
 						</places>
@@ -2217,7 +2212,7 @@
 				<physical-description co-created="no" description="159 stron :ilustracje ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2014" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2014" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2240,15 +2235,15 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="241262b3a98e28ae37bce4fb7a70724a" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 					<heading id="f40e5aad10c5a0c705e3080b664e056a" />
-					<heading id="241262b3a98e28ae37bce4fb7a70724a" />
 					<heading id="6bf0e2b427d4fecde15feadf5b47ee97" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -2258,7 +2253,7 @@
 				<physical-description co-created="no" description="429, [1] s. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2015" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2015" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -2273,12 +2268,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
+					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ed0138f71ddb94c2c1d730e767e439ac">
-						<institution id="fake_id_1047" />
+						<institution id="fake_id_1010" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q385" period="❦" lang="pl" />
 						</places>
@@ -2288,7 +2283,7 @@
 				<physical-description co-created="no" description="263, [2] s. ;20 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2016" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2016" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -2307,7 +2302,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ed0138f71ddb94c2c1d730e767e439ac">
-						<institution id="fake_id_1047" />
+						<institution id="fake_id_1010" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q385" period="❦" lang="pl" />
 						</places>
@@ -2316,7 +2311,7 @@
 				<publication-year year="2013" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2017" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2017" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2343,7 +2338,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e0a5707887b07d8a2ee8170ba45382a9">
-						<institution id="fake_id_1040" />
+						<institution id="fake_id_1028" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -2353,7 +2348,7 @@
 				<physical-description co-created="no" description="447 stron :ilustracje, fotografie ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2018" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2018" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -2375,7 +2370,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="a8a2eb2aa32f7dc69d24c2c3bfb32742">
-						<institution id="fake_id_996" />
+						<institution id="fake_id_1015" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q980689" period="❦" lang="pl" />
 						</places>
@@ -2385,7 +2380,7 @@
 				<physical-description co-created="no" description="119, [1] strona :ilustracje ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2019" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2019" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -2400,12 +2395,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_457" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="87ee6b32a3fff5ba4d99a93ad462f3e3">
-						<institution id="fake_id_994" />
+						<institution id="fake_id_1021" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q104720" period="❦" lang="pl" />
 						</places>
@@ -2415,7 +2409,7 @@
 				<physical-description co-created="no" description="80 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2020" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2020" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2431,7 +2425,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="50d121a1ccffb205655ea335ebfdd5ce">
-						<institution id="fake_id_960" />
+						<institution id="fake_id_1001" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q82765" period="❦" lang="pl" />
 						</places>
@@ -2441,7 +2435,7 @@
 				<physical-description co-created="no" description="143 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2021" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2021" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2454,11 +2448,11 @@
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_481" />
+						<person id="fake_id_659" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_659" />
+						<person id="fake_id_481" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2472,7 +2466,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="75536418936ad78a532b0264d3025d0c">
-						<institution id="fake_id_1014" />
+						<institution id="fake_id_972" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2481,7 +2475,7 @@
 				<publication-year year="2001" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2022" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2022" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -2496,11 +2490,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q111422352" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="4ccfd43af336b37806bf3f3ab543c771">
-						<institution id="fake_id_1053" />
+						<institution id="fake_id_1018" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -2510,7 +2504,7 @@
 				<physical-description co-created="no" description="37 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2023" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2023" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2521,11 +2515,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_23" />
+						<person id="fake_id_48" />
 					</co-creator>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_48" />
+						<person id="fake_id_23" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2539,7 +2533,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="b3b1814fab5815f4eeaf1d724c571f0e">
-						<institution id="fake_id_969" />
+						<institution id="fake_id_1020" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2549,7 +2543,7 @@
 				<physical-description co-created="no" description="629 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2024" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2024" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2558,15 +2552,15 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
+						<person id="fake_id_407" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
 						<person id="fake_id_111" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_449" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
-						<person id="fake_id_407" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2578,7 +2572,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="4ac5dae953ea5f4dd5fe99b77ae5aaa4">
-						<institution id="fake_id_968" />
+						<institution id="fake_id_957" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q47554" period="❦" lang="pl" />
 						</places>
@@ -2588,7 +2582,7 @@
 				<physical-description co-created="no" description="232 strony :ilustracje, faksymilia, mapy ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2025" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2025" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2597,11 +2591,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_261" />
+						<person id="fake_id_237" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_237" />
+						<person id="fake_id_261" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
@@ -2626,7 +2620,7 @@
 				<physical-description co-created="no" description="320 stron :ilustracje, wykresy ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2026" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2026" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2635,15 +2629,15 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
+						<person id="fake_id_485" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q112396960" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_256" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
-						<person id="fake_id_485" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2659,7 +2653,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9eb5a0585366015d3295771818b63009">
-						<institution id="fake_id_1000" />
+						<institution id="fake_id_978" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2669,7 +2663,7 @@
 				<physical-description co-created="no" description="375 stron :fotografie, wykresy ;24 cm +1 dysk optyczny (DVD)." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2027" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2027" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -2680,8 +2674,10 @@
 				</authors>
 				<co-creators>
 					<co-creator>
-						<type code="music" />
-						<person id="fake_id_316" />
+						<type code="notes-comments" />
+						<type code="selection" />
+						<type code="development" />
+						<person id="http://www.wikidata.org/entity/Q9142255" />
 					</co-creator>
 					<co-creator>
 						<type code="notes-comments" />
@@ -2692,15 +2688,13 @@
 						<person id="http://www.wikidata.org/entity/Q2659850" />
 					</co-creator>
 					<co-creator>
-						<type code="music" />
 						<type code="implementation" />
+						<type code="music" />
 						<person id="fake_id_484" />
 					</co-creator>
 					<co-creator>
-						<type code="selection" />
-						<type code="development" />
-						<type code="notes-comments" />
-						<person id="http://www.wikidata.org/entity/Q9142255" />
+						<type code="music" />
+						<person id="fake_id_316" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2715,7 +2709,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="7e462fc154dbdd79113dfe66e27a846f">
-						<institution id="fake_id_1019" />
+						<institution id="fake_id_970" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2730,7 +2724,7 @@
 				<physical-description co-created="no" description="1 płyta audio (CD) :zapis cyfrowy, stereo ;12 cm +[26 stron] : fotografie ; 14 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2028" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2028" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -2745,12 +2739,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
+					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ed0138f71ddb94c2c1d730e767e439ac">
-						<institution id="fake_id_1047" />
+						<institution id="fake_id_1010" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q385" period="❦" lang="pl" />
 						</places>
@@ -2759,7 +2753,7 @@
 				<publication-year year="2015" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2029" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2029" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2768,11 +2762,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_142" />
+						<person id="fake_id_41" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_41" />
+						<person id="fake_id_142" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -2796,7 +2790,7 @@
 				<physical-description co-created="no" description="459, [2] s., 24 s. tabl., il., Materiały z konf., która odbyła się w Krakowie 23-26 listopada 2006 r., Tekst częśc. tł. z ang." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2030" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2030" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2821,7 +2815,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="5f6f2749a8cca77575a242bb50106df4">
-						<institution id="fake_id_1023" />
+						<institution id="fake_id_1035" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2831,7 +2825,7 @@
 				<physical-description co-created="no" description="338 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2031" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2031" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -2846,12 +2840,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_502" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="d58abedfdf107896d159b1802d637693">
-						<institution id="fake_id_1013" />
+						<institution id="fake_id_1050" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q33139344" period="❦" lang="pl" />
 						</places>
@@ -2861,7 +2854,7 @@
 				<physical-description co-created="no" description="42, [1] s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2032" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2032" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -2884,10 +2877,11 @@
 				<headings>
 					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="71d10fa305db6f173c12380a9338a775" />
+					<heading id="dfb5048023d86139b76b71f03f1e4e30" person-id="http://www.wikidata.org/entity/Q2477472" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="c6caf3339863225cd3e629d98e691c4c">
-						<institution id="fake_id_985" />
+						<institution id="fake_id_1026" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2897,7 +2891,7 @@
 				<physical-description co-created="no" description="316, [1] s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2033" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2033" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -2920,10 +2914,11 @@
 				<headings>
 					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="71d10fa305db6f173c12380a9338a775" />
+					<heading id="dfb5048023d86139b76b71f03f1e4e30" person-id="http://www.wikidata.org/entity/Q2477472" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="c6caf3339863225cd3e629d98e691c4c">
-						<institution id="fake_id_985" />
+						<institution id="fake_id_1026" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2933,7 +2928,7 @@
 				<physical-description co-created="no" description="348, [2] s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2034" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2034" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2952,7 +2947,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e65b0129f4c54a5b99c6370c28f21060">
-						<institution id="fake_id_1038" />
+						<institution id="fake_id_1034" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -2962,7 +2957,7 @@
 				<physical-description co-created="no" description="36 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2035" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2035" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -2977,16 +2972,16 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9ae0b2a162156144663e5637aec067bf" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
 					<heading id="b09b15fa632870dd854a5f092c4c44ce" />
-					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
+					<heading id="9ae0b2a162156144663e5637aec067bf" />
 					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
 					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
+					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="f11b49f454798422629bd82bf5f11f1e">
-						<institution id="fake_id_1033" />
+						<institution id="fake_id_996" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -3001,7 +2996,7 @@
 				<physical-description co-created="no" description="86, [1] strona :ilustracje ;18 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2036" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2036" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -3012,11 +3007,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_23" />
+						<person id="fake_id_48" />
 					</co-creator>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_48" />
+						<person id="fake_id_23" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -3031,7 +3026,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ecc651594226bb633e34ac21397271e2">
-						<institution id="fake_id_1036" />
+						<institution id="fake_id_1009" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -3041,7 +3036,7 @@
 				<physical-description co-created="no" description="643, [1] strona ;19 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2037" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2037" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3071,7 +3066,7 @@
 				<physical-description co-created="no" description="128, [2] s. :il., err. ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2038" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2038" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3080,15 +3075,15 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_452" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
 						<person id="fake_id_453" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q20030306" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_452" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -3099,7 +3094,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="1b3a70ddfd8c65a8208e475ec6680e23">
-						<institution id="fake_id_1015" />
+						<institution id="fake_id_973" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -3109,7 +3104,7 @@
 				<physical-description co-created="no" description="321 stron :fotografie, mapy ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2039" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2039" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3126,7 +3121,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e42fa4ee2d048afc2c6a1d04e8e54d19">
-						<institution id="fake_id_970" />
+						<institution id="fake_id_974" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
 						</places>
@@ -3136,7 +3131,7 @@
 				<physical-description co-created="no" description="s. 131-148, fot." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2040" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2040" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3155,7 +3150,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="77501cb22b7a1938154cc6ba21868271">
-						<institution id="fake_id_1042" />
+						<institution id="fake_id_1017" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -3165,7 +3160,7 @@
 				<physical-description co-created="no" description="221 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2041" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2041" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3184,7 +3179,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9166592fe7af299aac82a4fde3ac966b">
-						<institution id="fake_id_990" />
+						<institution id="fake_id_1056" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q215633" period="❦" lang="pl" />
 						</places>
@@ -3194,7 +3189,7 @@
 				<physical-description co-created="no" description="153 s.: il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2042" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2042" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3223,7 +3218,7 @@
 				<physical-description co-created="no" description="234 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2043" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2043" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3242,7 +3237,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="cc22e1dc7a4aba11bb71940ca5322f36">
-						<institution id="fake_id_1024" />
+						<institution id="fake_id_1008" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -3252,7 +3247,7 @@
 				<physical-description co-created="no" description="258 s., [24] s. tabl.: fot., portr." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2044" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2044" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3271,7 +3266,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="8b3b856e39716425d454d17209d5630a">
-						<institution id="fake_id_1025" />
+						<institution id="fake_id_1011" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
 						</places>
@@ -3281,7 +3276,7 @@
 				<physical-description co-created="no" description="98 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2045" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2045" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3290,11 +3285,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_7" />
+						<person id="fake_id_243" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_243" />
+						<person id="fake_id_7" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -3319,7 +3314,7 @@
 				<physical-description co-created="no" description="451 stron :ilustracje ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2046" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2046" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="essay" />
 				</record-types>
@@ -3348,7 +3343,7 @@
 				<publication-year year="2018" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2047" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2047" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
@@ -3363,16 +3358,16 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="1732b4e8aa051d8cb766d9aba306bc07" />
+					<heading id="9714c93b62d76c57543ecb1656818234" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="a122f554ff7a49c86b4a17e338b524a1" />
 					<heading id="20296335bd574babebdf95028823f007" />
 					<heading id="930021205e462007dd197d521ee8abd6" />
-					<heading id="a122f554ff7a49c86b4a17e338b524a1" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
-					<heading id="9714c93b62d76c57543ecb1656818234" />
-					<heading id="1732b4e8aa051d8cb766d9aba306bc07" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="36ae939ab645bbe176630ddefb327101">
-						<institution id="fake_id_978" />
+						<institution id="fake_id_1044" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -3382,7 +3377,7 @@
 				<physical-description co-created="no" description="204 strony :ilustracje, fotografie, wykresy ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2048" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2048" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -3411,7 +3406,7 @@
 				<physical-description co-created="no" description="323 s. :il. ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2049" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2049" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3434,7 +3429,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ce18525b7e7f1e2a7557d600520e2d19">
-						<institution id="fake_id_977" />
+						<institution id="fake_id_1040" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q41252" period="❦" lang="pl" />
 						</places>
@@ -3444,7 +3439,7 @@
 				<physical-description co-created="no" description="220 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2050" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2050" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3471,7 +3466,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="cac500b70bae93d8861addd86032a267">
-						<institution id="fake_id_1020" />
+						<institution id="fake_id_1025" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -3481,7 +3476,7 @@
 				<physical-description co-created="no" description="475 s., Plon sesji, która odbyła się w listopadzie 2004 r. w Krakowie., Tekst częśc. tł. z wł." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2051" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2051" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -3502,12 +3497,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="66c8f768d5c3628ace38b78be063e200" />
 					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
+					<heading id="66c8f768d5c3628ace38b78be063e200" person-id="http://www.wikidata.org/entity/Q2000797" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9bf38131366781b1d1c6e40961bc71b6">
-						<institution id="fake_id_972" />
+						<institution id="fake_id_1048" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -3517,7 +3512,7 @@
 				<physical-description co-created="no" description="476, [3] s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2052" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2052" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -3538,12 +3533,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_82" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="50cdd8c1635d15b58d500e4f936a3ee1">
-						<institution id="fake_id_1037" />
+						<institution id="fake_id_1052" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -3553,7 +3547,7 @@
 				<physical-description co-created="no" description="78, [2] s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2053" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2053" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -3574,11 +3568,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q9256056" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="21061fb1044e0a43c05110ddc2cbd524">
-						<institution id="fake_id_1057" />
+						<institution id="fake_id_999" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q761" period="❦" lang="pl" />
 						</places>
@@ -3588,7 +3582,7 @@
 				<physical-description co-created="no" description="[2], 78 s., il. kolor." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2054" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2054" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3607,7 +3601,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="54d251e4c4dabdde7c79c55855ba9234">
-						<institution id="fake_id_1052" />
+						<institution id="fake_id_979" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q2326576" period="❦" lang="pl" />
 						</places>
@@ -3617,7 +3611,7 @@
 				<physical-description co-created="no" description="283 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2055" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2055" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3638,8 +3632,8 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="872f158623733c4f85c78a9cc8fcda0f" />
 					<heading id="2d94ccf1e8d32eee0c82e29a63ef67c7" />
+					<heading id="872f158623733c4f85c78a9cc8fcda0f" />
 					<heading id="66c8f768d5c3628ace38b78be063e200" />
 				</headings>
 				<publishing-houses by-author="false">
@@ -3654,7 +3648,7 @@
 				<physical-description co-created="no" description="271, [1] s., [20] s. tabl. :il. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2056" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2056" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -3669,12 +3663,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
+					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ed0138f71ddb94c2c1d730e767e439ac">
-						<institution id="fake_id_1047" />
+						<institution id="fake_id_1010" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q385" period="❦" lang="pl" />
 						</places>
@@ -3684,7 +3678,7 @@
 				<physical-description co-created="no" description="364, [2] s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2057" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2057" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3721,7 +3715,7 @@
 				<physical-description co-created="no" description="156 stron ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2058" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2058" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
@@ -3736,13 +3730,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
 					<heading id="b09b15fa632870dd854a5f092c4c44ce" />
-					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
-					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
+					<heading id="9ed9e3fbfa32214dbed96707ae57b04b" />
+					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e483da219112127373eddd29139ba53a">
@@ -3757,7 +3751,7 @@
 				<physical-description co-created="no" description="319 stron :ilustracje ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2059" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2059" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3786,7 +3780,7 @@
 				<physical-description co-created="no" description="242 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2060" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2060" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3813,7 +3807,7 @@
 				<physical-description co-created="no" description="44 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2061" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2061" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3832,7 +3826,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="4e2703ff365e47658d473bf95bf6e1b3">
-						<institution id="fake_id_1035" />
+						<institution id="fake_id_963" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q393" period="❦" lang="pl" />
 						</places>
@@ -3842,7 +3836,7 @@
 				<physical-description co-created="no" description="133 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2062" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2062" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3867,7 +3861,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="044aa34360b26ca691b910aebd9d4ffc">
-						<institution id="fake_id_959" />
+						<institution id="fake_id_958" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -3877,7 +3871,7 @@
 				<physical-description co-created="no" description="242 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2063" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2063" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -3898,7 +3892,7 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q11736187" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="02f988d433df5c8440f90f2fe68fde86">
@@ -3911,7 +3905,7 @@
 				<publication-year year="1989" uncertain="false" explanation="" type="publishing-years" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2064" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2064" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3946,7 +3940,7 @@
 				<physical-description co-created="no" description="131, [3] strony :faksymilia, fotografie, ilustracje ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2065" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2065" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -3972,7 +3966,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="a3a5059637ef6537e3fc65c2668fb69d">
-						<institution id="fake_id_1009" />
+						<institution id="fake_id_975" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -3982,7 +3976,7 @@
 				<physical-description co-created="no" description="528 stron :ilustracje, wykresy ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2066" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2066" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4015,7 +4009,7 @@
 				<physical-description co-created="no" description="287, [1] s., il., err." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2067" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2067" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4034,7 +4028,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="8aeb3b0ba3dc587f7ebda5848fb6768f">
-						<institution id="fake_id_986" />
+						<institution id="fake_id_1006" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -4044,7 +4038,7 @@
 				<physical-description co-created="no" description="184, [1], il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2068" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2068" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -4059,11 +4053,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q45970" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="cca141f3d12c264c63e6000132a3f80e">
-						<institution id="fake_id_1041" />
+						<institution id="fake_id_990" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -4073,7 +4067,7 @@
 				<physical-description co-created="no" description="118 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2069" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2069" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -4088,7 +4082,7 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q9388323" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e5610f2a8af88521ffc9ac354047f490">
@@ -4102,7 +4096,7 @@
 				<physical-description co-created="no" description="94 s. [&lt;i&gt;Akcent&lt;/i&gt; 2001 nr 4 s. 42]" />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2070" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2070" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="draft" />
 				</record-types>
@@ -4123,13 +4117,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
-					<heading id="29492fa402ac3352fea2288c0ea86552" />
 					<heading id="530f67db70a9bf21336f642b15d593a2" />
+					<heading id="29492fa402ac3352fea2288c0ea86552" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="c44350fef2cc630699adfbc87a3ec0c2">
-						<institution id="fake_id_989" />
+						<institution id="fake_id_1013" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -4145,14 +4139,14 @@
 				<physical-description co-created="no" description="348 s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2071" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2071" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
 				<general-materials value="true" />
 				<authors anonymous="false" author-company="false">
-					<author id="fake_id_118" juvenile="false" co-creator="false" principal="true" />
 					<author id="fake_id_288" juvenile="false" co-creator="false" principal="true" />
+					<author id="fake_id_118" juvenile="false" co-creator="false" principal="true" />
 				</authors>
 				<titles>
 					<title code="base" transliteration="false" newest="true">Blogosfera w Rosji : wirtualna przestrzeń literacka a wyzwania społeczeństwa sieciowego</title>
@@ -4161,19 +4155,19 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="32311129f8168fe9956c917a9cb4fe73" />
-					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
-					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
-					<heading id="8073defb4461ad7e4f189855de5cc49a" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
-					<heading id="ebe2784b3c405d6578fdef798da0269a" />
-					<heading id="568f8c312b564470138954f2f001051e" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="32311129f8168fe9956c917a9cb4fe73" />
+					<heading id="568f8c312b564470138954f2f001051e" />
+					<heading id="ebe2784b3c405d6578fdef798da0269a" />
+					<heading id="e370ec6dadef6ef5298b4b4433b52174" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
+					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
+					<heading id="8073defb4461ad7e4f189855de5cc49a" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="0df5e9508cb1f6a201466dd2ce6ff0f2">
-						<institution id="fake_id_1021" />
+						<institution id="fake_id_966" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q588" period="❦" lang="pl" />
 						</places>
@@ -4183,7 +4177,7 @@
 				<physical-description co-created="no" description="168 stron ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2072" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2072" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4210,8 +4204,8 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="c4d59140b0b24a0d2f313a86e85c2da2">
@@ -4225,7 +4219,7 @@
 				<physical-description co-created="no" description="504, [1] strona, [1] karta tablic :faksymilia, fotografie, ilustracje, portret ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2073" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2073" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4244,7 +4238,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="b680015cabb54c1d634a0476165a2d4e">
-						<institution id="fake_id_1045" />
+						<institution id="fake_id_993" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q588" period="❦" lang="pl" />
 						</places>
@@ -4254,7 +4248,7 @@
 				<physical-description co-created="no" description="166 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2074" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2074" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4273,7 +4267,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="54ef9eac8910b591d8a62aa803264ee6">
-						<institution id="fake_id_987" />
+						<institution id="fake_id_1023" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1792" period="❦" lang="pl" />
 						</places>
@@ -4283,7 +4277,7 @@
 				<physical-description co-created="no" description="192 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2075" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2075" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4302,9 +4296,9 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="154d450bb0dfc0244299a82ea57b9868" />
 					<heading id="7809b40caef599c596770168a658317d" />
 					<heading id="dfdf7a6a9a55681e5ed675f39d3f7e02" />
-					<heading id="154d450bb0dfc0244299a82ea57b9868" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e4a7595d5a0679a63b788255e30358d3">
@@ -4318,7 +4312,7 @@
 				<physical-description co-created="no" description="181 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2076" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2076" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4333,14 +4327,14 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
 					<heading id="bd6b159c374e6e9ef9c486caeb8ae84d" />
 					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="f651bad0e672dc5f1b860587b2a74c1b" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="dbe4491741403f6b4d921fccb500defe">
-						<institution id="fake_id_1051" />
+						<institution id="fake_id_982" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -4350,7 +4344,7 @@
 				<physical-description co-created="no" description="130, [3] strony ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2077" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2077" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4369,7 +4363,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="cfec4d2f5564d4776e2ba07f07744048">
-						<institution id="fake_id_958" />
+						<institution id="fake_id_1033" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -4379,7 +4373,7 @@
 				<physical-description co-created="no" description="146 s., portr." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2078" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2078" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4398,13 +4392,13 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="491273d9e070738583f402bd05680ba2">
-						<institution id="fake_id_993" />
+						<institution id="fake_id_1036" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
 					</publishing-house>
 					<publishing-house id="57b558388cbec72aabbe350b4453f8d2">
-						<institution id="fake_id_965" />
+						<institution id="fake_id_981" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -4414,7 +4408,7 @@
 				<physical-description co-created="no" description="141 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2079" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2079" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4429,12 +4423,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="da6d3c754debf8fef452bce750b84eb5" />
 					<heading id="6ff67afd337cb3370bb33e4a6715aca4" />
+					<heading id="da6d3c754debf8fef452bce750b84eb5" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="7d61973efc3d79f6f4e6e7ff9b2e1a67">
-						<institution id="fake_id_1029" />
+						<institution id="fake_id_961" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q104720" period="❦" lang="pl" />
 						</places>
@@ -4444,7 +4438,7 @@
 				<physical-description co-created="no" description="133 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2080" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2080" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4460,12 +4454,12 @@
 				</languages>
 				<headings>
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
-					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
 					<heading id="61e2f154f6eeba8e7944f68e10729b8d" />
+					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="5df18694bfd536c38a2595f14e91062f">
-						<institution id="fake_id_1006" />
+						<institution id="fake_id_959" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -4475,7 +4469,7 @@
 				<physical-description co-created="no" description="187 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2081" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2081" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4494,7 +4488,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="0fd3b65d08e1145b1b493049e8f68abd">
-						<institution id="fake_id_956" />
+						<institution id="fake_id_1046" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -4504,7 +4498,7 @@
 				<physical-description co-created="no" description="195 s. :il. (w tym kolor.) ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2082" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2082" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4513,15 +4507,15 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_15" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
 						<person id="http://www.wikidata.org/entity/Q9178413" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
 						<person id="fake_id_20" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_15" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -4533,7 +4527,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="556754adf31d5e5bd777d126ba1c8dfb">
-						<institution id="fake_id_1016" />
+						<institution id="fake_id_1053" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -4543,7 +4537,7 @@
 				<physical-description co-created="no" description="254, [1] strona :fotografie, wykres ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2083" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2083" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -4563,7 +4557,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="4893c557f2f220683d86505596e93cbe">
-						<institution id="fake_id_983" />
+						<institution id="fake_id_1042" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -4573,7 +4567,7 @@
 				<physical-description co-created="no" description="437 stron ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2084" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2084" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4592,7 +4586,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="b544e584b32e14e093e1bbbf35f7bd63">
-						<institution id="fake_id_1039" />
+						<institution id="fake_id_991" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -4602,7 +4596,7 @@
 				<physical-description co-created="no" description="280, [1] s., [4] s. tabl. kolor., il., Streszcz. ang." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2085" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2085" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4613,11 +4607,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_121" />
+						<person id="fake_id_146" />
 					</co-creator>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_146" />
+						<person id="fake_id_121" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -4631,7 +4625,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="c37f3d8c3d28cb96aa83858c34f835be">
-						<institution id="fake_id_957" />
+						<institution id="fake_id_1031" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -4641,7 +4635,7 @@
 				<physical-description co-created="no" description="124 s., Nazwa tł. Robert Bączyk., Oryg. chiń." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2086" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2086" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4650,11 +4644,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_24" />
+						<person id="fake_id_475" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_475" />
+						<person id="fake_id_24" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -4668,7 +4662,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9b28f95263636e6be58d656e84a7aafc">
-						<institution id="fake_id_1027" />
+						<institution id="fake_id_1022" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q588" period="❦" lang="pl" />
 						</places>
@@ -4678,7 +4672,7 @@
 				<physical-description co-created="no" description="163 s., il., Streszcz. ang. przy pracach." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2087" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2087" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4707,7 +4701,7 @@
 				<physical-description co-created="no" description="139 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2088" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2088" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4722,13 +4716,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="816f0f4f955e71bc56d196fa1c7d96fd">
-						<institution id="fake_id_991" />
+						<institution id="fake_id_1051" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -4738,7 +4732,7 @@
 				<physical-description co-created="no" description="474, [10] s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2089" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2089" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="journal" />
 					<record-type code="interview" />
@@ -4750,7 +4744,7 @@
 				<co-creators>
 					<co-creator>
 						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q9377036" />
+						<person id="http://www.wikidata.org/entity/Q9376509" />
 					</co-creator>
 					<co-creator>
 						<type code="others" />
@@ -4762,15 +4756,7 @@
 					</co-creator>
 					<co-creator>
 						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q19697961" />
-					</co-creator>
-					<co-creator>
-						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q515644" />
-					</co-creator>
-					<co-creator>
-						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q9382775" />
+						<person id="http://www.wikidata.org/entity/Q1899516" />
 					</co-creator>
 					<co-creator>
 						<type code="others" />
@@ -4778,7 +4764,19 @@
 					</co-creator>
 					<co-creator>
 						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q1899516" />
+						<person id="http://www.wikidata.org/entity/Q9382775" />
+					</co-creator>
+					<co-creator>
+						<type code="others" />
+						<person id="http://www.wikidata.org/entity/Q515644" />
+					</co-creator>
+					<co-creator>
+						<type code="others" />
+						<person id="http://www.wikidata.org/entity/Q112517976" />
+					</co-creator>
+					<co-creator>
+						<type code="others" />
+						<person id="http://www.wikidata.org/entity/Q19697961" />
 					</co-creator>
 					<co-creator>
 						<type code="others" />
@@ -4786,11 +4784,7 @@
 					</co-creator>
 					<co-creator>
 						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q9376509" />
-					</co-creator>
-					<co-creator>
-						<type code="others" />
-						<person id="http://www.wikidata.org/entity/Q112517976" />
+						<person id="http://www.wikidata.org/entity/Q9377036" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -4800,11 +4794,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="093ff228a7c4e382a6bb7d1349ac49a8" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
-					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
 					<heading id="241262b3a98e28ae37bce4fb7a70724a" />
+					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
 					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
+					<heading id="093ff228a7c4e382a6bb7d1349ac49a8" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="c5ad14f7b89aef5686efaff8521f7a8f">
@@ -4818,7 +4812,7 @@
 				<physical-description co-created="no" description="259, [5] stron :fotografie, portrety ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2090" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2090" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -4834,7 +4828,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="5301dfd1799b513db2fedbcfb35c95b3">
-						<institution id="fake_id_974" />
+						<institution id="fake_id_994" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q52842" period="❦" lang="pl" />
 						</places>
@@ -4844,7 +4838,7 @@
 				<physical-description co-created="no" description="94 strony :ilustracje, portret ;20 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2091" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2091" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4863,12 +4857,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="9a3864d71534482b62cc26f89980b464" />
 					<heading id="940ac8fc80bdc0537d1ff5f150692ba6" />
+					<heading id="9a3864d71534482b62cc26f89980b464" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="ba11ae4aa55548f4cbd7f686c0cd8662">
-						<institution id="fake_id_976" />
+						<institution id="fake_id_1038" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -4878,7 +4872,7 @@
 				<physical-description co-created="no" description="207 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2092" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2092" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4893,12 +4887,12 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f947117a50e17a1eaee57998d5fdc835" />
 					<heading id="2eabd969ce448b932e24d2208e4222da" />
+					<heading id="f947117a50e17a1eaee57998d5fdc835" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="f736f2c9ae7335169548d466d5153b17">
-						<institution id="fake_id_1002" />
+						<institution id="fake_id_986" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1799" period="❦" lang="pl" />
 						</places>
@@ -4908,7 +4902,7 @@
 				<physical-description co-created="no" description="231 s., fot." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2093" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2093" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="novel" />
 				</record-types>
@@ -4927,7 +4921,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="a3a5059637ef6537e3fc65c2668fb69d">
-						<institution id="fake_id_1009" />
+						<institution id="fake_id_975" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -4937,7 +4931,7 @@
 				<physical-description co-created="no" description="238 s. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2094" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2094" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -4957,7 +4951,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="57b558388cbec72aabbe350b4453f8d2">
-						<institution id="fake_id_965" />
+						<institution id="fake_id_981" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -4967,7 +4961,7 @@
 				<physical-description co-created="no" description="292 s., il., Książka w &quot;Czerwonej Serii&quot; Instytutu Filologii Polskiej UMCS ; 22. Materiały z konferencji, która odbyła się w Lublinie w listopadzie 2001 r., Tekst częśc. ros. Streszcz. ang. przy pracach. Spis treści także ang." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2095" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2095" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -4988,11 +4982,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q11702776" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e9ac0407d8203295b8ab9f8687e52ed8">
-						<institution id="fake_id_988" />
+						<institution id="fake_id_976" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q745051" period="❦" lang="pl" />
 						</places>
@@ -5002,7 +4996,7 @@
 				<physical-description co-created="no" description="54 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2096" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2096" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5022,7 +5016,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e57690cc66edff3e9da02ab6f5ec5866">
-						<institution id="fake_id_1007" />
+						<institution id="fake_id_1004" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q588" period="❦" lang="pl" />
 						</places>
@@ -5032,7 +5026,7 @@
 				<physical-description co-created="no" description="254, [1] s. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2097" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2097" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5051,7 +5045,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="1ceb14990e8e3d5dfe539cc8280dbeb3">
-						<institution id="fake_id_1050" />
+						<institution id="fake_id_964" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q102317" period="❦" lang="pl" />
 						</places>
@@ -5061,7 +5055,7 @@
 				<physical-description co-created="no" description="155, [1] strona, [8] stron tablic :faksymilia, fotografie ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2098" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2098" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5085,7 +5079,7 @@
 				</languages>
 				<publishing-houses by-author="false">
 					<publishing-house id="3a50d0882ae5112ab8071d80766d09cb">
-						<institution id="fake_id_1008" />
+						<institution id="fake_id_997" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q472621" period="❦" lang="pl" />
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
@@ -5096,7 +5090,7 @@
 				<physical-description co-created="no" description="339, [5] stron :fotografie, ilustracje, portrety ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2099" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2099" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
@@ -5111,8 +5105,8 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e99e5257f8af377ba21568d1fb73e368" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e99e5257f8af377ba21568d1fb73e368" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="6924c88bcff8387f66efdbc1968566f9">
@@ -5126,7 +5120,7 @@
 				<physical-description co-created="no" description="221, [1] strona ;22 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2100" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2100" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5135,11 +5129,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_280" />
+						<person id="fake_id_246" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_246" />
+						<person id="fake_id_280" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5153,7 +5147,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="05058e4b9bd3d210bc14188bc3cc3465">
-						<institution id="fake_id_1018" />
+						<institution id="fake_id_1054" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q393" period="❦" lang="pl" />
 						</places>
@@ -5163,7 +5157,7 @@
 				<physical-description co-created="no" description="170 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2101" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2101" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5174,11 +5168,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="translation" />
-						<person id="http://www.wikidata.org/entity/Q111422189" />
+						<person id="fake_id_424" />
 					</co-creator>
 					<co-creator>
 						<type code="translation" />
-						<person id="fake_id_424" />
+						<person id="http://www.wikidata.org/entity/Q111422189" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5193,7 +5187,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="06722c2ac7cb79732edddb0034886d84">
-						<institution id="fake_id_1034" />
+						<institution id="fake_id_968" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -5208,7 +5202,7 @@
 				<physical-description co-created="no" description="279, [1] s. :il. ;20 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2102" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2102" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5223,9 +5217,9 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="35f54bfeb7059b0446b2d058ff447c91" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="35f54bfeb7059b0446b2d058ff447c91" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="e483da219112127373eddd29139ba53a">
@@ -5240,7 +5234,7 @@
 				<physical-description co-created="no" description="350 s. :il. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2103" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2103" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="essay" />
 				</record-types>
@@ -5255,10 +5249,10 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
-					<heading id="ac29a8e259bb3b41ce4d0f86c315e8e2" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="e4d8e57ddd15baeeeea609f2a08a3b78" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="ac29a8e259bb3b41ce4d0f86c315e8e2" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="6924c88bcff8387f66efdbc1968566f9">
@@ -5272,7 +5266,7 @@
 				<physical-description co-created="no" description="394 strony ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2104" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2104" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
@@ -5301,7 +5295,7 @@
 				<physical-description co-created="no" description="220, [1] strona :faksymile ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2105" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2105" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5330,7 +5324,7 @@
 				<physical-description co-created="no" description="216 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2106" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2106" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -5345,11 +5339,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q9388323" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="9d552fc642806cb8336c58c42b9cd333">
-						<institution id="fake_id_981" />
+						<institution id="fake_id_1039" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q37333" period="❦" lang="pl" />
 						</places>
@@ -5359,7 +5353,7 @@
 				<physical-description co-created="no" description="282 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2107" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2107" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5368,7 +5362,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_295" />
+						<person id="fake_id_443" />
+					</co-creator>
+					<co-creator>
+						<type code="editorial-staff" />
+						<person id="fake_id_11" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
@@ -5376,11 +5374,7 @@
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_443" />
-					</co-creator>
-					<co-creator>
-						<type code="editorial-staff" />
-						<person id="fake_id_11" />
+						<person id="fake_id_295" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5392,9 +5386,9 @@
 					<language code="uk" />
 				</languages>
 				<headings>
+					<heading id="568f8c312b564470138954f2f001051e" />
 					<heading id="bfac6ad8ab85939d1eac7661655f0f5d" />
 					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="568f8c312b564470138954f2f001051e" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
@@ -5409,7 +5403,7 @@
 				<physical-description co-created="no" description="380 stron :fotografie, ilustracje, wykresy ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2108" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2108" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5424,14 +5418,14 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="cf78471f1bfa99083f811ac5085d9a16" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
 					<heading id="371ed3b6bdc841b8106bcd381e11615c" />
-					<heading id="cf78471f1bfa99083f811ac5085d9a16" />
 					<heading id="16cbef90d0c325888fef483f1c100918" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="0a3fd5a1ce262f11a86c022496606683">
-						<institution id="fake_id_1048" />
+						<institution id="fake_id_984" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q980689" period="❦" lang="pl" />
 						</places>
@@ -5441,7 +5435,7 @@
 				<physical-description co-created="no" description="340 stron ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2109" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2109" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5460,7 +5454,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="cca141f3d12c264c63e6000132a3f80e">
-						<institution id="fake_id_1041" />
+						<institution id="fake_id_990" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -5470,7 +5464,7 @@
 				<physical-description co-created="no" description="285 s., il., faks., fot." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2110" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2110" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5499,7 +5493,7 @@
 				<physical-description co-created="no" description="158 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2111" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2111" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5518,7 +5512,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="f43cae384f3493f2cafb27425767ceea">
-						<institution id="fake_id_1056" />
+						<institution id="fake_id_1047" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q1792" period="❦" lang="pl" />
 						</places>
@@ -5528,7 +5522,7 @@
 				<physical-description co-created="no" description="565 s., [9] k. tabl.: il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2112" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2112" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5547,7 +5541,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="44b16a4092f32f9771aca289132c1a5e">
-						<institution id="fake_id_1031" />
+						<institution id="fake_id_960" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -5557,7 +5551,7 @@
 				<physical-description co-created="no" description="183 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2113" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2113" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -5572,7 +5566,6 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
 					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="fake_id_613" />
 				</headings>
 				<publishing-houses by-author="false">
@@ -5587,7 +5580,7 @@
 				<physical-description co-created="no" description="112 s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2114" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2114" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="album" />
 				</record-types>
@@ -5599,8 +5592,12 @@
 						<person id="fake_id_381" />
 					</co-creator>
 					<co-creator>
-						<type code="illustrations" />
 						<type code="others" />
+						<person id="fake_id_552" />
+					</co-creator>
+					<co-creator>
+						<type code="others" />
+						<type code="illustrations" />
 						<person id="http://www.wikidata.org/entity/Q112446693" />
 					</co-creator>
 					<co-creator>
@@ -5608,17 +5605,13 @@
 						<person id="http://www.wikidata.org/entity/Q968863" />
 					</co-creator>
 					<co-creator>
-						<type code="illustrations" />
-						<type code="others" />
-						<person id="fake_id_416" />
-					</co-creator>
-					<co-creator>
-						<type code="others" />
-						<person id="fake_id_552" />
-					</co-creator>
-					<co-creator>
 						<type code="others" />
 						<person id="fake_id_616" />
+					</co-creator>
+					<co-creator>
+						<type code="others" />
+						<type code="illustrations" />
+						<person id="fake_id_416" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5632,7 +5625,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="7c41149dbb7668ee69c03587a4d3688d">
-						<institution id="fake_id_1011" />
+						<institution id="fake_id_1057" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q4984005" period="❦" lang="pl" />
 						</places>
@@ -5642,15 +5635,15 @@
 				<physical-description co-created="no" description="110, [2] strony :fotografie ;23x31 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2115" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2115" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="catalog" />
 				</record-types>
 				<general-materials value="true" />
 				<authors anonymous="false" author-company="false">
+					<author id="fake_id_477" juvenile="false" co-creator="false" principal="true" />
 					<author id="http://www.wikidata.org/entity/Q3575686" juvenile="false" co-creator="false" principal="true" />
 					<author id="fake_id_579" juvenile="false" co-creator="false" principal="true" />
-					<author id="fake_id_477" juvenile="false" co-creator="false" principal="true" />
 					<author id="http://www.wikidata.org/entity/Q11731073" juvenile="false" co-creator="false" principal="true" />
 				</authors>
 				<titles>
@@ -5664,7 +5657,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="d486ad0f43cf1b51bf4808a6d5e22f86">
-						<institution id="fake_id_998" />
+						<institution id="fake_id_980" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -5679,7 +5672,7 @@
 				<physical-description co-created="no" description="63, [1] s. :il. (gł. kolor.) ;20x21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2116" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2116" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5694,13 +5687,13 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="154d450bb0dfc0244299a82ea57b9868" />
 					<heading id="7809b40caef599c596770168a658317d" />
 					<heading id="dfdf7a6a9a55681e5ed675f39d3f7e02" />
-					<heading id="154d450bb0dfc0244299a82ea57b9868" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="fe91af21bba7f3f4b9f90e9e507f6d97">
-						<institution id="fake_id_1012" />
+						<institution id="fake_id_1007" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -5710,7 +5703,7 @@
 				<physical-description co-created="no" description="218 s., [1] k. tabl. złoż. luzem :il. ;24 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2117" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2117" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -5731,11 +5724,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q45970" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="866c8815cb445cf9ed0429b86c803ea6">
-						<institution id="fake_id_1026" />
+						<institution id="fake_id_1029" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q656" period="❦" lang="pl" />
 						</places>
@@ -5745,7 +5738,7 @@
 				<physical-description co-created="no" description="205, [3] s., Parallel Pol. and Russ. text." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2118" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2118" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="poem" />
 				</record-types>
@@ -5766,11 +5759,11 @@
 					<language code="pl" />
 				</languages>
 				<headings>
-					<heading id="f56c40ddce1076f01ab157bed1da7c85" />
+					<heading id="f56c40ddce1076f01ab157bed1da7c85" person-id="http://www.wikidata.org/entity/Q45970" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="45c9d91e70d3b20ae3b8124f951ae941">
-						<institution id="fake_id_1030" />
+						<institution id="fake_id_1019" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q656" period="❦" lang="pl" />
 						</places>
@@ -5780,7 +5773,7 @@
 				<physical-description co-created="no" description="249, [3] s., Tekst wierszy równol. pol. i ros." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2119" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2119" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="prose" />
 				</record-types>
@@ -5799,7 +5792,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="db4a059ba82c056c150586561604494d">
-						<institution id="fake_id_975" />
+						<institution id="fake_id_1043" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q268" period="❦" lang="pl" />
 						</places>
@@ -5809,7 +5802,7 @@
 				<physical-description co-created="no" description="382 s. ;23 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2120" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2120" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5838,7 +5831,7 @@
 				<physical-description co-created="no" description="276 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2121" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2121" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="monography" />
 				</record-types>
@@ -5854,10 +5847,10 @@
 				</languages>
 				<headings>
 					<heading id="ed167695b8a98a83e12fea9e4c529f9c" />
-					<heading id="330a3f5e822cbf619d3bbe29819e1a0b" />
-					<heading id="3614e920fcdf90b9c62f0e2e6b6af3b8" />
-					<heading id="880d32bdc0aad1b04f7025b6c27961a3" />
 					<heading id="4e57b8a50700958c42d307a131a5fa81" />
+					<heading id="880d32bdc0aad1b04f7025b6c27961a3" />
+					<heading id="3614e920fcdf90b9c62f0e2e6b6af3b8" />
+					<heading id="330a3f5e822cbf619d3bbe29819e1a0b" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="5ba7a2f6263a3b7cd7eee09f05b2e394">
@@ -5871,7 +5864,7 @@
 				<physical-description co-created="no" description="218, [2] strony :nuty ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2122" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2122" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5900,7 +5893,7 @@
 				<physical-description co-created="no" description="402, [2] s., il." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2123" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2123" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5909,11 +5902,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_46" />
+						<person id="fake_id_465" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_465" />
+						<person id="fake_id_46" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5927,7 +5920,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="4f02bb9b29773a8115ca1f8e9a58a792">
-						<institution id="fake_id_997" />
+						<institution id="fake_id_1014" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q47554" period="❦" lang="pl" />
 						</places>
@@ -5937,7 +5930,7 @@
 				<physical-description co-created="no" description="236 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2124" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2124" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5952,14 +5945,14 @@
 					<language code="pl" />
 				</languages>
 				<headings>
+					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
 					<heading id="241262b3a98e28ae37bce4fb7a70724a" />
 					<heading id="cc80315d76fe7945fe23e83743e74eb2" />
 					<heading id="a90fe297dcbef746d6b7a92a9adaf856" />
-					<heading id="26eb6e695cd38aa99dfa4ecb29f64692" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="91b981e27b6f0953f0f172dcf7f44baa">
-						<institution id="fake_id_1049" />
+						<institution id="fake_id_985" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q31487" period="❦" lang="pl" />
 						</places>
@@ -5969,7 +5962,7 @@
 				<physical-description co-created="no" description="49, [2] s. ;21 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2125" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2125" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -5978,11 +5971,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="http://www.wikidata.org/entity/Q65163191" />
+						<person id="fake_id_411" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_411" />
+						<person id="http://www.wikidata.org/entity/Q65163191" />
 					</co-creator>
 				</co-creators>
 				<titles>
@@ -5994,11 +5987,11 @@
 					<language code="uk" />
 				</languages>
 				<headings>
-					<heading id="c14fb7905c4829e3ef17d28bb11ed947" />
-					<heading id="16cbef90d0c325888fef483f1c100918" />
-					<heading id="777037ad52484306cdebfccd35dc21e7" />
 					<heading id="6d5f9d5c6335612cc5476058c71b8b25" />
 					<heading id="9e2bbf214fbff3bfc3c876b1b662e416" />
+					<heading id="777037ad52484306cdebfccd35dc21e7" />
+					<heading id="16cbef90d0c325888fef483f1c100918" />
+					<heading id="c14fb7905c4829e3ef17d28bb11ed947" />
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="7b3775f3b8179213523eff4168636185">
@@ -6013,7 +6006,7 @@
 				<physical-description co-created="no" description="632, [3] strony :fotografie ;25 cm." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2126" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2126" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -6038,7 +6031,7 @@
 				</headings>
 				<publishing-houses by-author="false">
 					<publishing-house id="81256d9a24b53cafc79185da06ce2865">
-						<institution id="fake_id_1028" />
+						<institution id="fake_id_1037" />
 						<places>
 							<place id="http://www.wikidata.org/entity/Q270" period="❦" lang="pl" />
 						</places>
@@ -6048,7 +6041,7 @@
 				<physical-description co-created="no" description="214 s." />
 				<collection code="polska-bibliografia-literacka-1989-" />
 			</book>
-			<book id="fake_id_2127" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14">
+			<book id="fake_id_2127" type="authorsBook" status="published" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04">
 				<record-types>
 					<record-type code="other" />
 				</record-types>
@@ -6057,11 +6050,11 @@
 				<co-creators>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_216" />
+						<person id="fake_id_230" />
 					</co-creator>
 					<co-creator>
 						<type code="editorial-staff" />
-						<person id="fake_id_230" />
+						<person id="fake_id_216" />
 					</co-creator>
 				</co-creators>
 				<titles>

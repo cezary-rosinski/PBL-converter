@@ -93,6 +93,7 @@ last_number = give_fake_id(creative_works, last_number)
 
 persons_to_connect = {}
 for p in persons:
+    persons_to_connect.update({p.id: p})
     for name in p.names:
         persons_to_connect.update({name.value: p})
 #UWAGA --> jeśli jest to samo nazewnictwo dla różnych id, to zachowujemy ostatnią parę
@@ -394,7 +395,7 @@ for file in tqdm(os.listdir('retro_input')[::-1]):
             retro_persons_to_connect = {}
             for p in retro_persons:
                 for name in p.names:
-                    retro_persons_to_connect.update({name.value: p.id})
+                    retro_persons_to_connect.update({name.value: p})
     
             retro_journals_to_connect = {}
             for j in retro_journals:

@@ -1,7 +1,7 @@
 <pbl>
 	<files>
 		<journals>
-			<journal removed="false" id="barbarzynca" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="barbarzynca" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Barbarzyńca</title>
 				</titles>
@@ -13,7 +13,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="barbarzynca_2002_7" />
 			</journal>
-			<journal removed="false" id="guliwer" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="guliwer" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Guliwer</title>
 				</titles>
@@ -26,7 +26,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="guliwer_1996_2" />
 			</journal>
-			<journal removed="false" id="trybuna" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="trybuna" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Trybuna</title>
 				</titles>
@@ -36,9 +36,9 @@
 				<headings />
 				<issn />
 				<journal-status value="source" />
-				<newest-journal-number id="trybuna_2003_33" />
+				<newest-journal-number id="trybuna_2003_242" />
 			</journal>
-			<journal removed="false" id="konteksty" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="konteksty" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Konteksty</title>
 				</titles>
@@ -53,7 +53,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="konteksty_2003_3" />
 			</journal>
-			<journal removed="false" id="prace-naukowe-uniwersytetu-slaskiego-studia-etnologiczne-i-antropologiczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="prace-naukowe-uniwersytetu-slaskiego-studia-etnologiczne-i-antropologiczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Prace Naukowe Uniwersytetu Śląskiego. Studia Etnologiczne i Antropologiczne</title>
 				</titles>
@@ -66,7 +66,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="prace-naukowe-uniwersytetu-slaskiego-studia-etnologiczne-i-antropologiczne_2001_t.-5" />
 			</journal>
-			<journal removed="false" id="krzywe-kolo-literatury" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="krzywe-kolo-literatury" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Krzywe Koło Literatury</title>
 				</titles>
@@ -80,7 +80,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="krzywe-kolo-literatury_1994_7" />
 			</journal>
-			<journal removed="false" id="konspekt" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="konspekt" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Konspekt</title>
 				</titles>
@@ -92,7 +92,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="konspekt_2002_9" />
 			</journal>
-			<journal removed="false" id="incipit-katowice" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="incipit-katowice" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Incipit (Katowice)</title>
 				</titles>
@@ -104,7 +104,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="incipit-katowice_1997_7" />
 			</journal>
-			<journal removed="false" id="lampa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="lampa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Lampa</title>
 				</titles>
@@ -117,7 +117,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="lampa_2007_6" />
 			</journal>
-			<journal removed="false" id="nowa-fantastyka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nowa-fantastyka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nowa Fantastyka</title>
 				</titles>
@@ -129,7 +129,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nowa-fantastyka_1993_9" />
 			</journal>
-			<journal removed="false" id="magazyn-z-ksiazkami" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="magazyn-z-ksiazkami" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Magazyn z Książkami</title>
 				</titles>
@@ -141,7 +141,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="magazyn-z-ksiazkami_2002_2" />
 			</journal>
-			<journal removed="false" id="rzeczpospolita" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rzeczpospolita" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rzeczpospolita</title>
 				</titles>
@@ -155,7 +155,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rzeczpospolita_2002_59" />
 			</journal>
-			<journal removed="false" id="literaturoznawstwo" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="literaturoznawstwo" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Literaturoznawstwo</title>
 				</titles>
@@ -167,7 +167,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="literaturoznawstwo_2010_1" />
 			</journal>
-			<journal removed="false" id="pamietnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pamietnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pamiętnik Literacki</title>
 				</titles>
@@ -181,7 +181,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pamietnik-literacki_2014_z.-2-(2014)" />
 			</journal>
-			<journal removed="false" id="kartki-bialystok" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kartki-bialystok" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kartki [Białystok]</title>
 				</titles>
@@ -193,7 +193,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kartki-bialystok_1993_5" />
 			</journal>
-			<journal removed="false" id="przeglad-powszechny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-powszechny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Powszechny</title>
 				</titles>
@@ -205,7 +205,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-powszechny_1994_1" />
 			</journal>
-			<journal removed="false" id="opcje" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="opcje" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Opcje</title>
 				</titles>
@@ -218,7 +218,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="opcje_1996_1" />
 			</journal>
-			<journal removed="false" id="metafora" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="metafora" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Metafora</title>
 				</titles>
@@ -231,7 +231,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="metafora_1999_39" />
 			</journal>
-			<journal removed="false" id="topos-sopot" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="topos-sopot" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Topos (Sopot)</title>
 				</titles>
@@ -251,9 +251,9 @@
 				<headings />
 				<issn>1230-8943</issn>
 				<journal-status value="source" />
-				<newest-journal-number id="topos-sopot_2018_6" />
+				<newest-journal-number id="topos-sopot_2018_4" />
 			</journal>
-			<journal removed="false" id="nowe-ksiazki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nowe-ksiazki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nowe Książki</title>
 				</titles>
@@ -269,7 +269,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nowe-ksiazki_2002_12" />
 			</journal>
-			<journal removed="false" id="zblizenia-polskaniemcy--annaeherungen-polen-deutschland" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zblizenia-polskaniemcy--annaeherungen-polen-deutschland" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zbliżenia Polska-Niemcy = Annaeherungen Polen Deutschland</title>
 				</titles>
@@ -282,7 +282,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zblizenia-polskaniemcy--annaeherungen-polen-deutschland_1999_1" />
 			</journal>
-			<journal removed="false" id="dialog-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dialog-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dialog [Warszawa]</title>
 				</titles>
@@ -296,7 +296,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dialog-warszawa_1998_1" />
 			</journal>
-			<journal removed="false" id="wiadomosci-kulturalne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wiadomosci-kulturalne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wiadomości Kulturalne</title>
 				</titles>
@@ -309,7 +309,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wiadomosci-kulturalne_1998_9" />
 			</journal>
-			<journal removed="false" id="kwartalnik-artystyczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kwartalnik-artystyczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kwartalnik Artystyczny</title>
 				</titles>
@@ -327,7 +327,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kwartalnik-artystyczny_2016_2" />
 			</journal>
-			<journal removed="false" id="nihil-novi" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nihil-novi" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nihil Novi</title>
 				</titles>
@@ -339,7 +339,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nihil-novi_1996_14" />
 			</journal>
-			<journal removed="false" id="podkowianski-magazyn-kulturalny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="podkowianski-magazyn-kulturalny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Podkowiański Magazyn Kulturalny</title>
 				</titles>
@@ -352,7 +352,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="podkowianski-magazyn-kulturalny_1998_1" />
 			</journal>
-			<journal removed="false" id="kontakt" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kontakt" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kontakt</title>
 				</titles>
@@ -364,7 +364,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kontakt_1991_1" />
 			</journal>
-			<journal removed="false" id="tygodnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tygodnik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tygodnik Literacki</title>
 				</titles>
@@ -376,7 +376,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tygodnik-literacki_1991_15" />
 			</journal>
-			<journal removed="false" id="kultura-bialystok" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultura-bialystok" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultura [Białystok]</title>
 				</titles>
@@ -388,7 +388,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultura-bialystok_2003_maj" />
 			</journal>
-			<journal removed="false" id="teatr" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="teatr" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Teatr</title>
 				</titles>
@@ -400,7 +400,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="teatr_2003_6" />
 			</journal>
-			<journal removed="false" id="notatnik-teatralny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="notatnik-teatralny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Notatnik Teatralny</title>
 				</titles>
@@ -417,7 +417,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="notatnik-teatralny_2011_62" />
 			</journal>
-			<journal removed="false" id="bialostockie-studia-literaturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="bialostockie-studia-literaturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Białostockie Studia Literaturoznawcze</title>
 				</titles>
@@ -436,7 +436,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="bialostockie-studia-literaturoznawcze_2019_15" />
 			</journal>
-			<journal removed="false" id="dydaktyka-polonistyczna" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dydaktyka-polonistyczna" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dydaktyka Polonistyczna</title>
 				</titles>
@@ -449,7 +449,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dydaktyka-polonistyczna_2018_4" />
 			</journal>
-			<journal removed="false" id="lampa-i-iskra-boza-druk" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="lampa-i-iskra-boza-druk" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Lampa i Iskra Boża (Druk)</title>
 				</titles>
@@ -461,7 +461,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="lampa-i-iskra-boza-druk_1994_7" />
 			</journal>
-			<journal removed="false" id="haiku" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="haiku" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Haiku</title>
 				</titles>
@@ -473,7 +473,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="haiku_1995_1" />
 			</journal>
-			<journal removed="false" id="principia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="principia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Principia</title>
 				</titles>
@@ -485,7 +485,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="principia_1991_t.-3" />
 			</journal>
-			<journal removed="false" id="tygodnik-powszechny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tygodnik-powszechny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tygodnik Powszechny</title>
 				</titles>
@@ -502,7 +502,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tygodnik-powszechny_2018_16" />
 			</journal>
-			<journal removed="false" id="teksty-drugie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="teksty-drugie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Teksty Drugie</title>
 				</titles>
@@ -520,7 +520,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="teksty-drugie_2020_6" />
 			</journal>
-			<journal removed="false" id="katolik" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="katolik" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Katolik</title>
 				</titles>
@@ -532,7 +532,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="katolik_1991_22" />
 			</journal>
-			<journal removed="false" id="wierchy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wierchy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wierchy</title>
 				</titles>
@@ -544,7 +544,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wierchy_1995_r.-60-(1994)" />
 			</journal>
-			<journal removed="false" id="wlasnym-glosem" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wlasnym-glosem" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Własnym głosem</title>
 				</titles>
@@ -556,7 +556,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wlasnym-glosem_1995_27" />
 			</journal>
-			<journal removed="false" id="pro-arte" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pro-arte" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pro Arte</title>
 				</titles>
@@ -569,7 +569,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pro-arte_2005_21" />
 			</journal>
-			<journal removed="false" id="odra" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="odra" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Odra</title>
 				</titles>
@@ -582,7 +582,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="odra_2002_6" />
 			</journal>
-			<journal removed="false" id="przestrzenie-teorii" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przestrzenie-teorii" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przestrzenie Teorii</title>
 				</titles>
@@ -596,7 +596,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przestrzenie-teorii_2016_25" />
 			</journal>
-			<journal removed="false" id="gazeta-wyborcza" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="gazeta-wyborcza" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gazeta Wyborcza</title>
 				</titles>
@@ -610,7 +610,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gazeta-wyborcza_2019_178" />
 			</journal>
-			<journal removed="false" id="res-humana" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="res-humana" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Res Humana</title>
 				</titles>
@@ -622,7 +622,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="res-humana_2003_1" />
 			</journal>
-			<journal removed="false" id="tworczosc" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tworczosc" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Twórczość</title>
 				</titles>
@@ -642,7 +642,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tworczosc_2016_3" />
 			</journal>
-			<journal removed="false" id="autograf" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="autograf" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Autograf</title>
 				</titles>
@@ -655,7 +655,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="autograf_2002_5" />
 			</journal>
-			<journal removed="false" id="b1-bundesstrasse-1" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="b1-bundesstrasse-1" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">B1 [Bundesstrasse 1]</title>
 				</titles>
@@ -667,7 +667,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="b1-bundesstrasse-1_1993_0" />
 			</journal>
-			<journal removed="false" id="lubartow-i-ziemia-lubartowska" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="lubartow-i-ziemia-lubartowska" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Lubartów i Ziemia Lubartowska</title>
 				</titles>
@@ -679,7 +679,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="lubartow-i-ziemia-lubartowska_2000_[t.-14]" />
 			</journal>
-			<journal removed="false" id="sprawozdania-z-posiedzen-komisji-naukowych-polska-akademia-nauk-oddzial-w-krakowie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="sprawozdania-z-posiedzen-komisji-naukowych-polska-akademia-nauk-oddzial-w-krakowie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Sprawozdania z Posiedzeń Komisji Naukowych [Polska Akademia Nauk. Oddział w Krakowie]</title>
 				</titles>
@@ -692,7 +692,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="sprawozdania-z-posiedzen-komisji-naukowych-polska-akademia-nauk-oddzial-w-krakowie_2001_t.-44-(2000)-z.-1" />
 			</journal>
-			<journal removed="false" id="didaskalia-krakow-online" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="didaskalia-krakow-online" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Didaskalia (Kraków. Online)</title>
 				</titles>
@@ -705,7 +705,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="didaskalia-krakow-online_2001_41" />
 			</journal>
-			<journal removed="false" id="slaski-kwartalnik-kulturalny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slaski-kwartalnik-kulturalny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Śląski Kwartalnik Kulturalny</title>
 				</titles>
@@ -717,7 +717,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slaski-kwartalnik-kulturalny_2001_3" />
 			</journal>
-			<journal removed="false" id="ruch-literacki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="ruch-literacki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ruch Literacki</title>
 				</titles>
@@ -736,7 +736,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ruch-literacki_2018_z.-4-(2018)" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-filozofia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-filozofia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Filozofia</title>
 				</titles>
@@ -748,7 +748,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-filozofia_1996_22" />
 			</journal>
-			<journal removed="false" id="akant-bydgoszcz" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="akant-bydgoszcz" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Akant (Bydgoszcz)</title>
 				</titles>
@@ -763,9 +763,9 @@
 				<headings />
 				<issn>1429-9054.</issn>
 				<journal-status value="source" />
-				<newest-journal-number id="akant-bydgoszcz_2014_10" />
+				<newest-journal-number id="akant-bydgoszcz_2014_11" />
 			</journal>
-			<journal removed="false" id="sprawy-narodowosciowe" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="sprawy-narodowosciowe" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Sprawy Narodowościowe</title>
 				</titles>
@@ -777,7 +777,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="sprawy-narodowosciowe_2008_no-match" />
 			</journal>
-			<journal removed="false" id="wiez" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wiez" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Więź</title>
 				</titles>
@@ -789,7 +789,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wiez_2003_4" />
 			</journal>
-			<journal removed="false" id="czas-kultury" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="czas-kultury" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Czas Kultury</title>
 				</titles>
@@ -803,7 +803,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="czas-kultury_2020_1" />
 			</journal>
-			<journal removed="false" id="ruch-muzyczny-warszawa-1957" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="ruch-muzyczny-warszawa-1957" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ruch Muzyczny (Warszawa. 1957)</title>
 				</titles>
@@ -815,7 +815,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ruch-muzyczny-warszawa-1957_2017_3" />
 			</journal>
-			<journal removed="false" id="poradnik-jezykowy-1919" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="poradnik-jezykowy-1919" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Poradnik Językowy (1919)</title>
 				</titles>
@@ -827,7 +827,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="poradnik-jezykowy-1919_2011_z.-6" />
 			</journal>
-			<journal removed="false" id="dialog-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dialog-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dialog (Warszawa)</title>
 				</titles>
@@ -840,7 +840,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dialog-warszawa_2017_3" />
 			</journal>
-			<journal removed="false" id="znak" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="znak" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Znak</title>
 				</titles>
@@ -852,7 +852,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="znak_2020_7" />
 			</journal>
-			<journal removed="false" id="literatura-ludowa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="literatura-ludowa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Literatura Ludowa</title>
 				</titles>
@@ -870,7 +870,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="literatura-ludowa_2010_1" />
 			</journal>
-			<journal removed="false" id="res-publica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="res-publica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Res Publica</title>
 				</titles>
@@ -883,7 +883,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="res-publica_1990_3" />
 			</journal>
-			<journal removed="false" id="przeglad-artystycznoliteracki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-artystycznoliteracki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Artystyczno-Literacki</title>
 				</titles>
@@ -897,7 +897,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-artystycznoliteracki_1997_6" />
 			</journal>
-			<journal removed="false" id="najprosciej" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="najprosciej" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Najprościej</title>
 				</titles>
@@ -910,9 +910,9 @@
 				<headings />
 				<issn>1898-228X</issn>
 				<journal-status value="source" />
-				<newest-journal-number id="najprosciej_2002_1" />
+				<newest-journal-number id="najprosciej_2002_3" />
 			</journal>
-			<journal removed="false" id="alter-ego-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="alter-ego-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Alter Ego [Warszawa]</title>
 				</titles>
@@ -924,7 +924,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="alter-ego-warszawa_2002_2" />
 			</journal>
-			<journal removed="false" id="pogranicza" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pogranicza" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pogranicza</title>
 				</titles>
@@ -936,7 +936,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pogranicza_2002_3" />
 			</journal>
-			<journal removed="false" id="plama" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="plama" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Plama</title>
 				</titles>
@@ -948,7 +948,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="plama_2001_1" />
 			</journal>
-			<journal removed="false" id="kwartalnik-filmowy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kwartalnik-filmowy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kwartalnik Filmowy</title>
 				</titles>
@@ -962,7 +962,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kwartalnik-filmowy_2012_79" />
 			</journal>
-			<journal removed="false" id="slowem-i-ksztaltem" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slowem-i-ksztaltem" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słowem i kształtem</title>
 				</titles>
@@ -974,7 +974,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slowem-i-ksztaltem_2003_1" />
 			</journal>
-			<journal removed="false" id="faart" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="faart" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Fa-Art</title>
 				</titles>
@@ -990,7 +990,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="faart_2003_3" />
 			</journal>
-			<journal removed="false" id="magazyn-literacki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="magazyn-literacki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Magazyn Literacki</title>
 				</titles>
@@ -1002,7 +1002,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="magazyn-literacki_1998_2" />
 			</journal>
-			<journal removed="false" id="slowo-dziennik-katolicki-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slowo-dziennik-katolicki-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słowo. Dziennik katolicki [Warszawa]</title>
 				</titles>
@@ -1014,7 +1014,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slowo-dziennik-katolicki-warszawa_1996_188" />
 			</journal>
-			<journal removed="false" id="akcent" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="akcent" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Akcent</title>
 				</titles>
@@ -1029,7 +1029,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="akcent_2001_1" />
 			</journal>
-			<journal removed="false" id="pisma-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pisma-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pisma Humanistyczne</title>
 				</titles>
@@ -1041,7 +1041,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pisma-humanistyczne_2001_z.-3" />
 			</journal>
-			<journal removed="false" id="warmia-i-mazury-kultura-spoleczenstwo-region" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="warmia-i-mazury-kultura-spoleczenstwo-region" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Warmia i Mazury [Kultura, społeczeństwo, region]</title>
 				</titles>
@@ -1053,7 +1053,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="warmia-i-mazury-kultura-spoleczenstwo-region_2001_5" />
 			</journal>
-			<journal removed="false" id="przeglad-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Humanistyczny</title>
 				</titles>
@@ -1068,7 +1068,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-humanistyczny_2012_6" />
 			</journal>
-			<journal removed="false" id="acta-cassubiana" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-cassubiana" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Cassubiana</title>
 				</titles>
@@ -1080,7 +1080,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-cassubiana_2005_no-match" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-pedagogika-i-psychologia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-pedagogika-i-psychologia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Uniwersytetu Rzeszowskiego. Pedagogika i Psychologia.</title>
 				</titles>
@@ -1092,7 +1092,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-pedagogika-i-psychologia_2009_no-match" />
 			</journal>
-			<journal removed="false" id="pegaz-lubuski" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pegaz-lubuski" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pegaz Lubuski</title>
 				</titles>
@@ -1105,7 +1105,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pegaz-lubuski_2006_7" />
 			</journal>
-			<journal removed="false" id="ikar" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="ikar" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ikar</title>
 				</titles>
@@ -1117,7 +1117,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ikar_1994_3" />
 			</journal>
-			<journal removed="false" id="aleje-3" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="aleje-3" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Aleje 3</title>
 				</titles>
@@ -1129,7 +1129,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="aleje-3_2009_73" />
 			</journal>
-			<journal removed="false" id="nietakt" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nietakt" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nietak-t</title>
 				</titles>
@@ -1139,9 +1139,9 @@
 				<headings />
 				<issn>2082-1093.</issn>
 				<journal-status value="source" />
-				<newest-journal-number id="nietakt_2016_1" />
+				<newest-journal-number id="nietakt_2016_2" />
 			</journal>
-			<journal removed="false" id="poezja-dzisiaj" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="poezja-dzisiaj" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Poezja Dzisiaj</title>
 				</titles>
@@ -1156,9 +1156,9 @@
 				<headings />
 				<issn>1508-9398.</issn>
 				<journal-status value="source" />
-				<newest-journal-number id="poezja-dzisiaj_2016_117" />
+				<newest-journal-number id="poezja-dzisiaj_2016_116" />
 			</journal>
-			<journal removed="false" id="zdanie-krakow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zdanie-krakow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zdanie (Kraków)</title>
 				</titles>
@@ -1170,7 +1170,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zdanie-krakow_2010_3" />
 			</journal>
-			<journal removed="false" id="didaskalia-krakow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="didaskalia-krakow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Didaskalia (Kraków)</title>
 				</titles>
@@ -1185,7 +1185,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="didaskalia-krakow_2019_149" />
 			</journal>
-			<journal removed="false" id="guliwer-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="guliwer-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Guliwer (Warszawa)</title>
 				</titles>
@@ -1197,7 +1197,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="guliwer-warszawa_2016_4" />
 			</journal>
-			<journal removed="false" id="edukacja-humanistyczna" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="edukacja-humanistyczna" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Edukacja Humanistyczna</title>
 				</titles>
@@ -1209,7 +1209,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="edukacja-humanistyczna_2006_no-match" />
 			</journal>
-			<journal removed="false" id="nowy-nurt" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nowy-nurt" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nowy Nurt</title>
 				</titles>
@@ -1221,7 +1221,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nowy-nurt_1994_14" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-slavica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-slavica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Slavica Wratislaviensia</title>
 				</titles>
@@ -1234,7 +1234,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-slavica-wratislaviensia_2008_146" />
 			</journal>
-			<journal removed="false" id="annales-universitatis-mariae-curiesklodowska-sectio-ff-philologiae" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="annales-universitatis-mariae-curiesklodowska-sectio-ff-philologiae" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Universitatis Mariae Curie-Skłodowska. Sectio FF: Philologiae</title>
 				</titles>
@@ -1246,7 +1246,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-universitatis-mariae-curiesklodowska-sectio-ff-philologiae_1989_t.-4-(1986)" />
 			</journal>
-			<journal removed="false" id="sfera" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="sfera" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Sfera</title>
 				</titles>
@@ -1258,7 +1258,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="sfera_1996_1" />
 			</journal>
-			<journal removed="false" id="nasza-rodzina--notre-famille" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nasza-rodzina--notre-famille" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nasza Rodzina = Notre Famille</title>
 				</titles>
@@ -1268,9 +1268,9 @@
 				<headings />
 				<issn />
 				<journal-status value="source" />
-				<newest-journal-number id="nasza-rodzina--notre-famille_1995_3" />
+				<newest-journal-number id="nasza-rodzina--notre-famille_1995_11" />
 			</journal>
-			<journal removed="false" id="magazyn-wilenski" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="magazyn-wilenski" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Magazyn Wileński</title>
 				</titles>
@@ -1282,7 +1282,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="magazyn-wilenski_1992_14" />
 			</journal>
-			<journal removed="false" id="w-drodze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="w-drodze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">W Drodze</title>
 				</titles>
@@ -1294,7 +1294,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="w-drodze_2006_[nr]-1" />
 			</journal>
-			<journal removed="false" id="postscriptum-antologia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="postscriptum-antologia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Postscriptum Antologia</title>
 				</titles>
@@ -1308,7 +1308,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="postscriptum-antologia_2016_[nr]-1" />
 			</journal>
-			<journal removed="false" id="przeglad-kulturoznawczy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-kulturoznawczy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Kulturoznawczy</title>
 				</titles>
@@ -1320,7 +1320,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-kulturoznawczy_2008_1" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-lodziensis-folia-litteraria-polonica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Lodziensis. Folia Litteraria Polonica</title>
 				</titles>
@@ -1333,7 +1333,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-lodziensis-folia-litteraria-polonica_2013_4" />
 			</journal>
-			<journal removed="false" id="wschodni-rocznik-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wschodni-rocznik-humanistyczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wschodni Rocznik Humanistyczny</title>
 				</titles>
@@ -1345,7 +1345,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wschodni-rocznik-humanistyczny_2009_no-match" />
 			</journal>
-			<journal removed="false" id="dyskurs-szczecin" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dyskurs-szczecin" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dyskurs (Szczecin)</title>
 				</titles>
@@ -1358,7 +1358,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dyskurs-szczecin_2011_no-match" />
 			</journal>
-			<journal removed="false" id="dekada-literacka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dekada-literacka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dekada Literacka</title>
 				</titles>
@@ -1371,7 +1371,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dekada-literacka_2008_2" />
 			</journal>
-			<journal removed="false" id="roczniki-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="roczniki-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Roczniki Humanistyczne</title>
 				</titles>
@@ -1385,7 +1385,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="roczniki-humanistyczne_2013_z.-7-(2013)" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-nicolai-copernici-nauki-humanistycznospoleczne-socjologia-wychowania" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-nicolai-copernici-nauki-humanistycznospoleczne-socjologia-wychowania" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Nicolai Copernici. Nauki Humanistyczno-Społeczne. Socjologia Wychowania</title>
 				</titles>
@@ -1397,7 +1397,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-nicolai-copernici-nauki-humanistycznospoleczne-socjologia-wychowania_1994_z.-11-(269)" />
 			</journal>
-			<journal removed="false" id="kultura-i-zycie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultura-i-zycie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultura i Życie</title>
 				</titles>
@@ -1409,7 +1409,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultura-i-zycie_1990_19" />
 			</journal>
-			<journal removed="false" id="znad-wilii" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="znad-wilii" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Znad Wilii</title>
 				</titles>
@@ -1422,7 +1422,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="znad-wilii_1999_11" />
 			</journal>
-			<journal removed="false" id="borussia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="borussia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Borussia</title>
 				</titles>
@@ -1434,7 +1434,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="borussia_1997_14" />
 			</journal>
-			<journal removed="false" id="biuletyn-literacki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="biuletyn-literacki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Biuletyn Literacki</title>
 				</titles>
@@ -1446,7 +1446,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="biuletyn-literacki_1996_17" />
 			</journal>
-			<journal removed="false" id="rocznik-towarzystwa-literackiego-imienia-adama-mickiewicza" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rocznik-towarzystwa-literackiego-imienia-adama-mickiewicza" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rocznik Towarzystwa Literackiego imienia Adama Mickiewicza</title>
 				</titles>
@@ -1458,7 +1458,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rocznik-towarzystwa-literackiego-imienia-adama-mickiewicza_1996_r.-30-(1995)" />
 			</journal>
-			<journal removed="false" id="zeszyty-literackie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-literackie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Literackie</title>
 				</titles>
@@ -1470,7 +1470,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-literackie_2002_79" />
 			</journal>
-			<journal removed="false" id="kresy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kresy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kresy</title>
 				</titles>
@@ -1487,7 +1487,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kresy_2006_68" />
 			</journal>
-			<journal removed="false" id="dziennik-portowy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dziennik-portowy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dziennik Portowy</title>
 				</titles>
@@ -1499,7 +1499,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dziennik-portowy_2002_6" />
 			</journal>
-			<journal removed="false" id="fraza" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="fraza" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Fraza</title>
 				</titles>
@@ -1513,7 +1513,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="fraza_2000_4" />
 			</journal>
-			<journal removed="false" id="pal-przeglad-artystycznoliteracki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pal-przeglad-artystycznoliteracki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">PAL Przegląd Artystyczno-Literacki</title>
 				</titles>
@@ -1525,7 +1525,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pal-przeglad-artystycznoliteracki_2000_1" />
 			</journal>
-			<journal removed="false" id="akant" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="akant" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Akant</title>
 				</titles>
@@ -1539,7 +1539,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="akant_2003_3" />
 			</journal>
-			<journal removed="false" id="jezyki-obce-w-szkole" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="jezyki-obce-w-szkole" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Języki Obce w Szkole</title>
 				</titles>
@@ -1551,7 +1551,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="jezyki-obce-w-szkole_2001_6" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-bydgoszczy-studia-filologiczne-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-bydgoszczy-studia-filologiczne-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Wyższej Szkoły Pedagogicznej w Bydgoszczy. Studia Filologiczne. Filologia Polska</title>
 				</titles>
@@ -1564,7 +1564,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-bydgoszczy-studia-filologiczne-filologia-polska_1996_z.-17-(40)" />
 			</journal>
-			<journal removed="false" id="studium" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studium" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studium.</title>
 				</titles>
@@ -1574,9 +1574,9 @@
 				<headings />
 				<issn />
 				<journal-status value="source" />
-				<newest-journal-number id="studium_2004_6" />
+				<newest-journal-number id="studium_2004_2" />
 			</journal>
-			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Academiae Paedagogicae Cracoviensis. Studia Historicolitteraria</title>
 				</titles>
@@ -1589,7 +1589,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2007_7" />
 			</journal>
-			<journal removed="false" id="przeglad-powszechny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-powszechny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Powszechny.</title>
 				</titles>
@@ -1601,7 +1601,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-powszechny_2009_12" />
 			</journal>
-			<journal removed="false" id="meander" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="meander" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Meander</title>
 				</titles>
@@ -1613,7 +1613,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="meander_2007_3" />
 			</journal>
-			<journal removed="false" id="teatr-warszawa-druk" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="teatr-warszawa-druk" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Teatr (Warszawa. Druk)</title>
 				</titles>
@@ -1627,7 +1627,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="teatr-warszawa-druk_2018_4" />
 			</journal>
-			<journal removed="false" id="kultura-i-spoleczenstwo" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultura-i-spoleczenstwo" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultura i Społeczeństwo</title>
 				</titles>
@@ -1639,7 +1639,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultura-i-spoleczenstwo_2012_2" />
 			</journal>
-			<journal removed="false" id="kontrapunkt" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kontrapunkt" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kontrapunkt</title>
 				</titles>
@@ -1651,7 +1651,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kontrapunkt_2003_1" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-rosyjska" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-rosyjska" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe. Wyższa Szkoła Pedagogiczna im. Powstańców Śląskich w Opolu. Filologia Rosyjska</title>
 				</titles>
@@ -1663,7 +1663,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-rosyjska_1993_z.-30" />
 			</journal>
-			<journal removed="false" id="haart" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="haart" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ha!art</title>
 				</titles>
@@ -1677,7 +1677,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="haart_2010_31" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-psychologiczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-psychologiczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Prace Psychologiczne</title>
 				</titles>
@@ -1689,7 +1689,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-prace-psychologiczne_2011_60" />
 			</journal>
-			<journal removed="false" id="tygiel-kultury-druk" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tygiel-kultury-druk" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tygiel Kultury (Druk)</title>
 				</titles>
@@ -1702,7 +1702,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tygiel-kultury-druk_2015_1" />
 			</journal>
-			<journal removed="false" id="rusycystyczne-studia-literaturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rusycystyczne-studia-literaturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rusycystyczne Studia Literaturoznawcze</title>
 				</titles>
@@ -1714,7 +1714,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rusycystyczne-studia-literaturoznawcze_2013_23" />
 			</journal>
-			<journal removed="false" id="formy-promocje" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="formy-promocje" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Formy, Promocje</title>
 				</titles>
@@ -1726,7 +1726,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="formy-promocje_1990_3" />
 			</journal>
-			<journal removed="false" id="plus-minus" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="plus-minus" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Plus Minus</title>
 				</titles>
@@ -1739,7 +1739,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="plus-minus_2002_46" />
 			</journal>
-			<journal removed="false" id="zycie-literackie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zycie-literackie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Życie Literackie</title>
 				</titles>
@@ -1751,7 +1751,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zycie-literackie_1989_5" />
 			</journal>
-			<journal removed="false" id="rocznik-lwowski" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rocznik-lwowski" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rocznik Lwowski</title>
 				</titles>
@@ -1763,7 +1763,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rocznik-lwowski_2003_r.-2003" />
 			</journal>
-			<journal removed="false" id="obrzeza" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="obrzeza" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Obrzeża</title>
 				</titles>
@@ -1775,7 +1775,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="obrzeza_2001_14" />
 			</journal>
-			<journal removed="false" id="arkadia-mikolow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="arkadia-mikolow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Arkadia (Mikołów)</title>
 				</titles>
@@ -1787,7 +1787,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="arkadia-mikolow_2002_11" />
 			</journal>
-			<journal removed="false" id="skafander" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="skafander" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">SkaFander</title>
 				</titles>
@@ -1799,7 +1799,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="skafander_2002_7" />
 			</journal>
-			<journal removed="false" id="przeglad-polski--polish-review" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-polski--polish-review" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Polski = Polish Review</title>
 				</titles>
@@ -1813,7 +1813,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-polski--polish-review_2002_nr-z-19-IV" />
 			</journal>
-			<journal removed="false" id="radostowa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="radostowa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Radostowa</title>
 				</titles>
@@ -1825,7 +1825,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="radostowa_1999_10" />
 			</journal>
-			<journal removed="false" id="literatura-na-swiecie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="literatura-na-swiecie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Literatura na Świecie</title>
 				</titles>
@@ -1841,7 +1841,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="literatura-na-swiecie_2016_9" />
 			</journal>
-			<journal removed="false" id="suplement" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="suplement" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Suplement</title>
 				</titles>
@@ -1853,7 +1853,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="suplement_2000_12" />
 			</journal>
-			<journal removed="false" id="nowa-okolica-poetow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="nowa-okolica-poetow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Nowa Okolica Poetów</title>
 				</titles>
@@ -1865,7 +1865,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="nowa-okolica-poetow_2001_7" />
 			</journal>
-			<journal removed="false" id="ethos" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="ethos" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ethos</title>
 				</titles>
@@ -1877,7 +1877,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ethos_1988_1" />
 			</journal>
-			<journal removed="false" id="litteraria" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="litteraria" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Litteraria.</title>
 				</titles>
@@ -1889,7 +1889,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="litteraria_2006_no-match" />
 			</journal>
-			<journal removed="false" id="gazeta-wyborcza-poznan-wyd-pop" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="gazeta-wyborcza-poznan-wyd-pop" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gazeta Wyborcza (Poznań, wyd. POP).</title>
 				</titles>
@@ -1901,7 +1901,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gazeta-wyborcza-poznan-wyd-pop_2006_157" />
 			</journal>
-			<journal removed="false" id="temat" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="temat" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Temat.</title>
 				</titles>
@@ -1913,7 +1913,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="temat_2006_no-match" />
 			</journal>
-			<journal removed="false" id="studia-filologiczne-raciborz" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-filologiczne-raciborz" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Filologiczne (Racibórz)</title>
 				</titles>
@@ -1925,7 +1925,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-filologiczne-raciborz_2008_no-match" />
 			</journal>
-			<journal removed="false" id="alma-mater" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="alma-mater" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Alma Mater.</title>
 				</titles>
@@ -1937,7 +1937,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="alma-mater_2009_117" />
 			</journal>
-			<journal removed="false" id="slask" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slask" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Śląsk</title>
 				</titles>
@@ -1949,7 +1949,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slask_2003_12" />
 			</journal>
-			<journal removed="false" id="kwartalnik-filozoficzny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kwartalnik-filozoficzny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kwartalnik Filozoficzny</title>
 				</titles>
@@ -1961,7 +1961,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kwartalnik-filozoficzny_2003_z.-4" />
 			</journal>
-			<journal removed="false" id="stronica-snieznicka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="stronica-snieznicka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Stronica Śnieżnicka</title>
 				</titles>
@@ -1973,7 +1973,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="stronica-snieznicka_1999_1" />
 			</journal>
-			<journal removed="false" id="arterie-lodz" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="arterie-lodz" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Arterie (Łódź)</title>
 				</titles>
@@ -1985,7 +1985,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="arterie-lodz_2012_2" />
 			</journal>
-			<journal removed="false" id="przekladaniec-krakow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przekladaniec-krakow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przekładaniec (Kraków)</title>
 				</titles>
@@ -1998,7 +1998,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przekladaniec-krakow_2018_36" />
 			</journal>
-			<journal removed="false" id="wyspa-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wyspa-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wyspa (Warszawa)</title>
 				</titles>
@@ -2011,7 +2011,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wyspa-warszawa_2020_2" />
 			</journal>
-			<journal removed="false" id="kultura-wspolczesna" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultura-wspolczesna" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultura Współczesna</title>
 				</titles>
@@ -2024,7 +2024,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultura-wspolczesna_2013_4" />
 			</journal>
-			<journal removed="false" id="transfer-czestochowa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="transfer-czestochowa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Transfer (Częstochowa)</title>
 				</titles>
@@ -2036,7 +2036,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="transfer-czestochowa_2018_no-match" />
 			</journal>
-			<journal removed="false" id="porownania" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="porownania" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Porównania</title>
 				</titles>
@@ -2050,7 +2050,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="porownania_2013_no-match" />
 			</journal>
-			<journal removed="false" id="student" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="student" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Student</title>
 				</titles>
@@ -2062,7 +2062,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="student_1989_5" />
 			</journal>
-			<journal removed="false" id="napis" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="napis" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Napis</title>
 				</titles>
@@ -2074,7 +2074,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="napis_1994_seria-1" />
 			</journal>
-			<journal removed="false" id="poezja" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="poezja" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Poezja</title>
 				</titles>
@@ -2086,7 +2086,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="poezja_1988_7" />
 			</journal>
-			<journal removed="false" id="kultura-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultura-warszawa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultura [Warszawa]</title>
 				</titles>
@@ -2098,7 +2098,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultura-warszawa_1989_27" />
 			</journal>
-			<journal removed="false" id="kierunki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kierunki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kierunki</title>
 				</titles>
@@ -2110,7 +2110,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kierunki_1989_21" />
 			</journal>
-			<journal removed="false" id="przekroj" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przekroj" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przekrój</title>
 				</titles>
@@ -2122,7 +2122,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przekroj_2001_29" />
 			</journal>
-			<journal removed="false" id="bibliotekarz-podlaski" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="bibliotekarz-podlaski" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Bibliotekarz Podlaski</title>
 				</titles>
@@ -2134,7 +2134,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="bibliotekarz-podlaski_2003_6" />
 			</journal>
-			<journal removed="false" id="kurier-wilenski" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kurier-wilenski" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kurier Wileński</title>
 				</titles>
@@ -2146,7 +2146,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kurier-wilenski_2001_206" />
 			</journal>
-			<journal removed="false" id="zycie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zycie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Życie</title>
 				</titles>
@@ -2158,7 +2158,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zycie_2002_41" />
 			</journal>
-			<journal removed="false" id="niecodziennik-biblioteczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="niecodziennik-biblioteczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Niecodziennik Biblioteczny</title>
 				</titles>
@@ -2170,7 +2170,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="niecodziennik-biblioteczny_2003_4" />
 			</journal>
-			<journal removed="false" id="na-dziko" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="na-dziko" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Na dziko</title>
 				</titles>
@@ -2182,7 +2182,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="na-dziko_1995_4" />
 			</journal>
-			<journal removed="false" id="zagadnienia-rodzajow-literackich" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zagadnienia-rodzajow-literackich" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zagadnienia Rodzajów Literackich</title>
 				</titles>
@@ -2195,7 +2195,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zagadnienia-rodzajow-literackich_2014_z.-2-(2014)" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-uniwersytet-szczecinski-szczecinskie-prace-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-uniwersytet-szczecinski-szczecinskie-prace-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe. Uniwersytet Szczeciński. Szczecińskie Prace Polonistyczne</title>
 				</titles>
@@ -2207,7 +2207,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-uniwersytet-szczecinski-szczecinskie-prace-polonistyczne_1999_11" />
 			</journal>
-			<journal removed="false" id="studia-i-materialy-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-i-materialy-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia i Materiały Polonistyczne</title>
 				</titles>
@@ -2219,7 +2219,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-i-materialy-polonistyczne_2000_t.-5" />
 			</journal>
-			<journal removed="false" id="arkusz" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="arkusz" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Arkusz</title>
 				</titles>
@@ -2232,7 +2232,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="arkusz_2001_9" />
 			</journal>
-			<journal removed="false" id="okolica-poetow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="okolica-poetow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Okolica Poetów</title>
 				</titles>
@@ -2244,7 +2244,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="okolica-poetow_2001_13" />
 			</journal>
-			<journal removed="false" id="slavia-orientalis" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slavia-orientalis" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Slavia Orientalis</title>
 				</titles>
@@ -2257,7 +2257,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slavia-orientalis_2016_1" />
 			</journal>
-			<journal removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Dziennik Polski i Dziennik Żołnierza = The Polish Daily and Soldiers Daily</title>
 				</titles>
@@ -2269,7 +2269,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="dziennik-polski-i-dziennik-zolnierza--the-polish-daily-and-soldiers-daily_1990_146" />
 			</journal>
-			<journal removed="false" id="estetyka-i-krytyka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="estetyka-i-krytyka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Estetyka i Krytyka</title>
 				</titles>
@@ -2281,7 +2281,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="estetyka-i-krytyka_2010_2" />
 			</journal>
-			<journal removed="false" id="mysl-polska-2005" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="mysl-polska-2005" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Myśl Polska (2005)</title>
 				</titles>
@@ -2293,7 +2293,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="mysl-polska-2005_2011_5" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-historia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-historia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Historia</title>
 				</titles>
@@ -2305,7 +2305,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-historia_1993_98" />
 			</journal>
-			<journal removed="false" id="onomastica-slavogermanica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="onomastica-slavogermanica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Onomastica Slavogermanica</title>
 				</titles>
@@ -2317,7 +2317,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="onomastica-slavogermanica_2019_no-match" />
 			</journal>
-			<journal removed="false" id="prace-filologiczne-literaturoznawstwo" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="prace-filologiczne-literaturoznawstwo" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Prace Filologiczne. Literaturoznawstwo</title>
 				</titles>
@@ -2330,7 +2330,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="prace-filologiczne-literaturoznawstwo_2018_cz.-2-(2018)" />
 			</journal>
-			<journal removed="false" id="tekstura-torun" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tekstura-torun" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tekstura (Toruń)</title>
 				</titles>
@@ -2342,7 +2342,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tekstura-torun_2018_no-match" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-literackie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-literackie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Prace Literackie</title>
 				</titles>
@@ -2355,7 +2355,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-prace-literackie_2010_50" />
 			</journal>
-			<journal removed="false" id="pamietnik-teatralny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pamietnik-teatralny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pamiętnik Teatralny</title>
 				</titles>
@@ -2368,7 +2368,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pamietnik-teatralny_2020_z.-4-(2020)" />
 			</journal>
-			<journal removed="false" id="strony-opole" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="strony-opole" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Strony (Opole)</title>
 				</titles>
@@ -2380,7 +2380,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="strony-opole_2011_3" />
 			</journal>
-			<journal removed="false" id="arka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="arka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Arka</title>
 				</titles>
@@ -2392,7 +2392,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="arka_1993_43" />
 			</journal>
-			<journal removed="false" id="miesiecznik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="miesiecznik-literacki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Miesięcznik Literacki</title>
 				</titles>
@@ -2404,7 +2404,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="miesiecznik-literacki_1988_9" />
 			</journal>
-			<journal removed="false" id="kieleckie-studia-rusycystyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kieleckie-studia-rusycystyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kieleckie Studia Rusycystyczne</title>
 				</titles>
@@ -2416,7 +2416,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kieleckie-studia-rusycystyczne_1996_t.-7" />
 			</journal>
-			<journal removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slupskie-prace-filologiczne-seria-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słupskie Prace Filologiczne. Seria Filologia Polska</title>
 				</titles>
@@ -2428,7 +2428,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slupskie-prace-filologiczne-seria-filologia-polska_2002_1" />
 			</journal>
-			<journal removed="false" id="studium" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studium" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studium</title>
 				</titles>
@@ -2440,7 +2440,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studium_1999_3" />
 			</journal>
-			<journal removed="false" id="studia-niemcoznawcze--studien-zur-deutschkunde" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-niemcoznawcze--studien-zur-deutschkunde" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Niemcoznawcze = Studien zur Deutschkunde</title>
 				</titles>
@@ -2452,7 +2452,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-niemcoznawcze--studien-zur-deutschkunde_2001_t.-21" />
 			</journal>
-			<journal removed="false" id="sztuka-osobowa" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="sztuka-osobowa" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Sztuka Osobowa</title>
 				</titles>
@@ -2464,7 +2464,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="sztuka-osobowa_1997_55" />
 			</journal>
-			<journal removed="false" id="tytul-gdansk" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tytul-gdansk" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tytuł [Gdańsk]</title>
 				</titles>
@@ -2476,7 +2476,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tytul-gdansk_1997_3" />
 			</journal>
-			<journal removed="false" id="almanach-czestochowy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="almanach-czestochowy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Almanach Częstochowy</title>
 				</titles>
@@ -2488,7 +2488,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="almanach-czestochowy_2005_(2004/2005)" />
 			</journal>
-			<journal removed="false" id="enigma" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="enigma" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Enigma</title>
 				</titles>
@@ -2500,7 +2500,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="enigma_1988_2" />
 			</journal>
-			<journal removed="false" id="studia-rusycystyczne-akademii-swietokrzyskiej--akademia-swietokrzyska-russian-studies" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-rusycystyczne-akademii-swietokrzyskiej--akademia-swietokrzyska-russian-studies" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Rusycystyczne Akademii Świętokrzyskiej = Akademia Świętokrzyska Russian Studies</title>
 				</titles>
@@ -2512,7 +2512,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-rusycystyczne-akademii-swietokrzyskiej--akademia-swietokrzyska-russian-studies_2003_t.-12" />
 			</journal>
-			<journal removed="false" id="errgo" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="errgo" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Er(r)go</title>
 				</titles>
@@ -2525,7 +2525,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="errgo_2008_1" />
 			</journal>
-			<journal removed="false" id="tekstualia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tekstualia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tekstualia</title>
 				</titles>
@@ -2539,7 +2539,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tekstualia_2019_1" />
 			</journal>
-			<journal removed="false" id="przeglad-orientalistyczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-orientalistyczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Orientalistyczny</title>
 				</titles>
@@ -2551,7 +2551,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-orientalistyczny_2016_1" />
 			</journal>
-			<journal removed="false" id="orbis-linguarum" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="orbis-linguarum" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Orbis Linguarum</title>
 				</titles>
@@ -2564,7 +2564,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="orbis-linguarum_2009_no-match" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-olsztynie-prace-filologiczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-olsztynie-prace-filologiczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Wyższej Szkoły Pedagogicznej w Olsztynie. Prace Filologiczne</title>
 				</titles>
@@ -2576,7 +2576,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-olsztynie-prace-filologiczne_1995_z.-1" />
 			</journal>
-			<journal removed="false" id="acta-polonoruthenica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-polonoruthenica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Polono-Ruthenica</title>
 				</titles>
@@ -2588,7 +2588,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-polonoruthenica_1996_[t.]-1" />
 			</journal>
-			<journal removed="false" id="almanach-historycznoliteracki" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="almanach-historycznoliteracki" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Almanach Historycznoliteracki</title>
 				</titles>
@@ -2600,7 +2600,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="almanach-historycznoliteracki_1998_t.-1" />
 			</journal>
-			<journal removed="false" id="przeglad-wschodni" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-wschodni" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Wschodni</title>
 				</titles>
@@ -2612,7 +2612,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-wschodni_1991_t.-1-z.-1" />
 			</journal>
-			<journal removed="false" id="filozofia-dialogu" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="filozofia-dialogu" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Filozofia Dialogu</title>
 				</titles>
@@ -2624,7 +2624,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="filozofia-dialogu_2005_no-match" />
 			</journal>
-			<journal removed="false" id="studia-kulturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-kulturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Kulturoznawcze</title>
 				</titles>
@@ -2636,7 +2636,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-kulturoznawcze_2011_1" />
 			</journal>
-			<journal removed="false" id="annales-universitatis-paedagogicae-cracoviensis-studia-ad-didacticam-litterarum-polonarum-et-linguae-polonae-pertinentia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="annales-universitatis-paedagogicae-cracoviensis-studia-ad-didacticam-litterarum-polonarum-et-linguae-polonae-pertinentia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Universitatis Paedagogicae Cracoviensis. Studia ad Didacticam Litterarum Polonarum et Linguae Polonae Pertinentia</title>
 				</titles>
@@ -2648,7 +2648,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-universitatis-paedagogicae-cracoviensis-studia-ad-didacticam-litterarum-polonarum-et-linguae-polonae-pertinentia_2010_no-match" />
 			</journal>
-			<journal removed="false" id="studia-niemcoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-niemcoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Niemcoznawcze</title>
 				</titles>
@@ -2660,7 +2660,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-niemcoznawcze_2007_no-match" />
 			</journal>
-			<journal removed="false" id="gazeta-magazyn" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="gazeta-magazyn" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Gazeta. Magazyn</title>
 				</titles>
@@ -2672,7 +2672,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="gazeta-magazyn_1999_36" />
 			</journal>
-			<journal removed="false" id="rocznik-komparatystyczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rocznik-komparatystyczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rocznik Komparatystyczny</title>
 				</titles>
@@ -2686,7 +2686,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rocznik-komparatystyczny_2016_R.-7" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-zielonogorskiego-scripta-humana" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-zielonogorskiego-scripta-humana" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Uniwersytetu Zielonogórskiego. Scripta Humana</title>
 				</titles>
@@ -2699,7 +2699,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-uniwersytetu-zielonogorskiego-scripta-humana_2017_no-match" />
 			</journal>
-			<journal removed="false" id="fraza-rzeszow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="fraza-rzeszow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Fraza (Rzeszów)</title>
 				</titles>
@@ -2713,7 +2713,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="fraza-rzeszow_2015_4" />
 			</journal>
-			<journal removed="false" id="przeglad-rusycystyczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-rusycystyczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Rusycystyczny</title>
 				</titles>
@@ -2726,7 +2726,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-rusycystyczny_2020_3" />
 			</journal>
-			<journal removed="false" id="przeglad-polityczny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-polityczny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Polityczny</title>
 				</titles>
@@ -2738,7 +2738,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-polityczny_2020_162" />
 			</journal>
-			<journal removed="false" id="annales-universitatis-paedagogicae-cracoviensis-studia-de-cultura" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="annales-universitatis-paedagogicae-cracoviensis-studia-de-cultura" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Universitatis Paedagogicae Cracoviensis. Studia de Cultura</title>
 				</titles>
@@ -2750,7 +2750,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-universitatis-paedagogicae-cracoviensis-studia-de-cultura_2020_[nr]-2-(2020)" />
 			</journal>
-			<journal removed="false" id="odra-wroclaw-1961" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="odra-wroclaw-1961" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Odra (Wrocław. 1961)</title>
 				</titles>
@@ -2762,7 +2762,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="odra-wroclaw-1961_2014_11" />
 			</journal>
-			<journal removed="false" id="studia-z-filologii-polskiej-i-slowianskiej" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-z-filologii-polskiej-i-slowianskiej" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia z Filologii Polskiej i Słowiańskiej</title>
 				</titles>
@@ -2774,7 +2774,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-z-filologii-polskiej-i-slowianskiej_2008_no-match" />
 			</journal>
-			<journal removed="false" id="warsztaty-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="warsztaty-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Warsztaty Polonistyczne</title>
 				</titles>
@@ -2789,7 +2789,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="warsztaty-polonistyczne_1999_2" />
 			</journal>
-			<journal removed="false" id="slowo-berlin" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slowo-berlin" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Słowo [Berlin]</title>
 				</titles>
@@ -2801,7 +2801,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slowo-berlin_1992_17" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-nicolai-copernici-nauki-humanistycznospoleczne-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-nicolai-copernici-nauki-humanistycznospoleczne-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Nicolai Copernici. Nauki Humanistyczno-Społeczne. Filologia Polska</title>
 				</titles>
@@ -2813,7 +2813,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-nicolai-copernici-nauki-humanistycznospoleczne-filologia-polska_1995_z.-45-(289)" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-seria-filologiczna-historia-literatury" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-seria-filologiczna-historia-literatury" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Uniwersytetu Rzeszowskiego. Seria Filologiczna. Historia Literatury</title>
 				</titles>
@@ -2825,7 +2825,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-seria-filologiczna-historia-literatury_2002_z.-1" />
 			</journal>
-			<journal removed="false" id="onomastica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="onomastica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Onomastica</title>
 				</titles>
@@ -2837,7 +2837,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="onomastica_2003_r.-48" />
 			</journal>
-			<journal removed="false" id="slaskie-miscellanea" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="slaskie-miscellanea" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Śląskie Miscellanea</title>
 				</titles>
@@ -2849,7 +2849,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="slaskie-miscellanea_1998_t.-11" />
 			</journal>
-			<journal removed="false" id="poznanskie-studia-polonistyczne-seria-literacka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="poznanskie-studia-polonistyczne-seria-literacka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Poznańskie Studia Polonistyczne. Seria Literacka</title>
 				</titles>
@@ -2861,7 +2861,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="poznanskie-studia-polonistyczne-seria-literacka_2001_t.-8" />
 			</journal>
-			<journal removed="false" id="ogrod" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="ogrod" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Ogród</title>
 				</titles>
@@ -2873,7 +2873,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="ogrod_1992_3" />
 			</journal>
-			<journal removed="false" id="karta" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="karta" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Karta</title>
 				</titles>
@@ -2885,7 +2885,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="karta_1991_4" />
 			</journal>
-			<journal removed="false" id="studia-wschodnioslowianskie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-wschodnioslowianskie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Wschodniosłowiańskie</title>
 				</titles>
@@ -2897,7 +2897,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-wschodnioslowianskie_2012_no-match" />
 			</journal>
-			<journal removed="false" id="wiek-xix" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wiek-xix" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wiek XIX</title>
 				</titles>
@@ -2909,7 +2909,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wiek-xix_2012_R.-5" />
 			</journal>
-			<journal removed="false" id="pro-libris-zielona-gora" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pro-libris-zielona-gora" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pro Libris (Zielona Góra)</title>
 				</titles>
@@ -2921,7 +2921,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pro-libris-zielona-gora_2018_1" />
 			</journal>
-			<journal removed="false" id="studia-teologiczne-bialystok" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-teologiczne-bialystok" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Teologiczne (Białystok)</title>
 				</titles>
@@ -2933,7 +2933,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-teologiczne-bialystok_2019_no-match" />
 			</journal>
-			<journal removed="false" id="swiat-i-slowo" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="swiat-i-slowo" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Świat i Słowo</title>
 				</titles>
@@ -2945,7 +2945,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="swiat-i-slowo_2012_2" />
 			</journal>
-			<journal removed="false" id="rocznik-naukowodydaktyczny-wyzsza-szkola-pedagogiczna-w-krakowie-prace-jezykoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rocznik-naukowodydaktyczny-wyzsza-szkola-pedagogiczna-w-krakowie-prace-jezykoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rocznik Naukowo-Dydaktyczny [Wyższa Szkoła Pedagogiczna w Krakowie]. Prace Językoznawcze</title>
 				</titles>
@@ -2957,7 +2957,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rocznik-naukowodydaktyczny-wyzsza-szkola-pedagogiczna-w-krakowie-prace-jezykoznawcze_1994_z.-8-(168)" />
 			</journal>
-			<journal removed="false" id="pomerania" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pomerania" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pomerania</title>
 				</titles>
@@ -2969,7 +2969,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pomerania_1999_11" />
 			</journal>
-			<journal removed="false" id="katedra" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="katedra" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Katedra</title>
 				</titles>
@@ -2981,7 +2981,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="katedra_2001_2" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-lodziensis-folia-scientiae-artium-et-litterarum" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-lodziensis-folia-scientiae-artium-et-litterarum" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Lodziensis. Folia Scientiae Artium et Litterarum</title>
 				</titles>
@@ -2994,7 +2994,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-lodziensis-folia-scientiae-artium-et-litterarum_1998_z.-7" />
 			</journal>
-			<journal removed="false" id="polonistyka" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="polonistyka" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Polonistyka</title>
 				</titles>
@@ -3006,7 +3006,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="polonistyka_1999_10" />
 			</journal>
-			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-russologica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-russologica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Annales Academiae Paedagogicae Cracoviensis. Studia Russologica</title>
 				</titles>
@@ -3018,7 +3018,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="annales-academiae-paedagogicae-cracoviensis-studia-russologica_2007_1" />
 			</journal>
-			<journal removed="false" id="liryka-polska-xx-wieku" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="liryka-polska-xx-wieku" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Liryka Polska XX Wieku.</title>
 				</titles>
@@ -3030,7 +3030,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="liryka-polska-xx-wieku_2005_no-match" />
 			</journal>
-			<journal removed="false" id="studia-slavica-ostrava-print" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-slavica-ostrava-print" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Slavica (Ostrava. Print)</title>
 				</titles>
@@ -3042,7 +3042,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-slavica-ostrava-print_2013_[cz.]-2-(2013)" />
 			</journal>
-			<journal removed="false" id="pomosty-wroclaw" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pomosty-wroclaw" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pomosty [Wrocław]</title>
 				</titles>
@@ -3054,7 +3054,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="pomosty-wroclaw_2004_t.-9" />
 			</journal>
-			<journal removed="false" id="studia-ucrainica-varsoviensia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-ucrainica-varsoviensia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Ucrainica Varsoviensia</title>
 				</titles>
@@ -3066,7 +3066,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-ucrainica-varsoviensia_2020_no-match" />
 			</journal>
-			<journal removed="false" id="prace-naukowe-akademii-im-jana-dlugosza-w-czestochowie-filologia-polska-historia-i-teorii-literatury" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="prace-naukowe-akademii-im-jana-dlugosza-w-czestochowie-filologia-polska-historia-i-teorii-literatury" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Prace Naukowe Akademii im. Jana Długosza w Częstochowie. Filologia Polska. Historia i Teorii Literatury</title>
 				</titles>
@@ -3078,7 +3078,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="prace-naukowe-akademii-im-jana-dlugosza-w-czestochowie-filologia-polska-historia-i-teorii-literatury_2009_no-match" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-literatura-i-kultura-popularna" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-literatura-i-kultura-popularna" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Literatura i Kultura Popularna</title>
 				</titles>
@@ -3091,7 +3091,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-literatura-i-kultura-popularna_2010_16" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-kulturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-prace-kulturoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Prace Kulturoznawcze</title>
 				</titles>
@@ -3103,7 +3103,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-prace-kulturoznawcze_2005_9" />
 			</journal>
-			<journal removed="false" id="civitas-mentis" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="civitas-mentis" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Civitas Mentis</title>
 				</titles>
@@ -3115,7 +3115,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="civitas-mentis_2007_no-match" />
 			</journal>
-			<journal removed="false" id="sprawozdania-wydzialu-nauk-o-sztuce" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="sprawozdania-wydzialu-nauk-o-sztuce" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Sprawozdania Wydziału Nauk o Sztuce</title>
 				</titles>
@@ -3127,7 +3127,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="sprawozdania-wydzialu-nauk-o-sztuce_1994_111" />
 			</journal>
-			<journal removed="false" id="wprost" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wprost" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wprost</title>
 				</titles>
@@ -3139,7 +3139,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wprost_2003_42" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-wratislaviensis-classica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-wratislaviensis-classica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Wratislaviensis. Classica Wratislaviensia</title>
 				</titles>
@@ -3151,7 +3151,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-wratislaviensis-classica-wratislaviensia_1993_17" />
 			</journal>
-			<journal removed="false" id="miedzynarodowe-centrum-kultury" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="miedzynarodowe-centrum-kultury" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Międzynarodowe Centrum Kultury</title>
 				</titles>
@@ -3163,7 +3163,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="miedzynarodowe-centrum-kultury_1997_r.-6-(1996/1997)" />
 			</journal>
-			<journal removed="false" id="rocznik-swietokrzyski-seria-a-nauki-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rocznik-swietokrzyski-seria-a-nauki-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rocznik Świętokrzyski. Seria A, Nauki Humanistyczne</title>
 				</titles>
@@ -3175,7 +3175,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rocznik-swietokrzyski-seria-a-nauki-humanistyczne_2008_no-match" />
 			</journal>
-			<journal removed="false" id="errgo-katowice" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="errgo-katowice" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Er(r)go (Katowice)</title>
 				</titles>
@@ -3186,9 +3186,9 @@
 				<headings />
 				<issn>1508-6305.</issn>
 				<journal-status value="source" />
-				<newest-journal-number id="errgo-katowice_2008_1" />
+				<newest-journal-number id="errgo-katowice_2008_2" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-polska" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe. Wyższa Szkoła Pedagogiczna im. Powstańców Śląskich w Opolu. Filologia Polska</title>
 				</titles>
@@ -3200,7 +3200,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-polska_1994_z.-32" />
 			</journal>
-			<journal removed="false" id="zeszyty-prasoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-prasoznawcze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Prasoznawcze</title>
 				</titles>
@@ -3212,7 +3212,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-prasoznawcze_1989_3" />
 			</journal>
-			<journal removed="false" id="prace-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="prace-polonistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Prace Polonistyczne</title>
 				</titles>
@@ -3224,7 +3224,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="prace-polonistyczne_2005_no-match" />
 			</journal>
-			<journal removed="false" id="italica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="italica-wratislaviensia" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Italica Wratislaviensia</title>
 				</titles>
@@ -3236,7 +3236,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="italica-wratislaviensia_2016_7" />
 			</journal>
-			<journal removed="false" id="czytanie-literatury" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="czytanie-literatury" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Czytanie Literatury</title>
 				</titles>
@@ -3248,7 +3248,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="czytanie-literatury_2017_6" />
 			</journal>
-			<journal removed="false" id="przeglad-polonijny" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-polonijny" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Polonijny</title>
 				</titles>
@@ -3260,7 +3260,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-polonijny_2005_z.-2-(2005)" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-jagiellonskiego-prace-historycznoliterackie" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-uniwersytetu-jagiellonskiego-prace-historycznoliterackie" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Uniwersytetu Jagiellońskiego. Prace Historycznoliterackie</title>
 				</titles>
@@ -3272,7 +3272,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-uniwersytetu-jagiellonskiego-prace-historycznoliterackie_1994_z.-89-(1150)" />
 			</journal>
-			<journal removed="false" id="wieloglos" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="wieloglos" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Wielogłos</title>
 				</titles>
@@ -3284,7 +3284,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="wieloglos_2013_3" />
 			</journal>
-			<journal removed="false" id="acta-universitatis-lodziensis-folia-linguistica" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-universitatis-lodziensis-folia-linguistica" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Universitatis Lodziensis. Folia Linguistica</title>
 				</titles>
@@ -3296,7 +3296,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-universitatis-lodziensis-folia-linguistica_2019_no-match" />
 			</journal>
-			<journal removed="false" id="witraze" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="witraze" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Witraże</title>
 				</titles>
@@ -3308,7 +3308,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="witraze_1994_1" />
 			</journal>
-			<journal removed="false" id="neofilolog-poznan" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="neofilolog-poznan" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Neofilolog (Poznań)</title>
 				</titles>
@@ -3320,7 +3320,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="neofilolog-poznan_2019_[cz.]-2-(2019)" />
 			</journal>
-			<journal removed="false" id="zeszyty-naukowe-panstwowej-wyzszej-szkoly-zawodowej-we-wloclawku-rozprawy-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="zeszyty-naukowe-panstwowej-wyzszej-szkoly-zawodowej-we-wloclawku-rozprawy-humanistyczne" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Zeszyty Naukowe Państwowej Wyższej Szkoły Zawodowej we Włocławku. Rozprawy Humanistyczne</title>
 				</titles>
@@ -3332,7 +3332,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="zeszyty-naukowe-panstwowej-wyzszej-szkoly-zawodowej-we-wloclawku-rozprawy-humanistyczne_2009_no-match" />
 			</journal>
-			<journal removed="false" id="rzeczywistosc" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rzeczywistosc" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rzeczywistość</title>
 				</titles>
@@ -3344,7 +3344,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rzeczywistosc_1989_6" />
 			</journal>
-			<journal removed="false" id="przeglad-zachodni" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="przeglad-zachodni" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Przegląd Zachodni</title>
 				</titles>
@@ -3356,7 +3356,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="przeglad-zachodni_2017_1" />
 			</journal>
-			<journal removed="false" id="rocznik-centrum-studiow-niemieckich-i-europejskich-im-willy-brandta-uniwersytetu-wroclawskiego" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="rocznik-centrum-studiow-niemieckich-i-europejskich-im-willy-brandta-uniwersytetu-wroclawskiego" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Rocznik Centrum Studiów Niemieckich i Europejskich im. Willy Brandta Uniwersytetu Wrocławskiego</title>
 				</titles>
@@ -3368,7 +3368,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="rocznik-centrum-studiow-niemieckich-i-europejskich-im-willy-brandta-uniwersytetu-wroclawskiego_2005_3" />
 			</journal>
-			<journal removed="false" id="kultura-i-edukacja" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultura-i-edukacja" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultura i Edukacja</title>
 				</titles>
@@ -3380,7 +3380,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultura-i-edukacja_2017_1" />
 			</journal>
-			<journal removed="false" id="polonia-sacra-1948" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="polonia-sacra-1948" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Polonia Sacra (1948)</title>
 				</titles>
@@ -3392,7 +3392,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="polonia-sacra-1948_2010_26" />
 			</journal>
-			<journal removed="false" id="studia-filologiczne-akademii-swietokrzyskiej" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="studia-filologiczne-akademii-swietokrzyskiej" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Studia Filologiczne Akademii Świętokrzyskiej</title>
 				</titles>
@@ -3404,7 +3404,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="studia-filologiczne-akademii-swietokrzyskiej_2002_t.-17" />
 			</journal>
-			<journal removed="false" id="swiat-tekstow-rocznik-slupski" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="swiat-tekstow-rocznik-slupski" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Świat Tekstów Rocznik Słupski</title>
 				</titles>
@@ -3417,7 +3417,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="swiat-tekstow-rocznik-slupski_2015_13" />
 			</journal>
-			<journal removed="false" id="kresy" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kresy" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kresy.</title>
 				</titles>
@@ -3429,7 +3429,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kresy_2006_4" />
 			</journal>
-			<journal removed="false" id="tematy-i-konteksty" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="tematy-i-konteksty" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Tematy i Konteksty</title>
 				</titles>
@@ -3441,7 +3441,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="tematy-i-konteksty_2017_7" />
 			</journal>
-			<journal removed="false" id="prace-naukowe-uniwersytetu-slaskiego" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="prace-naukowe-uniwersytetu-slaskiego" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Prace Naukowe Uniwersytetu Śląskiego</title>
 				</titles>
@@ -3453,7 +3453,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="prace-naukowe-uniwersytetu-slaskiego_1996_1584" />
 			</journal>
-			<journal removed="false" id="arcana-krakow" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="arcana-krakow" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Arcana (Kraków)</title>
 				</titles>
@@ -3466,7 +3466,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="arcana-krakow_2006_3" />
 			</journal>
-			<journal removed="false" id="communio-poznan" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="communio-poznan" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Communio (Poznań)</title>
 				</titles>
@@ -3478,7 +3478,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="communio-poznan_2020_1" />
 			</journal>
-			<journal removed="false" id="acta-neophilologica-olsztyn" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="acta-neophilologica-olsztyn" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Acta Neophilologica (Olsztyn)</title>
 				</titles>
@@ -3490,7 +3490,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="acta-neophilologica-olsztyn_2020_[nr]-1-(2020)" />
 			</journal>
-			<journal removed="false" id="albo-albo" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="albo-albo" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Albo albo</title>
 				</titles>
@@ -3502,7 +3502,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="albo-albo_2007_z.-4" />
 			</journal>
-			<journal removed="false" id="kultury-wschodnioslowianskie-oblicza-i-dialog" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="kultury-wschodnioslowianskie-oblicza-i-dialog" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Kultury Wschodniosłowiańskie Oblicza i Dialog</title>
 				</titles>
@@ -3514,7 +3514,7 @@
 				<journal-status value="source" />
 				<newest-journal-number id="kultury-wschodnioslowianskie-oblicza-i-dialog_2018_no-match" />
 			</journal>
-			<journal removed="false" id="pomosty" status="source" creator="cezary_rosinski" creation-date="2023-09-14" publishing-date="2023-09-14" origin="">
+			<journal removed="false" id="pomosty" status="source" creator="cezary_rosinski" creation-date="2023-10-04" publishing-date="2023-10-04" origin="">
 				<titles without-title="false">
 					<title code="base" lang="pl" newest="true" transliteration="false">Pomosty.</title>
 				</titles>
@@ -7751,17 +7751,17 @@
 				<journal-year id="guliwer_1996" />
 				<number>2</number>
 			</journal-number>
-			<journal-number removed="false" id="trybuna_2003_242">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="trybuna_2003" />
-				<number>242</number>
-			</journal-number>
 			<journal-number removed="false" id="trybuna_2003_33">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="trybuna_2003" />
 				<number>33</number>
+			</journal-number>
+			<journal-number removed="false" id="trybuna_2003_242">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="trybuna_2003" />
+				<number>242</number>
 			</journal-number>
 			<journal-number removed="false" id="konteksty_1996_1">
 				<headings />
@@ -7943,23 +7943,17 @@
 				<journal-year id="metafora_1999" />
 				<number>39</number>
 			</journal-number>
-			<journal-number removed="false" id="topos-sopot_1995_3">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="topos-sopot_1995" />
-				<number>3</number>
-			</journal-number>
 			<journal-number removed="false" id="topos-sopot_1995_7">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="topos-sopot_1995" />
 				<number>7</number>
 			</journal-number>
-			<journal-number removed="false" id="topos-sopot_1994_5">
+			<journal-number removed="false" id="topos-sopot_1995_3">
 				<headings />
 				<journal-number-status value="development-of-sources" />
-				<journal-year id="topos-sopot_1994" />
-				<number>5</number>
+				<journal-year id="topos-sopot_1995" />
+				<number>3</number>
 			</journal-number>
 			<journal-number removed="false" id="topos-sopot_1994_1">
 				<headings />
@@ -7967,23 +7961,29 @@
 				<journal-year id="topos-sopot_1994" />
 				<number>1</number>
 			</journal-number>
+			<journal-number removed="false" id="topos-sopot_1994_5">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="topos-sopot_1994" />
+				<number>5</number>
+			</journal-number>
 			<journal-number removed="false" id="topos-sopot_2018_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="topos-sopot_2018" />
 				<number>1</number>
 			</journal-number>
-			<journal-number removed="false" id="topos-sopot_2018_4">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="topos-sopot_2018" />
-				<number>4</number>
-			</journal-number>
 			<journal-number removed="false" id="topos-sopot_2018_6">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="topos-sopot_2018" />
 				<number>6</number>
+			</journal-number>
+			<journal-number removed="false" id="topos-sopot_2018_4">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="topos-sopot_2018" />
+				<number>4</number>
 			</journal-number>
 			<journal-number removed="false" id="topos-sopot_2003_1">
 				<headings />
@@ -8051,17 +8051,17 @@
 				<journal-year id="nowe-ksiazki_1997" />
 				<number>8</number>
 			</journal-number>
-			<journal-number removed="false" id="nowe-ksiazki_1999_11">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="nowe-ksiazki_1999" />
-				<number>11</number>
-			</journal-number>
 			<journal-number removed="false" id="nowe-ksiazki_1999_5">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="nowe-ksiazki_1999" />
 				<number>5</number>
+			</journal-number>
+			<journal-number removed="false" id="nowe-ksiazki_1999_11">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="nowe-ksiazki_1999" />
+				<number>11</number>
 			</journal-number>
 			<journal-number removed="false" id="nowe-ksiazki_1991_8">
 				<headings />
@@ -8135,17 +8135,17 @@
 				<journal-year id="kwartalnik-artystyczny_2016" />
 				<number>2</number>
 			</journal-number>
-			<journal-number removed="false" id="kwartalnik-artystyczny_2002_3">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="kwartalnik-artystyczny_2002" />
-				<number>3</number>
-			</journal-number>
 			<journal-number removed="false" id="kwartalnik-artystyczny_2002_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="kwartalnik-artystyczny_2002" />
 				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="kwartalnik-artystyczny_2002_3">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="kwartalnik-artystyczny_2002" />
+				<number>3</number>
 			</journal-number>
 			<journal-number removed="false" id="kwartalnik-artystyczny_1993_0">
 				<headings />
@@ -8405,17 +8405,17 @@
 				<journal-year id="teksty-drugie_2014" />
 				<number>6</number>
 			</journal-number>
-			<journal-number removed="false" id="teksty-drugie_2018_2">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="teksty-drugie_2018" />
-				<number>2</number>
-			</journal-number>
 			<journal-number removed="false" id="teksty-drugie_2018_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="teksty-drugie_2018" />
 				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="teksty-drugie_2018_2">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="teksty-drugie_2018" />
+				<number>2</number>
 			</journal-number>
 			<journal-number removed="false" id="teksty-drugie_2020_6">
 				<headings />
@@ -8639,17 +8639,17 @@
 				<journal-year id="ruch-literacki_1995" />
 				<number>z. 3</number>
 			</journal-number>
-			<journal-number removed="false" id="ruch-literacki_2000_z.-1">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="ruch-literacki_2000" />
-				<number>z. 1</number>
-			</journal-number>
 			<journal-number removed="false" id="ruch-literacki_2000_z.-6">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="ruch-literacki_2000" />
 				<number>z. 6</number>
+			</journal-number>
+			<journal-number removed="false" id="ruch-literacki_2000_z.-1">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="ruch-literacki_2000" />
+				<number>z. 1</number>
 			</journal-number>
 			<journal-number removed="false" id="ruch-literacki_2003_z.-6">
 				<headings />
@@ -8705,17 +8705,17 @@
 				<journal-year id="akant-bydgoszcz_2005" />
 				<number>9</number>
 			</journal-number>
-			<journal-number removed="false" id="akant-bydgoszcz_2014_11">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="akant-bydgoszcz_2014" />
-				<number>11</number>
-			</journal-number>
 			<journal-number removed="false" id="akant-bydgoszcz_2014_10">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="akant-bydgoszcz_2014" />
 				<number>10</number>
+			</journal-number>
+			<journal-number removed="false" id="akant-bydgoszcz_2014_11">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="akant-bydgoszcz_2014" />
+				<number>11</number>
 			</journal-number>
 			<journal-number removed="false" id="akant-bydgoszcz_2009_2">
 				<headings />
@@ -8735,17 +8735,17 @@
 				<journal-year id="akant-bydgoszcz_2011" />
 				<number>4</number>
 			</journal-number>
-			<journal-number removed="false" id="akant-bydgoszcz_2004_9">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="akant-bydgoszcz_2004" />
-				<number>9</number>
-			</journal-number>
 			<journal-number removed="false" id="akant-bydgoszcz_2004_12">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="akant-bydgoszcz_2004" />
 				<number>12</number>
+			</journal-number>
+			<journal-number removed="false" id="akant-bydgoszcz_2004_9">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="akant-bydgoszcz_2004" />
+				<number>9</number>
 			</journal-number>
 			<journal-number removed="false" id="akant-bydgoszcz_2007_2">
 				<headings />
@@ -8891,17 +8891,17 @@
 				<journal-year id="najprosciej_1996" />
 				<number>3</number>
 			</journal-number>
-			<journal-number removed="false" id="najprosciej_2002_3">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="najprosciej_2002" />
-				<number>3</number>
-			</journal-number>
 			<journal-number removed="false" id="najprosciej_2002_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="najprosciej_2002" />
 				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="najprosciej_2002_3">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="najprosciej_2002" />
+				<number>3</number>
 			</journal-number>
 			<journal-number removed="false" id="najprosciej_2000_2">
 				<headings />
@@ -9077,17 +9077,17 @@
 				<journal-year id="zeszyty-naukowe-uniwersytetu-rzeszowskiego-pedagogika-i-psychologia_2009" />
 				<number>no match</number>
 			</journal-number>
-			<journal-number removed="false" id="pegaz-lubuski_2005_3">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="pegaz-lubuski_2005" />
-				<number>3</number>
-			</journal-number>
 			<journal-number removed="false" id="pegaz-lubuski_2005_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="pegaz-lubuski_2005" />
 				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="pegaz-lubuski_2005_3">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="pegaz-lubuski_2005" />
+				<number>3</number>
 			</journal-number>
 			<journal-number removed="false" id="pegaz-lubuski_2006_7">
 				<headings />
@@ -9107,29 +9107,29 @@
 				<journal-year id="aleje-3_2009" />
 				<number>73</number>
 			</journal-number>
-			<journal-number removed="false" id="nietakt_2016_2">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="nietakt_2016" />
-				<number>2</number>
-			</journal-number>
 			<journal-number removed="false" id="nietakt_2016_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="nietakt_2016" />
 				<number>1</number>
 			</journal-number>
-			<journal-number removed="false" id="poezja-dzisiaj_2016_116">
+			<journal-number removed="false" id="nietakt_2016_2">
 				<headings />
 				<journal-number-status value="development-of-sources" />
-				<journal-year id="poezja-dzisiaj_2016" />
-				<number>116</number>
+				<journal-year id="nietakt_2016" />
+				<number>2</number>
 			</journal-number>
 			<journal-number removed="false" id="poezja-dzisiaj_2016_117">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="poezja-dzisiaj_2016" />
 				<number>117</number>
+			</journal-number>
+			<journal-number removed="false" id="poezja-dzisiaj_2016_116">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="poezja-dzisiaj_2016" />
+				<number>116</number>
 			</journal-number>
 			<journal-number removed="false" id="poezja-dzisiaj_2014_107">
 				<headings />
@@ -9233,17 +9233,17 @@
 				<journal-year id="sfera_1996" />
 				<number>1</number>
 			</journal-number>
-			<journal-number removed="false" id="nasza-rodzina--notre-famille_1995_11">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="nasza-rodzina--notre-famille_1995" />
-				<number>11</number>
-			</journal-number>
 			<journal-number removed="false" id="nasza-rodzina--notre-famille_1995_3">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="nasza-rodzina--notre-famille_1995" />
 				<number>3</number>
+			</journal-number>
+			<journal-number removed="false" id="nasza-rodzina--notre-famille_1995_11">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="nasza-rodzina--notre-famille_1995" />
+				<number>11</number>
 			</journal-number>
 			<journal-number removed="false" id="magazyn-wilenski_1992_14">
 				<headings />
@@ -9491,17 +9491,17 @@
 				<journal-year id="zeszyty-naukowe-wyzszej-szkoly-pedagogicznej-w-bydgoszczy-studia-filologiczne-filologia-polska_1996" />
 				<number>z. 17 (40)</number>
 			</journal-number>
-			<journal-number removed="false" id="studium_2004_2">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="studium_2004" />
-				<number>2</number>
-			</journal-number>
 			<journal-number removed="false" id="studium_2004_6">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="studium_2004" />
 				<number>6</number>
+			</journal-number>
+			<journal-number removed="false" id="studium_2004_2">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="studium_2004" />
+				<number>2</number>
 			</journal-number>
 			<journal-number removed="false" id="annales-academiae-paedagogicae-cracoviensis-studia-historicolitteraria_2005_5">
 				<headings />
@@ -10217,17 +10217,17 @@
 				<journal-year id="rocznik-komparatystyczny_2012" />
 				<number>R. 3</number>
 			</journal-number>
-			<journal-number removed="false" id="rocznik-komparatystyczny_2011_R.-2">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="rocznik-komparatystyczny_2011" />
-				<number>R. 2</number>
-			</journal-number>
 			<journal-number removed="false" id="rocznik-komparatystyczny_2011_t.-2">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="rocznik-komparatystyczny_2011" />
 				<number>t. 2</number>
+			</journal-number>
+			<journal-number removed="false" id="rocznik-komparatystyczny_2011_R.-2">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="rocznik-komparatystyczny_2011" />
+				<number>R. 2</number>
 			</journal-number>
 			<journal-number removed="false" id="rocznik-komparatystyczny_2016_R.-7">
 				<headings />
@@ -10535,17 +10535,17 @@
 				<journal-year id="errgo-katowice_2006" />
 				<number>2</number>
 			</journal-number>
-			<journal-number removed="false" id="errgo-katowice_2008_2">
-				<headings />
-				<journal-number-status value="development-of-sources" />
-				<journal-year id="errgo-katowice_2008" />
-				<number>2</number>
-			</journal-number>
 			<journal-number removed="false" id="errgo-katowice_2008_1">
 				<headings />
 				<journal-number-status value="development-of-sources" />
 				<journal-year id="errgo-katowice_2008" />
 				<number>1</number>
+			</journal-number>
+			<journal-number removed="false" id="errgo-katowice_2008_2">
+				<headings />
+				<journal-number-status value="development-of-sources" />
+				<journal-year id="errgo-katowice_2008" />
+				<number>2</number>
 			</journal-number>
 			<journal-number removed="false" id="zeszyty-naukowe-wyzsza-szkola-pedagogiczna-im-powstancow-slaskich-w-opolu-filologia-polska_1994_z.-32">
 				<headings />
