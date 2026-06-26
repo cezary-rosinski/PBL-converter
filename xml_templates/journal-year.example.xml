@@ -1,0 +1,44 @@
+<pbl>
+    <files>
+		<journal-years>
+			<journal-year removed="false"  id="journal-year-id-01" origin="IdentyfikatorŹródłaUAM">
+				<journal id="journal-id-01"/>
+					
+				
+				<year value="22"/>
+				
+				<dedication-year-1 value="23"/>
+				<dedication-year-2 value="24"/>
+			
+			
+                <annotation>To jest jakaś adnotacja</annotation>
+
+                <remark>To jest jakiś komentarz</remark>
+
+
+                <tags>
+                    <tag>#WaznyRocznikCzasopisma</tag>
+                    <tag>#nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+                
+                
+                <characters>
+					<character code="radio" />
+					<character code="scientific-society" />
+					<character code="scientific" />
+				</characters>
+                
+				<journal-year-status value="under-development"/> <!-- under-development, selection, elimination -->
+				
+				<resignation-reason-public>Ble ble ble ale publiczne</resignation-reason-public>
+				<resignation-reason-private>Pismo jest do dudy nie ma co opracowywać</resignation-reason-private>
+				
+				<closed value="false" />
+			
+			</journal-year>
+		</journal-years>
+    </files>
+</pbl>
+		
+			

@@ -1,0 +1,48 @@
+<pbl>
+	<files>
+		<people>
+			<person id="TuJestZewnetrznyId" viaf="13373997" status="published|draft|prepared" createor="c_rosinski" creation-date="2021-05-25" publishing-date="2021-05-25" origin="IdentyfikatorŹródła">
+				<names>
+					<!-- codes: main-name, family-name, other-last-name-or-first-name, monastic-name, codename, alias, group-alias, -->
+					<name code="main-name" transliteration="no" presentation-name="yes">Jan Kowalski</name>
+					<name code="codename">J.K.</name>
+					<name code="alias" main-name="yes">Jasiu</name>
+					<name code="alias">Janek</name>
+					<!-- ... -->
+				</names>
+				<!-- male, female, unknown, null-->
+				<sex value="male"/>
+				<!-- list below can be empty - without heading-->
+				<headings>
+					<heading id="lit-pol"/>
+					<heading id="teor-lit"/>
+					<!-- ... -->
+				</headings>
+				<birth>
+					<date from="2021-05-25" from-bc="True|False" to="" to-bc="True|False" uncertain="True|False" in-words=""/>
+					<place id="" period="1111" lang=""/>
+
+				</birth>
+				<death>
+					<date from="2021-05-25" from-bc="True|False" to="" to-bc="True|False" uncertain="True|False" in-words=""/>
+					<place id="" period="1111" lang=""/>
+				</death>
+				<annotation>To jest jakaś adnotacja</annotation>
+				<remark>To jest jakiś komentarz</remark>
+				<tags>
+					<tag>#gwiadkowicz</tag>
+					<tag>#nicMiNiePrzychodzi</tag>
+					<!-- ... -->
+				</tags>
+				<links>
+					<link access-date="2021-05-12" type="external-identifier|broader-description-access|online-access">http://pl.wikipedia.org/jan_kowalski</link>
+					<link access-date="2021-05-18" type="...">http://viaf.org/viaf/13373997/#Kowalski,_Jan_(1930-2018)</link>
+					<!-- ... -->
+				</links>
+			</person>
+		</people>
+	</files>
+	<records>
+		<!-- ... -->
+	</records>
+</pbl>

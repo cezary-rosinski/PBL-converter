@@ -1,0 +1,126 @@
+<pbl>
+    <files>
+        <!-- ... -->
+    </files>
+
+    <records>
+        <rtvs>
+			<!-- event.status = published|draft|prepared -->
+
+            <rtv id="rtv-id-01" status="published" creator="a_margraf" creation-date="2026-12-01" publishing-date="2026-12-03" origin="B-src-id-01" flags="123">
+
+                <radio-type  code=""/> <!-- code in documentary, listening, reading-literature, radio-novel -->
+                <tv-type     code="" /> <!-- code in documentary-programme -->
+                
+                <adaptation value="true|false" />
+                
+
+                <titles> <!-- title.code in {base | original | dedication | working-title} -->
+                    <title code="base" transliteration="false" newest="true">Pozycja w czasopiśmie @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"}</title>
+                    <title code="original" transliteration="true">PC</title>  
+                </titles>
+
+
+                <authors anonymous="false" author-company="false">
+                    <author id="a0000001758844" juvenile="false" co-creator="true" principal="true"/>
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                    <author id="person-id-03" juvenile="true" co-creator="false" />
+                </authors>
+
+
+                <co-creators>
+                    <co-creator>
+                        <type code="translation" />
+                        <type code="adaptation" />
+                        <person id="person-id-01" />
+                    </co-creator>
+
+                    <co-creator>
+                        <type code="adaptation" />
+                        <person id="person-id-02" />
+                    </co-creator>
+                </co-creators>
+
+				<premiere-years>
+					<premiere-years year="1999" is-premiere="true" description="Opis pra-premiery"/>
+					<premiere-years year="2009" is-premiere="false" description="Opis premiery"/>
+				</premiere-year>
+
+				<radio-premiere-program code="pr1" /> <!-- code in {pr1 | pr2 | pr3 | pr4 } -->
+				<television-premiere-program code="ptv1" /> <!-- code in {ptv1 | ptv2 | ptv3 | polsat | tvn } -->
+				
+				<rtv-broadcasts>
+					<rtv-broadcast>
+						<part>Tekst</part>
+						<tile>2001.04.12  14:20</time>
+						<duration>1h</duration>						
+					</rtv-broadcast>
+					<rtv-broadcast>
+						<part>Tekst</part>
+						<tile>2001.04.12  14:20</time>
+						<duration>1h</duration>						
+					</rtv-broadcast>
+				</rtv-broadcasts>
+
+				<broadcast-descriptions>
+					<broadcast-description year="2023", radio-program-code="", television-program-code="" />  <!-- radio-program-code in {pr1, ...} -->
+					<broadcast-description year="2023", radio-program-code="", television-program-code="" />  <!-- television-program-code in {ptv1, ...} -->
+					<broadcast-description year="2023", radio-program-code="", television-program-code="" />
+				</broadcast-descriptions>
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#ji-nike</tag>
+                    <tag>#ji-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref id="r-id-01"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+                    <series-ref id="s-id-01"/>
+                    <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="e-id-01"/>
+                    <event-series-ref id="es-id-01"/>
+                    <!-- ... -->
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+
+                <trigger-institutions>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                </trigger-institutions>
+
+
+                <belonging-to-series series-number="23" sub-series-number="2323" publishing-series="pub-series-id-01" />
+
+            </rtv>
+        </rtvs>
+    </records>
+</pbl>

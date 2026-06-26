@@ -1,0 +1,55 @@
+<pbl>
+    <files>
+
+        <creative-works>
+			<!-- event.status = published|draft|prepared -->
+
+            <creative-work id="creative-work-id-01" status="published" creator="a_margraf" creation-date="2022-12-01" publishing-date="2022-12-03" origin="CW-src-id-01" flags="123">
+
+                <authors anonymous="false" author-company="false">
+                    <author id="a0000001758844" juvenile="false" co-creator="true" principal="true"/>
+                    <author id="person-id-02" juvenile="false" co-creator="true" />
+                    <author id="person-id-03" juvenile="true" co-creator="false" />
+                </authors>
+
+                <titles>
+                    <title code="base" transliteration="false" newest="true">Utwór o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"}</title>
+                    <title code="other" transliteration="false">UTW</title>
+                    <title code="other" transliteration="true">Τεϒμαιερ</title>
+                </titles>
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#cw-nike</tag>
+                    <tag>#cw-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+
+            </creative-work>
+
+
+        </creative-works>
+    </files>
+
+    <records>
+        <!-- ... -->
+    </records>
+</pbl>

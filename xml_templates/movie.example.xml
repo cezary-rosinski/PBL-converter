@@ -1,0 +1,106 @@
+<pbl>
+    <files>
+        <!-- ... -->
+    </files>
+
+    <records>
+        <movies>
+			<!-- event.status = published|draft|prepared -->
+
+            <movie id="movie-id-01" status="published" creator="a_margraf" creation-date="2026-06-23" publishing-date="2026-12-03" origin="B-src-id-01" flags="123">
+
+				<screening value="true|false"/>
+
+                <type code=""/> <!-- code in documentary, tv-movie, documentary, tv-series	 -->
+                
+
+                <titles> <!-- title.code in {base | original | dedication | working-title} -->
+                    <title code="base" transliteration="false" newest="true">Panny z Rysia</title>
+                    <title code="original" transliteration="true" principal="true">Panny z Wilka</title>  
+                </titles>
+
+
+				<independent-cinema value="true|false"/>
+				<co-production value="true|false"/>
+				<name-of-studio-unknown value="true|false"/>
+
+
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+				<sudios>
+					<studio institution-id="institution-ext-id-01" />
+					<studio institution-id="institution-ext-id-02" />
+					<!-- ... -->
+				</sudios>
+				
+				<producers>
+					<producer person-id="person-ext-id-01" />
+					<producer person-id="person-ext-id-02" />
+					<!-- ... -->
+				</producers>
+
+				<tiggered-insitutions>
+					<tiggered-insitution institution-id="institution-ext-id-01" />
+					<tiggered-insitution institution-id="institution-ext-id-02" />
+					<!-- ... -->
+				</tiggered-insitutions>
+
+                <co-creators>
+                    <co-creator>
+                        <type code="translation" />
+                        <type code="adaptation" />
+                        <person id="person-id-01" />
+                    </co-creator>
+
+                    <co-creator>
+                        <type code="adaptation" />
+                        <person id="person-id-02" />
+                    </co-creator>
+                </co-creators>
+
+				<premiere-year uncertain="true|false" year="1999" is-premiere="true" description="Opis pra-premiery"/>
+
+                <annotation>To jest tekst o @{"Kazimierzu-Przerwa Tetmajerze"|person_id="przerwa_id"} oraz o jego przyjacielu @{"Franku Kowalskim"|person_id="franciszek_kowalski_id"}. Pewnie możnaby tu jeszcze coś uzupełnić o @{"Oli Sroce"|person_id="ola_sroka_id"}. Ich firmat to @{"Firemka sp. z o.o."|institution_id="firemka_id"} właśnie.</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla Creative works. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#ji-nike</tag>
+                    <tag>#ji-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref id="r-id-01"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id-01"/>
+                    <!-- ... -->
+                    <series-ref id="s-id-01"/>
+                    <!-- ... -->
+                    <institution-ref id="https://viaf.org/viaf/000000002/"/>
+                    <institution-ref id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+                    <event-ref id="e-id-01"/>
+                    <event-series-ref id="es-id-01"/>
+                    <!-- ... -->
+                    <place-ref id="p-id-01" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+            </rtv>
+        </rtvs>
+    </records>
+</pbl>

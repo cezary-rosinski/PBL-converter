@@ -1,0 +1,30 @@
+<pbl>
+    <files>
+        <places>
+            <place geonames="3088171" lon="16.92993" lat="52.40692" id="https://www.wikidata.org/wiki/Q268">
+                <period date-from="" date-to="">
+                    <name lang="pl">Poznań</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+            <place geonames="7530863" lat="51.74725" lon="18.07606" id="https://www.wikidata.org/wiki/Q52842">
+                <period date-from="" date-to="">
+                    <name lang="pl">Kalisz</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+            <place geonames="3090388" lat="52.07497" lon="16.04485" id="https://www.wikidata.org/wiki/Q1475264">
+                <period date-from="" date-to="">
+                    <name lang="pl">Obra</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+            <place geonames="3091293" lat="52.57463" lon="17.00933" id="https://www.wikidata.org/wiki/Q51003">
+                <period date-from="" date-to="">
+                    <name lang="pl">Murowana Goślina</name>
+                    <country lang="pl">Polska</country>
+                </period>
+            </place>
+        </places>
+    </files>
+</pbl>

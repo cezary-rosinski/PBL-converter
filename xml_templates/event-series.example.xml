@@ -1,0 +1,223 @@
+<pbl>
+    <files>
+		
+        <events-series>
+			<!-- event.status = published|draft|prepared -->
+			
+            <event-series id="https://www.wikidata.org/wiki/ES00001" status="published" creator="c_rosinski" creation-date="2022-06-21" publishing-date="2022-06-23" origin="IdentyfikatorŹródła">
+
+                <!-- honorary-doctorate | festival | conference | competition | prize | decoration | plebiscite | authors-meeting | exhibition-->
+                <type code="authors-meeting"/>
+
+
+                <history>
+                    <period>
+                        <date from="1918-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <date from="1955-09-30" from-bc="false" uncertain="false" in-words="" name="end"/>
+                        <names>
+                            <name code="base">Autorzy dzieciom</name>
+                            <name code="other">AD</name>
+                        </names>
+                    </period>
+                    <period>
+                        <date from="1955-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <name code="base" newest="true">Autorzy radiowi dzieciom</name>
+                            <name code="other">ARD</name>
+                        </names>
+                    </period>
+                </history>
+
+
+                <parent id="https://www.wikidata.org/wiki/ES00000/">
+                    <date from="1925-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </parent>
+
+
+                <subordinates>
+                    <subordinate-event-series id="https://www.wikidata.org/wiki/ES00011/"/>
+                    <subordinate-event-series id="https://www.wikidata.org/wiki/ES00012/"/>
+                    <!-- etc -->
+                </subordinates>
+
+
+                <previous id="https://www.wikidata.org/wiki/ES00002/"/>
+
+                <next id="https://www.wikidata.org/wiki/ES00003/">
+                    <date from="1919-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </next>
+                
+
+                <organizers>
+                    <person id="id_1"/>
+                    <person id="id_2"/>
+                    <!-- ... -->
+
+                    <institution id="https://viaf.org/viaf/000000000/"/>
+                    <institution id="https://viaf.org/viaf/000000001/"/>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <!-- ... -->
+                </organizers>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>Tutaj należy wpisać widoczny teks adnotacji dla EventSeries</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla EventSeries. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#es-nike</tag>
+                    <tag>#es-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="broader-description-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref id="r-id"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id"/>
+                    <!-- ... -->
+                    <series-ref id="s-id"/>
+                    <!-- ... -->
+                    <institution-ref id="i-id"/>
+                    <!-- ... -->
+                    <event-ref id="e-id"/>
+                    <!-- ... -->
+                    <place-ref id="p-id" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+            </event-series>
+            <event-series id="id_serii_wydarzeń_1" status="published" creator="c_rosinski" creation-date="2022-06-21" publishing-date="2022-06-23" origin="IdentyfikatorŹródła">
+
+                <!-- honorary-doctorate | festival | conference | competition | prize | decoration | plebiscite | authors-meeting | exhibition-->
+                <type code="authors-meeting"/>
+
+
+                <history>
+                    <period>
+                        <date from="1918-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <date from="1955-09-30" from-bc="false" uncertain="false" in-words="" name="end"/>
+                        <names>
+                            <name code="base">Radio cieciom</name>
+                            <name code="other">RC</name>
+                        </names>
+                    </period>
+                    <period>
+                        <date from="1955-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                        <names>
+                            <name code="base" newest="true">Polskie radio cieciom</name>
+                            <name code="other">PRC</name>
+                        </names>
+                    </period>
+                </history>
+
+
+                <parent id="https://www.wikidata.org/wiki/ES00000/">
+                    <date from="1925-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </parent>
+
+
+                <subordinates>
+                    <subordinate-event-series id="https://www.wikidata.org/wiki/ES00011/"/>
+                    <subordinate-event-series id="https://www.wikidata.org/wiki/ES00012/"/>
+                    <!-- etc -->
+                </subordinates>
+
+
+                <previous id="https://www.wikidata.org/wiki/ES00002/"/>
+
+                <next id="https://www.wikidata.org/wiki/ES00003/">
+                    <date from="1919-10-01" from-bc="false" uncertain="false" in-words="" name="begin"/>
+                    <date from="2015-05-25" from-bc="false" uncertain="false" in-words="" name="end"/>
+                </next>
+
+
+                <organizers>
+                    <person id="id_1"/>
+                    <person id="id_2"/>
+                    <!-- ... -->
+
+                    <institution id="https://viaf.org/viaf/000000000/"/>
+                    <institution id="https://viaf.org/viaf/000000001/"/>
+                    <institution id="https://viaf.org/viaf/000000002/"/>
+                    <institution id="https://viaf.org/viaf/000000003/"/>
+                    <!-- ... -->
+
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <journal id="https://viaf.org/viaf/000000000/"/>
+                    <!-- ... -->
+                </organizers>
+
+                <!-- list below can be empty - without heading-->
+                <headings>
+                    <heading id="7320f7ca8352d748b386ab4e4913e3ee"/>
+                    <heading id="a31385e80345e59e06b208e998bcaeab"/>
+                    <heading id="e99e5257f8af377ba21568d1fb73e368"/>
+                </headings>
+
+                <annotation>Tutaj należy wpisać widoczny teks adnotacji dla EventSeries</annotation>
+
+                <remark>Tutaj można wpisać tekst komentarza dla EventSeries. Komentarze są niewidoczne na stronie</remark>
+
+
+                <tags>
+                    <tag>#es-Taki sobie tag</tag>
+                    <tag>#es-nicMiNiePrzychodzi</tag>
+                    <!-- ... -->
+                </tags>
+
+                <links>
+                    <link access-date="12.05.2021" type="external-identifier">http://pbl.poznan.pl/</link>
+                    <link access-date="18.05.2021" type="online-access">http://ibl.pbl.waw.pl/</link>
+                    <!-- ... -->
+                </links>
+
+
+                <linked-objects>
+                    <record-ref id="r-id"/>
+                    <!-- ... -->
+                    <creative-work-ref id="cw-id"/>
+                    <!-- ... -->
+                    <series-ref id="s-id"/>
+                    <!-- ... -->
+                    <institution-ref id="i-id"/>
+                    <!-- ... -->
+                    <event-ref id="e-id"/>
+                    <!-- ... -->
+                    <place-ref id="p-id" period="" lang=""/>
+                    <!-- ... -->
+                    <journal-source-ref id="js-id"/>
+                    <!-- ... -->
+                </linked-objects>
+
+            </event-series>
+        </events-series>
+    </files>
+
+    <records>
+        <!-- ... -->
+    </records>
+</pbl>
