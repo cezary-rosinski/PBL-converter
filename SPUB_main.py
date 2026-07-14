@@ -30,8 +30,10 @@ from SPUB_records_book import Book
 
 
 #%% import data
-with open(r".\elb_input\places.json", encoding='utf-8') as f:
-    import_places = [e for e in json.load(f) if 'publication place' in e.get('roles') or 'event place' in e.get('roles')]
+with open(r".\input_test_data\places_fake.json", encoding='utf-8') as f:
+    import_places = [e for e in json.load(f)]
+
+#%%
 with open(r".\elb_input\persons.json", encoding='utf-8') as f:
     import_persons = json.load(f)
 with open(r".\elb_input\corporates.json", encoding='utf-8') as f:
@@ -43,7 +45,9 @@ with open(r".\elb_input\biblio.json", encoding='utf-8') as f:
     
 #%% preprocess data
 
-places_data = preprocess_places(import_places)
+# places_data = preprocess_places(import_places)
+
+#%%
 
 person_data = preprocess_people(import_persons, import_biblio)
 
@@ -68,9 +72,11 @@ books_data = preprocess_books(import_biblio, import_places)
 #     json.dump(journal_items_data, jfile, indent=4, ensure_ascii=False)
 
 #%% create class
-
+places_data = import_places
 places = [Place.from_dict(e) for e in tqdm(places_data)]
 last_number = give_fake_id(places)
+
+#%%
 
 persons = [Person.from_dict(e) for e in tqdm(person_data)]
 last_number = give_fake_id(persons, last_number)
@@ -150,8 +156,8 @@ for idx, sublist in enumerate([places[i:i + step] for i in range(0, len(places),
         
     tree = ET.ElementTree(places_xml)
     ET.indent(tree, space="\t", level=0)
-    tree.write(f'./xml_output/import_places_{idx}.xml', encoding='UTF-8')
-
+    tree.write(f'./output_test/import_places_{idx}.xml', encoding='UTF-8')
+#%%
 
 # persons
 step = 10000

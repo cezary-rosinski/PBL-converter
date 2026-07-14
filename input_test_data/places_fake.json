@@ -1,0 +1,81 @@
+[
+  {
+  "wiki": "Q1780",
+  "source_id": "ELB_000002",
+  "names": {
+    "0": "Bratislava",
+    "2": "Bratysława",
+    "5": "Q1780"
+  },
+  "recCount": 487,
+  "fromWiki": {
+    "wikidata_id": "Q1780",
+    "labels": {
+      "original": {
+        "value": "Bratislava",
+        "language": "sk"
+      },
+      "pl": "Bratysława",
+      "en": "Bratislava"
+    },
+    "coordinates": {
+      "latitude": 48.144722,
+      "longitude": 17.112778
+    },
+    "geonames_id": "3060972",
+    "official_names": [
+      {
+        "name": "Bratislava",
+        "language": "sk",
+        "start_time": "1920-01-01",
+        "end_time": null
+      },
+      {
+        "name": "Pressburg",
+        "language": "de",
+        "start_time": null,
+        "end_time": "1920-01-01"
+      },
+      {
+        "name": "Pozsony",
+        "language": "hu",
+        "start_time": null,
+        "end_time": "1920-01-01"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Slovakia",
+        "wikidata_id": "Q214",
+        "start_time": "1993-01-01",
+        "end_time": null
+      },
+      {
+        "country": "Czechoslovakia",
+        "wikidata_id": "Q33946",
+        "start_time": "1918-10-28",
+        "end_time": "1992-12-31"
+      },
+      {
+        "country": "Austria-Hungary",
+        "wikidata_id": "Q28513",
+        "start_time": "1867-03-30",
+        "end_time": "1918-10-27"
+      },
+      {
+        "country": "Austrian Empire",
+        "wikidata_id": "Q131964",
+        "start_time": "1804-08-11",
+        "end_time": "1867-03-29"
+      },
+      {
+        "country": "Kingdom of Hungary",
+        "wikidata_id": "Q188712",
+        "start_time": "1000-01-01",
+        "end_time": "1918-10-27"
+      }
+    ],
+    "viaf_id": "148299018"
+  }
+}
+]

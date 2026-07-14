@@ -1,0 +1,20 @@
+<pbl>
+	<files>
+		<places>
+			<place id="http://www.wikidata.org/entity/Q1780" lat="48.144722" lon="17.112778" geonames="3060972">
+				<period date-from="" date-to="">
+					<name lang="pl">Bratysława</name>
+					<country lang="pl">Słowacja</country>
+				</period>
+				<period date-from="" date-to="">
+					<name lang="en">Bratislava</name>
+					<country lang="en">Slovakia</country>
+				</period>
+				<period date-from="" date-to="">
+					<name lang="sk">Bratislava</name>
+					<country lang="sk">Slovensko</country>
+				</period>
+			</place>
+		</places>
+	</files>
+</pbl>
