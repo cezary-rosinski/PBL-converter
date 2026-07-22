@@ -54,26 +54,30 @@ def preprocess_people(data, biblio_data):
     
     persons_literatures_dct = {}
     for record in biblio_data:
-        genre_major = record.get('genre_major', [])
+        genre_major = record.get('genreMajor', [])
         if len(genre_major) == 1 and 'Literature' in genre_major:
-            for person in record.get('persons_with_roles', []):
-                person_name = person.split('|')[0]
-                person_role = person.split('|')[-1]
-                if person_role == 'author:aut':
-                    subjects = [literature_nationalities_dct.get(e.lower()) for e in record.get('subjects_str_mv', []) if e.lower() in literature_nationalities_dct]
-                    persons_literatures_dct.setdefault(person_name, []).extend(subjects)          
-    persons_literatures_dct = {k:Counter(v).most_common(1)[0][0] for k,v in persons_literatures_dct.items() if v}         
+            for person_id, person_data in record.get('persons', {}).get('all', {}).items():
+                person_name = person_data.get('name')
+                person_main_role = person_data.get('role')
+                person_roles = set(person_data.get('roles', {}).keys())
+                if person_main_role == 'mainAuthor' or 'aut' in person_roles or 'Autor' in person_roles:
+                    subjects = [literature_nationalities_dct.get(e[0].lower()) for e in record.get('subject', {}).get('topic', []) if e[0].lower() in literature_nationalities_dct]
+                    persons_literatures_dct.setdefault(person_id, {'name': person_name, 'subjects': []})['subjects'].extend(subjects)
+    persons_literatures_dct = {k:Counter(v['subjects']).most_common(1)[0][0] for k,v in persons_literatures_dct.items() if v['subjects']}         
                  
-    [e.update({'dateB': e.get('fromWiki', {}).get('dateB')}) for e in data]
-    [e.update({'dateD': e.get('fromWiki', {}).get('dateD')}) for e in data]
-    data = [{k:e.get('dateB') if k == 'yearBorn' and isinstance(e.get('dateB'), str) else v for k,v in e.items()} for e in data]
-    data = [{k:e.get('dateD') if k == 'yearDeath' and isinstance(e.get('dateD'), str) else v for k,v in e.items()} for e in data]
-    [e.update({'placeB': e.get('fromWiki', {}).get('placeB')}) for e in data]
-    [e.update({'placeD': e.get('fromWiki', {}).get('placeD')}) for e in data]
+    [e.update({'birth_date': e.get('fromWiki', {}).get('date_of_birth')}) for e in data]
+    [e.update({'death_date': e.get('fromWiki', {}).get('date_of_death')}) for e in data]
+    # data = [{k:e.get('dateB') if k == 'yearBorn' and isinstance(e.get('dateB'), str) else v for k,v in e.items()} for e in data]
+    # data = [{k:e.get('dateD') if k == 'yearDeath' and isinstance(e.get('dateD'), str) else v for k,v in e.items()} for e in data]
+    [e.update({'birth_place': ((e.get('fromWiki') or {}).get('place_of_birth') or {}).get('wikidata_id')
+}) for e in data]
+    [e.update({'death_place': ((e.get('fromWiki') or {}).get('place_of_death') or {}).get('wikidata_id')
+    }) for e in data]
+
     
     output = [{k:v for k,v in e.items() if k not in ['dateB', 'dateD', 'fromWiki', 'recCount']} for e in data]
     for elem in output:
-        elem['person_heading'] = persons_literatures_dct.get(elem['name'])
+        elem['person_heading'] = persons_literatures_dct.get('Q' + elem['wiki'])
         elem['id_'] = elem.get('wiki', '')
     
     return output

@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Miłosz, Czesław",
+    "yearBorn": "1911",
+    "yearDeath": "2004",
+    "viaf": "110389400",
+    "wiki": "45970",
+    "recCount": 23,
+    "fromWiki": {
+      "wikidata_id": "Q45970",
+      "labels": {
+        "original": {
+          "value": "Czesław Miłosz",
+          "language": "pl"
+        },
+        "pl": "Czesław Miłosz",
+        "en": "Czesław Miłosz"
+      },
+      "gender": "male",
+      "countries_of_citizenship": [
+        {
+          "country": "Poland",
+          "wikidata_id": "Q36"
+        },
+        {
+          "country": "United States of America",
+          "wikidata_id": "Q30",
+          "start_time": "1970"
+        },
+        {
+          "country": "Lithuania",
+          "wikidata_id": "Q37",
+          "start_time": "1939"
+        }
+      ],
+      "given_names": [
+        "Czesław"
+      ],
+      "family_names": [
+        "Miłosz"
+      ],
+      "date_of_birth": "1911-06-30",
+      "place_of_birth": {
+        "name": "Šeteniai",
+        "wikidata_id": "Q391479"
+      },
+      "date_of_death": "2004-08-14",
+      "place_of_death": {
+        "name": "Kraków",
+        "wikidata_id": "Q31487"
+      },
+      "viaf_id": "110389400"
+    },
+    "roles": {
+      "author:aut": 1666,
+      "author2:trl": 271
+    }
+  },
+  {
+    "name": "Pezda, Aleksandra",
+    "yearBorn": "1977",
+    "yearDeath": "",
+    "viaf": "",
+    "wiki": "11685203",
+    "recCount": 8,
+    "fromWiki": {
+      "wikidata_id": "Q11685203",
+      "labels": {
+        "original": {
+          "value": "Aleksandra Pezda",
+          "language": "pl"
+        },
+        "pl": "Aleksandra Pezda",
+        "en": "Aleksandra Pezda"
+      },
+      "gender": "female",
+      "countries_of_citizenship": [
+        {
+          "country": "Poland",
+          "wikidata_id": "Q36"
+        }
+      ],
+      "given_names": [
+        "Aleksandra"
+      ],
+      "family_names": [
+        "Pezda"
+      ],
+      "date_of_birth": "1977-01-01",
+      "place_of_birth": {
+        "name": "Warszawa",
+        "wikidata_id": "Q270"
+      },
+      "date_of_death": "",
+      "place_of_death": null,
+      "viaf_id": ""
+    },
+    "roles": {
+      "author:aut": 41,
+      "author2:trl": 2
+    }
+  },
+  {
+    "name": "Dorosz, Krzysztof",
+    "yearBorn": "1945",
+    "yearDeath": "",
+    "viaf": "",
+    "wiki": "11749173",
+    "recCount": 12,
+    "fromWiki": {
+      "wikidata_id": "Q11749173",
+      "labels": {
+        "original": {
+          "value": "Krzysztof Dorosz",
+          "language": "pl"
+        },
+        "pl": "Krzysztof Dorosz",
+        "en": "Krzysztof Dorosz"
+      },
+      "gender": "male",
+      "countries_of_citizenship": [
+        {
+          "country": "Poland",
+          "wikidata_id": "Q36"
+        }
+      ],
+      "given_names": [
+        "Krzysztof"
+      ],
+      "family_names": [
+        "Dorosz"
+      ],
+      "date_of_birth": "1945-01-01",
+      "place_of_birth": {
+        "name": "Warszawa",
+        "wikidata_id": "Q270"
+      },
+      "date_of_death": "",
+      "place_of_death": null,
+      "viaf_id": ""
+    },
+    "roles": {
+      "author:aut": 95,
+      "author2:trl": 12
+    }
+  },
+  {
+    "name": "Woroszylski, Wiktor",
+    "yearBorn": "1927",
+    "yearDeath": "1996",
+    "viaf": "24610933",
+    "wiki": "3568076",
+    "recCount": 67,
+    "fromWiki": {
+      "wikidata_id": "Q3568076",
+      "labels": {
+        "original": {
+          "value": "Wiktor Woroszylski",
+          "language": "pl"
+        },
+        "pl": "Wiktor Woroszylski",
+        "en": "Wiktor Woroszylski"
+      },
+      "gender": "male",
+      "countries_of_citizenship": [
+        {
+          "country": "Poland",
+          "wikidata_id": "Q36"
+        }
+      ],
+      "given_names": [
+        "Wiktor"
+      ],
+      "family_names": [
+        "Woroszylski"
+      ],
+      "date_of_birth": "1927-07-08",
+      "place_of_birth": {
+        "name": "Grodno",
+        "wikidata_id": "Q385"
+      },
+      "date_of_death": "1996-09-13",
+      "place_of_death": {
+        "name": "Warszawa",
+        "wikidata_id": "Q270"
+      },
+      "viaf_id": "24610933"
+    },
+    "roles": {
+      "author:aut": 532,
+      "author2:trl": 214
+    }
+  }
+]

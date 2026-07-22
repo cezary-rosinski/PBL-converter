@@ -30,27 +30,34 @@ from SPUB_records_book import Book
 
 
 #%% import data
+with open(r".\input_test_data\biblio_sample.json", encoding='utf-8') as f:
+    import_biblio = json.load(f)
+
 with open(r".\input_test_data\places_fake.json", encoding='utf-8') as f:
     import_places = [e for e in json.load(f)]
 
-#%%
-with open(r".\elb_input\persons.json", encoding='utf-8') as f:
+with open(r".\input_test_data\persons_fake.json", encoding='utf-8') as f:
     import_persons = json.load(f)
+
+
+
+#%%
 with open(r".\elb_input\corporates.json", encoding='utf-8') as f:
     import_corporates = json.load(f)
 with open(r".\elb_input\events.json", encoding='utf-8') as f:
     import_events = json.load(f)
-with open(r".\elb_input\biblio.json", encoding='utf-8') as f:
-    import_biblio = json.load(f)
+
     
 #%% preprocess data
 
 # places_data = preprocess_places(import_places)
 
-#%%
-
 person_data = preprocess_people(import_persons, import_biblio)
 
+#%%
+person_data[0]
+
+#%%
 institutions_data = preprocess_institutions(import_corporates, import_biblio)
 
 events_data = preprocess_events(import_events)
@@ -76,13 +83,12 @@ places_data = import_places
 places = [Place.from_dict(e) for e in tqdm(places_data)]
 last_number = give_fake_id(places)
 
-#%%
-
 persons = [Person.from_dict(e) for e in tqdm(person_data)]
 last_number = give_fake_id(persons, last_number)
 for person in tqdm(persons):
     person.connect_with_places(places)
-    
+
+#%%  
 institutions = [Institution.from_dict(e) for e in tqdm(institutions_data)]
 last_number = give_fake_id(institutions, last_number)
 
@@ -157,7 +163,6 @@ for idx, sublist in enumerate([places[i:i + step] for i in range(0, len(places),
     tree = ET.ElementTree(places_xml)
     ET.indent(tree, space="\t", level=0)
     tree.write(f'./output_test/import_places_{idx}.xml', encoding='UTF-8')
-#%%
 
 # persons
 step = 10000
@@ -170,8 +175,9 @@ for idx, sublist in enumerate([persons[i:i + step] for i in range(0, len(persons
 
     tree = ET.ElementTree(persons_xml)
     ET.indent(tree, space="\t", level=0)
-    tree.write(f'./xml_output/import_people_{idx}.xml', encoding='UTF-8')
+    tree.write(f'./output_test/import_people_{idx}.xml', encoding='UTF-8')
 
+#%%
 
 # institutions
 step = 10000

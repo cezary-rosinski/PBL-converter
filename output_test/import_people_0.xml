@@ -1,0 +1,64 @@
+<pbl>
+	<files>
+		<people>
+			<person id="http://www.wikidata.org/entity/Q45970" status="published" creator="cezary_rosinski" creation-date="2026-07-22" publishing-date="2026-07-22" viaf="https://viaf.org/viaf/110389400">
+				<names>
+					<name transliteration="no" code="main-name">Miłosz, Czesław</name>
+				</names>
+				<links>
+					<link access-date="2026-07-22" type="external-identifier">http://www.wikidata.org/entity/Q45970</link>
+					<link access-date="2026-07-22" type="external-identifier">https://viaf.org/viaf/110389400</link>
+				</links>
+				<birth>
+					<date from="1911-06-30" from-bc="false" uncertain="false" />
+					<place id="http://www.wikidata.org/entity/Q391479" />
+				</birth>
+				<death>
+					<date from="2004-08-14" from-bc="false" uncertain="false" />
+					<place id="http://www.wikidata.org/entity/Q31487" />
+				</death>
+			</person>
+			<person id="http://www.wikidata.org/entity/Q11685203" status="published" creator="cezary_rosinski" creation-date="2026-07-22" publishing-date="2026-07-22">
+				<names>
+					<name transliteration="no" code="main-name">Pezda, Aleksandra</name>
+				</names>
+				<links>
+					<link access-date="2026-07-22" type="external-identifier">http://www.wikidata.org/entity/Q11685203</link>
+				</links>
+				<birth>
+					<date from="1977-01-01" from-bc="false" uncertain="false" />
+					<place id="http://www.wikidata.org/entity/Q270" />
+				</birth>
+			</person>
+			<person id="http://www.wikidata.org/entity/Q11749173" status="published" creator="cezary_rosinski" creation-date="2026-07-22" publishing-date="2026-07-22">
+				<names>
+					<name transliteration="no" code="main-name">Dorosz, Krzysztof</name>
+				</names>
+				<links>
+					<link access-date="2026-07-22" type="external-identifier">http://www.wikidata.org/entity/Q11749173</link>
+				</links>
+				<birth>
+					<date from="1945-01-01" from-bc="false" uncertain="false" />
+					<place id="http://www.wikidata.org/entity/Q270" />
+				</birth>
+			</person>
+			<person id="http://www.wikidata.org/entity/Q3568076" status="published" creator="cezary_rosinski" creation-date="2026-07-22" publishing-date="2026-07-22" viaf="https://viaf.org/viaf/24610933">
+				<names>
+					<name transliteration="no" code="main-name">Woroszylski, Wiktor</name>
+				</names>
+				<links>
+					<link access-date="2026-07-22" type="external-identifier">http://www.wikidata.org/entity/Q3568076</link>
+					<link access-date="2026-07-22" type="external-identifier">https://viaf.org/viaf/24610933</link>
+				</links>
+				<birth>
+					<date from="1927-07-08" from-bc="false" uncertain="false" />
+					<place id="http://www.wikidata.org/entity/Q385" />
+				</birth>
+				<death>
+					<date from="1996-09-13" from-bc="false" uncertain="false" />
+					<place id="http://www.wikidata.org/entity/Q270" />
+				</death>
+			</person>
+		</people>
+	</files>
+</pbl>
